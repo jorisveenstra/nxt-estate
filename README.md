@@ -64,6 +64,15 @@ Zet nooit sleutels in deze repo.
 
 ## Media
 
-Clips, voice-overs, AI-renders, muziek en gerenderde video's staan **niet** in git (zie `.gitignore`).
-Ze staan per project in `public/clips`, `public/vo`, `public/muziek`, `ai-renders/` en `out/`.
-Zonder die bestanden kun je de code bekijken, maar niet renderen.
+Clips, voice-overs, AI-renders, muziek en gerenderde video's staan **niet** in git (zie `.gitignore`),
+maar op Google Drive in de map `video-ads-media/<project>/`, met dezelfde paden als in deze repo.
+Synchroniseren gaat met [rclone](https://rclone.org) via `media.sh`:
+
+```bash
+rclone config create gdrive drive scope=drive.file   # eenmalig: Google-account koppelen
+./media.sh push                  # alle lokale media naar Drive
+./media.sh push huisunie         # alleen één project
+./media.sh pull nxt-estate       # media ophalen (bv. op een cloudserver na git clone)
+```
+
+`media.sh` kopieert alleen; er wordt nooit iets verwijderd aan de andere kant.
