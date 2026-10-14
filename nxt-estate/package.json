@@ -1,0 +1,11 @@
+{
+  "name": "nxt-estate-videos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Advertentievideo's voor nxt.estate kantoorunits (V2–V4 x 3 hooks)",
+  "scripts": {
+    "dev": "remotion studio",
+    "timing": "python3 scripts/lijn_uit.py",
+    "render": "for b in 2 3 4; do for h in 1 2 3; do remotion render Body$b-Hook$h \"out/nxt-kantoorunits-v$b-hook$h.mp4\" || exit 1; done; done"
+  }
+}

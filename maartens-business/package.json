@@ -1,0 +1,11 @@
+{
+  "name": "maartens-business-videos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Advertentievideo's voor Maartens Business (3 doelgroepen x 5 hooks)",
+  "scripts": {
+    "dev": "remotion studio",
+    "timing": "python3 scripts/lijn_uit.py",
+    "render": "for b in 1 2 3; do for h in 1 2 3 4 5; do remotion render Body$b-Hook$h \"out/maartens-business-doelgroep$b-hook$h.mp4\" || exit 1; done; done"
+  }
+}

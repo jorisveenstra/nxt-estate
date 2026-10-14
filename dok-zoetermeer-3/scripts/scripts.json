@@ -1,0 +1,127 @@
+{
+  "b1": {
+    "hooks": [
+      "Huur je nog een bedrijfsruimte in de regio Zoetermeer, maar wil je investeren in je eigen bedrijfspand?",
+      "Werk je als ondernemer vanuit een pand dat eigenlijk niet meer past bij hoe je bedrijf nu draait?",
+      "Op zoek naar een bedrijfsruimte waar werkruimte, kantoor én een eigen dakterras samenkomen?",
+      "Betaal je al jaren huur voor je bedrijfsruimte en bouw je daar eigenlijk niks mee op?",
+      "Ben je klaar voor de volgende stap met je bedrijf en wil je jouw eigen pand kopen?"
+    ],
+    "zinnen": [
+      [
+        "koop",
+        "Bij Dok Zoetermeer 3 koop je je eigen bedrijfspand, al vanaf 222.500 euro exclusief btw."
+      ],
+      [
+        "eigen",
+        "Geen huurbaas meer, maar een pand dat helemaal van jou is."
+      ],
+      [
+        "units",
+        "Er komen 40 bedrijfsunits: van 94 tot 265 m², verdeeld over 2 of 3 bouwlagen, met werkruimte, kantoor en een eigen dakterras onder één dak."
+      ],
+      [
+        "kenmerken",
+        "Er is veel daglicht, een elektrische overheaddeur en eigen parkeerplaatsen direct voor de deur."
+      ],
+      [
+        "locatie",
+        "Een startklaar bedrijfspand op een zichtlocatie aan de N470 en A12, ideaal als eigen vestiging voor gevestigde en groeiende ondernemers."
+      ],
+      [
+        "planning",
+        "De bouw start naar verwachting medio 2027, met oplevering gepland in het eerste kwartaal van 2028."
+      ],
+      [
+        "animo",
+        "De animo is groot en er lopen al meerdere opties, dus wacht niet te lang met aanmelden."
+      ],
+      [
+        "cta",
+        "Klik op de knop hieronder voor alle informatie en schrijf je in voor jouw eigen Dok-bedrijfspand!"
+      ]
+    ]
+  },
+  "b2": {
+    "hooks": [
+      "Huur je nog een bedrijfsruimte in de regio Zoetermeer en wil je eindelijk investeren in je eigen pand?",
+      "Werk je als aannemer, schilder of bouwbedrijf vanuit een loods of garage die eigenlijk te klein is geworden?",
+      "Loopt je huurcontract binnenkort af en twijfel je of je nog wel wilt verlengen?",
+      "Gaat je huur elk jaar weer omhoog en vraag je je af waarom je eigenlijk nog huurt?",
+      "Wordt het niet eens tijd dat je huur voortaan in je eigen bedrijfspand gaat zitten in plaats van in dat van een ander?"
+    ],
+    "zinnen": [
+      [
+        "koop",
+        "Bij Dok Zoetermeer 3 ruil je je huurpand in voor je eigen bedrijfspand, al vanaf 222.500 euro exclusief btw."
+      ],
+      [
+        "eigen",
+        "Geen huurbaas meer, maar een plek die helemaal van jou is."
+      ],
+      [
+        "units",
+        "Er komen 40 bedrijfsunits in totaal: van 94 tot 265 m², verdeeld over 2 of 3 bouwlagen, met werkruimte en kantoor onder één dak."
+      ],
+      [
+        "kenmerken",
+        "Er is veel daglicht in het bedrijfspand, een elektrische overheaddeur en eigen parkeerplaatsen direct voor de deur."
+      ],
+      [
+        "locatie",
+        "Een startklaar bedrijfspand aan de N470 en A12, ideaal voor ondernemers die klaar zijn met huren en zelf willen bepalen wat er met hun pand gebeurt."
+      ],
+      [
+        "planning",
+        "De bouw start naar verwachting medio 2027, met oplevering gepland in het eerste kwartaal van 2028."
+      ],
+      [
+        "animo",
+        "De animo is groot en de units gaan snel, dus wacht niet te lang met aanmelden."
+      ],
+      [
+        "cta",
+        "Klik op de knop hieronder voor alle informatie en plan een afspraak met onze makelaar in!"
+      ]
+    ]
+  },
+  "b3": {
+    "hooks": [
+      "Beleg je al in woningen en wil je je portefeuille nu ook uitbreiden met bedrijfsvastgoed?",
+      "Ben je belegger in de regio Zoetermeer en klaar voor je eerste stap in bedrijfsvastgoed?",
+      "Verhuur je nu woningen en overweeg je om ook in een bedrijfspand te beleggen?",
+      "Ben je ondernemer zonder pensioenpot en wil je iets opbouwen met een eigen bedrijfspand?",
+      "Zit al je vermogen in je eigen bedrijf en wil je het spreiden met een bedrijfspand als belegging?"
+    ],
+    "zinnen": [
+      [
+        "koop",
+        "Bij Dok Zoetermeer 3 beleg je in je eigen bedrijfspand, al vanaf 222.500 euro exclusief btw."
+      ],
+      [
+        "eigen",
+        "Geen papieren belegging, maar een pand dat echt van jou is."
+      ],
+      [
+        "units",
+        "Er komen 40 bedrijfsunits: van 94 tot 265 m², verdeeld over 2 of 3 bouwlagen, zelf te gebruiken, te verhuren of een combinatie van beide."
+      ],
+      [
+        "kenmerken",
+        "Solide betonbouw, veel daglicht, een elektrische overheaddeur en eigen parkeerplaatsen direct voor de deur."
+      ],
+      [
+        "locatie",
+        "Een startklaar bedrijfspand op een zichtlocatie aan de N470 en A12, goed bereikbaar vanuit Den Haag, Rotterdam en Utrecht."
+      ],
+      [
+        "planning",
+        "De bouw start naar verwachting medio 2027, met oplevering gepland in het eerste kwartaal van 2028."
+      ],
+      [
+        "cta",
+        "Klik op de knop hieronder voor alle informatie en plan een afspraak met onze makelaar in!"
+      ]
+    ]
+  }
+}

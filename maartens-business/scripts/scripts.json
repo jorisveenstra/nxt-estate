@@ -1,0 +1,65 @@
+{
+  "b1": {
+    "hooks": [
+      "Huur je nog een bedrijfsruimte in de regio Hilversum of Utrecht en wil je investeren in je eigen pand?",
+      "Betaal je als ondernemer elk jaar meer huur voor een bedrijfsruimte die nooit van jou wordt?",
+      "Ben je op zoek naar een eigen bedrijfspand waar opslag, werkplaats én kantoor onder één dak zitten?",
+      "Wil je je maandelijkse huur voortaan investeren in je eigen pand in plaats van in dat van een ander?",
+      "Loopt het huurcontract van je bedrijfsruimte binnenkort af en wil je niet opnieuw vastzitten aan een verhuurder?"
+    ],
+    "zinnen": [
+      ["intro", "Bij Maartens Business koop je jouw eigen bedrijfspand in Maartensdijk, op een centrale plek tussen Utrecht en Hilversum."],
+      ["prijs", "Voor 495.000 euro vrij op naam ex btw heb jij geen huurverhogingen meer, maar een pand dat helemaal van jou is waarmee je bouwt aan je pensioen."],
+      ["laatste", "Alleen de laatste units van circa 300 m² zijn nog beschikbaar."],
+      ["indeling", "Met 2 verdiepingen, opslag, een werkplaats en kantoor onder één dak investeer jij in een duurzame toekomst."],
+      ["kenmerken", "Overheaddeuren aan de voor- én achterkant, twee eigen parkeerplaatsen en een privé achterterrein van circa 84 m²."],
+      ["locatie", "Je zit op een rustig, kleinschalig bedrijventerrein direct langs de A27, elke dag zichtbaar voor meer dan 100.000 voertuigen."],
+      ["planning", "De bouw is in juni 2026 gestart, met oplevering gepland in Q1 2027."],
+      ["animo", "De beschikbaarheid is beperkt, dus wacht niet te lang met aanmelden."],
+      ["cta", "Klik op de knop hieronder voor alle informatie en schrijf je in voor jouw eigen bedrijfspand bij Maartens Business!"]
+    ]
+  },
+  "b2": {
+    "hooks": [
+      "Huur je nog een loods of werkplaats voor je bouw- of installatiebedrijf en wil je investeren in je eigen pand?",
+      "Werk je als vakman vanuit een loods of garage die eigenlijk te klein is geworden voor al je materiaal en gereedschap?",
+      "Klaar om de volgende stap te zetten met je bedrijf en een eigen werkplaats met kantoor te kopen?",
+      "Op zoek naar een bedrijfspand waar je aan de voorkant met je bus naar binnen rijdt en aan de achterkant je materiaal opslaat?",
+      "Met dit bedrijfspand zien duizenden potentiële klanten jouw bedrijfsnaam dagelijks vanaf de A27."
+    ],
+    "zinnen": [
+      ["intro", "Bij Maartens Business koop je jouw eigen bedrijfspand in Maartensdijk, op een centrale plek tussen Utrecht en Hilversum."],
+      ["prijs", "Voor 495.000 euro vrij op naam ex btw heb jij eindelijk een vaste plek voor je bus, je materiaal en je kantoor, allemaal onder één dak."],
+      ["laatste", "De laatste units zijn beschikbaar van circa 300 m², verdeeld over 2 bouwlagen, met beneden ruimte voor je werkplaats of opslag en boven voor je kantoor."],
+      ["terrein", "Op het privé achterterrein van circa 84 m² sla je materiaal buiten op."],
+      ["vloer", "De begane grondvloer draagt tot 1.000 kilo per m², dus ook zwaar materiaal en machines zijn geen probleem."],
+      ["parkeren", "Je bus parkeer je op een van je twee eigen parkeerplaatsen direct voor de deur."],
+      ["deuren", "En met overheaddeuren aan de voor- én achterkant rijd je dwars door je eigen pand."],
+      ["locatie", "Via de A27 zit je zo op de weg naar je volgende klus, en elke dag zien meer dan 100.000 voertuigen jouw bedrijfsnaam op de gevel."],
+      ["reistijd", "Hilversum ligt binnen 7 tot 8 minuten en Utrecht binnen circa 10 minuten."],
+      ["planning", "De bouw is in juni 2026 gestart, met oplevering gepland in Q1 2027."],
+      ["animo", "De beschikbaarheid is beperkt, dus wacht niet te lang met aanmelden."],
+      ["cta", "Klik op de knop hieronder voor alle informatie en schrijf je in voor jouw eigen bedrijfspand bij Maartens Business!"]
+    ]
+  },
+  "b3": {
+    "hooks": [
+      "Staat je vermogen nu op de bank en wil je het investeren in een bedrijfspand?",
+      "Beleg je al in woningen en wil je je portefeuille spreiden met bedrijfsvastgoed?",
+      "Klaar om te investeren in bedrijfsvastgoed op een zichtlocatie tussen Hilversum en Utrecht?",
+      "Op zoek naar bedrijfsvastgoed dat aantrekkelijk is voor huurders uit het MKB?",
+      "Zoek je een belegging op een locatie die elke dag door meer dan 100.000 voertuigen wordt gezien?"
+    ],
+    "zinnen": [
+      ["intro", "Bij Maartens Business koop je jouw eigen bedrijfspand in Maartensdijk, op een centrale plek tussen Utrecht en Hilversum."],
+      ["prijs", "Voor 495.000 euro vrij op naam ex btw bouw je aan je vermogen, zonder dat je vermogen stilstaat."],
+      ["laatste", "Er zijn nog enkele units beschikbaar van circa 300 m², verdeeld over 2 bouwlagen, met opslag, werkplaats en kantoor onder één dak."],
+      ["kenmerken", "Elke unit heeft twee eigen parkeerplaatsen, overheaddeuren aan de voor- én achterkant en een privé achterterrein van circa 84 m², precies waar huurders naar op zoek zijn."],
+      ["onderhoud", "En het onderhoud? Daar hoef je je weinig zorgen over te maken. Het bedrijfspand krijgt vloeren, een dak en tussenwanden van beton, en dat betekent jarenlang weinig onderhoud en lage kosten."],
+      ["locatie", "Je zit direct langs de A27, elke dag zichtbaar voor meer dan 100.000 voertuigen, met Hilversum binnen 7 tot 8 minuten en Utrecht binnen circa 10 minuten."],
+      ["planning", "De bouw is in juni 2026 gestart en de oplevering is gepland in Q1 2027."],
+      ["animo", "De beschikbaarheid is beperkt, dus wacht niet te lang met aanmelden."],
+      ["cta", "Klik op de knop hieronder voor alle informatie en schrijf je in voor jouw eigen bedrijfspand bij Maartens Business!"]
+    ]
+  }
+}

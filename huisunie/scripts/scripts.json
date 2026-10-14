@@ -1,0 +1,60 @@
+{
+  "b1": {
+    "naam": "Woningstaat filter + opknappen",
+    "hooks": [
+      "Is uw huis gedateerd, heeft het achterstallig onderhoud of kan het wel een opknapbeurt gebruiken? Maar wilt u uw huis niet eerst opknappen voordat u verkoopt?",
+      "Is uw huis gedateerd, heeft het achterstallig onderhoud of kan het wel een opknapbeurt gebruiken? Maar wilt u vóór de verkoop geen tijd of geld meer in uw huis steken?",
+      "Is uw huis gedateerd, heeft het achterstallig onderhoud of kan het wel een opknapbeurt gebruiken? Maar wilt u vóór de verkoop niet eerst nog allerlei reparaties doen?",
+      "Uw woning verkopen zonder eerst te verbouwen?",
+      "Uw woning verkopen zonder te verbouwen, verkoopklaar te maken of te verduurzamen?",
+      "Zijn uw keuken en badkamer gedateerd, maar heeft u geen behoefte om deze op te knappen?"
+    ],
+    "zinnen": [
+      ["zoals", "Huisunie koopt uw huis direct zoals het is."],
+      ["niets", "U hoeft niets op te knappen, op te ruimen of schoon te maken."],
+      ["spullen", "Spullen die u niet meer nodig heeft, kunt u gewoon laten staan."],
+      ["voorbehoud", "Wij kopen zonder financieringsvoorbehoud en zonder voorbehoud van een bouwkundige keuring."],
+      ["zekerheid", "Daardoor heeft u direct zekerheid over de verkoop: verkocht is echt verkocht."],
+      ["gebreken", "Eventuele verborgen gebreken komen voor ons risico."],
+      ["blijven", "Na de verkoop hoeft u niet meteen te verhuizen. U kunt bijvoorbeeld nog zo’n jaar blijven wonen en rustig op zoek gaan naar een andere woning."],
+      ["kosten", "U betaalt geen makelaarskosten. En de notariskosten? Die betalen wij."],
+      ["cta", "Benieuwd wat uw huis oplevert zonder dat u eerst iets hoeft op te knappen? Klik op de knop hieronder en ontvang vrijblijvend een bod."]
+    ]
+  },
+  "b2": {
+    "naam": "Woningstaat filter + verkoop nu, verhuis later",
+    "hooks": [
+      "Is uw huis gedateerd, heeft het achterstallig onderhoud of kan het wel een opknapbeurt gebruiken? En wilt u nu verkopen, maar pas verhuizen als u iets anders heeft gevonden?",
+      "Is uw huis gedateerd, heeft het achterstallig onderhoud of kan het wel een opknapbeurt gebruiken? En wilt u eerst zekerheid over de verkoop voordat u op zoek gaat naar iets anders?",
+      "Is uw huis gedateerd, heeft het achterstallig onderhoud of kan het wel een opknapbeurt gebruiken? En wilt u na de verkoop nog in uw huis blijven wonen terwijl u op zoek gaat naar iets anders?"
+    ],
+    "zinnen": [
+      ["blijven", "Dat kan. Bij Huisunie hoeft u na de verkoop niet meteen te verhuizen. U kunt bijvoorbeeld nog zo’n jaar blijven wonen en rustig op zoek gaan naar een andere woning."],
+      ["zoals", "Wij kopen uw huis direct zoals het is."],
+      ["voorbehoud", "Zonder financieringsvoorbehoud en zonder voorbehoud van een bouwkundige keuring."],
+      ["zekerheid", "Verkocht is dus echt verkocht."],
+      ["niets", "En u hoeft niets op te knappen, op te ruimen of schoon te maken."],
+      ["spullen", "Spullen die u niet wilt meenemen, kunt u gewoon laten staan."],
+      ["kosten", "U betaalt geen makelaarskosten. En de notariskosten? Die betalen wij."],
+      ["cta", "Vraag gratis en vrijblijvend een bod aan op Huisunie.nl"]
+    ]
+  },
+  "b3": {
+    "naam": "55-plussers met een gedateerd huis (eigen script)",
+    "hooks": [
+      "Bent u 55-plus en is uw huis toe aan een flinke opknapbeurt?",
+      "Woont u al jaren in hetzelfde huis en wilt u kleiner wonen, zonder eerst te klussen?",
+      "Wilt u kleiner of gelijkvloers wonen, maar ziet u op tegen opknappen en opruimen?"
+    ],
+    "zinnen": [
+      ["zoals", "Dan is Huisunie er voor u. Wij kopen uw huis zoals het nu is."],
+      ["niets", "U hoeft niets op te knappen of op te ruimen."],
+      ["spullen", "Spullen die u niet meeneemt, mag u gewoon laten staan."],
+      ["bod", "Binnen 24 uur krijgt u een vrijblijvend bod."],
+      ["kosten", "Geen makelaarskosten, en de notariskosten betalen wij."],
+      ["zekerheid", "Verkocht is echt verkocht."],
+      ["blijven", "En u hoeft niet meteen te verhuizen. U kunt bijvoorbeeld nog een jaar blijven wonen. Zo zoekt u in alle rust een fijne nieuwe plek."],
+      ["cta", "Benieuwd wat uw huis oplevert? Klik op de knop hieronder en ontvang vrijblijvend een bod."]
+    ]
+  }
+}

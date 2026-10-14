@@ -1,0 +1,13 @@
+{
+  "name": "pepperminds-videos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Intro en outro voor de Pepperminds postercampagne-video's",
+  "scripts": {
+    "dev": "remotion studio",
+    "render:intro": "remotion render Intro-Staand out/intro-staand.mp4 && remotion render Intro-Liggend out/intro-liggend.mp4",
+    "render:outro": "remotion render Outro-Staand out/outro-staand.mp4 && remotion render Outro-Liggend out/outro-liggend.mp4",
+    "render": "npm run render:intro && npm run render:outro",
+    "render:videos": "remotion render Ravi out/ravi-compleet.mp4 && remotion render Imke out/imke-compleet.mp4 && remotion render Twee-dames out/twee-dames-compleet.mp4 && remotion render Aniek out/aniek-compleet.mp4 && remotion render Eluarie out/eluarie-compleet.mp4"
+  }
+}

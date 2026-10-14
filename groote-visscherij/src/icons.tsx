@@ -1,0 +1,141 @@
+import React from "react";
+
+// Eenvoudige lijn-iconen in de stijl van de site
+const Svg: React.FC<{ size: number; color: string; children: React.ReactNode }> = ({ size, color, children }) => (
+  <svg width={size} height={size} viewBox="0 0 48 48" fill="none" stroke={color} strokeWidth={3.2} strokeLinecap="round" strokeLinejoin="round">
+    {children}
+  </svg>
+);
+
+type P = { size?: number; color: string };
+
+export const Sun: React.FC<P> = ({ size = 44, color }) => (
+  <Svg size={size} color={color}>
+    <circle cx="24" cy="24" r="8" />
+    {[0, 45, 90, 135, 180, 225, 270, 315].map((a) => (
+      <line key={a} x1="24" y1="6" x2="24" y2="11" transform={`rotate(${a} 24 24)`} />
+    ))}
+  </Svg>
+);
+
+export const Anchor: React.FC<P> = ({ size = 44, color }) => (
+  <Svg size={size} color={color}>
+    <circle cx="24" cy="9" r="4" />
+    <line x1="24" y1="13" x2="24" y2="42" />
+    <line x1="16" y1="19" x2="32" y2="19" />
+    <path d="M8 28c0 8 7 14 16 14s16-6 16-14" />
+  </Svg>
+);
+
+export const Flame: React.FC<P> = ({ size = 44, color }) => (
+  <Svg size={size} color={color}>
+    <path d="M24 43c-8 0-13-5-13-12 0-8 7-11 8-19 4 3 6 7 6 11 2-2 3-4 3-7 5 4 9 9 9 15 0 7-5 12-13 12z" />
+  </Svg>
+);
+
+export const Box: React.FC<P> = ({ size = 44, color }) => (
+  <Svg size={size} color={color}>
+    <path d="M6 16l18-9 18 9v20l-18 9-18-9z" />
+    <path d="M6 16l18 9 18-9M24 25v20" />
+  </Svg>
+);
+
+export const Lock: React.FC<P> = ({ size = 44, color }) => (
+  <Svg size={size} color={color}>
+    <rect x="10" y="21" width="28" height="21" rx="3" />
+    <path d="M16 21v-6a8 8 0 0116 0v6" />
+  </Svg>
+);
+
+export const Bed: React.FC<P> = ({ size = 44, color }) => (
+  <Svg size={size} color={color}>
+    <path d="M5 38V12M5 30h38v8M43 30v-6a5 5 0 00-5-5H22v11" />
+    <circle cx="13" cy="23" r="4" />
+  </Svg>
+);
+
+export const Lighthouse: React.FC<{ size?: number; color: string; light?: number }> = ({ size = 120, color, light = 1 }) => (
+  <svg width={size} height={size * 1.4} viewBox="0 0 60 84" fill="none" stroke={color} strokeWidth={3} strokeLinejoin="round" strokeLinecap="round">
+    {/* lichtbundels */}
+    <path d="M30 14 L4 6 M30 14 L4 22 M30 14 L56 6 M30 14 L56 22" strokeWidth={2} opacity={light} />
+    <path d="M24 10h12v8H24z" />
+    <path d="M22 18h16M23 18l-3 50h20l-3-50" />
+    <path d="M21.5 36h17M20.6 52h18.8" />
+    <path d="M27 6l3-3 3 3" />
+  </svg>
+);
+
+export const Waves: React.FC<{ width: number; color: string; phase: number }> = ({ width, color, phase }) => {
+  const line = (y: number, off: number) => {
+    let d = `M0 ${y}`;
+    for (let x = 0; x <= width; x += 10) {
+      d += ` L${x} ${y + Math.sin((x / width) * Math.PI * 4 + phase + off) * 5}`;
+    }
+    return d;
+  };
+  return (
+    <svg width={width} height={50} viewBox={`0 0 ${width} 50`} fill="none" stroke={color} strokeWidth={3} strokeLinecap="round">
+      <path d={line(12, 0)} />
+      <path d={line(26, 1.2)} />
+      <path d={line(40, 2.4)} />
+    </svg>
+  );
+};
+
+export const House: React.FC<P> = ({ size = 44, color }) => (
+  <Svg size={size} color={color}>
+    <path d="M6 22L24 7l18 15" />
+    <path d="M10 19v22h28V19" />
+    <path d="M20 41V29h8v12" />
+  </Svg>
+);
+
+export const Briefcase: React.FC<P> = ({ size = 44, color }) => (
+  <Svg size={size} color={color}>
+    <rect x="6" y="15" width="36" height="25" rx="3" />
+    <path d="M18 15v-5h12v5M6 26h36" />
+  </Svg>
+);
+
+export const Leaf: React.FC<P> = ({ size = 44, color }) => (
+  <Svg size={size} color={color}>
+    <path d="M10 38C8 20 22 8 40 8c0 18-12 31-30 30z" />
+    <path d="M10 38L28 20" />
+  </Svg>
+);
+
+export const NoFlame: React.FC<P> = ({ size = 44, color }) => (
+  <Svg size={size} color={color}>
+    <path d="M24 43c-8 0-13-5-13-12 0-8 7-11 8-19 4 3 6 7 6 11 2-2 3-4 3-7 5 4 9 9 9 15 0 7-5 12-13 12z" />
+    <line x1="6" y1="42" x2="42" y2="6" />
+  </Svg>
+);
+
+export const FloorHeat: React.FC<P> = ({ size = 44, color }) => (
+  <Svg size={size} color={color}>
+    <path d="M6 40h36" />
+    <path d="M14 33c-3-4 3-6 0-10s3-6 0-10M24 33c-3-4 3-6 0-10s3-6 0-10M34 33c-3-4 3-6 0-10s3-6 0-10" />
+  </Svg>
+);
+
+export const HeatPump: React.FC<P> = ({ size = 44, color }) => (
+  <Svg size={size} color={color}>
+    <rect x="5" y="9" width="38" height="30" rx="3" />
+    <circle cx="20" cy="24" r="9" />
+    <path d="M20 15v18M11 24h18M35 16v16" />
+  </Svg>
+);
+
+export const Tree: React.FC<P> = ({ size = 44, color }) => (
+  <Svg size={size} color={color}>
+    <circle cx="24" cy="18" r="11" />
+    <path d="M24 29v13M17 42h14" />
+  </Svg>
+);
+
+export const Window: React.FC<P> = ({ size = 44, color }) => (
+  <Svg size={size} color={color}>
+    <rect x="8" y="6" width="32" height="36" />
+    <path d="M24 6v36M8 24h32" />
+  </Svg>
+);

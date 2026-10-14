@@ -1,0 +1,29 @@
+# Afhankelijkheden (elke projectmap heeft een symlink node_modules -> ../node_modules)
+node_modules
+
+# Media en renders horen niet in git (te groot, klantmateriaal) — zie README "Media"
+out/
+**/public/clips/
+**/public/vo/
+**/public/vo-bron/
+**/public/muziek/
+**/public/broll/
+**/ai-renders/
+**/renders/
+**/vo-oud/
+**/clips-oud/
+**/scripts/tts-cache/
+**/scripts/tmp/
+*.mp4
+*.mov
+*.webm
+*.wav
+*.mp3
+*.m4a
+*.avif
+*.webp
+
+# Overig
+.DS_Store
+.env
+*.log
