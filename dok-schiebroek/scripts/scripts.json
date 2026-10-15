@@ -1,0 +1,39 @@
+{
+  "b1": {
+    "hooks": [
+      "Wil je als aannemer of installateur een eigen pand voor je materiaal en gereedschap, zonder elk jaar erfpacht te betalen?",
+      "Heb je een webshop of handelsbedrijf en wil je je voorraad onderbrengen in een eigen pand met duidelijke huisvestingslasten?",
+      "Huur je nu bedrijfsruimte in Rotterdam-Noord en wil je eindelijk een eigen pand, dicht bij huis?",
+      "Wil je klanten voortaan ontvangen in je eigen lichte showroom of studio in Rotterdam-Noord?",
+      "Zoek je als particuliere belegger tastbaar bedrijfsvastgoed in Rotterdam, zonder jaarlijkse erfpachtcanon?"
+    ],
+    "zinnen": [
+      ["koop", "Bij Dok Schiebroek koop je een eigen bedrijfsunit in Rotterdam-Noord, zonder jaarlijkse erfpachtcanon."],
+      ["erfpacht", "Dok Nederland koopt de erfpachtcanon af, zodat je geen terugkerende erfpachtkosten betaalt."],
+      ["units", "Aan de Ratelaarweg komen 23 units van zo'n 90 tot 112 vierkante meter, verdeeld over twee volwaardige verdiepingen."],
+      ["verdiepingen", "Beneden heb je ruimte voor een werkplaats, opslag of showroom, en boven voor een kantoor of extra werkruimte."],
+      ["kenmerken", "Elke unit krijgt een overheaddeur van 3,20 meter hoog, een eigen parkeerplaats en grote raampartijen."],
+      ["planning", "De omgevingsvergunning is al verleend en de bouw start naar verwachting in het tweede kwartaal van 2027."],
+      ["cta", "Klik op de knop hieronder en vraag de volledige documentatie van Dok Schiebroek aan."]
+    ]
+  },
+  "b2": {
+    "hooks": [
+      "Heb je voor je werkplaats meer stroom nodig, maar is een zwaardere aansluiting door netcongestie lastig te krijgen?",
+      "Staat je voorraad nog in de garage en wil je je bestellingen voortaan vanuit een eigen pand versturen?",
+      "Ben je toe aan een eigen bedrijfspand in je eigen buurt, in plaats van een huurpand op een groot bedrijventerrein?",
+      "Zoek je een lichte werkplek met showroom waar je de inrichting helemaal zelf bepaalt?",
+      "Wil je als particuliere belegger investeren in kleine bedrijfsunits met een eigen stroomaansluiting, nu netcongestie nieuwe aansluitingen lastiger maakt?"
+    ],
+    "zinnen": [
+      ["koop", "Aan de Ratelaarweg in Rotterdam-Noord komt Dok Schiebroek, een kleinschalig bedrijvenpark met 23 koopunits."],
+      ["stroom", "Elke unit krijgt een voorziene eigen stroomaansluiting van drie keer vijfentwintig ampère, belangrijk nu nieuwe aansluitingen door netcongestie steeds lastiger worden."],
+      ["verdiepingen", "Op twee volwaardige verdiepingen combineer je opslag, werkplaats en kantoor op één locatie."],
+      ["deur", "Door de overheaddeur van 3,20 meter breng je goederen en materieel zo naar binnen."],
+      ["casco", "De units worden casco opgeleverd met cementdekvloeren, zodat je alles naar eigen wens inricht."],
+      ["locatie", "Je hebt een eigen parkeerplaats, en dankzij de nieuwe A16 ben je goed verbonden met Rotterdam en Lansingerland."],
+      ["planning", "De bouw start naar verwachting in het tweede kwartaal van 2027, dus je hebt nu de tijd om je unit en inrichting goed te plannen."],
+      ["cta", "Klik op de knop hieronder en schrijf je in voor jouw unit bij Dok Schiebroek."]
+    ]
+  }
+}

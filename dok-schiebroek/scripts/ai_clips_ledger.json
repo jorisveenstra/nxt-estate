@@ -1,0 +1,158 @@
+{
+ "bg-d1": {
+  "bron_sha256": "625bc3916019870a0f3e55979497fd3dd0121dd2a8554882c43d36b028482a13",
+  "bron": "16_BG_D1.png",
+  "prompt": "Slow gentle push-in toward the open overhead door of the workshop unit, someone works calmly at the bench. Subtle, slow, realistic camera movement; photorealistic; keep every building, proportion, material, window and layout exactly as in the image.",
+  "asset_id": "pEtJJRKTjX3KYY4wN2V1",
+  "eerdere_mislukte_ids": [
+   "sTjNOaeX0ElPWbWUQsyA"
+  ],
+  "mislukt_reden": "Veo 3 prompt enhancement cannot be disabled; not charged",
+  "generation_id": "FfO3enTtE4PVJqJ1z00M",
+  "status": "completed"
+ },
+ "bg-a1": {
+  "bron_sha256": "7d4d58d67f8f3bd74c71fb796cdd37329fa436d13e9084dae36a00ea474ed177",
+  "bron": "14_BG_A1.png",
+  "prompt": "Slow gentle push-in inside the bright showroom studio, people calmly working at the table, soft daylight. Subtle, slow, realistic camera movement; photorealistic; keep every building, proportion, material, window and layout exactly as in the image.",
+  "asset_id": "OLqK8H5QK7EulijQPlVu",
+  "eerdere_mislukte_ids": [
+   "ogUP3J3n5lcchJ1bQCaC"
+  ],
+  "mislukt_reden": "Veo 3 prompt enhancement cannot be disabled; not charged",
+  "generation_id": "Eiv2TqsTuwBrS3lITWBh",
+  "status": "completed"
+ },
+ "tv-a1": {
+  "bron_sha256": "e6491c5a0652f9259be2cf7fe98f943c0ed84c9d34135e8689eec921ef1fdab5",
+  "bron": "17_TV_A1.png",
+  "prompt": "Slow gentle push-in on the modern office, the person works at the desk, soft warm light. Subtle, slow, realistic camera movement; photorealistic; keep every building, proportion, material, window and layout exactly as in the image.",
+  "asset_id": "mriIRwy1GxOZkeKxqvDr",
+  "eerdere_mislukte_ids": [
+   "u5RQgiIV439XB7R6kFB8"
+  ],
+  "mislukt_reden": "Veo 3 prompt enhancement cannot be disabled; not charged",
+  "generation_id": "mC9orEciPIKs3gYYFndv",
+  "status": "completed"
+ },
+ "tv-c1": {
+  "bron_sha256": "116a42fd6503982ffe765389586bd9ed726210d709e1980fa6cb25b7e683ea88",
+  "bron": "18_TV_C1.png",
+  "prompt": "Slow gentle push-in on the bright studio space, people stretch calmly, sunlight moving softly through the windows. Subtle, slow, realistic camera movement; photorealistic; keep every building, proportion, material, window and layout exactly as in the image.",
+  "asset_id": "mNnIiD505DzQSqyUlbce",
+  "eerdere_mislukte_ids": [
+   "NSHjvTRrATx1Aa5BSSSK"
+  ],
+  "mislukt_reden": "Veo 3 prompt enhancement cannot be disabled; not charged",
+  "generation_id": "gTlBNf5BgI2cWmSRUGKW",
+  "status": "completed"
+ },
+ "bg-c1": {
+  "bron_sha256": "bab05644034dec06329cf40452c9a0b33bb535629d4d9ea69f5f987006c970fc",
+  "bron": "15_BG_C1.png",
+  "prompt": "Slow gentle push-in inside the workshop with the van, the technician works calmly, soft light. Subtle, slow, realistic camera movement; photorealistic; keep every building, proportion, material, window and layout exactly as in the image.",
+  "asset_id": "UbDZyIM2xIuxlvNS5LMc",
+  "eerdere_mislukte_ids": [
+   "VlC4546e7fOQ9R6dNAdP"
+  ],
+  "mislukt_reden": "Veo 3 prompt enhancement cannot be disabled; not charged",
+  "generation_id": "mQwasLyMCWdoHJxSkYhe",
+  "status": "completed"
+ },
+ "drone-2": {
+  "bron_sha256": "2463f35efd923ff31897951b0b3e974eaa86bddc221546680e546703393a2689",
+  "bron": "01_2025-0207-Drone-02-Cropped_2026-10-08.jpg",
+  "prompt": "Slow cinematic drone drift forward toward the two business buildings, light cloud movement, traffic on the distant motorway. Subtle, slow, realistic camera movement; photorealistic; keep every building, proportion, material, window and layout exactly as in the image.",
+  "asset_id": "LkNpoCOThhghsY1j09HD",
+  "eerdere_mislukte_ids": [
+   "S4ohvKZyTEt7DNPzGB8n"
+  ],
+  "mislukt_reden": "Veo 3 prompt enhancement cannot be disabled; not charged",
+  "generation_id": "Csj1jiep3rrNG3rJWVsY",
+  "status": "completed"
+ },
+ "drone-1": {
+  "bron_sha256": "34ce9e4e19b44900f14ff2ca5a4db0f8a5f7920361b5256cf2779b8e6d0cb511",
+  "bron": "00_2025-0207-Drone-01_2026-10-08.jpg",
+  "prompt": "Slow cinematic drone push-in over the small business park, trees and water gently swaying, cars standing still. Subtle, slow, realistic camera movement; photorealistic; keep every building, proportion, material, window and layout exactly as in the image.",
+  "asset_id": "sY0cxmvZQslFH6kYNnuN",
+  "eerdere_mislukte_ids": [
+   "O3tHDY9mSrlTuDWi9PKu"
+  ],
+  "mislukt_reden": "Veo 3 prompt enhancement cannot be disabled; not charged",
+  "generation_id": "lvlkNZ4ybCa3HSraT6nj",
+  "status": "completed"
+ },
+ "ext-2": {
+  "bron_sha256": "16bca3d5c7fbbff1d3c9fed5f0c96798fc40ba5ca4a51e5cd83f20c65293be93",
+  "bron": "04_2025-0207-EXT-2_2026-10-07.jpg",
+  "prompt": "Slow gentle dolly sideways along the two-storey building facade with the green wall, leaves and a cyclist moving subtly. Subtle, slow, realistic camera movement; photorealistic; keep every building, proportion, material, window and layout exactly as in the image.",
+  "asset_id": "elQejPeBHCmZg0vrJ5cM",
+  "eerdere_mislukte_ids": [
+   "By6PxVTqdKCyqh07vzfq"
+  ],
+  "mislukt_reden": "Veo 3 prompt enhancement cannot be disabled; not charged",
+  "generation_id": "a1yc4JinmCAuiR9C6ZSf",
+  "status": "completed"
+ },
+ "ext-1": {
+  "bron_sha256": "12c2619c36d9d662b9c8fbb76e6a0e11de03d0192b292721a5145587440f085d",
+  "bron": "02_2025-0207-EXT-1_2026-10-07.jpg",
+  "prompt": "Gentle slow push-in on the business building facade, a cyclist slowly rides past, leaves moving softly in the breeze. Subtle, slow, realistic camera movement; photorealistic; keep every building, proportion, material, window and layout exactly as in the image.",
+  "asset_id": "FuhvKIGsr3gEAv6pNyIK",
+  "eerdere_mislukte_ids": [
+   "uBzhQaasG9cgNmGdIOMD"
+  ],
+  "mislukt_reden": "Veo 3 prompt enhancement cannot be disabled; not charged",
+  "generation_id": "5OU5VJzB1e0NV29LTrH8",
+  "status": "completed"
+ },
+ "ext-3": {
+  "bron_sha256": "50534884145c94894069b362d507d485d163087413cbd2c178df5d71f0254c3d",
+  "bron": "06_2025-0207-EXT-3_2026-10-07.jpg",
+  "prompt": "Slow gentle push-in toward the building with its overhead doors, grass moving softly in the wind, clouds drifting. Subtle, slow, realistic camera movement; photorealistic; keep every building, proportion, material, window and layout exactly as in the image.",
+  "asset_id": "EarmzJAslmyvI5nxNIG2",
+  "eerdere_mislukte_ids": [
+   "uS8JyFWE29A2P7Dk6H41"
+  ],
+  "mislukt_reden": "Veo 3 prompt enhancement cannot be disabled; not charged",
+  "generation_id": "LlvGNjEUjkZ5XKSoYR8n",
+  "status": "completed"
+ },
+ "ext-6": {
+  "bron_sha256": "aac9148b8600990458d72f36534999e208b331b3a9b73aab870b2e947ea849ef",
+  "bron": "12_2025-0207-EXT-6_2026-10-07.jpg",
+  "prompt": "Slow gentle push-in toward the entrance of the business unit, people walk calmly, soft daylight. Subtle, slow, realistic camera movement; photorealistic; keep every building, proportion, material, window and layout exactly as in the image.",
+  "asset_id": "PhxqsdCY6UXoc4VSuyRC",
+  "eerdere_mislukte_ids": [
+   "VWISk8q8lbG2v77YBvm8"
+  ],
+  "mislukt_reden": "Veo 3 prompt enhancement cannot be disabled; not charged",
+  "generation_id": "N8oIfQ0i8n30XKi60kZ7",
+  "status": "completed"
+ },
+ "ext-4": {
+  "bron_sha256": "5b84963954fdec8ff5fd765026cee3ec4fc71e8f2e8fc132aaba7e3b46ea9f66",
+  "bron": "08_2025-0207-EXT-4_2026-10-07.jpg",
+  "prompt": "Slow gentle push-in on the corner of the building with the green wall, tree leaves moving softly, people standing calmly. Subtle, slow, realistic camera movement; photorealistic; keep every building, proportion, material, window and layout exactly as in the image.",
+  "asset_id": "rBDJQqxh0yxFQebrUpgB",
+  "eerdere_mislukte_ids": [
+   "ZX89mG20IGDRhdFZsHNO"
+  ],
+  "mislukt_reden": "Veo 3 prompt enhancement cannot be disabled; not charged",
+  "generation_id": "xP0D86CqLcykEiZJ1qz7",
+  "status": "completed"
+ },
+ "ext-5": {
+  "bron_sha256": "0227c6a86e305377346517b41097979951535de069ce18ed32dcc5e3a931cc98",
+  "bron": "10_2025-0207-EXT-5_2026-10-07.jpg",
+  "prompt": "Slow gentle push-in on the facade with large windows and overhead doors, a cyclist rides slowly past. Subtle, slow, realistic camera movement; photorealistic; keep every building, proportion, material, window and layout exactly as in the image.",
+  "asset_id": "f5UzTWB1uZ8vb1ZW2NEY",
+  "eerdere_mislukte_ids": [
+   "JGrGzebFgMt1DAuQOuhb"
+  ],
+  "mislukt_reden": "Veo 3 prompt enhancement cannot be disabled; not charged",
+  "generation_id": "ciEBNdTxxMqU50iBUbvi",
+  "status": "completed"
+ }
+}
