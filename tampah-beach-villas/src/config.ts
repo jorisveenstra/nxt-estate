@@ -2,7 +2,7 @@
 // Een clip-lijst is [clip, woord waarop naar deze clip wordt geknipt]; de eerste heeft null.
 type ClipList = [string, string | null][];
 
-export const BODIES: Record<number, number> = { 1: 5, 2: 5 }; // aantal hooks per body
+export const BODIES: Record<number, number> = { 1: 5, 2: 5, 3: 3, 4: 3 }; // aantal hooks per body
 
 // Hooks over Nederland (Den Haag, box 3, bank, pensioen) krijgen Nederlandse beelden ("nl-…", Veo-renders);
 // pas als de oplossing (Lombok/de villa's) ter sprake komt, gaan we naar de villa's.
@@ -21,9 +21,22 @@ export const HOOK_CLIPS: Record<number, Record<number, ClipList>> = {
     4: [["nl-grachtenpanden", null], ["nl-papierwerk", "kost"], ["lagune-breed", "deze"]],
     5: [["nl-pensioen-raam", null], ["lagune-strand", "deze"], ["villa-parasol", "10"]],
   },
+  // Bali-hooks: eerst Bali (droom/drukte), dan Lombok
+  3: {
+    1: [["bali-villa-droom", null], ["lombok-baai-drone", "lombok"]],
+    2: [["bali-villas-bouw", null], ["lombok-strand-rustig", "lombok"]],
+    3: [["bali-villa-droom", null], ["lombok-zonsondergang", "wees"]],
+  },
+  4: {
+    1: [["bali-villa-droom", null], ["bali-strand-druk", "maar"]],
+    2: [["bali-villas-bouw", null], ["lagune-breed", "maar"]],
+    3: [["bali-verkeer", null], ["lombok-baai-drone", "dan"]],
+  },
 };
 
 export const HOOK_ACCENT: Record<number, Record<number, string[]>> = {
+  3: { 1: ["lombok", "interessanter"], 2: ["gouden", "gemist.", "tijd."], 3: ["vruchten", "lombok!"] },
+  4: { 1: ["te", "toeristisch?"], 2: ["duur.", "lombok"], 3: ["eerst", "zien."] },
   1: {
     1: ["2028", "doorgeschoven."],
     2: ["6%?", "13%"],
@@ -53,10 +66,19 @@ const SCENE_CLIPS: Record<string, ClipList> = {
   genieten: [["buiten-lounge", null], ["slaapkamer-2", "gebruik"]],
   pensioen: [["nl-pensioen-stel", null], ["nl-papierwerk", "maar"]],
   vraag: [["restaurant-bar", null], ["beachclub-gebouw", "opleveren"]],
+  bali: [["bali-strand-druk", null], ["bali-verkeer", "drukke"], ["bali-villas-bouw", "steeds"]],
+  naast: [["lombok-baai-drone", null], ["lombok-strand-rustig", "met"]],
+  strand: [["lagune-strand", null]],
+  concept: [["lagune-rij", null], ["beachclub-strand", "beach"], ["restaurant", "restaurant"]],
+  instap2: [["villa-parasol", null], ["villa-zwembad", "10"]],
   cta: [["lagune-rij", null]],
 };
 
-const SCENE_CLIPS_BODY: Record<number, Record<string, ClipList>> = {};
+// Volgorde van de faciliteiten verschilt per script
+const SCENE_CLIPS_BODY: Record<number, Record<string, ClipList>> = {
+  3: { concept: [["lagune-rij", null], ["restaurant", "restaurant"], ["beachclub-strand", "beach"]] },
+  4: { concept: [["lagune-rij", null], ["restaurant", "restaurant"], ["villa-tuin", "verblijven"]] },
+};
 
 export const sceneClips = (body: number, scene: string): ClipList => SCENE_CLIPS_BODY[body]?.[scene] ?? SCENE_CLIPS[scene];
 

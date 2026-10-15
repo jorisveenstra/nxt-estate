@@ -37,6 +37,14 @@ CLIPS = {
     "nl-kantoor-loonstrook": "A Dutch professional in his forties at an office desk looks at his payslip and a calculator with a disappointed expression, modern office, daylight through large windows.",
     # Pensioen (body 2)
     "nl-pensioen-stel": "A retired Dutch couple in their sixties sits at the kitchen table reading pension documents together, the woman points at a page, warm natural light, calm but thoughtful mood.",
+    # Bali (druk, duur, populair) tegenover Lombok (rustig) — scripts 3 en 4
+    "bali-verkeer": "A congested road in Canggu, Bali, packed with scooters and cars in the afternoon heat, tourists on scooters, dense shops along the road, slow gimbal shot from the roadside.",
+    "bali-villas-bouw": "Slow aerial drone shot over a densely built area in Bali with many new villa rooftops and pools squeezed together, construction cranes and building sites between them, hazy tropical light.",
+    "bali-strand-druk": "A crowded beach in Bali at sunset with rows of sunbeds, umbrellas and many tourists, beach bars in the background, golden light, slow pan.",
+    "bali-villa-droom": "A couple relaxes at the infinity pool of a luxury private villa in Bali overlooking green rice terraces and palm trees, morning light, slow push-in.",
+    "lombok-strand-rustig": "A wide, almost empty white sand beach in South Lombok with turquoise water, green hills around the bay and only two people walking in the distance, calm and quiet, slow gimbal shot.",
+    "lombok-baai-drone": "Slow aerial drone shot over a quiet tropical bay in South Lombok with turquoise water, a long empty beach and jungle-covered green hills, no buildings, bright clear day.",
+    "lombok-zonsondergang": "Golden sunset over a calm bay in South Lombok, gentle waves on an empty beach, palm trees silhouetted, peaceful atmosphere, slow push-in.",
     "nl-pensioen-raam": "A Dutch man in his late fifties stands at the window of his living room holding a letter, looking outside thoughtfully, rainy Dutch street outside, soft grey light.",
 }
 

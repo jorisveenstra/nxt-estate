@@ -15,7 +15,12 @@ import { colors, fonts } from "./brand";
 import clipLengths from "./clips.json";
 import { CTA_CLIP, HOOK_ACCENT, HOOK_CLIPS, sceneClips } from "./config";
 import {
+  BaliScene,
   BuitenlandScene,
+  ConceptScene,
+  Instap2Scene,
+  NaastScene,
+  StrandScene,
   Box3Scene,
   CtaScene,
   DenHaagScene,
@@ -181,6 +186,11 @@ const SCENES: Record<string, React.FC<SceneProps>> = {
   genieten: GenietenScene,
   pensioen: PensioenScene,
   vraag: VraagScene,
+  bali: BaliScene,
+  naast: NaastScene,
+  strand: StrandScene,
+  concept: ConceptScene,
+  instap2: Instap2Scene,
 };
 
 export const getDuration = (body: number, hook: number, fps: number) => Math.ceil((getTiming(body, hook).end + TAIL) * fps);

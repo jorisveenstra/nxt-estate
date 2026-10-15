@@ -625,7 +625,7 @@ export const CtaScene: React.FC<SceneProps & { clip: string }> = ({ scene, clip 
   const frame = useCurrentFrame();
   const t0 = F(scene.start) - 6;
   const tKlik = F(wordTime(scene, "klik"));
-  const tBekijk = F(wordTime(scene, "bekijk"));
+  const tBekijk = F(wordTime(scene, has(scene, "bekijk") ? "bekijk" : "knop"));
   const panel = interpolate(frame, [t0, t0 + 14], [0, 1], { ...clamp, easing: Easing.out(Easing.cubic) });
   const frameP = usePop(t0 + 6);
   const btn = usePop(tKlik, { damping: 9, stiffness: 180, mass: 0.8 });
@@ -647,7 +647,7 @@ export const CtaScene: React.FC<SceneProps & { clip: string }> = ({ scene, clip 
           <Woordmerk width={420} color={colors.olive} at={t0 + 4} />
         </div>
         <div style={{ ...head, fontSize: 64, opacity: headP, transform: `translateY(${(1 - headP) * 40}px)` }}>
-          {overzicht ? "Bekijk het volledige rendementsoverzicht" : "Bekijk de mogelijkheden"}
+          {overzicht ? "Bekijk het volledige rendementsoverzicht" : has(scene, "lombok") ? "Wat kan jouw villa op Lombok opleveren?" : "Bekijk de mogelijkheden"}
         </div>
         <div
           style={{
@@ -669,5 +669,215 @@ export const CtaScene: React.FC<SceneProps & { clip: string }> = ({ scene, clip 
         </svg>
       </div>
     </AbsoluteFill>
+  );
+};
+
+// ---------- Bali is prachtig, maar vol (script 1) ----------
+export const BaliScene: React.FC<SceneProps> = ({ scene, outAt }) => {
+  const F = useF();
+  const frame = useCurrentFrame();
+  const t0 = F(scene.start);
+  const end = F(outAt) - 6;
+  const tVol = F(wordTime(scene, "vol"));
+  const nadelen: [string, string][] = [
+    ["drukke", "Drukke wegen"],
+    ["steeds", "Steeds meer villa's"],
+    ["hoge", "Hoge instapprijzen"],
+  ];
+  return (
+    <Top top={270} gap={24}>
+      <Card at={t0 - 4} outAt={end} kader palm style={{ padding: "50px 60px 54px", width: 940 }}>
+        <Kicker>Bali</Kicker>
+        <div style={{ ...head, fontSize: 70, marginTop: 12 }}>
+          Prachtig, maar ook <span style={{ color: colors.goldDark, opacity: interpolate(frame, [tVol - 2, tVol + 4], [0.2, 1], clamp) }}>vol</span>
+        </div>
+      </Card>
+      <Card at={F(wordTime(scene, "drukke")) - 8} outAt={end} bg={colors.olive} kader from="right" style={{ padding: "40px 56px 44px", width: 940 }}>
+        <div style={{ display: "flex", flexDirection: "column", gap: 22 }}>
+          {nadelen.map(([w, label]) => {
+            const at = F(wordTime(scene, w));
+            const p = usePop(at - 3);
+            const streep = interpolate(frame, [at + 6, at + 14], [0, 1], { ...clamp, easing: Easing.inOut(Easing.cubic) });
+            return (
+              <div key={w} style={{ position: "relative", display: "inline-block", alignSelf: "flex-start", opacity: Math.min(1, p * 2), transform: `translateX(${(1 - p) * -60}px)` }}>
+                <div style={{ ...head, fontSize: 56, color: colors.cream }}>{label}</div>
+                <div style={{ position: "absolute", left: -6, top: "50%", height: 5, width: `calc(${streep * 100}% + 12px)`, background: colors.gold }} />
+              </div>
+            );
+          })}
+        </div>
+      </Card>
+    </Top>
+  );
+};
+
+// ---------- Lombok ligt direct naast Bali (scripts 1 en 2) ----------
+export const NaastScene: React.FC<SceneProps> = ({ scene, outAt }) => {
+  const F = useF();
+  const frame = useCurrentFrame();
+  const t0 = F(scene.start);
+  const end = F(outAt) - 6;
+  const tBali = F(wordTime(scene, "bali"));
+  const bali = usePop(tBali - 2);
+  const lombok = usePop(t0);
+  const pin = usePop(t0 + 10, { damping: 8, stiffness: 200, mass: 0.8 });
+  const pijl = interpolate(frame, [tBali, tBali + 14], [0, 1], { ...clamp, easing: Easing.inOut(Easing.cubic) });
+  const kenmerken: [string, string][] = has(scene, "tropische")
+    ? [["tropische", "Zelfde tropische sfeer"], ["rustiger", "Een stuk rustiger"]]
+    : [["zon", "Zelfde zon"], ["stranden", "Zelfde stranden"]];
+  return (
+    <Top top={260} gap={24}>
+      <Card at={t0 - 4} outAt={end} kader palm style={{ padding: "44px 50px 40px", width: 940 }}>
+        <Kicker>{has(scene, "buureiland") ? "Het buureiland van Bali" : "Direct naast Bali"}</Kicker>
+        <svg width={840} height={380} viewBox="0 0 840 380" style={{ marginTop: 16 }}>
+          {/* Zee */}
+          <rect x={0} y={0} width={840} height={380} rx={20} fill={colors.sea} opacity={0.18} />
+          {/* Bali (links) en Lombok (rechts) als eenvoudige eilandvormen */}
+          <path d="M60 170 C 90 110, 190 90, 280 120 C 340 140, 350 200, 300 240 C 240 280, 120 270, 80 240 C 50 220, 45 195, 60 170 Z" fill={colors.sand} stroke={colors.olive} strokeWidth={4} opacity={bali} />
+          <path d="M490 150 C 540 100, 660 100, 720 140 C 770 175, 760 240, 700 270 C 640 300, 540 290, 500 250 C 470 220, 465 180, 490 150 Z" fill={colors.olive} opacity={lombok} />
+          <text x={175} y={330} textAnchor="middle" fontFamily={fonts.head} fontSize={40} fill={colors.olive} opacity={bali}>
+            BALI
+          </text>
+          <text x={620} y={330} textAnchor="middle" fontFamily={fonts.head} fontSize={40} fill={colors.olive} opacity={lombok}>
+            LOMBOK
+          </text>
+          {/* Korte pijl: zo dichtbij ligt het */}
+          <path d="M320 190 L 470 190" stroke={colors.goldDark} strokeWidth={6} strokeDasharray={150} strokeDashoffset={150 * (1 - pijl)} strokeLinecap="round" />
+          {/* Pin in Zuid-Lombok */}
+          <g transform={`translate(600 ${255 - (1 - pin) * 120}) scale(${pin})`} opacity={Math.min(1, pin * 2)}>
+            <circle r={18} fill={colors.gold} stroke={colors.cream} strokeWidth={5} />
+          </g>
+        </svg>
+      </Card>
+      <div style={{ display: "flex", flexWrap: "wrap", gap: 14 }}>
+        {kenmerken.map(([w, label], i) => (
+          <Chip key={w} at={F(wordTime(scene, w)) - 2} outAt={end} dark={i === 1}>
+            {i === 0 ? <Sun color={colors.goldDark} /> : <Wave color={colors.gold} />} {label}
+          </Chip>
+        ))}
+      </div>
+    </Top>
+  );
+};
+
+// ---------- Direct aan het strand ligt Tampah Beach Villas (scripts 1 en 2) ----------
+export const StrandScene: React.FC<SceneProps> = ({ scene, outAt }) => {
+  const F = useF();
+  const t0 = F(scene.start);
+  const end = F(outAt) - 6;
+  const tMerk = F(wordTime(scene, "tampah"));
+  return (
+    <Top top={290} gap={26}>
+      <Chip at={t0} outAt={end} dark>
+        <Pin color={colors.gold} /> Direct aan het strand · Zuid-Lombok
+      </Chip>
+      <Card at={tMerk - 8} outAt={end} bg={colors.olive} kader palm style={{ padding: "70px 70px 66px", width: 940, display: "flex", justifyContent: "center" }}>
+        <Woordmerk width={600} at={tMerk - 4} />
+      </Card>
+    </Top>
+  );
+};
+
+// ---------- Totaalconcept / compleet resort (scripts 1 en 2) ----------
+export const ConceptScene: React.FC<SceneProps> = ({ scene, outAt }) => {
+  const F = useF();
+  const t0 = F(scene.start);
+  const end = F(outAt) - 6;
+  const tachtig = has(scene, "80");
+  const zelf = has(scene, "verblijven");
+  const voorzieningen: [string, React.ReactNode, string][] = (
+    [
+      ["sportfaciliteiten", <Dumbbell key="s" size={70} color={colors.gold} />, "Sport"],
+      ["beachclub", <Umbrella key="b" size={70} color={colors.gold} />, "Beachclub"],
+      ["beach", <Umbrella key="b2" size={70} color={colors.gold} />, "Beachclub"],
+      ["restaurant", <Utensils key="r" size={70} color={colors.gold} />, "Restaurant"],
+      ["padelbanen", <Racket key="p" size={70} color={colors.gold} />, "Padel"],
+    ] as [string, React.ReactNode, string][]
+  )
+    .filter(([w]) => has(scene, w))
+    .filter(([w], i, arr) => !(w === "beach" && arr.some(([x]) => x === "beachclub")));
+  return (
+    <Top top={250} gap={22}>
+      <Card at={t0 - 4} outAt={end} kader palm style={{ padding: "40px 56px 44px", width: 940 }}>
+        <Kicker>{tachtig ? "Een luxe totaalconcept" : "Een compleet resort"}</Kicker>
+        {tachtig ? (
+          <div style={{ ...head, fontSize: 110, marginTop: 8, lineHeight: 1 }}>
+            <CountUp at={F(wordTime(scene, "80"))} to={80} dur={18} /> <span style={{ fontSize: 64 }}>villa's</span>
+          </div>
+        ) : (
+          <div style={{ ...head, fontSize: 64, marginTop: 8 }}>aan het strand</div>
+        )}
+      </Card>
+      <div style={{ display: "flex", gap: 16, width: 940 }}>
+        {voorzieningen.map(([w, icon, label]) => (
+          <Tegel key={w} at={F(wordTime(scene, w)) - 3} icon={icon} label={label} />
+        ))}
+      </div>
+      {zelf ? (
+        <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
+          <Chip at={F(wordTime(scene, "verblijven")) - 3} outAt={end}>
+            <Sun color={colors.goldDark} /> Zelf verblijven
+          </Chip>
+          <Chip at={F(wordTime(scene, "verhuurd")) - 3} outAt={end} dark>
+            <Key color={colors.gold} /> Verhuurd als je er niet bent
+          </Chip>
+        </div>
+      ) : null}
+    </Top>
+  );
+};
+
+// ---------- Instap + rendement in één kaart (scripts 1 en 2) ----------
+export const Instap2Scene: React.FC<SceneProps> = ({ scene, outAt }) => {
+  const F = useF();
+  const frame = useCurrentFrame();
+  const t0 = F(scene.start);
+  const end = F(outAt) - 6;
+  const t10 = F(wordTime(scene, "10"));
+  const t13 = F(wordTime(scene, "13"));
+  const lo = interpolate(frame, [t10 - 4, t10 + 10], [0, 10], { ...clamp, easing: Easing.out(Easing.cubic) });
+  const hi = interpolate(frame, [t13 - 2, t13 + 12], [10, 13], { ...clamp, easing: Easing.out(Easing.cubic) });
+  return (
+    <Top top={270} gap={24}>
+      <Card at={t0 - 4} outAt={end} bg={colors.olive} kader style={{ padding: "46px 60px 52px", width: 940 }}>
+        <Kicker color={colors.gold}>Instappen vanaf</Kicker>
+        <div style={{ fontFamily: fonts.head, fontSize: 140, color: colors.cream, lineHeight: 1.05, marginTop: 8, whiteSpace: "nowrap" }}>
+          € <CountUp at={F(wordTime(scene, "50"))} from={10000} to={50000} dur={20} />
+        </div>
+      </Card>
+      <Card at={t10 - 10} outAt={end} kader palm from="right" style={{ padding: "44px 60px 50px", width: 940 }}>
+        <Kicker>Verwacht netto rendement</Kicker>
+        <div style={{ fontFamily: fonts.head, fontSize: 170, color: colors.olive, lineHeight: 1, marginTop: 10, fontVariantNumeric: "tabular-nums", whiteSpace: "nowrap" }}>
+          {Math.round(lo)}
+          <span style={{ opacity: frame >= t13 - 2 ? 1 : 0 }}>–{Math.round(hi)}</span>
+          <span style={{ fontSize: 110, color: colors.goldDark }}>%</span>
+        </div>
+        <div style={{ ...sub, fontSize: 38 }}>per jaar</div>
+      </Card>
+    </Top>
+  );
+};
+
+// Faciliteit-tegel die meerekt met de beschikbare breedte
+const Tegel: React.FC<{ at: number; icon: React.ReactNode; label: string }> = ({ at, icon, label }) => {
+  const p = usePop(at, { damping: 9, stiffness: 200, mass: 0.7 });
+  return (
+    <div
+      style={{
+        flex: 1,
+        height: 200,
+        background: colors.olive,
+        display: "flex",
+        flexDirection: "column",
+        alignItems: "center",
+        justifyContent: "center",
+        gap: 14,
+        transform: `scale(${p}) rotate(${(1 - p) * -10}deg)`,
+        opacity: Math.min(1, p * 2),
+      }}
+    >
+      {icon}
+      <div style={{ fontFamily: fonts.sans, fontWeight: 700, fontSize: 34, color: colors.cream }}>{label}</div>
+    </div>
   );
 };

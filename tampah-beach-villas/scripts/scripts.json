@@ -8,17 +8,50 @@
       "Ga jij meer belasting betalen over je inkomen? Dan wil je dat de rest van je vermogen wél voor je werkt."
     ],
     "zinnen": [
-      ["denhaag", "Den Haag weet nog steeds niet hoe ze jouw vermogen straks gaat belasten."],
-      ["box3", "En als verhuurder in Nederland betaal je nu al box 3 over een rendement dat je misschien niet eens haalt."],
-      ["buitenland", "Maar wist je dat voor vastgoed in het buitenland andere regels gelden?"],
-      ["merk", "Bij Tampah Beach Villas laat je vermogen wél werken."],
-      ["rendement", "De villa's liggen direct aan het strand in Tampah Bay, Zuid-Lombok, en leveren naar verwachting 10 tot 13% netto rendement per jaar op."],
-      ["waarde", "Tijdens de bouwfase kan de waarde bovendien met tot wel 25% stijgen."],
-      ["instap", "Instappen kan al vanaf 50.000 euro. Wij regelen de volledige verhuur en het beheer."],
-      ["masterplan", "Het project is opgezet als één volledig masterplan, met een beachclub, restaurant, twee padelbanen en een jungle gym op het terrein."],
-      ["verkocht", "Inmiddels is al 75% verkocht en de oplevering staat gepland voor het tweede kwartaal van 2028, met directe overdracht naar volledig beheer."],
-      ["vraag", "Wil je zien wat je vermogen hier kan opleveren, terwijl Den Haag nog aan het vergaderen is?"],
-      ["cta", "Klik op de knop hieronder en bekijk het volledige rendementsoverzicht!"]
+      [
+        "denhaag",
+        "Den Haag weet nog steeds niet hoe ze jouw vermogen straks gaat belasten."
+      ],
+      [
+        "box3",
+        "En als verhuurder in Nederland betaal je nu al box 3 over een rendement dat je misschien niet eens haalt."
+      ],
+      [
+        "buitenland",
+        "Maar wist je dat voor vastgoed in het buitenland andere regels gelden?"
+      ],
+      [
+        "merk",
+        "Bij Tampah Beach Villas laat je vermogen wél werken."
+      ],
+      [
+        "rendement",
+        "De villa's liggen direct aan het strand in Tampah Bay, Zuid-Lombok, en leveren naar verwachting 10 tot 13% netto rendement per jaar op."
+      ],
+      [
+        "waarde",
+        "Tijdens de bouwfase kan de waarde bovendien met tot wel 25% stijgen."
+      ],
+      [
+        "instap",
+        "Instappen kan al vanaf 50.000 euro. Wij regelen de volledige verhuur en het beheer."
+      ],
+      [
+        "masterplan",
+        "Het project is opgezet als één volledig masterplan, met een beachclub, restaurant, twee padelbanen en een jungle gym op het terrein."
+      ],
+      [
+        "verkocht",
+        "Inmiddels is al 75% verkocht en de oplevering staat gepland voor het tweede kwartaal van 2028, met directe overdracht naar volledig beheer."
+      ],
+      [
+        "vraag",
+        "Wil je zien wat je vermogen hier kan opleveren, terwijl Den Haag nog aan het vergaderen is?"
+      ],
+      [
+        "cta",
+        "Klik op de knop hieronder en bekijk het volledige rendementsoverzicht!"
+      ]
     ]
   },
   "b2": {
@@ -30,17 +63,114 @@
       "Wil je na je pensioen niet alleen afhankelijk zijn van je pensioenfonds? Deze villa's in Lombok bieden een verwacht netto rendement van 10 tot 13% per jaar."
     ],
     "zinnen": [
-      ["pensioen", "Het pensioenstelsel verandert. Wat je inlegt staat vast, maar wat je er straks uit krijgt niet."],
-      ["denhaag", "En hoe Den Haag de rest van je vermogen gaat belasten, is ook nog steeds onduidelijk."],
-      ["buitenland", "Maar voor vastgoed in het buitenland gelden andere regels."],
-      ["merk", "Tampah Beach Villas kan zo een tweede inkomstenbron naast je pensioen zijn."],
-      ["rendement", "Het is een resort direct aan het strand in Tampah Bay, Zuid-Lombok, met een verwacht netto rendement van 10 tot 13% per jaar."],
-      ["genieten", "En wil je er zelf van genieten? Dan gebruik je je villa gewoon zelf."],
-      ["instap", "Instappen kan al vanaf 50.000 euro en wij regelen de volledige verhuur en het beheer."],
-      ["masterplan", "Het is geen losse villa, maar een compleet resort. Met een eigen beachclub, een restaurant, twee padelbanen en een jungle gym op het terrein."],
-      ["verkocht", "Inmiddels is al 75% verkocht en staat de oplevering gepland voor het tweede kwartaal van 2028."],
-      ["vraag", "Benieuwd wat deze villa naast je pensioen kan opleveren, en hoe dat voor jou uitpakt?"],
-      ["cta", "Klik op de knop hieronder en bekijk de mogelijkheden!"]
+      [
+        "pensioen",
+        "Het pensioenstelsel verandert. Wat je inlegt staat vast, maar wat je er straks uit krijgt niet."
+      ],
+      [
+        "denhaag",
+        "En hoe Den Haag de rest van je vermogen gaat belasten, is ook nog steeds onduidelijk."
+      ],
+      [
+        "buitenland",
+        "Maar voor vastgoed in het buitenland gelden andere regels."
+      ],
+      [
+        "merk",
+        "Tampah Beach Villas kan zo een tweede inkomstenbron naast je pensioen zijn."
+      ],
+      [
+        "rendement",
+        "Het is een resort direct aan het strand in Tampah Bay, Zuid-Lombok, met een verwacht netto rendement van 10 tot 13% per jaar."
+      ],
+      [
+        "genieten",
+        "En wil je er zelf van genieten? Dan gebruik je je villa gewoon zelf."
+      ],
+      [
+        "instap",
+        "Instappen kan al vanaf 50.000 euro en wij regelen de volledige verhuur en het beheer."
+      ],
+      [
+        "masterplan",
+        "Het is geen losse villa, maar een compleet resort. Met een eigen beachclub, een restaurant, twee padelbanen en een jungle gym op het terrein."
+      ],
+      [
+        "verkocht",
+        "Inmiddels is al 75% verkocht en staat de oplevering gepland voor het tweede kwartaal van 2028."
+      ],
+      [
+        "vraag",
+        "Benieuwd wat deze villa naast je pensioen kan opleveren, en hoe dat voor jou uitpakt?"
+      ],
+      [
+        "cta",
+        "Klik op de knop hieronder en bekijk de mogelijkheden!"
+      ]
+    ]
+  },
+  "b3": {
+    "naam": "Script 1: Instappen voordat het druk wordt",
+    "hooks": [
+      "Wil je investeren in een villa op Bali? Lombok kan interessanter zijn!",
+      "Voor vastgoedinvesteringen op Bali heb je de gouden tijd al gemist. Op Lombok ben je nog precies op tijd.",
+      "Wie vroeg investeerde in vastgoed op Bali, plukt daar nu de vruchten van. Wees er op tijd bij met Lombok!"
+    ],
+    "zinnen": [
+      [
+        "bali",
+        "Bali is prachtig, maar ook vol. Drukke wegen, steeds meer villa's en hoge instapprijzen."
+      ],
+      [
+        "naast",
+        "Lombok ligt direct naast Bali, met dezelfde zon en stranden."
+      ],
+      [
+        "strand",
+        "Direct aan het strand in Zuid-Lombok, ligt Tampah Beach Villas."
+      ],
+      [
+        "concept",
+        "Een luxe totaalconcept met 80 villa's, sportfaciliteiten, een restaurant en een beach club."
+      ],
+      [
+        "instap2",
+        "Instappen kan vanaf 50.000 euro, met een verwacht netto rendement van 10 tot 13% per jaar."
+      ],
+      [
+        "cta",
+        "Wil je zien wat Lombok nu nog te bieden heeft? Klik op de knop hieronder en bekijk het rendementsoverzicht."
+      ]
+    ]
+  },
+  "b4": {
+    "naam": "Script 2: Het Bali-gevoel, zonder de drukte",
+    "hooks": [
+      "Droom je van een eigen villa op Bali, maar vind je Bali te toeristisch?",
+      "Investeren in vastgoed op Bali wordt duur. Maar ken jij de villa's in Lombok al?",
+      "Overweeg je een vastgoedinvestering op Bali? Dan wil je dit eerst zien."
+    ],
+    "zinnen": [
+      [
+        "naast",
+        "Lombok is het buureiland van Bali, met dezelfde tropische sfeer, maar een stuk rustiger."
+      ],
+      [
+        "strand",
+        "Direct aan het strand in Zuid-Lombok, ligt Tampah Beach Villas."
+      ],
+      [
+        "concept",
+        "Het is een compleet resort met een beachclub, restaurant en padelbanen. Je kan er zelf verblijven, en als je er niet bent, wordt je villa voor je verhuurd."
+      ],
+      [
+        "instap2",
+        "Je kunt instappen vanaf 50.000 euro, met een verwacht netto rendement van 10 tot 13% per jaar."
+      ],
+      [
+        "cta",
+        "Benieuwd wat jouw villa op Lombok kan opleveren? Klik op de knop hieronder."
+      ]
     ]
   }
 }

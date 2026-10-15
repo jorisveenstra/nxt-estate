@@ -78,6 +78,9 @@ def lijn_uit(tekst_zinnen, words):
 def main():
     scripts = json.loads((ROOT / "scripts/scripts.json").read_text())
     asr = json.loads((ROOT / "scripts/woorden-asr.json").read_text())
+    tts_pad = ROOT / "scripts/woorden-tts.json"
+    if tts_pad.exists():  # voice-overs die via scripts/maak_vo.py (ElevenLabs) zijn gemaakt
+        asr.update(json.loads(tts_pad.read_text()))
 
     uit = {}
     for body, data in scripts.items():
