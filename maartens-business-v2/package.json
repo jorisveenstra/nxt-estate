@@ -1,0 +1,24 @@
+{
+  "name": "maartens-business-v2-videos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Advertentievideo's Maartens Business (3 doelgroepen x 3 hooks), foto-gebaseerd met animaties",
+  "scripts": {
+    "dev": "remotion studio",
+    "vo": "python3 scripts/maak_vo.py",
+    "render": "for b in 1 2 3; do for h in 1 2 3; do remotion render Body$b-Hook$h \"out/maartens-business-doelgroep$b-hook$h.mp4\" || exit 1; done; done"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.532",
+    "@remotion/cli": "4.0.532",
+    "@remotion/google-fonts": "4.0.532",
+    "@remotion/renderer": "4.0.532",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.532"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.0",
+    "typescript": "5.8.3"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "b1": {
+    "hooks": [
+      "Huur je nu een bedrijfsruimte in Maartensdijk of omgeving, maar wil je eigenlijk een pand dat van jezelf is?",
+      "Heb je een bouw-, installatie- of ambachtelijk bedrijf en wil je werkplaats, materiaal en kantoor op één eigen plek?",
+      "Ben je klaar voor de volgende stap en wil je je bedrijf vestigen in een eigen pand langs de A27?"
+    ],
+    "zinnen": [
+      ["intro", "Bij Maartens Business in Maartensdijk koop je een eigen casco-bedrijfsunit van circa driehonderd vierkante meter, verdeeld over twee bouwlagen."],
+      ["eigen", "Geen ruimte meer die van een ander is, maar een pand dat helemaal van jou is."],
+      ["indeling", "Beneden is plek voor werkplaats, opslag of productie, en boven kun je zelf een kantoor realiseren."],
+      ["casco", "Omdat de unit casco wordt opgeleverd, bepaal je zelf hoe je hem afbouwt en indeelt."],
+      ["terrein", "Je hebt twee eigen parkeerplaatsen voor de deur en een eigen achterterrein van circa twaalf meter diep."],
+      ["planning", "De bouw is gestart en de oplevering staat gepland voor februari 2027."],
+      ["animo", "Zeven van de elf units zijn al verkocht, dus wacht niet te lang."],
+      ["cta", "Klik op de knop hieronder en meld je aan voor een vrijblijvend gesprek over de mogelijkheden, ook als je nog vragen hebt over financiering."]
+    ]
+  },
+  "b2": {
+    "hooks": [
+      "Huur je nu een bedrijfsruimte die eigenlijk niet gemaakt is voor het werk dat je er elke dag doet?",
+      "Staan je machines, materiaal en bus nu verspreid over verschillende plekken, terwijl je alles onder één dak wilt?",
+      "Wil je een bedrijfspand dat er strak uitziet, maar ook gewoon hard kan werken?"
+    ],
+    "zinnen": [
+      ["intro", "Maartens Business in Maartensdijk biedt casco-bedrijfsunits met een betonnen casco, gebouwd voor stevig gebruik."],
+      ["vloer", "De beganegrondvloer draagt duizend kilo per vierkante meter, de verdiepingsvloer vijfhonderd kilo."],
+      ["deuren", "Met overheaddeuren aan de voor- en achterzijde rijd je dwars door je eigen unit."],
+      ["terrein", "Zo bereik je ook je eigen achterterrein van circa twaalf meter diep, want een aparte achterom is er niet."],
+      ["parkeren", "Voor de deur heb je twee eigen parkeerplaatsen, waar je ook laadt en lost."],
+      ["milieu", "Bedrijven tot en met milieucategorie drie punt één zijn hier toegestaan."],
+      ["locatie", "De locatie ligt vlak bij de A27 en heeft een directe verbinding met de N417."],
+      ["cta", "Klik op de knop hieronder en meld je aan voor een afspraak om te bekijken of een unit past bij jouw bedrijfsvoering."]
+    ]
+  },
+  "b3": {
+    "hooks": [
+      "Huur je nu een bedrijfsruimte waar eigenlijk niemand je ziet staan?",
+      "Verdient jouw vakmanschap een eigen werkplaats waar klanten je bedrijf direct herkennen?",
+      "Wil je dat je bedrijfsnaam in beeld is voor het verkeer op de A27?"
+    ],
+    "zinnen": [
+      ["zicht", "Bij Maartens Business koop je een eigen bedrijfspand op een zichtlocatie aan de A27, ook zichtbaar vanaf het spoor."],
+      ["rustig", "Toch ligt het project op een rustig industrieterrein aan de westzijde van Maartensdijk."],
+      ["bereik", "Door de ligging bij de A27 en de directe verbinding met de N417 is het pand goed bereikbaar voor klanten, personeel en leveranciers."],
+      ["gevel", "De betonnen gevel met zwarte accenten geeft je unit een strakke, industriële uitstraling."],
+      ["binnen", "Binnen heb je circa driehonderd vierkante meter over twee lagen, casco opgeleverd, zodat je de indeling zelf bepaalt."],
+      ["prijs", "De units kosten 495.000 euro vrij op naam, exclusief btw."],
+      ["animo", "Zeven van de elf units zijn al verkocht."],
+      ["cta", "Klik op de knop hieronder voor de prijslijst en meld je aan voor jouw eigen unit bij Maartens Business."]
+    ]
+  }
+}
