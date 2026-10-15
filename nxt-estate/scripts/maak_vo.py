@@ -19,6 +19,8 @@ NIEUWE_STILTE = 0.2  # ...tot deze lengte, zodat het verhaal sneller doorloopt m
 
 # Scènes per body: (id, eerste woorden van de scène in de gesproken tekst)
 SCENES = {
+    1: [("belofte", "Dan zetten"), ("mis", "Want dit"), ("idee", "En jij"), ("systeem1", "Het probleem"), ("belteam", "Ons eigen"),
+        ("gesprekken", "Je verkoopteam"), ("cases", "Zo verkochten"), ("partners", "Inmiddels"), ("cta", "Start je")],
     2: [("belofte", "Wij zetten"), ("eilandjes", "Nu heb"), ("schip", "Leads vallen"), ("partner", "Bij ons"),
         ("grip", "Geen lead"), ("partners", "Zo zijn"), ("cta", "Wil jij")],
     3: [("belofte", "Wij gaan"), ("stoppen", "De meeste"), ("vragen", "Wie belt"), ("verloren", "En zo"),

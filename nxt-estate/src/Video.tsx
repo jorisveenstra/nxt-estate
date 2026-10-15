@@ -22,7 +22,10 @@ import {
   CasesScene,
   CtaScene,
   EilandjesScene,
+  GeenSysteemScene,
   GripScene,
+  IdeeScene,
+  MisScene,
   HelftScene,
   HookScene,
   LeegScene,
@@ -160,6 +163,10 @@ const SCENES: Record<string, React.FC<SceneProps>> = {
   systeem: SysteemScene,
   vol: VolScene,
   meer: MeerScene,
+  mis: MisScene,
+  idee: IdeeScene,
+  systeem1: GeenSysteemScene,
+  gesprekken: GripScene,
 };
 
 export const getDuration = (body: number, hook: number, fps: number) => Math.ceil((getTiming(body, hook).end + TAIL) * fps);

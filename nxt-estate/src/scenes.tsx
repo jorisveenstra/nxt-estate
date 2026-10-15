@@ -326,8 +326,17 @@ export const GripScene: React.FC<SceneProps> = ({ scene, outAt }) => {
   const grip = has(scene, "grip");
   const tGrip = grip ? F(T(scene, "grip")) : 0;
   const balk = interpolate(frame, [tGrip, tGrip + 18], [0, 1], { ...clamp, easing: Easing.out(Easing.cubic) });
+  const gesprekken = has(scene, "gesprekken");
   return (
     <Top top={270} gap={26}>
+      {gesprekken ? (
+        <Card at={F(scene.start) - 4} outAt={end} bg={colors.plum} style={{ padding: "34px 46px 38px", width: 940 }}>
+          <Kicker color={colors.pink}>Je verkoopteam voert</Kicker>
+          <div style={{ ...serif, fontSize: 58, color: colors.cream, marginTop: 8 }}>
+            alleen nog <span style={{ fontFamily: fonts.serifItalic, fontStyle: "italic", color: colors.pink }}>gesprekken met kopers</span>
+          </div>
+        </Card>
+      ) : null}
       <Card at={tGeen - 6} outAt={end} style={{ padding: "44px 56px 50px", width: 940, display: "flex", alignItems: "center", gap: 40 }}>
         <div style={{ ...serif, fontSize: 200, lineHeight: 0.9 }}>
           <Teller at={tGeen} from={48} to={0} dur={22} />
@@ -589,7 +598,7 @@ export const CasesScene: React.FC<SceneProps> = ({ scene, outAt }) => {
   return (
     <Top top={270} gap={26}>
       <Case at={tB - 6} nAt={t5} n={5} plaats="Beverwijk" wat="units verkocht" wanneer="in de eerste maand" from="left" />
-      <Case at={tD - 6} nAt={t10} n={10} plaats="Dordrecht" wat="verkopen" wanneer="in 3 maanden" from="right" dark />
+      <Case at={Math.min(tD, t10) - 6} nAt={t10} n={10} plaats="Dordrecht" wat="verkopen" wanneer="in 3 maanden" from="right" dark />
     </Top>
   );
 };
@@ -792,5 +801,105 @@ export const CtaScene: React.FC<SceneProps & { clip: string }> = ({ scene, clip 
         <div style={{ ...sans, fontSize: 32, opacity: arrow }}>nxt-estate.com</div>
       </div>
     </AbsoluteFill>
+  );
+};
+
+// ---------- Hier gaat het mis (V1) ----------
+export const MisScene: React.FC<SceneProps> = ({ scene, outAt }) => {
+  const F = useF();
+  const end = F(outAt) - 6;
+  const regels: [string, string][] = [
+    ["nagebeld", "Leads niet op tijd nagebeld"],
+    ["helft", "De helft heeft geen budget"],
+    ["niemand", "Niemand voelt zich verantwoordelijk"],
+  ];
+  return (
+    <Top top={260} gap={26}>
+      <Card at={F(scene.start) - 4} outAt={end} bg={colors.plum} style={{ padding: "36px 48px 40px" }}>
+        <div style={{ ...serif, fontSize: 62, color: colors.cream }}>
+          Hier gaat het <span style={{ fontFamily: fonts.serifItalic, fontStyle: "italic", color: colors.pink }}>mis</span>
+        </div>
+        <div style={{ ...sans, color: colors.sand, marginTop: 6 }}>bij de meeste projecten</div>
+      </Card>
+      <Card at={F(T(scene, "nagebeld")) - 8} outAt={end} style={{ padding: "40px 46px 44px", width: 940 }}>
+        <div style={{ display: "flex", flexDirection: "column", gap: 24 }}>
+          {regels.map(([w, label]) => {
+            const at = F(T(scene, w));
+            return <Regel key={w} at={at} icon={<Kruis at={at + 3} size={60} />} size={46}>{label}</Regel>;
+          })}
+        </div>
+      </Card>
+    </Top>
+  );
+};
+
+// ---------- Geen idee wat het marketingbudget oplevert (V1) ----------
+export const IdeeScene: React.FC<SceneProps> = ({ scene, outAt }) => {
+  const F = useF();
+  const frame = useCurrentFrame();
+  const end = F(outAt) - 4;
+  const t0 = F(scene.start);
+  const tOp = F(T(scene, "oplevert"));
+  const q = usePop(tOp - 2, { damping: 6, stiffness: 160, mass: 0.9 });
+  const wob = Math.sin(frame / 5) * 8;
+  return (
+    <Top top={290}>
+      <Card at={t0 - 4} outAt={end} style={{ padding: "48px 56px 54px", width: 940, display: "flex", alignItems: "center", gap: 30 }}>
+        <div style={{ flex: 1 }}>
+          <Kicker>Geen idee</Kicker>
+          <div style={{ ...serif, fontSize: 64, marginTop: 10 }}>
+            wat je <Mark at={F(T(scene, "marketingbudget"))}>marketingbudget</Mark> eigenlijk oplevert
+          </div>
+        </div>
+        <div style={{ ...serif, fontSize: 220, lineHeight: 1, color: colors.pinkDeep, transform: `scale(${q}) rotate(${wob * q}deg)` }}>?</div>
+      </Card>
+    </Top>
+  );
+};
+
+// ---------- Geen systeem -> wij bouwen het systeem (V1) ----------
+export const GeenSysteemScene: React.FC<SceneProps> = ({ scene, outAt }) => {
+  const F = useF();
+  const frame = useCurrentFrame();
+  const end = F(outAt) - 6;
+  const t0 = F(scene.start);
+  const tBouwen = F(T(scene, "bouwen"));
+  const tAdv = F(T(scene, "advertentie"));
+  const tVerkoop = F(T(scene, "verkoop"));
+  const stempelUit = tBouwen - 4;
+  const lijn = interpolate(frame, [tAdv, tVerkoop + 6], [0, 1], { ...clamp, easing: Easing.inOut(Easing.cubic) });
+  const stappen = ["Advertentie", "Lead", "Belteam", "Afspraak", "Verkoop"];
+  return (
+    <>
+      <AbsoluteFill style={{ justifyContent: "flex-start", alignItems: "center", paddingTop: 440, opacity: 1 - interpolate(frame, [stempelUit, stempelUit + 6], [0, 1], clamp) }}>
+        <Stempel at={t0 + 4} size={96} dark>
+          Geen systeem.
+        </Stempel>
+      </AbsoluteFill>
+      <Top top={270} gap={26}>
+        <Card at={tBouwen - 6} outAt={end} style={{ padding: "44px 52px 50px", width: 940 }}>
+          <Kicker>Wij bouwen dit systeem voor je</Kicker>
+          <div style={{ ...serif, fontSize: 56, marginTop: 10 }}>
+            van eerste advertentie tot <Mark at={tVerkoop}>laatste verkoop</Mark>
+          </div>
+          <div style={{ position: "relative", marginTop: 40, height: 150 }}>
+            <div style={{ position: "absolute", left: 40, right: 40, top: 34, height: 8, borderRadius: 4, background: colors.sand }} />
+            <div style={{ position: "absolute", left: 40, top: 34, height: 8, borderRadius: 4, width: `calc(${lijn} * (100% - 80px))`, background: colors.plum }} />
+            <div style={{ position: "absolute", inset: 0, display: "flex", justifyContent: "space-between" }}>
+              {stappen.map((st, i) => {
+                const aan = lijn >= i / (stappen.length - 1) - 0.001;
+                const p = usePop(tAdv + i * 6, { damping: 9, stiffness: 220, mass: 0.6 });
+                return (
+                  <div key={st} style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 14, width: 150, transform: `scale(${p})` }}>
+                    <div style={{ width: 76, height: 76, borderRadius: 38, background: aan ? (i === stappen.length - 1 ? colors.plum : colors.pink) : colors.sand, border: `5px solid ${colors.cream}`, boxShadow: "0 6px 16px rgba(42,26,36,0.2)" }} />
+                    <div style={{ ...sans, fontSize: 26, fontWeight: 700, color: colors.plum }}>{st}</div>
+                  </div>
+                );
+              })}
+            </div>
+          </div>
+        </Card>
+      </Top>
+    </>
   );
 };

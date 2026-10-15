@@ -1,4 +1,49 @@
 {
+  "b1": {
+    "hooks": [
+      "Verkoop je als projectontwikkelaar kantoorunits?",
+      "Hey projectontwikkelaar, start je binnenkort de verkoop van meerdere kantoorunits?",
+      "Zoek je als ontwikkelaar leads met serieuze interesse voor jouw kantoorunits?"
+    ],
+    "zinnen": [
+      [
+        "belofte",
+        "Dan zetten wij maandelijks tientallen kopers met budget aan tafel bij jouw verkoopteam."
+      ],
+      [
+        "mis",
+        "Want dit gaat bij de meeste projecten mis. Leads worden niet op tijd nagebeld, de helft heeft geen budget en niemand voelt zich verantwoordelijk."
+      ],
+      [
+        "idee",
+        "En jij hebt geen idee wat je marketingbudget eigenlijk oplevert."
+      ],
+      [
+        "systeem1",
+        "Het probleem is dat er geen systeem in zit. Wij bouwen dit systeem voor je. Van de eerste advertentie tot de laatste verkoop."
+      ],
+      [
+        "belteam",
+        "Ons eigen belteam belt leads binnen één uur, checkt het budget en plant alleen serieuze kopers in bij je verkoopteam."
+      ],
+      [
+        "gesprekken",
+        "Je verkoopteam voert alleen nog gesprekken met kopers en geen enkele lead gaat meer verloren."
+      ],
+      [
+        "cases",
+        "Zo verkochten we voor een project in Beverwijk 5 units in de eerste maand of behaalden we 10 verkopen in 3 maanden tijd voor een project in Dordrecht."
+      ],
+      [
+        "partners",
+        "Inmiddels zijn we partner van meerdere ontwikkelaars en verkopen we projecten keer op keer sneller uit."
+      ],
+      [
+        "cta",
+        "Start je binnenkort met de verkoop van een nieuw project? Klik op de link en plan een korte kennismaking met ons in."
+      ]
+    ]
+  },
   "b2": {
     "hooks": [
       "Ben je projectontwikkelaar van kantoorunits en werk je met meerdere partijen samen voor de verkoop?",
