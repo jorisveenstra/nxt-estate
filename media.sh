@@ -28,6 +28,7 @@ cat > "$FILTER" <<'EOF'
 + public/muziek/**
 + public/broll/**
 + ai-renders/**
++ ai-broll/**
 + renders/**
 + vo-oud/**
 + clips-oud/**

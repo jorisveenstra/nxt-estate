@@ -4,20 +4,22 @@ type ClipList = [string, string | null][];
 
 export const BODIES: Record<number, number> = { 1: 5, 2: 5 }; // aantal hooks per body
 
+// Hooks over Nederland (Den Haag, box 3, bank, pensioen) krijgen Nederlandse beelden ("nl-…", Veo-renders);
+// pas als de oplossing (Lombok/de villa's) ter sprake komt, gaan we naar de villa's.
 export const HOOK_CLIPS: Record<number, Record<number, ClipList>> = {
   1: {
-    1: [["lagune-strand", null], ["villa-zwembad", "den"], ["lagune-rij", "prinsjesdag"]],
-    2: [["lagune-breed", null], ["zwembad-deck", "fictief"], ["lagune-push", "deze"], ["villa-parasol", "10"]],
-    3: [["beachclub-strand", null], ["villa-zwembad-2", "tampah"], ["woonkamer-zwembad", "jij"]],
-    4: [["villa-pad", null], ["buiten-lounge", "inflatie"], ["lagune-rij", "laat"]],
-    5: [["villa-zwembad", null], ["lagune-push", "dan"]],
+    1: [["nl-belastingbrief", null], ["nl-binnenhof", "den"], ["nl-binnenhof-plein", "prinsjesdag"]],
+    2: [["nl-rijtjeshuizen", null], ["nl-papierwerk", "fictief"], ["lagune-push", "deze"], ["villa-parasol", "10"]],
+    3: [["nl-verhuurder-sleutels", null], ["nl-binnenhof", "den"], ["villa-zwembad-2", "tampah"], ["woonkamer-zwembad", "jij"]],
+    4: [["nl-bank-laptop", null], ["nl-euromunten", "inflatie"]],
+    5: [["nl-kantoor-loonstrook", null], ["nl-euromunten", "dan"]],
   },
   2: {
-    1: [["lagune-rij", null], ["villa-tuin", "weet"]],
-    2: [["zwembad-deck", null], ["buiten-lounge", "bouw"]],
-    3: [["beachclub-pad", null], ["lagune-strand", "wil"]],
-    4: [["villa-tuin", null], ["woonkamer-zwembad", "maar"], ["lagune-breed", "deze"]],
-    5: [["lagune-strand", null], ["villa-parasol", "deze"], ["zwembad-deck", "10"]],
+    1: [["nl-pensioen-stel", null], ["nl-pensioen-raam", "weet"]],
+    2: [["nl-pensioen-raam", null], ["nl-papierwerk", "maar"], ["villa-zwembad", "bouw"]],
+    3: [["nl-pensioen-stel", null], ["nl-euromunten", "wil"]],
+    4: [["nl-grachtenpanden", null], ["nl-papierwerk", "kost"], ["lagune-breed", "deze"]],
+    5: [["nl-pensioen-raam", null], ["lagune-strand", "deze"], ["villa-parasol", "10"]],
   },
 };
 
@@ -39,8 +41,8 @@ export const HOOK_ACCENT: Record<number, Record<number, string[]>> = {
 };
 
 const SCENE_CLIPS: Record<string, ClipList> = {
-  denhaag: [["villa-tuin", null], ["eettafel", "steeds"]],
-  box3: [["tuin-villas", null], ["woonkamer", "box"]],
+  denhaag: [["nl-binnenhof", null], ["nl-binnenhof-plein", "steeds"]],
+  box3: [["nl-rijtjeshuizen", null], ["nl-papierwerk", "box"]],
   buitenland: [["lagune-breed", null]],
   merk: [["lagune-push", null]],
   rendement: [["beachclub-strand", null], ["lagune-rij", "tampah"], ["villa-zwembad-2", "10"]],
@@ -49,7 +51,7 @@ const SCENE_CLIPS: Record<string, ClipList> = {
   masterplan: [["beachclub-pad", null], ["restaurant", "restaurant"], ["padel", "padelbanen"], ["jungle-gym", "jungle"]],
   verkocht: [["tuin-villas", null], ["badkamer-spiegels", "oplevering"], ["slaapkamer", "2028"]],
   genieten: [["buiten-lounge", null], ["slaapkamer-2", "gebruik"]],
-  pensioen: [["woonkamer", null], ["eetkamer", "maar"]],
+  pensioen: [["nl-pensioen-stel", null], ["nl-papierwerk", "maar"]],
   vraag: [["restaurant-bar", null], ["beachclub-gebouw", "opleveren"]],
   cta: [["lagune-rij", null]],
 };

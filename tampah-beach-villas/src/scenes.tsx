@@ -169,8 +169,8 @@ const Balk: React.FC<{ at: number; to: number; label: string; dashed?: boolean; 
             top: 0,
             bottom: 0,
             width: `${g * 100}%`,
-            background: dashed ? "transparent" : colors.olive,
-            border: dashed ? `4px dashed ${colors.olive}` : undefined,
+            // "Wat je misschien haalt": gevulde gouden balk (geen lege stippelrand meer)
+            background: dashed ? colors.gold : colors.olive,
           }}
         />
         {tag ? (
