@@ -1,0 +1,56 @@
+{
+  "b1": {
+    "hooks": {
+      "1": "Zoek je in Haarlem een kantoor waar je klanten graag komen en waar je team met uitzicht werkt?",
+      "2": "Wil je je product of je werk laten zien op een plek met karakter, tussen andere ondernemers in Haarlem?",
+      "3": "Werk je nu vanuit een loods of garage en wil je een bedrijfsruimte waar je je klanten met trots ontvangt?"
+    },
+    "zinnen": [
+      ["intro", "Dit is Haarlem Business Center, een nieuw bedrijfsgebouw direct aan Het Spaarne in Haarlem."],
+      ["bedrijven", "Hier komt straks ruimte voor 126 bedrijven uit allerlei branches, van vakbedrijf tot kantoor en van atelier tot groothandel."],
+      ["units", "Je kiest uit een unit met overheaddeur, een unit met glazen gevel, een kantoorunit op de bovenste verdieping of een van de drie grote hallen."],
+      ["lunchroom", "Op de vierde etage zit de lunchroom met dakterras en uitzicht over Het Spaarne, voor je lunch, een klantafspraak of een borrel."],
+      ["netwerk", "Zo kom je elke dag andere ondernemers tegen en wissel je makkelijk ervaringen uit."],
+      ["ligging", "Haarlem Centrum ligt op zo'n kilometer afstand en je parkeert op het eigen terrein."],
+      ["oplevering", "De oplevering is gepland in november 2026."]
+    ],
+    "cta": "Benieuwd welke unit bij jouw bedrijf past? Klik op de knop hieronder, schrijf je in en ontvang alle informatie over de beschikbare units.",
+    "knop": "Schrijf je in"
+  },
+  "b2": {
+    "hooks": {
+      "1": "Zoek je voor je bureau een nieuw kantoor in Haarlem, met parkeren en laadpunten op het eigen terrein?",
+      "3": "Wil je je materiaal, je werkplaats en je kantoor eindelijk onder één dak in Haarlem?",
+      "4": "Groeit je voorraad je huidige pand uit en zoek je in de regio Haarlem meer ruimte met een kantoor erbij?"
+    },
+    "zinnen": [
+      ["huur", "Bij Haarlem Business Center huur je een nieuwe bedrijfsruimte op zo'n kilometer van Haarlem Centrum."],
+      ["twee", "De units met overheaddeur of glazen gevel zijn circa 120 m², verdeeld over twee verdiepingen, dus beneden richt je je werkplaats, opslag of showroom in en boven je kantoor."],
+      ["wensen", "Heb je andere wensen, dan zijn er ook kantoorunits op de bovenste verdieping en drie grote hallen met zwaar belastbare vloeren."],
+      ["parkeren", "Op het terrein liggen 148 parkeerplaatsen, waarvan 16 met laadpunt, en er is 24/7 cameraregistratie."],
+      ["energie", "De bedrijfsunits krijgen standaard een warmtepomp en HR++ beglazing, zodat je energielasten beheersbaar blijven."],
+      ["bereik", "Je zit dicht bij de A9 en de ring A10, en Schiphol ligt op zo'n 15 kilometer."],
+      ["oplevering", "De verhuur is gestart en de oplevering is gepland in november 2026."]
+    ],
+    "cta": "De eerste units zijn al verhuurd. Klik op de knop hieronder en plan je afspraak met onze makelaar in.",
+    "knop": "Plan je afspraak"
+  },
+  "b3": {
+    "hooks": {
+      "1": "Wil je je klanten in Haarlem ontvangen in een kantoor dat meteen de juiste eerste indruk maakt?",
+      "2": "Zoek je in Haarlem een showroom of atelier met veel daglicht en een gevel waarachter je werk gezien wordt?",
+      "3": "Verdient je vakmanschap een bedrijfspand dat er net zo verzorgd uitziet als het werk dat je aflevert?"
+    },
+    "zinnen": [
+      ["intro", "Dit is Haarlem Business Center, een nieuw bedrijfsgebouw in industriële stijl, direct aan Het Spaarne."],
+      ["karakter", "Het pand krijgt een eigen karakter, met veel raampartijen, veel licht en een statige entree met lift."],
+      ["indruk", "Zo maak je bij elke klant, leverancier of nieuwe medewerker meteen een sterke eerste indruk."],
+      ["zichtbaar", "In een unit met glazen gevel zien bezoekers direct waar je bedrijf voor staat, en de grote hallen zijn goed zichtbaar vanaf de Waarderweg en de Kuipersweg."],
+      ["uitzicht", "Vanuit de kantoorunits op de bovenste verdieping kijk je uit over Het Spaarne en Haarlem."],
+      ["label", "Alle unittypes krijgen minimaal energielabel A++, dus je pand past ook bij een bedrijf dat duurzaam wil ondernemen."],
+      ["oplevering", "De verhuur is gestart en de oplevering is gepland in november 2026."]
+    ],
+    "cta": "Wil je zien hoe jouw bedrijf zich hier presenteert? Klik op de knop hieronder en vraag de brochure aan met alle unittypes en plattegronden.",
+    "knop": "Vraag de brochure aan"
+  }
+}

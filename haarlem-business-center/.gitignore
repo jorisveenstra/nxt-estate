@@ -1,0 +1,5 @@
+node_modules
+out
+public/foto/
+public/foto-jpg/
+scripts/tts-cache/

@@ -1,0 +1,210 @@
+{
+ "hbc-spaarne-kant.4": {
+  "sha256_jpg": "f290499d3e1100de331f1c7a4e42e07723ba26b1d651d04b3ba2bd20693b9cf9",
+  "sha256_png": "633c5ea26065ffa3a4d3eb062b4c13f589563054f96bb41678a3b53c439fed81",
+  "asset_id": "09nxg8ApQXVVyWhOoioS",
+  "requested": true,
+  "post_response_keys": [
+   "id",
+   "status"
+  ],
+  "status": "generating",
+  "generation_id": "0RodlZmXtKOw8UGs3qFA",
+  "clip": "public/clips/hbc-spaarne-kant.4.mp4"
+ },
+ "g33": {
+  "sha256_jpg": "83176581fa3705ddc86acb3b4fea05d45be49b0071ecc8d13a81c74e5ff21db1",
+  "sha256_png": "f77ab3696a4e957490f2d70c492dd46f3a07792456097af6efda316b26b2bc37",
+  "asset_id": "zfU97s2ST0bkIjaP5c4K",
+  "requested": true,
+  "generation_id": "BZTCS3vG6TYbGf41gz6d",
+  "post_response_keys": [
+   "id",
+   "status"
+  ],
+  "status": "generating",
+  "clip": "public/clips/g33.mp4"
+ },
+ "h26.1": {
+  "sha256_jpg": "f01e8eb0422191e2a4f9a98e7e33ab6c08f12cf0f760381b14ae99d8310a0205",
+  "sha256_png": "385b997d8a41175423d0401df4c884b0bf6796a44a2fb1d758225ca6b608254a",
+  "asset_id": "jUhKsAltAMIHGVqWSVO0",
+  "requested": true,
+  "generation_id": "YuwvQVJwl1JxGtERt9Xx",
+  "post_response_keys": [
+   "id",
+   "status"
+  ],
+  "status": "generating",
+  "clip": "public/clips/h26.1.mp4"
+ },
+ "h26.10": {
+  "sha256_jpg": "60f4d82492f4eaaecc057d0e44a10ddd194772ba32ca2e7192d069b09940984c",
+  "sha256_png": "7c6bd039ab57c565d8dd91ca14cbe032535bfc042e2f61a939dd17995ddd57f3",
+  "asset_id": "eL6fEDVGzRZvGwXNdvYc",
+  "requested": true,
+  "generation_id": "KDKBY80y0FLC3gdktiFS",
+  "post_response_keys": [
+   "id",
+   "status"
+  ],
+  "status": "generating",
+  "clip": "public/clips/h26.10.mp4"
+ },
+ "h26.2": {
+  "sha256_jpg": "4459e40a895297e19acb6f2833fc8b426d3e3c49ac2c76ada400222a13d6620b",
+  "sha256_png": "65c5d1b73737b4945f2fa988f4ef22f5dcc60a28b925a9cf649a47539a8e03ba",
+  "asset_id": "Ce5u4OqU1g5xdP2esjGd",
+  "requested": true,
+  "generation_id": "G2MIjxX1C7ikCDdE5zHT",
+  "post_response_keys": [
+   "id",
+   "status"
+  ],
+  "status": "generating",
+  "clip": "public/clips/h26.2.mp4"
+ },
+ "h7": {
+  "sha256_jpg": "cf83dcf3ee5b2660b184f4d7bd2935dc4dfa83a366c735c61403577c8d8ced49",
+  "sha256_png": "4f8396395ab0364374b06db249177eb600dd115e40b7f246e43a382f1f1ba554",
+  "asset_id": "iB5WtFXJLZWXegdDbLza",
+  "requested": true,
+  "generation_id": "Qo1evIHyZhqXAvF4Or5Y",
+  "post_response_keys": [
+   "id",
+   "status"
+  ],
+  "status": "generating",
+  "clip": "public/clips/h7.mp4"
+ },
+ "hbc-entree-close-up": {
+  "sha256_jpg": "4fb1db242aee44223414af95a17adf03745cfafcea275b195c6a5c23eef1ebe7",
+  "sha256_png": "11ad77b8eed86f6fc8b0b3f4c585578f8967c9747536bf70f9a866a1a8bb24e7",
+  "asset_id": "eiqfjkYyc2ugnqPNzxZg",
+  "requested": true,
+  "generation_id": "eXEh9juTmj0jNvgGure1",
+  "post_response_keys": [
+   "id",
+   "status"
+  ],
+  "status": "generating",
+  "clip": "public/clips/hbc-entree-close-up.mp4"
+ },
+ "hbc-punt-orgineel": {
+  "sha256_jpg": "e7b4a9628952b6ca559c1e998339659a03a9cbad87ead6e9827f8ef0adf724e9",
+  "sha256_png": "1b4844efacde88ee7a21f0ec0e3f0d6f40f417a651ade530f338346c7bcac589",
+  "asset_id": "dpmCR1LZThPQMt3TEfQE",
+  "requested": true,
+  "generation_id": "UF6iBOLsYCUt5yTPkFTz",
+  "post_response_keys": [
+   "id",
+   "status"
+  ],
+  "status": "generating",
+  "clip": "public/clips/hbc-punt-orgineel.mp4"
+ },
+ "hbc-waarderweg": {
+  "sha256_jpg": "85b77b833f8592b46cfeda5c5d8fd6986dda0aee1dc471c7c9d0d5402040aafe",
+  "sha256_png": "b7abd7fa5c2beb603ed5bba19f148a5ac84fbcfa980ad40cf7242375ecde7750",
+  "asset_id": "dBjKPCytbpnnNvy7lPec",
+  "requested": true,
+  "generation_id": "9E1R3lR3BBgpgNSNGtgH",
+  "post_response_keys": [
+   "id",
+   "status"
+  ],
+  "status": "generating",
+  "clip": "public/clips/hbc-waarderweg.mp4"
+ },
+ "j19": {
+  "sha256_jpg": "eee7e51ed371d371ca976a4bc79f0fddf5d0c64c93d24ce14dadab3458e8cf69",
+  "sha256_png": "d5a5abb6002f4c34174fb500d94431e87b2e19fcb013bdd22587a07f4968ce01",
+  "asset_id": "peRnIzGjz5QLfbwiWH3A",
+  "requested": true,
+  "generation_id": "WA9xjjzDTCtzPkkb7sLp",
+  "post_response_keys": [
+   "id",
+   "status"
+  ],
+  "status": "generating",
+  "clip": "public/clips/j19.mp4"
+ },
+ "j38.3": {
+  "sha256_jpg": "756ecab1c668f7b71a504be354d817ed9674b533a4d99200a9cfff754dcb07e9",
+  "sha256_png": "c70e0f5a63d146cb93b8461f816af38c04de0b13e63646bfdeba794d027d6be8",
+  "asset_id": "9E6WP6VggpCTINJ4TkyY",
+  "requested": true,
+  "generation_id": "RpebSLLhJULwxSFDv8EV",
+  "post_response_keys": [
+   "id",
+   "status"
+  ],
+  "status": "generating",
+  "clip": "public/clips/j38.3.mp4"
+ },
+ "j38": {
+  "sha256_jpg": "e2ed73b08ab3925e92ed5f2fb39ca17c27f1783d1e7496ad3edc787acbdc659b",
+  "sha256_png": "6ba4a95ad5db5ee3912a2f9ae381c3d5fceed34f32a10d9f3b6dc28456fb8b9c",
+  "asset_id": "xWZoa0mIO4CijrEiEVNt",
+  "requested": true,
+  "generation_id": "cAcM2tbu9Ohj6TQVNpPW",
+  "post_response_keys": [
+   "id",
+   "status"
+  ],
+  "status": "generating",
+  "clip": "public/clips/j38.mp4"
+ },
+ "onder-het-dek": {
+  "sha256_jpg": "cdfd122d820cbec40bbb918ade176b1ebc49b4e5b48dd133e1b3b2944968f7cd",
+  "sha256_png": "a1f7dacd8f3f9a55c0e7666799f5e15504bc841ddfbe25d683423c5c79938b97",
+  "asset_id": "cTpTaNHzVMu9a2OTXj1S",
+  "requested": true,
+  "generation_id": "qiyMvpelhtJNvdiqskmV",
+  "post_response_keys": [
+   "id",
+   "status"
+  ],
+  "status": "generating",
+  "clip": "public/clips/onder-het-dek.mp4"
+ },
+ "punt-closeup": {
+  "sha256_jpg": "4bbbf10c0a08d9d94af71ccd89c5f78c494d4fe78ac46ae64c0c0192da23fb38",
+  "sha256_png": "3c467e162dc4c9d7cf06b5d6f55382334edc01030810c3c1b4913eac9e5a46a7",
+  "asset_id": "FQlUHWiewZNuLQCcGVvL",
+  "requested": true,
+  "generation_id": "KRJbLZ3sXxzw1paL57O1",
+  "post_response_keys": [
+   "id",
+   "status"
+  ],
+  "status": "generating",
+  "clip": "public/clips/punt-closeup.mp4"
+ },
+ "units-met-glazen-gevel-gecombineerd": {
+  "sha256_jpg": "5d30c7f746292e2f163e05cd60c6fe719b71b709c3645c9e15444976d2ec3cb4",
+  "sha256_png": "a8e78badf4f8f944432a1455cefe5d37beb89941fe01f47bbe38b50e28468faf",
+  "asset_id": "4FapXbjvnV2I2VtF6dLY",
+  "requested": true,
+  "generation_id": "sy0UXhzF0PrHdiamDqXd",
+  "post_response_keys": [
+   "id",
+   "status"
+  ],
+  "status": "generating",
+  "clip": "public/clips/units-met-glazen-gevel-gecombineerd.mp4"
+ },
+ "units-standaard-met-glazen-overhead-deur": {
+  "sha256_jpg": "ecf348f29032e6d8c6dd62170c2aa62b8673f278c57a4bc563baeff79fce83e2",
+  "sha256_png": "c88c40a420d55cb58564a23adf423bb1ac491a1be6fefb1b1084afd7993f0b79",
+  "asset_id": "AioTAy9xo7mvTlzk6Nue",
+  "requested": true,
+  "generation_id": "KMyWJxeun7kRYTBQeDjh",
+  "post_response_keys": [
+   "id",
+   "status"
+  ],
+  "status": "generating",
+  "clip": "public/clips/units-standaard-met-glazen-overhead-deur.mp4"
+ }
+}

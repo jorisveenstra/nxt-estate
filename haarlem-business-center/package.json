@@ -1,0 +1,25 @@
+{
+  "name": "haarlem-business-center-videos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Advertentievideo's Haarlem Business Center (3 bodies x hooks), 16:9 1080p",
+  "scripts": {
+    "dev": "remotion studio",
+    "vo": "python3 scripts/maak_vo.py",
+    "render": "node scripts/render.mjs"
+  },
+  "dependencies": {
+    "@fontsource/archivo": "5.2.5",
+    "@fontsource/figtree": "5.2.5",
+    "@remotion/bundler": "4.0.532",
+    "@remotion/cli": "4.0.532",
+    "@remotion/renderer": "4.0.532",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.532"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.0",
+    "typescript": "5.8.3"
+  }
+}
