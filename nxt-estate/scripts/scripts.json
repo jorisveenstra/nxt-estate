@@ -166,5 +166,86 @@
         "Start je binnenkort met de verkoop van een nieuw project? Klik dan op de link hieronder en plan een korte kennismaking met ons in."
       ]
     ]
+  },
+  "b5": {
+    "hooks": [
+      "Voor een project van 32 bedrijfsunits van 150 vierkante meter verkochten we in de eerste maand al 8 units."
+    ],
+    "zinnen": [
+      [
+        "binnen2",
+        "Bij een ander project bleven 4 van de 10 units maar onverkocht. Binnen 2 weken na livegang hadden we de eerste al verkocht"
+      ],
+      [
+        "bosch",
+        "en in Den Bosch verhuurden we al in de eerste maand 9 kantoorruimtes van 140 vierkante meter."
+      ],
+      [
+        "hoe",
+        "Hoe? Wij bouwen één systeem dat de juiste kopers aantrekt. Elke lead telefonisch opvolgt en serieuze kopers direct bij je verkoopteam aan tafel zet."
+      ],
+      [
+        "partners",
+        "Inmiddels zijn we partner van meerdere ontwikkelaars in Nederland."
+      ],
+      [
+        "cta",
+        "Start je binnenkort met de verkoop van je kantoorunits of ben je al in verkoop? Klik dan op de link hieronder en plan een kennismaking met ons in."
+      ]
+    ]
+  },
+  "b6": {
+    "hooks": [
+      "Bij een project bleven 4 van de 10 units maar onverkocht. Binnen 2 weken na livegang hadden we al de eerste verkocht."
+    ],
+    "zinnen": [
+      [
+        "units8",
+        "Voor een ander project van 32 bedrijfsunits van 150 vierkante meter verkochten we in de eerste maand al 8 units."
+      ],
+      [
+        "bosch",
+        "En in Den Bosch verhuurden we in de eerste maand al 9 kantoorruimtes van 140 vierkante meter."
+      ],
+      [
+        "hoe",
+        "Hoe? Wij bouwen één systeem dat de juiste kopers aantrekt, elke lead telefonisch opvolgt en serieuze kopers direct bij je verkoopteam aan tafel zet."
+      ],
+      [
+        "partners",
+        "Inmiddels zijn we partner van meerdere ontwikkelaars in Nederland."
+      ],
+      [
+        "cta",
+        "Start jij binnenkort met de verkoop van je kantoorunits of ben je al in verkoop? Klik dan op de link hieronder en plan een korte kennismaking met ons in."
+      ]
+    ]
+  },
+  "b7": {
+    "hooks": [
+      "In Den Bosch verhuren we in de eerste maand al 9 kantoorruimtes van 140 vierkante meter."
+    ],
+    "zinnen": [
+      [
+        "units8",
+        "Voor een project van 32 bedrijfsunits van 150 vierkante meter verkochten we in de eerste maand al 8 units."
+      ],
+      [
+        "binnen2",
+        "En bij een ander project bleven 4 van de 10 units maar onverkocht. Binnen 2 weken na livegang hadden we de eerste al verkocht."
+      ],
+      [
+        "hoe",
+        "Hoe? Wij bouwen één systeem dat de juiste kopers aantrekt. Elke lead telefonisch opvolgt en serieuze kopers direct bij je verkoopteam aan tafel zet."
+      ],
+      [
+        "partners",
+        "Inmiddels zijn we partner van meerdere ontwikkelaars in Nederland."
+      ],
+      [
+        "cta",
+        "Start je binnenkort met de verkoop van je kantoorunits of ben je al in verkoop? Klik dan op de knop hieronder en plan een korte kennismaking met ons in."
+      ]
+    ]
   }
 }

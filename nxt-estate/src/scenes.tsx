@@ -367,7 +367,7 @@ export const PartnersScene: React.FC<SceneProps> = ({ scene, outAt }) => {
   const end = F(outAt) - 6;
   const t0 = F(T(scene, "partner"));
   // Logo's maar kort in beeld: weg zodra het over sneller uitverkopen gaat
-  const logosUit = Math.min(end, F(T(scene, "verkopen")) - 2);
+  const logosUit = has(scene, "verkopen") ? Math.min(end, F(T(scene, "verkopen")) - 2) : end;
   return (
     <Top top={250} gap={26}>
       <Card at={F(scene.start) - 4} outAt={logosUit} style={{ padding: "40px 46px 46px", width: 940 }}>
@@ -397,11 +397,13 @@ export const PartnersScene: React.FC<SceneProps> = ({ scene, outAt }) => {
           })}
         </div>
       </Card>
-      <div style={{ position: "absolute", top: 420, left: 70 }}>
-        <Chip at={logosUit + 4} outAt={end} dark style={{ fontSize: 46, padding: "24px 40px" }}>
-          Keer op keer sneller uitverkocht
-        </Chip>
-      </div>
+      {has(scene, "sneller") ? (
+        <div style={{ position: "absolute", top: 420, left: 70 }}>
+          <Chip at={logosUit + 4} outAt={end} dark style={{ fontSize: 46, padding: "24px 40px" }}>
+            Keer op keer sneller uitverkocht
+          </Chip>
+        </div>
+      ) : null}
     </Top>
   );
 };
@@ -760,7 +762,9 @@ export const CtaScene: React.FC<SceneProps & { clip: string }> = ({ scene, clip 
   const pulse = frame > tKlik + 10 ? 1 + Math.sin((frame - tKlik) / 5) * 0.035 : 1;
   const arrow = usePop(tPlan);
   const headP = usePop(t0 + 10);
-  const kop = has(scene, "losse")
+  const kop = has(scene, "kantoorunits")
+    ? ["Kantoorunits in de verkoop? ", "Plan een kennismaking"]
+    : has(scene, "losse")
     ? ["Van losse partijen naar ", "één systeem"]
     : has(scene, "partner")
       ? ["Een partner die verder gaat ", "dan de lead"]
@@ -897,6 +901,165 @@ export const GeenSysteemScene: React.FC<SceneProps> = ({ scene, outAt }) => {
                 );
               })}
             </div>
+          </div>
+        </Card>
+      </Top>
+    </>
+  );
+};
+
+// ---------- Case-resultaten (case-video's) ----------
+const Raster: React.FC<{ n: number; kolommen: number; at: number; kleur: (i: number) => string; grootte: number }> = ({ n, kolommen, at, kleur, grootte }) => (
+  <div style={{ display: "grid", gridTemplateColumns: `repeat(${kolommen}, ${grootte}px)`, gap: 10 }}>
+    {Array.from({ length: n }, (_, i) => {
+      const p = usePop(at + i * 0.6, { damping: 10, stiffness: 240, mass: 0.5 });
+      return <div key={i} style={{ width: grootte, height: grootte, borderRadius: grootte / 4, background: kleur(i), transform: `scale(${p})` }} />;
+    })}
+  </div>
+);
+
+const Units8: React.FC<SceneProps & { hook: boolean }> = ({ scene, outAt, hook }) => {
+  const F = useF();
+  const frame = useCurrentFrame();
+  const end = F(outAt) - 6;
+  const t0 = hook ? 0 : F(scene.start) - 4;
+  const t8 = F(T(scene, "8"));
+  const verkocht = (i: number) => interpolate(frame, [t8 + i, t8 + i + 3], [0, 1], clamp) > 0.5;
+  return (
+    <Top top={270} gap={24}>
+      <Card at={t0} outAt={end} style={{ padding: "40px 50px 46px", width: 940 }}>
+        <Kicker>32 bedrijfsunits · 150 m²</Kicker>
+        <div style={{ display: "flex", alignItems: "center", gap: 30, marginTop: 14 }}>
+          <div style={{ ...serif, fontSize: 210, lineHeight: 0.9 }}>
+            <Teller at={t8} to={8} dur={16} />
+          </div>
+          <div>
+            <div style={{ ...serif, fontSize: 64 }}>units verkocht</div>
+            <div style={{ ...serif, fontSize: 48, marginTop: 6 }}>
+              in de <Mark at={F(T(scene, "eerste"))}>eerste maand</Mark>
+            </div>
+          </div>
+        </div>
+        <div style={{ marginTop: 30 }}>
+          <Raster n={32} kolommen={8} at={t0 + 6} grootte={92} kleur={(i) => (i < 8 && verkocht(i) ? colors.pinkDeep : colors.sand)} />
+        </div>
+      </Card>
+    </Top>
+  );
+};
+
+const Binnen2: React.FC<SceneProps & { hook: boolean }> = ({ scene, outAt, hook }) => {
+  const F = useF();
+  const frame = useCurrentFrame();
+  const end = F(outAt) - 6;
+  const t0 = hook ? 0 : F(scene.start) - 4;
+  const tOnv = F(T(scene, "onverkocht"));
+  const tBinnen = F(T(scene, "binnen"));
+  const tVerkocht = F(T(scene, "verkocht"));
+  const onv = interpolate(frame, [tOnv - 4, tOnv + 4], [0, 1], clamp);
+  const eerste = interpolate(frame, [tVerkocht, tVerkocht + 6], [0, 1], clamp);
+  return (
+    <Top top={270} gap={24}>
+      <Card at={t0} outAt={end} style={{ padding: "40px 50px 46px", width: 940 }}>
+        <Kicker>{has(scene, "ander") ? "Bij een ander project" : "Project kantoorunits"}</Kicker>
+        <div style={{ ...serif, fontSize: 64, marginTop: 10 }}>
+          4 van de 10 units bleven <Mark at={tOnv}>onverkocht</Mark>
+        </div>
+        <div style={{ marginTop: 30 }}>
+          <Raster
+            n={10}
+            kolommen={5}
+            at={t0 + 6}
+            grootte={150}
+            kleur={(i) => (i < 6 ? colors.plum : i === 6 && eerste > 0.5 ? colors.pinkDeep : onv > 0.5 ? colors.sand : colors.plum)}
+          />
+        </div>
+      </Card>
+      <Card at={tBinnen - 6} outAt={end} bg={colors.plum} from="right" style={{ padding: "32px 46px 36px", display: "flex", alignItems: "center", gap: 26 }}>
+        <Clock size={70} color={colors.pink} />
+        <div>
+          <div style={{ ...serif, fontSize: 56, color: colors.cream }}>Binnen 2 weken</div>
+          <div style={{ ...sans, color: colors.sand }}>na livegang de eerste verkocht</div>
+        </div>
+        <Vinkje at={tVerkocht} size={70} />
+      </Card>
+    </Top>
+  );
+};
+
+const Bosch: React.FC<SceneProps & { hook: boolean }> = ({ scene, outAt, hook }) => {
+  const F = useF();
+  const end = F(outAt) - 6;
+  const t0 = hook ? 0 : F(scene.start) - 4;
+  const t9 = F(T(scene, "9"));
+  return (
+    <Top top={270} gap={24}>
+      <Card at={t0} outAt={end} style={{ padding: "40px 50px 46px", width: 940 }}>
+        <Kicker>Den Bosch · 140 m²</Kicker>
+        <div style={{ display: "flex", alignItems: "center", gap: 30, marginTop: 14 }}>
+          <div style={{ ...serif, fontSize: 210, lineHeight: 0.9 }}>
+            <Teller at={t9} to={9} dur={16} />
+          </div>
+          <div>
+            <div style={{ ...serif, fontSize: 60 }}>kantoorruimtes verhuurd</div>
+            <div style={{ ...serif, fontSize: 48, marginTop: 6 }}>
+              in de <Mark at={F(T(scene, "eerste"))}>eerste maand</Mark>
+            </div>
+          </div>
+        </div>
+        <div style={{ marginTop: 30 }}>
+          <Raster n={9} kolommen={9} at={t9} grootte={82} kleur={() => colors.pinkDeep} />
+        </div>
+      </Card>
+    </Top>
+  );
+};
+
+// Kiest het juiste case-resultaat op basis van de tekst; als eerste scène is het de hook
+export const CaseScene: React.FC<SceneProps & { hook?: boolean }> = ({ scene, outAt, hook = false }) =>
+  has(scene, "32") ? (
+    <Units8 scene={scene} outAt={outAt} hook={hook} />
+  ) : has(scene, "onverkocht") ? (
+    <Binnen2 scene={scene} outAt={outAt} hook={hook} />
+  ) : (
+    <Bosch scene={scene} outAt={outAt} hook={hook} />
+  );
+
+// ---------- Hoe? Eén systeem (case-video's) ----------
+export const HoeScene: React.FC<SceneProps> = ({ scene, outAt }) => {
+  const F = useF();
+  const frame = useCurrentFrame();
+  const end = F(outAt) - 6;
+  const t0 = F(scene.start);
+  const tSys = F(T(scene, "systeem"));
+  const regels: [string, string][] = [
+    ["aantrekt", "Trekt de juiste kopers aan"],
+    ["telefonisch", "Volgt elke lead telefonisch op"],
+    ["tafel", "Zet serieuze kopers aan tafel"],
+  ];
+  return (
+    <>
+      <AbsoluteFill style={{ justifyContent: "flex-start", alignItems: "center", paddingTop: 440, opacity: 1 - interpolate(frame, [tSys - 10, tSys - 4], [0, 1], clamp) }}>
+        <Stempel at={t0} size={130} dark>
+          Hoe?
+        </Stempel>
+      </AbsoluteFill>
+      <Top top={270} gap={24}>
+        <Card at={tSys - 6} outAt={end} bg={colors.plum} style={{ padding: "34px 46px 38px" }}>
+          <div style={{ ...serif, fontSize: 62, color: colors.cream }}>
+            <span style={{ fontFamily: fonts.serifItalic, fontStyle: "italic", color: colors.pink }}>Eén</span> systeem
+          </div>
+        </Card>
+        <Card at={F(T(scene, "aantrekt")) - 8} outAt={end} style={{ padding: "40px 46px 44px", width: 940 }}>
+          <div style={{ display: "flex", flexDirection: "column", gap: 24 }}>
+            {regels.map(([w, label]) => {
+              const at = F(T(scene, w));
+              return (
+                <Regel key={w} at={at} icon={<Vinkje at={at + 4} size={60} />} size={48}>
+                  {label}
+                </Regel>
+              );
+            })}
           </div>
         </Card>
       </Top>

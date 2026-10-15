@@ -19,11 +19,13 @@ import {
   AgendaScene,
   BelofteScene,
   BelteamScene,
+  CaseScene,
   CasesScene,
   CtaScene,
   EilandjesScene,
   GeenSysteemScene,
   GripScene,
+  HoeScene,
   IdeeScene,
   MisScene,
   HelftScene,
@@ -163,6 +165,10 @@ const SCENES: Record<string, React.FC<SceneProps>> = {
   systeem: SysteemScene,
   vol: VolScene,
   meer: MeerScene,
+  units8: CaseScene,
+  binnen2: CaseScene,
+  bosch: CaseScene,
+  hoe: HoeScene,
   mis: MisScene,
   idee: IdeeScene,
   systeem1: GeenSysteemScene,
@@ -205,7 +211,12 @@ export const NxtVideo: React.FC<VideoProps> = ({ body, hook }) => {
         return (
           <Sequence key={sc.id} from={0} durationInFrames={F(next) + 2} layout="none">
             {sc.id === "hook" ? (
-              <HookScene scene={sc} outAt={next} accent={HOOK_ACCENT[body][hook]} />
+              body >= 5 ? (
+                // Case-video's openen direct met het eerste case-resultaat
+                <CaseScene scene={sc} outAt={next} hook />
+              ) : (
+                <HookScene scene={sc} outAt={next} accent={HOOK_ACCENT[body][hook]} />
+              )
             ) : (
               React.createElement(SCENES[sc.id], { scene: sc, outAt: next })
             )}

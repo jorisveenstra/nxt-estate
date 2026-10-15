@@ -3,9 +3,13 @@
 // Clips: p<project>-<n> = AI-renders van kantoorunits uit project 1 t/m 4.
 type ClipList = [string, string | null][];
 
-export const BODIES: Record<number, number> = { 1: 3, 2: 3, 3: 3, 4: 3 };
+// 1-4 = kantoorunits V1-V4 (3 hooks), 5-7 = case-video's V1-V3 (één opname, de eerste case is de hook)
+export const BODIES: Record<number, number> = { 1: 3, 2: 3, 3: 3, 4: 3, 5: 1, 6: 1, 7: 1 };
 
 export const HOOK_CLIPS: Record<number, Record<number, ClipList>> = {
+  5: { 1: [["case-1", null], ["case-2", "verkochten"]] },
+  6: { 1: [["case-7", null], ["case-3", "binnen"]] },
+  7: { 1: [["case-8", null], ["case-6", "kantoorruimtes"]] },
   1: {
     1: [["p2-1", null]],
     2: [["p4-4", null], ["p1-1", "verkoop"]],
@@ -29,6 +33,9 @@ export const HOOK_CLIPS: Record<number, Record<number, ClipList>> = {
 };
 
 export const HOOK_ACCENT: Record<number, Record<number, string[]>> = {
+  5: { 1: [] },
+  6: { 1: [] },
+  7: { 1: [] },
   1: { 1: ["kantoorunits"], 2: ["meerdere", "kantoorunits"], 3: ["serieuze", "interesse"] },
   2: { 1: ["meerdere", "partijen"], 2: ["hoeveel", "partijen"], 3: ["leads", "gebeurt"] },
   3: { 1: ["niets", "mee"], 2: ["leads", "verkopen"], 3: ["geen", "kopers"] },
@@ -56,6 +63,10 @@ const SCENE_CLIPS: Record<string, ClipList> = {
   systeem: [["p1-2", null], ["p2-4", "aanvraag"]],
   vol: [["p4-3", null]],
   meer: [["p2-2", null]],
+  units8: [["case-1", null], ["case-2", "verkochten"]],
+  binnen2: [["case-7", null], ["case-3", "binnen"]],
+  bosch: [["case-8", null], ["case-6", "kantoorruimtes"]],
+  hoe: [["case-5", null], ["p4-3", "telefonisch"], ["p2-4", "serieuze"]],
   mis: [["p3-4", null], ["p4-1", "nagebeld"]],
   idee: [["p2-3", null]],
   systeem1: [["p1-3", null], ["p4-3", "bouwen"]],
@@ -64,7 +75,11 @@ const SCENE_CLIPS: Record<string, ClipList> = {
 };
 
 // V1 heeft dezelfde scènes maar met andere zinsvolgorde: daar eerder knippen
+const CASE_PARTNERS: ClipList = [["case-4", null]];
 const SCENE_CLIPS_BODY: Record<number, Record<string, ClipList>> = {
+  5: { partners: CASE_PARTNERS },
+  6: { partners: CASE_PARTNERS },
+  7: { partners: CASE_PARTNERS },
   1: {
     cases: [["p1-1", null], ["p3-1", "behaalden"]],
     partners: [["p3-3", null], ["p4-2", "verkopen"]],

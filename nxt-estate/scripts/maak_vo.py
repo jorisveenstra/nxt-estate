@@ -30,7 +30,35 @@ SCENES = {
 }
 
 # Spelling in beeld
-SPELLING = {"kantoor units": "kantoorunits", "vijf units": "5 units", "tien verkopen": "10 verkopen", "drie maanden": "3 maanden"}
+SPELLING = {"kantoor units": "kantoorunits", "vijf units": "5 units", "tien verkopen": "10 verkopen", "drie maanden": "3 maanden",
+            "acht units": "8 units", "negen kantoorruimtes": "9 kantoorruimtes", "vier van de tien": "4 van de 10",
+            "twee weken": "2 weken", "live gang": "livegang"}
+
+# Case-video's (één opname per video): body 5, 6 en 7 = Case V1, V2, V3. De eerste case is de "hook".
+CASES = {
+    5: ("Case V1", [("hook", "Voor een project van"), ("binnen2", "Bij een ander"), ("bosch", "en in Den Bosch"), ("hoe", "Hoe?"), ("partners", "Inmiddels"), ("cta", "Start je")]),
+    6: ("Case V2", [("hook", "Bij een project"), ("units8", "Voor een ander"), ("bosch", "En in Den Bosch"), ("hoe", "Hoe?"), ("partners", "Inmiddels"), ("cta", "Start jij")]),
+    7: ("Case V3", [("hook", "In Den Bosch"), ("units8", "Voor een project"), ("binnen2", "En bij een"), ("hoe", "Hoe?"), ("partners", "Inmiddels"), ("cta", "Start je")]),
+}
+
+
+def zonder_verspreking(ws):
+    """Case V3: eerste poging van de CTA ("...klik dan op de klok.") eruit; de tweede poging blijft staan."""
+    tekst = [w[2].lower() for w in ws]
+    if "klok." not in tekst:
+        return ws
+    eind = tekst.index("klok.")
+    begin = max(i for i in range(eind) if tekst[i] == "start")
+    return ws[:begin] + ws[eind + 1:]
+
+
+def splits(tekst_, scenes):
+    zinnen = []
+    for i, (sid, start) in enumerate(scenes):
+        a = tekst_.index(start)
+        b = tekst_.index(scenes[i + 1][1], a + 1) if i + 1 < len(scenes) else len(tekst_)
+        zinnen.append([sid, tekst_[a:b].strip()])
+    return zinnen
 
 
 def duur(p):
@@ -99,6 +127,13 @@ def main():
                             f"[0]apad=pad_dur={PAUZE}[a];[a][1]concat=n=2:v=0:a=1,loudnorm=I=-14:TP=-1:LRA=9", "-ar", "48000", str(ROOT / f"public/vo/{key}.wav")], check=True)
             print(key, f"{duur(ROOT / f'public/vo/{key}.wav'):.1f}s")
         scripts[f"b{v}"] = {"hooks": hooks, "zinnen": zinnen}
+    for b, (naam, scenes) in CASES.items():
+        ws = knip(naam, zonder_verspreking(stt[naam]), tmp / f"case{b}.wav")
+        zinnen = splits(tekst(ws), scenes)
+        scripts[f"b{b}"] = {"hooks": [zinnen[0][1]], "zinnen": zinnen[1:]}
+        alle[f"b{b}h1"] = ws
+        subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", str(tmp / f"case{b}.wav"), "-af", "loudnorm=I=-14:TP=-1:LRA=9", "-ar", "48000", str(ROOT / f"public/vo/b{b}h1.wav")], check=True)
+        print(f"b{b}h1 ({naam})", f"{duur(ROOT / f'public/vo/b{b}h1.wav'):.1f}s")
     (ROOT / "scripts/scripts.json").write_text(json.dumps(scripts, ensure_ascii=False, indent=2))
     (ROOT / "scripts/woorden-tts.json").write_text(json.dumps(alle, ensure_ascii=False))
 
