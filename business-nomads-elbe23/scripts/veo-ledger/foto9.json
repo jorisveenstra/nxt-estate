@@ -1,0 +1,30 @@
+{
+ "asset_id": "t03oUPYcp6xZUbfkblhN",
+ "asset_raw": {
+  "asset_id": "t03oUPYcp6xZUbfkblhN",
+  "name": "elbe23-foto9-portrait",
+  "mime_type": "image/jpeg",
+  "created_at_unix": 1792140963,
+  "content_url": "https://storage.googleapis.com/xi-backend/database/workspace/9e0d1fb9d61845dc85e2924bf2b5e3b4/content_generation/content_asset/t03oUPYcp6xZUbfkblhN/asset.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=xi-backend-prod%40xi-labs.iam.gserviceaccount.com%2F20261016%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261016T085603Z&X-Goog-Expires=7200&X-Goog-SignedHeaders=host&X-Goog-Signature=382b5f047bfc559943e2591cb688b7a45a58853084e9ceb6f7aaf39bf1db9ddb30b990b82b2e00a576a7c6e92b63144e93d2ddadde9ad6a66782aa6aff9595c2ebeb4933456eb964f6ec50352a5feeeb2d355f567b03031de12fca2611eba53386e097144a2ef2c44929c356594c1348db654065a95303eeae3f94e215605dd332b3c9362851d34e69de88c9344d9f6f54dc85eefff37de36ba0ec881d7eb3675e8042451aab06e1c2ee90639a70330e2945214b40f3113059a52790e6ecf606715abb148acca469cf2233a5dca4ae693c918ce5bf1b8e8ced9d2458a2ed8964735441d5f516a20728702a0d4c595eacadf97bf088055f7c7f9c8df03c0019e0"
+ },
+ "generation_id": "OFLpcVETGSe81jsl7spN",
+ "submit_raw": {
+  "id": "OFLpcVETGSe81jsl7spN",
+  "status": "pending"
+ },
+ "result": {
+  "id": "OFLpcVETGSe81jsl7spN",
+  "status": "completed",
+  "content_mime_type": "video/mp4"
+ },
+ "probe": {
+  "programs": [],
+  "streams": [
+   {
+    "width": 1080,
+    "height": 1920,
+    "duration": "8.000000"
+   }
+  ]
+ }
+}

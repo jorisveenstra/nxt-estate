@@ -1,0 +1,80 @@
+{
+ "1": {
+  "original": "2026_09_22_1 - Photo.jpg",
+  "sha256": "66d051cef7b7ed5b31f4b1633bf6b312ae512a6af406ac7d0c16fdae923bf110",
+  "cropX": 1233,
+  "cropW": 1215
+ },
+ "2": {
+  "original": "2026_09_22_2 - Photo.jpg",
+  "sha256": "10b67fe2b427a70772025739ecc8d66e64d998b2e13d343df0a0c84c24147bda",
+  "cropX": 1473,
+  "cropW": 1215
+ },
+ "3": {
+  "original": "2026_09_22_3 - Photo.jpg",
+  "sha256": "19fc6b288638bd6912665fee0580d03f66f243639ee5de0297cb9003cdd79b00",
+  "cropX": 1553,
+  "cropW": 1215
+ },
+ "4": {
+  "original": "2026_09_22_4 - Photo.jpg",
+  "sha256": "0756a9a4c337eb04915f2c1b0978d2bd9ba2c786b29658bc20ef1f3109ee497e",
+  "cropX": 1313,
+  "cropW": 1215
+ },
+ "5": {
+  "original": "2026_09_22_5 - Photo.jpg",
+  "sha256": "2c9a2a04cb8ef261da2a715603f172032d0b8508b9b979e0f00fae6b9836fd3f",
+  "cropX": 993,
+  "cropW": 1215
+ },
+ "6": {
+  "original": "2026_09_22_6 - Photo.jpg",
+  "sha256": "9f00912c1ea354667e8428097aa9459bc1103ff0c3fa3339dd86e15116a809d0",
+  "cropX": 1793,
+  "cropW": 1215
+ },
+ "7": {
+  "original": "2026_09_22_7 - Photo.jpg",
+  "sha256": "b586e9906f52b55d4292a0b63f4b5b7023a5b285a373d8a98701fe76f432816c",
+  "cropX": 1793,
+  "cropW": 1215
+ },
+ "8": {
+  "original": "2026_09_22_8 - Photo.jpg",
+  "sha256": "157974404c947a53119677f2f4e4cf6375800baf4d8208141d16fcf531aea167",
+  "cropX": 1313,
+  "cropW": 1215
+ },
+ "9": {
+  "original": "2026_09_22_9 - Photo.jpg",
+  "sha256": "3478d58715c7869bb8eea2dfec84cb9ab646ef561ff49f7e5668248773bca852",
+  "cropX": 1553,
+  "cropW": 1215
+ },
+ "10": {
+  "original": "2026_09_22_10 - Photo.jpg",
+  "sha256": "664cb902e999efc1606752fc0dcaa906869a7a4845af42288a990d15325f7a9a",
+  "cropX": 1393,
+  "cropW": 1215
+ },
+ "11": {
+  "original": "2026_09_22_11 - Photo.jpg",
+  "sha256": "dbfc9c8c1988084eb5b5cbe0fc9c42b96f0a91c64d8c2c528431b8e74031f5b4",
+  "cropX": 1343,
+  "cropW": 1215
+ },
+ "12": {
+  "original": "2026_09_22_12 - Photo.jpg",
+  "sha256": "4091330f6c4f03a310df18bd3afacaa20ea1be912ca528b56b4867488ab8e1f8",
+  "cropX": 1233,
+  "cropW": 1215
+ },
+ "13": {
+  "original": "2026_09_22_13 - Photo.jpg",
+  "sha256": "12647b9abe614fc8c2e11dd62a14bbb2b39b3c1e14a43b0322605899cfd34b74",
+  "cropX": 1553,
+  "cropW": 1215
+ }
+}

@@ -28,3 +28,7 @@ out/
 .DS_Store
 .env
 *.log
+**/clips-orig/
+**/portrait/
+**/source-photos/
+**/out/
