@@ -1,0 +1,332 @@
+{
+ "img09": {
+  "submitting": false,
+  "asset_id": "geq9hrkNO1NWStKidib3",
+  "asset_raw": {
+   "asset_id": "geq9hrkNO1NWStKidib3",
+   "name": "pattistpark-09",
+   "mime_type": "image/jpeg",
+   "created_at_unix": 1792155210
+  },
+  "generation_id": "JXqGLy05uNQ1BVXMnlMJ",
+  "submit_raw": {
+   "id": "JXqGLy05uNQ1BVXMnlMJ",
+   "status": "pending"
+  },
+  "state": "downloaded",
+  "src_sha256": "cbe5ae8c6dbc928278f84e86b108100f88517ff949d549b2b8393f58bb4c97cf",
+  "final_raw": {
+   "id": "JXqGLy05uNQ1BVXMnlMJ",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "img00": {
+  "submitting": false,
+  "asset_id": "qEDDZumT4OnfmPXmctCS",
+  "asset_raw": {
+   "asset_id": "qEDDZumT4OnfmPXmctCS",
+   "name": "pattistpark-00",
+   "mime_type": "image/jpeg",
+   "created_at_unix": 1792155337
+  },
+  "generation_id": "fhYHF1NyL1DV0kJhBl0H",
+  "submit_raw": {
+   "id": "fhYHF1NyL1DV0kJhBl0H",
+   "status": "pending"
+  },
+  "state": "downloaded",
+  "src_sha256": "e83c8602ee3e07f6bbb5ccefe4f7f0a5a3f75399af18965e8ac290064ee97209",
+  "final_raw": {
+   "id": "fhYHF1NyL1DV0kJhBl0H",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "img02": {
+  "submitting": false,
+  "asset_id": "cgfPijjFnzJBabyM47uH",
+  "asset_raw": {
+   "asset_id": "cgfPijjFnzJBabyM47uH",
+   "name": "pattistpark-02",
+   "mime_type": "image/jpeg",
+   "created_at_unix": 1792155337
+  },
+  "generation_id": "zwFSBZ5c21McrYaWeV8t",
+  "submit_raw": {
+   "id": "zwFSBZ5c21McrYaWeV8t",
+   "status": "pending"
+  },
+  "state": "downloaded",
+  "src_sha256": "e57dda72806d44773c0a6722c15ad2a0e62bb5cc53905fd58c928a158b7f1ab0",
+  "final_raw": {
+   "id": "zwFSBZ5c21McrYaWeV8t",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "img06": {
+  "submitting": false,
+  "asset_id": "rqhhiAgKjAb0QfLsrn1c",
+  "asset_raw": {
+   "asset_id": "rqhhiAgKjAb0QfLsrn1c",
+   "name": "pattistpark-06",
+   "mime_type": "image/jpeg",
+   "created_at_unix": 1792155337
+  },
+  "generation_id": "xFH8O2KTIBJ43ftfdlFy",
+  "submit_raw": {
+   "id": "xFH8O2KTIBJ43ftfdlFy",
+   "status": "pending"
+  },
+  "state": "downloaded",
+  "src_sha256": "237a1f52238abd3fe4f320058da6e5b63bbc4db014437049288b48bb9cd96353",
+  "final_raw": {
+   "id": "xFH8O2KTIBJ43ftfdlFy",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "img07": {
+  "submitting": false,
+  "asset_id": "dY2c7srmn1aNX0T42m5V",
+  "asset_raw": {
+   "asset_id": "dY2c7srmn1aNX0T42m5V",
+   "name": "pattistpark-07",
+   "mime_type": "image/jpeg",
+   "created_at_unix": 1792155337
+  },
+  "generation_id": "AE1mzMJuhVczdVic8U8j",
+  "submit_raw": {
+   "id": "AE1mzMJuhVczdVic8U8j",
+   "status": "pending"
+  },
+  "state": "downloaded",
+  "src_sha256": "b36ce7f2f270cb34012af34c6efd5f4934b4c225f22f4b62aa13b950d469ff5d",
+  "final_raw": {
+   "id": "AE1mzMJuhVczdVic8U8j",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "img10": {
+  "submitting": false,
+  "asset_id": "yl6e5MhBWEgYVZlFqa9F",
+  "asset_raw": {
+   "asset_id": "yl6e5MhBWEgYVZlFqa9F",
+   "name": "pattistpark-10",
+   "mime_type": "image/jpeg",
+   "created_at_unix": 1792155337
+  },
+  "generation_id": "izNQqN2CIVD3ac2Px0PI",
+  "submit_raw": {
+   "id": "izNQqN2CIVD3ac2Px0PI",
+   "status": "pending"
+  },
+  "state": "downloaded",
+  "src_sha256": "9908bab21f97748d3bd00f837b8637e48f73786df0381f0ec35eddbc0a3ef060",
+  "final_raw": {
+   "id": "izNQqN2CIVD3ac2Px0PI",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "img12": {
+  "submitting": false,
+  "asset_id": "xrDY7BEguXsYdpbKlzC6",
+  "asset_raw": {
+   "asset_id": "xrDY7BEguXsYdpbKlzC6",
+   "name": "pattistpark-12",
+   "mime_type": "image/jpeg",
+   "created_at_unix": 1792155337
+  },
+  "generation_id": "dikEnwnWdTJAnt4UiBAE",
+  "submit_raw": {
+   "id": "dikEnwnWdTJAnt4UiBAE",
+   "status": "pending"
+  },
+  "state": "downloaded",
+  "src_sha256": "d6d02ee1a22604dcc68abda13b224ef7458dac90e84ab939c7c2ce0181d23134",
+  "final_raw": {
+   "id": "dikEnwnWdTJAnt4UiBAE",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "img13": {
+  "submitting": false,
+  "asset_id": "mZLxYYOGogVC9ULcyhL3",
+  "asset_raw": {
+   "asset_id": "mZLxYYOGogVC9ULcyhL3",
+   "name": "pattistpark-13",
+   "mime_type": "image/jpeg",
+   "created_at_unix": 1792155337
+  },
+  "generation_id": "5LHDgQUasVdxlh2C9Ghf",
+  "submit_raw": {
+   "id": "5LHDgQUasVdxlh2C9Ghf",
+   "status": "pending"
+  },
+  "state": "downloaded",
+  "src_sha256": "14824702109fe495644077a84587b0af205417e1470c4968cd9a09441ea29a60",
+  "final_raw": {
+   "id": "5LHDgQUasVdxlh2C9Ghf",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "img15": {
+  "submitting": false,
+  "asset_id": "QMrakB1G2H6O7Ym19OHW",
+  "asset_raw": {
+   "asset_id": "QMrakB1G2H6O7Ym19OHW",
+   "name": "pattistpark-15",
+   "mime_type": "image/jpeg",
+   "created_at_unix": 1792155337
+  },
+  "generation_id": "Hya1XOhuu7WtezMjCCeu",
+  "submit_raw": {
+   "id": "Hya1XOhuu7WtezMjCCeu",
+   "status": "pending"
+  },
+  "state": "downloaded",
+  "src_sha256": "461b855faf56c7ef8d052df6bf9beaf98e8cb77707b67cd792fbac67dcb58487",
+  "final_raw": {
+   "id": "Hya1XOhuu7WtezMjCCeu",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "img03": {
+  "submitting": false,
+  "asset_id": "ahqNAj5yiREYYA208L2Y",
+  "asset_raw": {
+   "asset_id": "ahqNAj5yiREYYA208L2Y",
+   "name": "pattistpark-03",
+   "mime_type": "image/jpeg",
+   "created_at_unix": 1792155438
+  },
+  "generation_id": "pNFARZIfeBrxSTUHZRYd",
+  "submit_raw": {
+   "id": "pNFARZIfeBrxSTUHZRYd",
+   "status": "pending"
+  },
+  "state": "downloaded",
+  "src_sha256": "a9ad8c904fed0bdda4c34afdf583ad05a7ecf21440eac0ad111af3e21478d678",
+  "final_raw": {
+   "id": "pNFARZIfeBrxSTUHZRYd",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "img05": {
+  "submitting": false,
+  "asset_id": "zT4HcDpDCn4BiFxssNdL",
+  "asset_raw": {
+   "asset_id": "zT4HcDpDCn4BiFxssNdL",
+   "name": "pattistpark-05",
+   "mime_type": "image/jpeg",
+   "created_at_unix": 1792155438
+  },
+  "generation_id": "sNT4adhnPvhUrNw6h9aL",
+  "submit_raw": {
+   "id": "sNT4adhnPvhUrNw6h9aL",
+   "status": "pending"
+  },
+  "state": "downloaded",
+  "src_sha256": "cde70e27f381e4ba0e9579320a267d1ea2090227ea655f6f5045b6c99f778205",
+  "final_raw": {
+   "id": "sNT4adhnPvhUrNw6h9aL",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "img04": {
+  "submitting": false,
+  "asset_id": "y2MaYXtfkaG1Nu0En3Rr",
+  "asset_raw": {
+   "asset_id": "y2MaYXtfkaG1Nu0En3Rr",
+   "name": "pattistpark-04",
+   "mime_type": "image/jpeg",
+   "created_at_unix": 1792155438
+  },
+  "generation_id": "9Q9SRSm6ylvpEv0Ic0pW",
+  "submit_raw": {
+   "id": "9Q9SRSm6ylvpEv0Ic0pW",
+   "status": "pending"
+  },
+  "state": "downloaded",
+  "src_sha256": "c3bd3a80d13bbdbd99d372858ebf438d47f5955ab7597a4acf8a19a64150a806",
+  "final_raw": {
+   "id": "9Q9SRSm6ylvpEv0Ic0pW",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "img08": {
+  "submitting": false,
+  "asset_id": "NOsTKDhU29WZVQZTWuaQ",
+  "asset_raw": {
+   "asset_id": "NOsTKDhU29WZVQZTWuaQ",
+   "name": "pattistpark-08",
+   "mime_type": "image/jpeg",
+   "created_at_unix": 1792155438
+  },
+  "generation_id": "316bCJfa9mU0ZO4jUbLM",
+  "submit_raw": {
+   "id": "316bCJfa9mU0ZO4jUbLM",
+   "status": "pending"
+  },
+  "state": "downloaded",
+  "src_sha256": "2a85b70c421090a8042cbd3f2dcb28381e981b2a50e40cad8378dd37764ec624",
+  "final_raw": {
+   "id": "316bCJfa9mU0ZO4jUbLM",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "img11": {
+  "submitting": false,
+  "asset_id": "cXMVncAJrAFk6wL3dJaL",
+  "asset_raw": {
+   "asset_id": "cXMVncAJrAFk6wL3dJaL",
+   "name": "pattistpark-11",
+   "mime_type": "image/jpeg",
+   "created_at_unix": 1792155438
+  },
+  "generation_id": "Ph7ySYjuwfN85QEHgH4K",
+  "submit_raw": {
+   "id": "Ph7ySYjuwfN85QEHgH4K",
+   "status": "pending"
+  },
+  "state": "downloaded",
+  "src_sha256": "b47f716893fb7f0887150afb56ffa5349c6ac2070477cf34e834cd76e021b941",
+  "final_raw": {
+   "id": "Ph7ySYjuwfN85QEHgH4K",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "img17": {
+  "submitting": false,
+  "asset_id": "FKMhm1Ks09lzJd0OcTcQ",
+  "asset_raw": {
+   "asset_id": "FKMhm1Ks09lzJd0OcTcQ",
+   "name": "pattistpark-17",
+   "mime_type": "image/jpeg",
+   "created_at_unix": 1792155438
+  },
+  "generation_id": "1AkVsym9FI6dx6fMubGc",
+  "submit_raw": {
+   "id": "1AkVsym9FI6dx6fMubGc",
+   "status": "pending"
+  },
+  "state": "downloaded",
+  "src_sha256": "8f125854b66f3a4e3ba95205b6e2eb8debe0d92157929a93e3fda12172eae37d",
+  "final_raw": {
+   "id": "1AkVsym9FI6dx6fMubGc",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ }
+}
