@@ -1,0 +1,162 @@
+{
+ "HBC_Spaarne_kant-4": {
+  "source": "HBC Spaarne kant.4.png",
+  "sha256": "633c5ea26065ffa3a4d3eb062b4c13f589563054f96bb41678a3b53c439fed81",
+  "crop": [
+   927,
+   0,
+   961,
+   1708
+  ]
+ },
+ "HBC_Waarderweg": {
+  "source": "HBC Waarderweg.png",
+  "sha256": "b7abd7fa5c2beb603ed5bba19f148a5ac84fbcfa980ad40cf7242375ecde7750",
+  "crop": [
+   703,
+   0,
+   1010,
+   1796
+  ]
+ },
+ "HBC_entree_close_up": {
+  "source": "HBC entree close up.png",
+  "sha256": "11ad77b8eed86f6fc8b0b3f4c585578f8967c9747536bf70f9a866a1a8bb24e7",
+  "crop": [
+   544,
+   0,
+   1215,
+   2160
+  ]
+ },
+ "HBC_punt_orgineel": {
+  "source": "HBC punt orgineel.png",
+  "sha256": "1b4844efacde88ee7a21f0ec0e3f0d6f40f417a651ade530f338346c7bcac589",
+  "crop": [
+   1106,
+   0,
+   1215,
+   2160
+  ]
+ },
+ "Onder_het_dek": {
+  "source": "Onder het dek.png",
+  "sha256": "a1f7dacd8f3f9a55c0e7666799f5e15504bc841ddfbe25d683423c5c79938b97",
+  "crop": [
+   1202,
+   0,
+   1214,
+   2159
+  ]
+ },
+ "Punt_closeup": {
+  "source": "Punt closeup.png",
+  "sha256": "3c467e162dc4c9d7cf06b5d6f55382334edc01030810c3c1b4913eac9e5a46a7",
+  "crop": [
+   1364,
+   0,
+   781,
+   1388
+  ]
+ },
+ "Units_met_glazen_gevel_gecombineerd": {
+  "source": "Units met glazen gevel gecombineerd.png",
+  "sha256": "a8e78badf4f8f944432a1455cefe5d37beb89941fe01f47bbe38b50e28468faf",
+  "crop": [
+   1097,
+   0,
+   1068,
+   1899
+  ]
+ },
+ "Units_standaard_met_glazen_overhead_deur": {
+  "source": "Units standaard met glazen overhead deur.png",
+  "sha256": "c88c40a420d55cb58564a23adf423bb1ac491a1be6fefb1b1084afd7993f0b79",
+  "crop": [
+   2388,
+   0,
+   1215,
+   2160
+  ]
+ },
+ "g33": {
+  "source": "g33.png",
+  "sha256": "f77ab3696a4e957490f2d70c492dd46f3a07792456097af6efda316b26b2bc37",
+  "crop": [
+   701,
+   0,
+   888,
+   1578
+  ]
+ },
+ "h26-1": {
+  "source": "h26.1.png",
+  "sha256": "385b997d8a41175423d0401df4c884b0bf6796a44a2fb1d758225ca6b608254a",
+  "crop": [
+   963,
+   0,
+   1118,
+   1988
+  ]
+ },
+ "h26-10": {
+  "source": "h26.10.png",
+  "sha256": "7c6bd039ab57c565d8dd91ca14cbe032535bfc042e2f61a939dd17995ddd57f3",
+  "crop": [
+   1504,
+   0,
+   1215,
+   2160
+  ]
+ },
+ "h26-2": {
+  "source": "h26.2.png",
+  "sha256": "65c5d1b73737b4945f2fa988f4ef22f5dcc60a28b925a9cf649a47539a8e03ba",
+  "crop": [
+   1366,
+   0,
+   1069,
+   1900
+  ]
+ },
+ "h7": {
+  "source": "h7.png",
+  "sha256": "4f8396395ab0364374b06db249177eb600dd115e40b7f246e43a382f1f1ba554",
+  "crop": [
+   1312,
+   0,
+   1215,
+   2160
+  ]
+ },
+ "j19": {
+  "source": "j19.png",
+  "sha256": "d5a5abb6002f4c34174fb500d94431e87b2e19fcb013bdd22587a07f4968ce01",
+  "crop": [
+   1104,
+   0,
+   1215,
+   2160
+  ]
+ },
+ "j38-3": {
+  "source": "j38.3.png",
+  "sha256": "c70e0f5a63d146cb93b8461f816af38c04de0b13e63646bfdeba794d027d6be8",
+  "crop": [
+   428,
+   0,
+   1177,
+   2092
+  ]
+ },
+ "j38": {
+  "source": "j38.png",
+  "sha256": "6ba4a95ad5db5ee3912a2f9ae381c3d5fceed34f32a10d9f3b6dc28456fb8b9c",
+  "crop": [
+   928,
+   0,
+   1215,
+   2160
+  ]
+ }
+}

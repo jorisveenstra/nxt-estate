@@ -1,0 +1,12 @@
+{
+  "name": "haarlem-business-center-videos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Advertentievideo's Haarlem Business Center (3 bodies x 5 hooks, 9:16)",
+  "scripts": {
+    "dev": "remotion studio",
+    "vo": "python3 scripts/maak_vo.py && cp scripts/woorden-tts.json src/timing.json",
+    "muziek": "python3 scripts/maak_muziek.py",
+    "render": "python3 scripts/render_all.py"
+  }
+}
