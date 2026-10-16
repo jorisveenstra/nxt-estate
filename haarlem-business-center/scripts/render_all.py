@@ -18,7 +18,7 @@ BODIES = {1: 5, 2: 5, 3: 5}
 def render(comp, dest):
     if dest.exists():
         return
-    cmd = ["npx", "remotion", "render", comp, str(dest), "--muted", "--concurrency=2", "--codec=h264", "--crf=24", "--pixel-format=yuv420p"]
+    cmd = ["npx", "remotion", "render", comp, str(dest), "--muted", "--concurrency=3", "--offthreadvideo-cache-size-in-bytes=600000000", "--codec=h264", "--crf=24", "--pixel-format=yuv420p"]
     if BROWSER:
         cmd += ["--browser-executable=" + BROWSER, "--chrome-mode=chrome-for-testing"]
     subprocess.run(cmd, cwd=ROOT, check=True, stdout=subprocess.DEVNULL)
@@ -48,7 +48,7 @@ def join(b, h):
 def main():
     jobs = [(f"Body{b}", OUT / f"body{b}.mp4") for b in BODIES]
     jobs += [(f"Hook{b}-{h}", OUT / f"hook{b}-{h}.mp4") for b, n in BODIES.items() for h in range(1, n + 1)]
-    with ThreadPoolExecutor(2) as ex:
+    with ThreadPoolExecutor(1) as ex:
         list(ex.map(lambda j: render(*j), jobs))
     for b, n in BODIES.items():
         for h in range(1, n + 1):
