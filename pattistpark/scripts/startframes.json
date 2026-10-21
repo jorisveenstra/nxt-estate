@@ -1,0 +1,152 @@
+[
+ {
+  "naam": "h1-appartement-woonkamer",
+  "bron": "PATTISTPARK_II_-_Appartement_Type_A_6-4.png",
+  "crop": [
+   1677,
+   0,
+   1606,
+   2854
+  ],
+  "orig": [
+   4000,
+   2858
+  ],
+  "cropbreedte_px": 1606
+ },
+ {
+  "naam": "h2-appartement-eetkamer",
+  "bron": "PATTISTPARK_II_-_Appartement_Type_D_16-1.png",
+  "crop": [
+   1399,
+   0,
+   1202,
+   2136
+  ],
+  "orig": [
+   4000,
+   2139
+  ],
+  "cropbreedte_px": 1202
+ },
+ {
+  "naam": "h3-wijk-zeeland",
+  "bron": "bs26071617649.jpg",
+  "crop": [
+   1104,
+   0,
+   1946,
+   3458
+  ],
+  "orig": [
+   5194,
+   3463
+  ],
+  "cropbreedte_px": 1946
+ },
+ {
+  "naam": "h4-park-toren",
+  "bron": "P861_BAX_en_VAN_KRANENBURG_Pattispark_Cam_02.jpg",
+  "crop": [
+   344,
+   0,
+   2812,
+   4998
+  ],
+  "orig": [
+   3500,
+   5000
+  ],
+  "cropbreedte_px": 2812
+ },
+ {
+  "naam": "h5-dijk-water",
+  "bron": "P861_BAX_en_VAN_KRANENBURG_Pattispark_Cam_01.jpg",
+  "crop": [
+   1497,
+   0,
+   1344,
+   2388
+  ],
+  "orig": [
+   4017,
+   2390
+  ],
+  "cropbreedte_px": 1344
+ },
+ {
+  "naam": "b1-zonsondergang",
+  "bron": "P861_BAX_en_VAN_KRANENBURG_Pattispark_Cam_08.jpg",
+  "crop": [
+   1656,
+   0,
+   1582,
+   2812
+  ],
+  "orig": [
+   4079,
+   2813
+  ],
+  "cropbreedte_px": 1582
+ },
+ {
+  "naam": "b2-balkon",
+  "bron": "Extra_visual_Type_D_V5.jpg",
+  "crop": [
+   1766,
+   0,
+   1968,
+   3498
+  ],
+  "orig": [
+   5000,
+   3500
+  ],
+  "cropbreedte_px": 1968
+ },
+ {
+  "naam": "b3-kust",
+  "bron": "bs26071617608.jpg",
+  "crop": [
+   2165,
+   0,
+   2238,
+   3978
+  ],
+  "orig": [
+   5972,
+   3981
+  ],
+  "cropbreedte_px": 2238
+ },
+ {
+  "naam": "b4-keuken",
+  "bron": "PATTISTPARK_II_-_Appartement_Type_F_18-3.png",
+  "crop": [
+   1497,
+   0,
+   1406,
+   2498
+  ],
+  "orig": [
+   4000,
+   2500
+  ],
+  "cropbreedte_px": 1406
+ },
+ {
+  "naam": "b5-luchtfoto",
+  "bron": "bs26071617121.jpg",
+  "crop": [
+   1875,
+   0,
+   2250,
+   4000
+  ],
+  "orig": [
+   6000,
+   4000
+  ],
+  "cropbreedte_px": 2250
+ }
+]

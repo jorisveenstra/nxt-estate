@@ -1,0 +1,8 @@
+{
+ "model_id": "music_v1",
+ "force_instrumental": true,
+ "music_length_ms": 45000,
+ "prompt": "Uplifting, warm and positive instrumental background music for a real estate video about calm, carefree living by the sea in Zeeland. Gentle acoustic guitar and soft piano, light airy strings, mellow steady pulse, hopeful and optimistic, no vocals, no lyrics, understated so a voice-over can sit on top.",
+ "song_id": "g4uylATpVMVL8DmcpLNf",
+ "request_id": null
+}

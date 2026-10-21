@@ -1,0 +1,102 @@
+{
+ "h5-dijk-water": {
+  "asset_id": "qmqkODKMfs6fsMDKJ8Np",
+  "generation_id": "U0pbFwmtJirv9nB7Gl6M",
+  "ingediend": 1792596246.5064676,
+  "status": "klaar",
+  "geometrie": {
+   "width": 1080,
+   "height": 1920
+  }
+ },
+ "h4-park-toren": {
+  "asset_id": "5MMXu7TKxBE8bULNSP3S",
+  "generation_id": "LX19p7luuxnxUzvxxPXL",
+  "ingediend": 1792596093.6138086,
+  "status": "klaar",
+  "geometrie": {
+   "width": 1080,
+   "height": 1920
+  }
+ },
+ "h3-wijk-zeeland": {
+  "asset_id": "vusoAVwq3W4FgGBgUiqJ",
+  "generation_id": "ARLMUCVInv4JGtio1RJe",
+  "ingediend": 1792596094.409318,
+  "status": "klaar",
+  "geometrie": {
+   "width": 1080,
+   "height": 1920
+  }
+ },
+ "h1-appartement-woonkamer": {
+  "asset_id": "3YwL6kylWPU6NLuC0RlM",
+  "generation_id": "pZWKsHOSWmb44eabDN3B",
+  "ingediend": 1792596094.444898,
+  "status": "klaar",
+  "geometrie": {
+   "width": 1080,
+   "height": 1920
+  }
+ },
+ "h2-appartement-eetkamer": {
+  "asset_id": "iBCdrNpEelrS41Bp7F4Q",
+  "generation_id": "7CRTplfOIOzHTm8wxlDF",
+  "ingediend": 1792596094.7569,
+  "status": "klaar",
+  "geometrie": {
+   "width": 1080,
+   "height": 1920
+  }
+ },
+ "b1-zonsondergang": {
+  "asset_id": "iNe56xibBgc3KBHLpOsa",
+  "generation_id": "C3vCX0elSXQV0SLd1unq",
+  "ingediend": 1792596250.3227327,
+  "status": "klaar",
+  "geometrie": {
+   "width": 1080,
+   "height": 1920
+  }
+ },
+ "b2-balkon": {
+  "asset_id": "jx06jljRuJIosDdgx61V",
+  "generation_id": "37yCSwGjn0mL0KGgeIu5",
+  "ingediend": 1792596295.0281923,
+  "status": "klaar",
+  "geometrie": {
+   "width": 1080,
+   "height": 1920
+  }
+ },
+ "b3-kust": {
+  "asset_id": "S3Rqj88BkWKQlORsivx5",
+  "generation_id": "E3Ghr9w2dZVcobUjuD1N",
+  "ingediend": 1792596295.2543159,
+  "status": "klaar",
+  "geometrie": {
+   "width": 1080,
+   "height": 1920
+  }
+ },
+ "b4-keuken": {
+  "asset_id": "ndYzcs8ThdPt1mhn1FMo",
+  "generation_id": "Y5PciikHPTi2V1hsLJKL",
+  "ingediend": 1792596401.2990427,
+  "status": "klaar",
+  "geometrie": {
+   "width": 1080,
+   "height": 1920
+  }
+ },
+ "b5-luchtfoto": {
+  "asset_id": "YScZMTxTl5cGsBtYl0Fk",
+  "generation_id": "ibtMo3kVzEqsQt3gGqX8",
+  "ingediend": 1792596404.6955717,
+  "status": "klaar",
+  "geometrie": {
+   "width": 1080,
+   "height": 1920
+  }
+ }
+}
