@@ -1,2 +1,7 @@
 node_modules
 out/
+bron-orig/
+prev/
+__pycache__/
+public/bron/
+.nxt-media-*.json
