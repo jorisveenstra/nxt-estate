@@ -1,0 +1,67 @@
+{
+  "b1": {
+    "naam": "Stellen zonder kinderen en dubbelverdieners: stadsleven voor twee",
+    "taal": "nl",
+    "hooks": [
+      "Zoeken jullie samen een nieuwbouwwoning in Amsterdam met een buitenruimte op het zuiden of westen?",
+      "Midden in de stad wonen, maar zonder drukte voor de deur en zonder parkeerstress?",
+      "Hebben jullie al gezien wat er aan de noordzijde van de Sloterplas gebouwd wordt?",
+      "Tennis en padel in jullie eigen woonplan, het Sloterpark naast de deur en de metro op loopafstand.",
+      "Na het werk samen een potje padel en daarna een drankje in het café, gewoon bij jullie om de hoek?"
+    ],
+    "zinnen": [
+      ["intro", "Dit is ACE fase 2, aan de noordzijde van de Sloterplas in Amsterdam Nieuw-West."],
+      ["woningen", "Hier komen stijlvolle appartementen, maisonnettes en penthouses van circa 50 tot 170 vierkante meter, met een luxe afwerking."],
+      ["licht", "Grote ramen geven volop licht, en jullie buitenruimte ligt op het zuiden of westen."],
+      ["sport", "In het hart van het plan ligt een racketsportcentrum met tennis- en padelbanen en een sfeervol café."],
+      ["rust", "Toch wonen jullie rustig, want het binnengebied is autoluw en het Sloterpark ligt naast de deur."],
+      ["bereik", "Met de metro op loopafstand en het centrum en de Zuidas binnen vijftien minuten fietsen zijn jullie allebei snel op je werk."],
+      ["parkeren", "En parkeren is slim geregeld, met vijf deelauto's en bij de meeste woningen een abonnement voor de parkeergarage."],
+      ["duurzaam", "De woningen zijn gasloos, met vloerverwarming en -koeling en een energielabel van minimaal A+."],
+      ["cta", "Klik op de knop hieronder voor alle informatie."]
+    ]
+  },
+  "b2": {
+    "naam": "Doorstromers en empty nesters: kleiner wonen zonder in te leveren",
+    "taal": "nl",
+    "hooks": [
+      "Is uw huis te groot geworden, maar wilt u niet inleveren op ruimte?",
+      "Zijn de kinderen uit huis en zoekt u een ruim nieuwbouwappartement aan de Sloterplas in Amsterdam?",
+      "Minder onderhoud en meer genieten, met het Sloterpark direct naast uw deur?",
+      "Wilt u over een paar jaar comfortabeler wonen? Dan is dit het moment om u te oriënteren.",
+      "Een maisonnette of penthouse tot circa 170 vierkante meter, met een buitenruimte op het zuiden of westen, in Amsterdam Nieuw-West."
+    ],
+    "zinnen": [
+      ["intro", "Dit is ACE fase 2, aan de noordzijde van de Sloterplas in Amsterdam Nieuw-West."],
+      ["ruimte", "Naast appartementen komen hier ook maisonnettes en penthouses van tot circa 170 vierkante meter."],
+      ["buiten", "U houdt dus volop ruimte, met een royaal balkon of terras op het zuiden of westen."],
+      ["compleet", "De woningen worden compleet opgeleverd met keuken en badkamer, en zijn gasloos en ontworpen voor minder onderhoud."],
+      ["buurt", "Winkels, zorg en sportclubs liggen op loopafstand, en het Sloterpark ligt direct naast uw deur."],
+      ["berging", "U krijgt een eigen berging, en bij de meeste woningen kunt u een abonnement nemen voor de parkeergarage eronder."],
+      ["planning", "De bouw start naar verwachting eind 2026, met een verwachte oplevering in de nazomer van 2028."],
+      ["begeleiding", "Zo heeft u de tijd om uw huidige woning rustig te verkopen, met persoonlijke begeleiding van de projectmakelaar en een financieringscoach."],
+      ["cta", "Klik op de knop hieronder voor alle informatie en plan een afspraak met de makelaar."]
+    ]
+  },
+  "b3": {
+    "naam": "Expats en internationale kopers (Engels)",
+    "taal": "en",
+    "hooks": [
+      "New to the Netherlands and thinking about buying your own home in Amsterdam?",
+      "Want to buy a home in the Netherlands, but not sure how a Dutch mortgage works?",
+      "Working at the Zuidas and looking for a new-build apartment close to the metro?",
+      "Tired of renting in Amsterdam? Discover new-build homes at the Sloterplas, with personal help in English.",
+      "A complete new home in Amsterdam, with the kitchen and bathroom included and advice in English."
+    ],
+    "zinnen": [
+      ["intro", "This is ACE phase 2, a new-build project on the north side of the Sloterplas lake in Amsterdam Nieuw-West."],
+      ["keuze", "You can choose from apartments, maisonettes and penthouses of around 50 to 170 square metres."],
+      ["compleet", "Every home comes complete, with a kitchen, a bathroom and a toilet already included."],
+      ["metro", "The Jan van Galenstraat metro station is within walking distance, and you can cycle to the city centre or the Zuidas within fifteen minutes."],
+      ["duurzaam", "The homes are gas-free, with underfloor heating and cooling and an energy label of at least A+."],
+      ["begeleiding", "Not sure how buying a home works in the Netherlands? Our English-speaking agents explain the Dutch buying process step by step and help you explore mortgage options for expats."],
+      ["planning", "Construction is expected to start at the end of 2026, with completion planned for late summer 2028."],
+      ["cta", "Click the button below for all the information and plan a personal meeting with one of our English-speaking agents."]
+    ]
+  }
+}
