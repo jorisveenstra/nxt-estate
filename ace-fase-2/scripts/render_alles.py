@@ -16,7 +16,10 @@ HOOKS = {b: sorted(int(k.split("h")[1]) for k in timing if k.startswith(f"b{b}h"
 def render(comp):
     uit = PARTS / f"{comp}.mp4"
     if not uit.exists():
-        subprocess.run(["npx", "remotion", "render", "src/index.ts", comp, str(uit), "--concurrency=2", f"--browser-executable={BROWSER}", "--crf=24"], cwd=ROOT, check=True, capture_output=True)
+        r = subprocess.run(["npx", "remotion", "render", "src/index.ts", comp, str(uit), "--concurrency=2", f"--browser-executable={BROWSER}", "--crf=24"], cwd=ROOT, capture_output=True, text=True)
+        if r.returncode:
+            print(r.stdout[-1500:], r.stderr[-2500:], flush=True)
+            raise SystemExit(f"render mislukt: {comp}")
     print("gerenderd", comp, flush=True)
 
 
