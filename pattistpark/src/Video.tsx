@@ -18,27 +18,26 @@ import clipLengths from "./clips.json";
 import { BODY_SEGMENTS, HOOK_ACCENT, HOOK_CLIP } from "./config";
 import timing from "./timing.json";
 
-export type VideoProps = { hook: number };
+export type VideoProps = { body: number; hook: number };
 
 type Word = { t: string; s: number; e: number };
 type Scene = { id: string; start: number; end: number; words: Word[] };
 
 export const TAIL = 2.2; // seconden na de laatste zin
-const MUZIEK_LENGTE = 45; // seconden
 
-const getTiming = (hook: number) => (timing as Record<string, { scenes: Scene[]; end: number }>)[`b1h${hook}`];
-export const getDuration = (hook: number, fps: number) => Math.ceil((getTiming(hook).end + TAIL) * fps);
+const getTiming = (body: number, hook: number) => (timing as Record<string, { scenes: Scene[]; end: number }>)[`b${body}h${hook}`];
+export const getDuration = (body: number, hook: number, fps: number) => Math.ceil((getTiming(body, hook).end + TAIL) * fps);
 
 type Segment = { clip: string; from: number; to: number };
 
-const buildSegments = (hook: number, scenes: Scene[], end: number): Segment[] => {
+const buildSegments = (body: number, hook: number, scenes: Scene[], end: number): Segment[] => {
   const start = (id: string) => scenes.find((s) => s.id === id)!.start;
   const nextStart = (id: string) => {
     const i = scenes.findIndex((s) => s.id === id);
     return i + 1 < scenes.length ? scenes[i + 1].start : end;
   };
-  const segs: Segment[] = [{ clip: HOOK_CLIP[hook], from: 0, to: start("dit") }];
-  BODY_SEGMENTS.forEach(([clip, a, b]) => segs.push({ clip, from: start(a), to: b === "cta" ? end : nextStart(b) }));
+  const segs: Segment[] = [{ clip: HOOK_CLIP[body][hook], from: 0, to: scenes[1].start }];
+  BODY_SEGMENTS[body].forEach(([clip, a, b]) => segs.push({ clip, from: start(a), to: b === "cta" ? end : nextStart(b) }));
   return segs;
 };
 
@@ -77,6 +76,8 @@ const Icon: React.FC<{ name: string; size?: number; color?: string }> = ({ name,
       return <svg {...p}><rect x="3" y="5" width="18" height="16" rx="2" /><path d="M3 10h18M8 3v4M16 3v4" /></svg>;
     case "leaf":
       return <svg {...p}><path d="M5 19C5 10 10 5 20 4c0 10-5 15-14 15z" /><path d="M5 19c3-5 6-8 10-10" /></svg>;
+    case "euro":
+      return <svg {...p}><path d="M18 6.5A7 7 0 1 0 18 17.5M4 10h10M4 14h10" /></svg>;
     case "arrow":
       return <svg {...p}><path d="M5 12h14M13 6l6 6-6 6" /></svg>;
     default:
@@ -96,13 +97,24 @@ const Woordmerk: React.FC<{ opacity: number }> = ({ opacity }) => (
 );
 
 // ---------- korte feiten-chips per scène (alleen wat het script zegt) ----------
-const SCENE_CHIPS: Record<string, { icon: string; label: string }[]> = {
+const SCENE_CHIPS_1: Record<string, { icon: string; label: string }[]> = {
   dit: [{ icon: "pin", label: "Terneuzen, Zeeland" }, { icon: "building", label: "Nieuwbouw appartementen" }],
   gelijkvloers: [{ icon: "flat", label: "Helemaal gelijkvloers" }, { icon: "nostairs", label: "Geen trappen in huis" }],
   uitzicht: [{ icon: "cart", label: "Voorzieningen dichtbij" }, { icon: "view", label: "Fantastisch uitzicht" }],
   oplevering: [{ icon: "calendar", label: "Oplevering voorjaar 2027" }],
   zorgeloos: [{ icon: "leaf", label: "Zorgeloos wonen in Zeeland" }],
 };
+
+const SCENE_CHIPS_2: Record<string, { icon: string; label: string }[]> = {
+  dan: [{ icon: "pin", label: "Terneuzen, Zeeland" }, { icon: "building", label: "Direct aan de Westerschelde" }],
+  centrum: [{ icon: "pin", label: "Centrum op loopafstand" }, { icon: "cart", label: "Winkels, terrasjes, haven" }],
+  gelijkvloers: [{ icon: "flat", label: "Gelijkvloers" }, { icon: "building", label: "2 slaapkamers, eigen balkon" }],
+  uitzicht: [{ icon: "view", label: "Uitzicht over de Westerschelde" }],
+  prijs: [{ icon: "euro", label: "Vanaf € 309.950 v.o.n." }],
+  verkocht: [{ icon: "building", label: "Meer dan de helft verkocht of in optie" }, { icon: "calendar", label: "Oplevering voorjaar 2027" }],
+  regio: [{ icon: "cart", label: "Alle voorzieningen dichtbij" }],
+};
+const SCENE_CHIPS: Record<number, Record<string, { icon: string; label: string }[]>> = { 1: SCENE_CHIPS_1, 2: SCENE_CHIPS_2 };
 
 const Chip: React.FC<{ icon: string; label: string; index: number; inAt: number; outAt: number }> = ({ icon, label, index, inAt, outAt }) => {
   const frame = useCurrentFrame();
@@ -128,10 +140,10 @@ const Chip: React.FC<{ icon: string; label: string; index: number; inAt: number;
   );
 };
 
-const Chips: React.FC<{ scenes: Scene[]; end: number }> = ({ scenes, end }) => (
+const Chips: React.FC<{ body: number; scenes: Scene[]; end: number }> = ({ body, scenes, end }) => (
   <>
     {scenes.map((sc, i) => {
-      const chips = SCENE_CHIPS[sc.id];
+      const chips = SCENE_CHIPS[body][sc.id];
       if (!chips) return null;
       const next = i + 1 < scenes.length ? scenes[i + 1].start : end;
       // 'zorgeloos' blijft tot de CTA staan; elke chip komt kort nadat de scène begint
@@ -212,7 +224,7 @@ const Cta: React.FC<{ scene: Scene; end: number }> = ({ scene, end }) => {
   const a = spring({ frame: frame - Math.round(scene.start * fps), fps, config: { damping: 18, stiffness: 120 } });
   const knop = spring({ frame: frame - Math.round((scene.words[Math.min(5, scene.words.length - 1)].s) * fps), fps, config: { damping: 12, stiffness: 140 } });
   const puls = 1 + 0.035 * Math.sin((t - scene.start) * 5);
-  const vraagEind = scene.words.find((w) => w.t.endsWith("wonen?"))?.e ?? scene.start + 2;
+  const vraagEind = scene.words.find((w) => w.t.endsWith("?"))?.e ?? scene.start + 2;
   const actief = (w: Word) => t >= w.s - 0.03 && t < w.e + 0.1;
   return (
     <AbsoluteFill style={{ justifyContent: "flex-end", alignItems: "center", paddingBottom: 150, opacity: interpolate(a, [0, 1], [0, 1]) }}>
@@ -241,7 +253,7 @@ const muziekVolume = (t: number, woorden: Word[], eind: number) => {
   return basis * fadeIn * fadeUit;
 };
 
-export const PattistparkVideo: React.FC<VideoProps> = ({ hook }) => {
+export const PattistparkVideo: React.FC<VideoProps> = ({ body, hook }) => {
   const { fps } = useVideoConfig();
   const frame = useCurrentFrame();
   const [handle] = useState(() => delayRender("fonts"));
@@ -250,14 +262,13 @@ export const PattistparkVideo: React.FC<VideoProps> = ({ hook }) => {
     Promise.all([400, 500, 600, 700, 800].map((w) => document.fonts.load(`${w} 40px Poppins`))).then(() => continueRender(handle)).catch(() => continueRender(handle));
   }, [handle]);
 
-  const tm = getTiming(hook);
+  const tm = getTiming(body, hook);
   const end = tm.end + TAIL;
   const F = (s: number) => Math.round(s * fps);
-  const segs = buildSegments(hook, tm.scenes, end);
+  const segs = buildSegments(body, hook, tm.scenes, end);
   const cta = tm.scenes.find((s) => s.id === "cta")!;
   const hookScene = tm.scenes[0];
   const alleWoorden = tm.scenes.flatMap((s) => s.words);
-  const dit = tm.scenes.find((s) => s.id === "dit")!;
   const logoIn = interpolate(frame, [0, 12], [0, 1], { extrapolateRight: "clamp" });
 
   return (
@@ -273,12 +284,12 @@ export const PattistparkVideo: React.FC<VideoProps> = ({ hook }) => {
 
       <Woordmerk opacity={logoIn * (frame < F(cta.start) - 6 ? 1 : 0)} />
       <HookLine until={hookScene.end + 0.3} />
-      <Chips scenes={tm.scenes} end={end} />
-      <Captions scenes={tm.scenes} accent={HOOK_ACCENT[hook]} />
+      <Chips body={body} scenes={tm.scenes} end={end} />
+      <Captions scenes={tm.scenes} accent={HOOK_ACCENT[body][hook]} />
       <Cta scene={cta} end={end} />
 
-      <Audio src={staticFile(`vo/b1h${hook}.wav`)} />
-      <Audio src={staticFile("muziek/muziek.mp3")} volume={(f) => muziekVolume(f / fps, alleWoorden, end)} />
+      <Audio src={staticFile(`vo/b${body}h${hook}.wav`)} />
+      <Audio src={staticFile(end > 44 ? "muziek/muziek-53s.mp3" : "muziek/muziek.mp3")} volume={(f) => muziekVolume(f / fps, alleWoorden, end)} />
     </AbsoluteFill>
   );
 };

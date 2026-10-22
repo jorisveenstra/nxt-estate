@@ -9,13 +9,78 @@
       "Gelijkvloers wonen in Terneuzen, met uitzicht en de dagelijkse voorzieningen dichtbij: zo blijft u comfortabel wonen in Zeeland."
     ],
     "zinnen": [
-      ["dit", "Dit is Pattistpark in Terneuzen, een nieuwbouwproject met appartementen midden in Zeeland."],
-      ["gelijkvloers", "Hier woont u straks helemaal gelijkvloers, dus zonder trappen in huis."],
-      ["uitzicht", "De dagelijkse voorzieningen liggen dichtbij en het uitzicht is fantastisch."],
-      ["oplevering", "De oplevering staat gepland in het voorjaar van 2027, zodat u alles rustig kunt voorbereiden."],
-      ["mooiste", "Het mooiste?"],
-      ["zorgeloos", "Zorgeloos wonen in Zeeland, ook in de jaren die nog komen."],
-      ["cta", "Ziet u zich hier al wonen? Klik op de knop hieronder voor alle informatie en plan een afspraak met onze makelaar."]
+      [
+        "dit",
+        "Dit is Pattistpark in Terneuzen, een nieuwbouwproject met appartementen midden in Zeeland."
+      ],
+      [
+        "gelijkvloers",
+        "Hier woont u straks helemaal gelijkvloers, dus zonder trappen in huis."
+      ],
+      [
+        "uitzicht",
+        "De dagelijkse voorzieningen liggen dichtbij en het uitzicht is fantastisch."
+      ],
+      [
+        "oplevering",
+        "De oplevering staat gepland in het voorjaar van 2027, zodat u alles rustig kunt voorbereiden."
+      ],
+      [
+        "mooiste",
+        "Het mooiste?"
+      ],
+      [
+        "zorgeloos",
+        "Zorgeloos wonen in Zeeland, ook in de jaren die nog komen."
+      ],
+      [
+        "cta",
+        "Ziet u zich hier al wonen? Klik op de knop hieronder voor alle informatie en plan een afspraak met onze makelaar."
+      ]
+    ]
+  },
+  "b2": {
+    "titel": "Vanuit een kleinere kern naar alles dichtbij in Terneuzen",
+    "hooks": [
+      "Woont u in een dorp in Zeeuws-Vlaanderen en pakt u voor bijna alles de auto?",
+      "Alles dichtbij in Terneuzen, zonder Zeeuws-Vlaanderen te verlaten? Dat kan.",
+      "Heeft u al gehoord van Pattistpark II? Nieuwe appartementen in Terneuzen, direct aan de Westerschelde.",
+      "Gelijkvloers wonen, met uitzicht over het water en alles op loopafstand? Dat kan in Terneuzen.",
+      "Wilt u vanuit uw dorp dichter bij de stad wonen, maar wel in Zeeland blijven?"
+    ],
+    "zinnen": [
+      [
+        "dan",
+        "Dan moet u Pattistpark II zien. Nieuwe appartementen in Terneuzen, direct aan de Westerschelde."
+      ],
+      [
+        "centrum",
+        "Het centrum ligt op loopafstand. Winkels, terrasjes en de haven: daar hoeft u de auto niet meer voor te pakken."
+      ],
+      [
+        "gelijkvloers",
+        "U woont gelijkvloers, met twee slaapkamers en een eigen balkon."
+      ],
+      [
+        "uitzicht",
+        "En vanuit uw woonkamer kijkt u over de Westerschelde en ziet u de schepen voorbij varen."
+      ],
+      [
+        "prijs",
+        "Al vanaf 309.950 euro vrij op naam."
+      ],
+      [
+        "verkocht",
+        "Meer dan de helft is al verkocht of in optie. In het voorjaar van 2027 kunt u er wonen."
+      ],
+      [
+        "regio",
+        "Zo blijft u gewoon in de regio waar u thuis bent, met alle voorzieningen dichtbij."
+      ],
+      [
+        "cta",
+        "Benieuwd hoe u hier straks woont? Klik op de knop hieronder voor alle informatie en plan een afspraak."
+      ]
     ]
   }
 }

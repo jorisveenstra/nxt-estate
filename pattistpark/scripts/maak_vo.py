@@ -18,7 +18,7 @@ MODEL = "eleven_v4"
 PAUZE = 0.45  # seconden tussen hook en body
 
 # In beeld staat het cijfer; de stem krijgt het uitgeschreven
-UITSPRAAK = {"2027,": "tweeduizend zevenentwintig,"}
+UITSPRAAK = {"2027,": "tweeduizend zevenentwintig,", "2027": "tweeduizend zevenentwintig", "309.950": "driehonderdnegenduizend negenhonderdvijftig"}
 
 
 def spreek(woord):
