@@ -1,0 +1,41 @@
+{
+  "b1": {
+    "hooks": [
+      "Staat je spaargeld op een rekening waar het nauwelijks iets oplevert?",
+      "Wil je je vermogen spreiden met vastgoed, naast je spaargeld en aandelen?",
+      "Een villa aan het strand in Zuid-Lombok, met een begroot nettorendement van tien procent.",
+      "Lijkt investeren in vastgoed aan de andere kant van de wereld je interessant, maar wil je wel grip houden?",
+      "Vraag je je af of tien procent nettorendement realistisch is? Bekijk dan eerst hoe het is opgebouwd."
+    ],
+    "zinnen": [
+      ["intro", "Bij Tampah Beach Villas investeer je in een villa aan het strand in Zuid-Lombok, al vanaf tweehonderdtwintigduizend euro."],
+      ["rendement", "Het nettorendement is begroot op tien procent, en daarnaast wordt waardestijging verwacht."],
+      ["masterplan", "Je koopt geen losse villa op een los stuk grond, maar een plek binnen een volledig masterplan van Baraca Development."],
+      ["overheid", "Dat plan ontstaat in samenwerking met de lokale provinciale overheid, met steun van de gouverneur."],
+      ["begeleiding", "Een vaste adviseur en een eigen relatiemanager begeleiden je van ondertekening tot overdracht."],
+      ["oplevering", "De oplevering staat gepland voor het tweede kwartaal van 2028."],
+      ["cijfers", "We lopen de cijfers graag stap voor stap met je door."],
+      ["cta", "Klik op de knop hieronder voor alle informatie en plan een kennismakingsgesprek met onze adviseur."]
+    ]
+  },
+  "b2": {
+    "hooks": [
+      "Had je achteraf ook graag in Bali gestapt, voordat iedereen er kwam?",
+      "Zoek je een vastgoedmarkt die nog aan het begin van zijn groei staat?",
+      "Wat als je instapt in een regio die wordt vergeleken met Bali in een vroeg stadium?",
+      "De Rafa Nadal Academy opent in 2028 een tenniscentrum aan de zuidkust van Lombok. Wat zegt dat over deze regio?",
+      "Vroeg instappen klinkt goed, maar wil je wel zeker weten dat er een plan achter zit?"
+    ],
+    "zinnen": [
+      ["intro", "Tampah Beach Villas ligt in Zuid-Lombok, een regio die vaak wordt vergeleken met Bali in een vroeg stadium."],
+      ["instap", "Je stapt in met een villa aan het strand, al vanaf tweehonderdtwintigduizend euro."],
+      ["nadal", "De Rafa Nadal Academy opent in 2028 een tenniscentrum in dezelfde groeicorridor."],
+      ["geengok", "Vroeg instappen hoeft geen gok te zijn op een los project."],
+      ["masterplan", "Tampah Beach Villas is het vlaggenschip van Baraca Development en wordt ontwikkeld als volledig masterplan."],
+      ["overheid", "Dat gebeurt in samenwerking met de provinciale overheid van West Nusa Tenggara, met steun van de gouverneur."],
+      ["oplevering", "De oplevering staat gepland voor het tweede kwartaal van 2028."],
+      ["risico", "Vroeg instappen blijft een keuze met risico, dus we bespreken de plannen en de fasering graag eerlijk met je."],
+      ["cta", "Klik op de knop hieronder voor alle informatie en plan een gesprek met onze adviseur over de huidige verkoopfase."]
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "tampah-rendement-videos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tampah Beach Villas: 2 bodies x 5 hooks (rendementsgerichte belegger, vroege instapper)",
+  "scripts": {
+    "dev": "remotion studio",
+    "vo": "python3 scripts/maak_vo.py",
+    "plan": "python3 scripts/plan.py",
+    "render": "bash scripts/render.sh"
+  }
+}
