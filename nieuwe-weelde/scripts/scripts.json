@@ -1,0 +1,67 @@
+{
+  "b1": {
+    "doelgroep": "Vitale senioren (Goud Wonen)",
+    "goud": true,
+    "hooks": [
+      { "t": "Wilt u zelfstandig blijven wonen, maar wel met gezellige buren om de hoek?", "clips": [["park-pad", null], ["buurtkamer", "gezellige"]], "accent": ["zelfstandig", "gezellige", "buren"] },
+      { "t": "Zijn de kinderen de deur uit en is uw huis eigenlijk te groot geworden?", "clips": [["woonkamer-man", null], ["woonkamer-man", "eigenlijk"]], "accent": ["kinderen", "te", "groot"] },
+      { "t": "Kleiner wonen betekent niet dat u uw vrijheid hoeft in te leveren.", "clips": [["gracht-zon", null], ["park-pad", "vrijheid"]], "accent": ["Kleiner", "vrijheid"] },
+      { "t": "Heeft u al gehoord van het Goud Wonen-concept in Hoorn?", "clips": [["gracht-zon", null], ["gevel-zomer", "Goud"]], "accent": ["Goud", "Wonen-concept", "Hoorn?"] },
+      { "t": "Een gelijkvloers appartement met lift, een eigen balkon en een buurtkamer voor ontmoeting, in Hoorn.", "clips": [["gevel-zomer", null], ["buurtkamer", "buurtkamer"]], "accent": ["gelijkvloers", "lift,", "balkon", "buurtkamer"] }
+    ],
+    "zinnen": [
+      { "id": "intro", "t": "Dit is Nieuwe Weelde, in de wijk Nieuwe Steen in Hoorn.", "clips": [["luchtfoto-wijk", null], ["gevel-zomer", "wijk"]], "co": [{ "at": "Weelde,", "big": "Nieuwe Weelde", "small": "wijk Nieuwe Steen · Hoorn", "icon": "pin" }] },
+      { "id": "maat", "t": "Hier worden zestig koopappartementen gebouwd van circa zeventig tot achtentachtig vierkante meter, allemaal met twee slaapkamers en een eigen balkon.", "clips": [["gracht-zon", null], ["gracht-zon", "allemaal"]], "co": [{ "at": "zestig", "big": "60", "small": "koopappartementen", "icon": "huis" }, { "at": "zeventig", "big": "70–88 m²", "small": "woonoppervlak", "icon": "maat" }, { "at": "twee", "big": "2", "small": "slaapkamers + eigen balkon", "icon": "bed" }] },
+      { "id": "lift", "t": "Uw appartement is volledig gelijkvloers, met een lift naar uw verdieping en naar uw eigen parkeerplaats in de garage.", "clips": [["woonkamer-man", null], ["gevel-zomer", "lift"]], "co": [{ "at": "gelijkvloers,", "big": "Gelijkvloers", "small": "alles op één niveau", "icon": "huis" }, { "at": "lift", "big": "Lift", "small": "naar uw verdieping", "icon": "lift" }, { "at": "parkeerplaats", "big": "Eigen parkeerplaats", "small": "in de garage", "icon": "auto" }] },
+      { "id": "levensloop", "t": "De appartementen zijn levensloopbestendig ontworpen, zodat u hier comfortabel kunt blijven wonen.", "clips": [["woonkamer-man", null]], "co": [{ "at": "levensloopbestendig", "big": "Levensloopbestendig", "small": "comfortabel blijven wonen", "icon": "hart" }] },
+      { "id": "voordeur", "t": "U heeft uw eigen voordeur en bepaalt zelf hoe u woont.", "clips": [["gevel-zomer", null], ["park-pad", "bepaalt"]], "co": [{ "at": "voordeur", "big": "Eigen voordeur", "small": "u bepaalt zelf hoe u woont", "icon": "sleutel" }] },
+      { "id": "buurtkamer", "t": "Zin in gezelschap, dan drinkt u in de buurtkamer koffie met de buren of doet u mee aan een workshop of sportles.", "clips": [["buurtkamer", null]], "co": [{ "at": "buurtkamer", "big": "Buurtkamer", "small": "koffie, workshop of sportles", "icon": "koffie" }] },
+      { "id": "park-pad", "t": "In de gezamenlijke daktuin vindt u een moestuin en een lange tafel om samen te eten.", "clips": [["park-pad", null], ["park-pad", "lange"]], "co": [{ "at": "daktuin", "big": "Gezamenlijke daktuin", "small": "moestuin + lange tafel", "icon": "blad" }] },
+      { "id": "welzijn", "t": "Hier draait alles om welzijn in plaats van zorg, en meedoen is nooit verplicht.", "clips": [["gracht-zon", null]], "co": [{ "at": "welzijn", "big": "Welzijn", "small": "meedoen is nooit verplicht", "icon": "zon" }] },
+      { "id": "buurt", "t": "De huisarts, apotheek en supermarkt liggen in de buurt.", "clips": [["luchtfoto-hoorn", null], ["luchtfoto-wijk", "supermarkt"]], "co": [{ "at": "huisarts,", "big": "Alles dichtbij", "small": "huisarts · apotheek · supermarkt", "icon": "pin" }] }
+    ],
+    "cta": { "t": "Er zijn nog maar enkele appartementen beschikbaar. Klik op de knop hieronder voor alle informatie en plan een afspraak met onze makelaar.", "clip": "gevel-zomer", "kop": "Nog maar enkele appartementen beschikbaar" }
+  },
+  "b2": {
+    "doelgroep": "Doorstromers uit een eengezinswoning",
+    "goud": false,
+    "hooks": [
+      { "t": "Is je huis eigenlijk te groot geworden, en ben je klaar met al dat onderhoud?", "clips": [["woonkamer-man", null], ["gracht-zon", "onderhoud?"]], "accent": ["te", "groot", "onderhoud?"] },
+      { "t": "Wil je kleiner wonen in Hoorn, maar ben je bang voor dubbele maandlasten?", "clips": [["luchtfoto-hoorn", null], ["gevel-zomer", "bang"]], "accent": ["kleiner", "dubbele", "maandlasten?"] },
+      { "t": "Geen tuin meer om bij te houden, geen gasrekening meer, en toch twee ruime slaapkamers.", "clips": [["park-pad", null], ["gracht-zon", "gasrekening"]], "accent": ["Geen", "tuin", "gasrekening", "twee"] },
+      { "t": "Denk je al een tijdje na over verhuizen, maar weet je niet hoe je dat moet regelen met je huidige woning?", "clips": [["woonkamer-man", null], ["luchtfoto-wijk", "regelen"]], "accent": ["verhuizen,", "regelen"] },
+      { "t": "Heb je al gezien welke appartementen er in de wijk Nieuwe Steen in Hoorn gebouwd worden?", "clips": [["luchtfoto-wijk", null], ["gracht-zon", "Nieuwe"]], "accent": ["appartementen", "Nieuwe", "Steen"] }
+    ],
+    "zinnen": [
+      { "id": "intro", "t": "Nieuwe Weelde bestaat uit zestig nieuwe koopappartementen in de groene wijk Nieuwe Steen in Hoorn.", "clips": [["gevel-zomer", null], ["luchtfoto-wijk", "groene"]], "co": [{ "at": "zestig", "big": "60", "small": "nieuwe koopappartementen", "icon": "huis" }, { "at": "groene", "big": "Groene wijk", "small": "Nieuwe Steen · Hoorn", "icon": "blad" }] },
+      { "id": "maat", "t": "De appartementen zijn tot circa achtentachtig vierkante meter groot, met een woonkamer en open keuken van circa negenentwintig vierkante meter en twee ruime slaapkamers.", "clips": [["woonkamer-man", null], ["gracht-zon", "twee"]], "co": [{ "at": "achtentachtig", "big": "88 m²", "small": "tot circa", "icon": "maat" }, { "at": "negenentwintig", "big": "29 m²", "small": "woonkamer + open keuken", "icon": "huis" }, { "at": "twee", "big": "2", "small": "ruime slaapkamers", "icon": "bed" }] },
+      { "id": "berging", "t": "Je spullen berg je op in de inpandige berging, en je auto staat op je eigen parkeerplaats in de garage.", "clips": [["gracht-zon", null], ["park-pad", "eigen"]], "co": [{ "at": "inpandige", "big": "Inpandige berging", "small": "ruimte voor je spullen", "icon": "huis" }, { "at": "parkeerplaats", "big": "Eigen parkeerplaats", "small": "in de garage", "icon": "auto" }] },
+      { "id": "balkon", "t": "Je hebt geen tuin meer om bij te houden, maar wel een balkon van circa tien vierkante meter met uitzicht op het groen.", "clips": [["park-pad", null], ["park-pad", "balkon"]], "co": [{ "at": "geen", "big": "Geen tuin", "small": "om bij te houden", "icon": "blad" }, { "at": "tien", "big": "10 m²", "small": "balkon met uitzicht op het groen", "icon": "zon" }] },
+      { "id": "energie", "t": "Het appartement is gasloos, met een eigen warmtepomp, vloerverwarming en -koeling en een voorlopig energielabel A+++.", "clips": [["woonkamer-man", null], ["gracht-zon", "energielabel"]], "co": [{ "at": "gasloos,", "big": "Gasloos", "small": "eigen warmtepomp", "icon": "vlam" }, { "at": "vloerverwarming", "big": "Vloerverwarming", "small": "en -koeling", "icon": "thermo" }, { "at": "A+++.", "big": "A+++", "small": "voorlopig energielabel", "icon": "blad" }] },
+      { "id": "oplevering", "t": "De oplevering staat naar verwachting gepland voor het derde kwartaal van 2027, dus je hebt de tijd om je huidige woning te verkopen.", "clips": [["gracht-zon", null], ["woonkamer-man", "dus"]], "co": [{ "at": "kwartaal", "big": "Q3 2027", "small": "verwachte oplevering", "icon": "klok" }, { "at": "tijd", "big": "Tijd om te verkopen", "small": "je huidige woning", "icon": "huis" }] },
+      { "id": "vorm", "t": "De hypotheekspecialisten van VORM Sales & Finance denken met je mee over overbrugging en oplossingen voor dubbele maandlasten tijdens de bouw.", "clips": [["buurtkamer", null], ["luchtfoto-wijk", "overbrugging"]], "co": [{ "at": "VORM", "big": "VORM Sales & Finance", "small": "hypotheekspecialisten", "icon": "euro" }, { "at": "dubbele", "big": "Dubbele lasten?", "small": "we denken met je mee", "icon": "euro" }] }
+    ],
+    "cta": { "t": "Er zijn nog maar enkele appartementen beschikbaar. Klik op de knop hieronder voor alle informatie en plan een afspraak met onze makelaar.", "clip": "gracht-zon", "kop": "Nog maar enkele appartementen beschikbaar" }
+  },
+  "b3": {
+    "doelgroep": "Starters en jonge stellen",
+    "goud": false,
+    "hooks": [
+      { "t": "Ben je klaar met huren en wil je samen jullie eerste koopwoning in Hoorn?", "clips": [["gracht-zon", null], ["gracht-zon", "koopwoning"]], "accent": ["huren", "eerste", "koopwoning"] },
+      { "t": "Wist je dat een zeer energiezuinig appartement je extra leencapaciteit kan geven?", "clips": [["gracht-zon", null], ["woonkamer-man", "extra"]], "accent": ["energiezuinig", "extra", "leencapaciteit"] },
+      { "t": "Een nieuwbouwappartement met een tweede slaapkamer, zodat je thuiswerkt zonder aan de keukentafel te zitten?", "clips": [["woonkamer-man", null], ["woonkamer-man", "thuiswerkt"]], "accent": ["tweede", "slaapkamer,", "thuiswerkt"] },
+      { "t": "Zoek je een duurzame eerste koopwoning, op fietsafstand van de binnenstad van Hoorn?", "clips": [["gevel-zomer", null], ["luchtfoto-hoorn", "fietsafstand"]], "accent": ["duurzame", "fietsafstand", "Hoorn?"] },
+      { "t": "Jullie eerste eigen huis, gasloos, met vloerkoeling en een balkon met uitzicht op het groen?", "clips": [["gracht-zon", null], ["park-pad", "balkon"]], "accent": ["eerste", "gasloos,", "vloerkoeling", "groen?"] }
+    ],
+    "zinnen": [
+      { "id": "intro", "t": "Nieuwe Weelde bestaat uit zestig middeldure koopappartementen in de wijk Nieuwe Steen in Hoorn.", "clips": [["gevel-zomer", null], ["luchtfoto-wijk", "wijk"]], "co": [{ "at": "zestig", "big": "60", "small": "middeldure koopappartementen", "icon": "huis" }, { "at": "Hoorn.", "big": "Nieuwe Steen", "small": "Hoorn", "icon": "pin" }] },
+      { "id": "slaapkamers", "t": "Elk appartement heeft twee slaapkamers, dus naast jullie slaapkamer is er ruimte voor een thuiswerkplek of een logeerkamer.", "clips": [["woonkamer-man", null], ["woonkamer-man", "thuiswerkplek"]], "co": [{ "at": "twee", "big": "2", "small": "slaapkamers", "icon": "bed" }, { "at": "thuiswerkplek", "big": "Thuiswerkplek", "small": "of logeerkamer", "icon": "laptop" }] },
+      { "id": "balkon", "t": "De lichte woonkamer met open keuken loopt direct door naar je eigen balkon met uitzicht op het groen.", "clips": [["gracht-zon", null], ["park-pad", "balkon"]], "co": [{ "at": "open", "big": "Lichte woonkamer", "small": "met open keuken", "icon": "zon" }, { "at": "balkon", "big": "Eigen balkon", "small": "uitzicht op het groen", "icon": "blad" }] },
+      { "id": "gasloos", "t": "Het appartement is gasloos, met een eigen warmtepomp en vloerverwarming die in de zomer ook voor koeling zorgt.", "clips": [["gracht-zon", null], ["woonkamer-man", "vloerverwarming"]], "co": [{ "at": "gasloos,", "big": "Gasloos", "small": "eigen warmtepomp", "icon": "vlam" }, { "at": "koeling", "big": "Vloerkoeling", "small": "in de zomer", "icon": "thermo" }] },
+      { "id": "label", "t": "Met een voorlopig energielabel A+++ heb je bovendien recht op extra leencapaciteit.", "clips": [["gevel-zomer", null]], "co": [{ "at": "A+++", "big": "A+++", "small": "voorlopig energielabel", "icon": "blad" }, { "at": "leencapaciteit.", "big": "Extra leenruimte", "small": "door energielabel", "icon": "euro" }] },
+      { "id": "locatie", "t": "Naar de binnenstad fiets je in circa twaalf minuten, en de A7 ligt op circa drie kilometer.", "clips": [["luchtfoto-hoorn", null], ["luchtfoto-wijk", "A7"]], "co": [{ "at": "twaalf", "big": "12 min", "small": "fietsen naar de binnenstad", "icon": "fiets" }, { "at": "A7", "big": "3 km", "small": "naar de A7", "icon": "auto" }] },
+      { "id": "parkeren", "t": "Bij elk appartement hoort een eigen parkeerplaats in de garage, en een keukencheque is inbegrepen.", "clips": [["park-pad", null], ["buurtkamer", "keukencheque"]], "co": [{ "at": "parkeerplaats", "big": "Eigen parkeerplaats", "small": "in de garage", "icon": "auto" }, { "at": "keukencheque", "big": "Keukencheque", "small": "inbegrepen", "icon": "koffie" }] }
+    ],
+    "cta": { "t": "Benieuwd wat jij kunt lenen en welke appartementen nog beschikbaar zijn? Klik op de knop hieronder voor alle informatie en plan een afspraak met onze makelaar.", "clip": "gevel-zomer", "kop": "Benieuwd wat jij kunt lenen?" }
+  }
+}

@@ -28,3 +28,11 @@ out/
 .DS_Store
 .env
 *.log
+
+# nieuwe-weelde: klantmateriaal en gesigneerde provider-URL’s
+**/public/bron/
+**/public/portret/
+**/public/clips-orig/
+**/public/clips-arch/
+nieuwe-weelde/scripts/gen-ledger.json
+nieuwe-weelde/build/
