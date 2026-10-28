@@ -1,0 +1,225 @@
+{
+ "ai_clips": {
+  "ai_app_7": {
+   "generation_id": "do0CDP9M9CJB5C1Yl3Av",
+   "model_id": "veo-3.1-generate-001",
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "aspect_ratio": "9:16",
+   "generate_audio": false,
+   "source_image": "Vughtstraat_3D_app_7.jpeg",
+   "source_image_sha256": "dc4064419c17b376c0c97b82ae774b61a029c26fabff551b22f127583d7847d4",
+   "portrait_start_frame_sha256_as_sent": "9fcf217f568ea2af8f267411d8d974974de811ebe87a84d2d95f2abe930b3604",
+   "portrait_start_frame_sha256_library": "68290eba5096a931c6fce6206fe05dbf68db762431e031fe493c45e701b62441",
+   "clip_sha256": "9604ec375d5e3ca5c289033737a79d2e7b2fbdc97166e6e54234711b542ee2fa",
+   "prompt_note": "one continuous shot, no cuts, no transitions, no morphing"
+  },
+  "ai_app_3": {
+   "generation_id": "sK9jqNkYuz83213X0sl7",
+   "model_id": "veo-3.1-generate-001",
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "aspect_ratio": "9:16",
+   "generate_audio": false,
+   "source_image": "Vughtstraat_3D_app_3.jpeg",
+   "source_image_sha256": "37933c63dda4e3bbba93d87bc60880f4427b208df64dbff8580ff002d73b84d4",
+   "portrait_start_frame_sha256_as_sent": "6a561e7a6bdeb91683da3d34ab20df67800570ccf08793b91a6a284e55719c4e",
+   "portrait_start_frame_sha256_library": "2f135f0dc250a1d02e0e0a831669f78d5fdf44e4e09ed7191c5bd3ca0597a0bf",
+   "clip_sha256": "fddc895e41537b8e86cd4db395879bd7aa34e68b97376d030a232bd05f4c63ba",
+   "prompt_note": "one continuous shot, no cuts, no transitions, no morphing"
+  },
+  "ai_Scene_2": {
+   "generation_id": "F8tKZPaXbOkdtrVSsnt0",
+   "model_id": "veo-3.1-generate-001",
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "aspect_ratio": "9:16",
+   "generate_audio": false,
+   "source_image": "Vughtstraat_3D_Scene_2.jpeg",
+   "source_image_sha256": "2a19ee381ea99d591bbc1dbf9a61430239305427d24b378561b01ef4ecc67c29",
+   "portrait_start_frame_sha256_as_sent": "cdea15639f139047f1fab08dca5e6d4418d9870a5e9017ef53b2410b6d5b0886",
+   "portrait_start_frame_sha256_library": "8ccca938ecfaefb24de846807e71e410c90cdbd223374bd670cfee7375433922",
+   "clip_sha256": "df316c07241f999d22cafbcd6dda65ac17bfefede6377c291857d2713b80a48c",
+   "prompt_note": "one continuous shot, no cuts, no transitions, no morphing"
+  },
+  "ai_Scene_3": {
+   "generation_id": "zkTDb4VBIucIQEzopsJL",
+   "model_id": "veo-3.1-generate-001",
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "aspect_ratio": "9:16",
+   "generate_audio": false,
+   "source_image": "Vughtstraat_3D_Scene_3.jpeg",
+   "source_image_sha256": "e207fa64d67dfb42039f36a263fd406e9c46ee7ec7156fcbfb36768ffdbfa0b0",
+   "portrait_start_frame_sha256_as_sent": "fd195b518bd3fed5d1b22de6b11b3f1f587de50ac88ae137390b5a3784682e9f",
+   "portrait_start_frame_sha256_library": "8cd8f933b8dfe2b4a8bf27b2a0d3b8282e45b6ac5fec45b44074154826bc0e82",
+   "clip_sha256": "4cd6f36b42958d5f20c70d59f3aace6ecd3338493e3d1af0382c266a1b1054fe",
+   "prompt_note": "one continuous shot, no cuts, no transitions, no morphing"
+  },
+  "ai_app_4": {
+   "generation_id": "51zvOY0M2ZChiqTCIQ1D",
+   "model_id": "veo-3.1-generate-001",
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "aspect_ratio": "9:16",
+   "generate_audio": false,
+   "source_image": "Vughtstraat_3D_app_4.jpeg",
+   "source_image_sha256": "ae025b00064fd73574d4010430f2e05188e912e318039ec87a81fd7c5e801a15",
+   "portrait_start_frame_sha256_as_sent": "5725c9c53aabba367e5a2fbe02beeae71260127c764a1c3966197c24fe219b0a",
+   "portrait_start_frame_sha256_library": "98f2cd30d0a7b6e512ce1db6de9328c75453714d65b2f7e8573ca28fd13dbb99",
+   "clip_sha256": "9ba43665822db137d80d3fcb2efcd379ff3a149dba3408b2b2759afeac57576f",
+   "prompt_note": "one continuous shot, no cuts, no transitions, no morphing"
+  },
+  "ai_app_6_2": {
+   "generation_id": "xAbd5vNYCYR1FmwYJdsL",
+   "model_id": "veo-3.1-generate-001",
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "aspect_ratio": "9:16",
+   "generate_audio": false,
+   "source_image": "Vughtstraat_3D_app_6_2.jpeg",
+   "source_image_sha256": "c7f500a8c9d14768a6ed3bab1bf7828f05f74d0e4f42275ef23dfa7d881b1495",
+   "portrait_start_frame_sha256_as_sent": "18d3395b3538735f4d031f8f1497153fae96e720e7df458761d51a552776881e",
+   "portrait_start_frame_sha256_library": "52cdb169c1d8737c44cfa35dc896fff1e622b6fcf4bb3df16e6568afd093aa51",
+   "clip_sha256": "0819c72536ecf79246d6c2420d655e379208b5ea094fdd6ac030a6bffee1692a",
+   "prompt_note": "one continuous shot, no cuts, no transitions, no morphing"
+  },
+  "ai_Scene_20_2": {
+   "generation_id": "srT1Cd750yqkPPvendZB",
+   "model_id": "veo-3.1-generate-001",
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "aspect_ratio": "9:16",
+   "generate_audio": false,
+   "source_image": "Vughtstraat_3D_Scene_20_2.jpeg",
+   "source_image_sha256": "bf579f5646d3314b6a123446c978e7bbb18caa761e2aba343171c5b3029405ae",
+   "portrait_start_frame_sha256_as_sent": "3569125c051773bd2709318160afacba320ae46b0f86ec56c3139d98946217ce",
+   "portrait_start_frame_sha256_library": "80329f9e94f1012ddc45def845bd1e4abfb955fca8633e170d2f88cc0f9b93d9",
+   "clip_sha256": "f924dba1813a3a5221df9dd00be1a97a60a35176770018aaee3967087ce8d486",
+   "prompt_note": "one continuous shot, no cuts, no transitions, no morphing"
+  }
+ },
+ "voice": {
+  "b1": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "HFUkkuV2u9LECVmZ9zJY",
+   "character_cost": "428"
+  },
+  "b1h1": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "3WGXCy9xj6e996Sk6Yyc",
+   "character_cost": "33"
+  },
+  "b1h2": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "EM9jwaTntrqP2PgEQMbz",
+   "character_cost": "48"
+  },
+  "b1h3": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "mHYEHNooO3wZpz7TPrDZ",
+   "character_cost": "42"
+  },
+  "b1h4": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "VDFOO9OkELKjGODJ9W7o",
+   "character_cost": "40"
+  },
+  "b1h5": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "OSBNQOfptXm3xVBCJIGu",
+   "character_cost": "33"
+  },
+  "b2": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "NKabDPjSOiL2bSzKTcLx",
+   "character_cost": "464"
+  },
+  "b2h1": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "NyZG9L0yDnJlA4REbd0s",
+   "character_cost": "39"
+  },
+  "b2h2": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "d0QzETwl636U7rl5GB3W",
+   "character_cost": "50"
+  },
+  "b2h3": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "4ZbTR5sQoUNNji9PlzQj",
+   "character_cost": "32"
+  },
+  "b2h4": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "zBA6vOwOrePZgzx2EB0I",
+   "character_cost": "38"
+  },
+  "b2h5": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "dd8I6TZoOh32HSOJIsFV",
+   "character_cost": "48"
+  },
+  "b3": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "9EUiQNlQ9PCDXRkpt0sT",
+   "character_cost": "505"
+  },
+  "b3h1": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "0dStP27MAMgx5ZqLFnSI",
+   "character_cost": "38"
+  },
+  "b3h2": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "Ubi8Gfs7Ew5QMuGaHP6I",
+   "character_cost": "39"
+  },
+  "b3h3": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "BT9VaWLM5mcHSYjw2wZC",
+   "character_cost": "42"
+  },
+  "b3h4": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "9veCODt9nqGh5CrDC0Iv",
+   "character_cost": "42"
+  },
+  "b3h5": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "QsMBJd9YalCbk8zKNMah",
+   "character_cost": "46"
+  }
+ },
+ "music": {
+  "request": {
+   "prompt": "Uplifting, warm, positive instrumental background music for a premium residential real-estate video: gentle piano, soft acoustic guitar, light strings and subtle percussion, optimistic and elegant, steady medium tempo, no vocals.",
+   "music_length_ms": 75000,
+   "model_id": "music_v1",
+   "force_instrumental": true
+  },
+  "headers": {
+   "content-type": "audio/mpeg",
+   "song-id": "dngkxNpJVOlgIiqVHQlI"
+  }
+ },
+ "library_reuse": "REAL-clips komen uit de Frame.io Bronnenbibliotheek (bestandsnaam in scripts/clips_map.json); AI-clips en portretderivaten zijn opgeslagen als portrait_image/motion_clip in de bibliotheek."
+}

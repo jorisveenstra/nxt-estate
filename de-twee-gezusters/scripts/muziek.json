@@ -1,0 +1,12 @@
+{
+ "request": {
+  "prompt": "Uplifting, warm, positive instrumental background music for a premium residential real-estate video: gentle piano, soft acoustic guitar, light strings and subtle percussion, optimistic and elegant, steady medium tempo, no vocals.",
+  "music_length_ms": 75000,
+  "model_id": "music_v1",
+  "force_instrumental": true
+ },
+ "headers": {
+  "content-type": "audio/mpeg",
+  "song-id": "dngkxNpJVOlgIiqVHQlI"
+ }
+}
