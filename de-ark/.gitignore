@@ -2,3 +2,4 @@ out
 node_modules
 .nxt-*
 scripts/tts-cache/*.hdr
+__pycache__/
