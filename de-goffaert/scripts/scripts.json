@@ -1,0 +1,63 @@
+{
+  "b1": {
+    "naam": "Starters: eerste eigen sleutel met begeleiding bij elke stap",
+    "hooks": [
+      "Klaar met huren en toe aan je eerste eigen thuis in Alkmaar?",
+      "Je eerste eigen studio in Alkmaar, vanaf 255.000 euro vrij op naam.",
+      "Wil je kopen, maar vind je die eerste stap nog best spannend?",
+      "Zoek je een eerste koopwoning op loopafstand van de Alkmaarse binnenstad?",
+      "Heb je al gezien wat je in De Goffaert krijgt voor je eerste eigen thuis?"
+    ],
+    "zinnen": [
+      ["intro", "In De Goffaert in Alkmaar koop je een slim ingedeelde studio van circa 45 tot 57 vierkante meter, op loopafstand van de binnenstad."],
+      ["prijs", "De prijzen beginnen bij 255.000 euro vrij op naam."],
+      ["incl", "Sanitair en een eigen warmtepomp zijn inbegrepen, zonder leasekosten."],
+      ["keuken", "Kies je een van de acht sociale koopstudio's, dan is ook de keuken inbegrepen."],
+      ["tuin", "Woon je op de begane grond, dan heb je zelfs een eigen tuin."],
+      ["spannend", "Spannend, je eerste aankoop?"],
+      ["kosten", "Naast de koopsom betaal je erfpacht en servicekosten, en ook dat rekenen we samen met je door."],
+      ["fin", "Binnen vijf werkdagen heb je een financieringsverklaring, en voor een deel van de studio's is NHG mogelijk."],
+      ["cta", "Klik op de knop hieronder en plan een afspraak met de makelaar."]
+    ]
+  },
+  "b2": {
+    "naam": "Volgende woonstap: aparte slaapkamer, buitenruimte en parkeerplaats inbegrepen",
+    "hooks": [
+      "Ben je je huidige woning ontgroeid en toe aan een echte aparte slaapkamer?",
+      "Een tweekamerappartement in Alkmaar, mét buitenruimte en een parkeerplaats inbegrepen?",
+      "Meer ruimte en dicht bij de binnenstad blijven, zonder elke avond een parkeerplek te zoeken?",
+      "Slapen, werken en ontspannen in één kamer? Tijd voor de volgende stap.",
+      "Een eigen balkon, terras of tuin, vier fietsminuten van station Alkmaar: zo ziet je volgende stap eruit."
+    ],
+    "zinnen": [
+      ["intro", "In De Goffaert in Alkmaar koop je een tweekamerappartement van circa 52 tot 78 vierkante meter, op loopafstand van de binnenstad."],
+      ["station", "Ook station Alkmaar ligt op vier minuten fietsen."],
+      ["keuze", "Je kiest zelf de indeling en de verdieping die bij je past."],
+      ["buiten", "Bij elk appartement hoort een eigen tuin, balkon of terras."],
+      ["parkeren", "Één parkeerplaats in de kelder is inbegrepen en vanuit de garage neem je de lift naar je eigen verdieping."],
+      ["incl", "Sanitair en een eigen warmtepomp zijn inbegrepen, zonder leasekosten."],
+      ["prijs", "De prijzen beginnen bij 319.500 euro vrij op naam, met daarnaast een jaarlijkse erfpachtcanon en servicekosten."],
+      ["cta", "Klik op de knop hieronder voor meer informatie en een afspraak met de makelaar."]
+    ]
+  },
+  "b3": {
+    "naam": "Comfortzoekers: overzichtelijk wonen op één niveau met ruimte voor logés",
+    "hooks": [
+      "Wilt u uw huis verruilen voor een overzichtelijker thuis, maar wel ruimte houden voor logés?",
+      "Alles op één verdieping, met een lift vanuit de garage: zo woont u straks in Alkmaar.",
+      "Twee slaapkamers, een eigen buitenruimte en een parkeerplaats inbegrepen, op loopafstand van de Alkmaarse binnenstad.",
+      "Is uw huidige woning eigenlijk groter dan u nodig heeft, en zoekt u vooral meer gemak?",
+      "Een terras met uitzicht over Alkmaar, en de binnenstad gewoon op loopafstand?"
+    ],
+    "zinnen": [
+      ["intro", "In De Goffaert in Alkmaar koopt u een driekamerappartement van circa 70 tot 100 vierkante meter, waarin u comfortabel op één niveau woont."],
+      ["slaap", "Met twee slaapkamers houdt u ruimte voor logés, uw hobby of een werkplek aan huis."],
+      ["parkeren", "Uw auto zet u op uw eigen plek in de parkeerkelder, want één parkeerplaats is inbegrepen."],
+      ["lift", "U neemt de lift naar uw verdieping, dus uw boodschappen hoeft u niet de trap op te dragen."],
+      ["buiten", "Bij elk appartement hoort een eigen tuin, balkon of terras, en bovenin geniet u van een terras met uitzicht over Alkmaar."],
+      ["incl", "Sanitair, tegelwerk en een eigen warmtepomp zijn inbegrepen, zonder leasekosten."],
+      ["prijs", "De prijzen beginnen bij 429.500 euro vrij op naam."],
+      ["cta", "Klik op de knop hieronder voor meer informatie of een afspraak met de makelaar."]
+    ]
+  }
+}
