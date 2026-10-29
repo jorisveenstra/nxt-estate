@@ -3,3 +3,4 @@ out
 public/vo
 public/clips
 scripts/tts-cache/*.mp3
+__pycache__
