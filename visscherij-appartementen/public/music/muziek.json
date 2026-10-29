@@ -1,0 +1,11 @@
+{
+ "request": {
+  "prompt": "Uplifting, warm, positive instrumental background music for a modern new-build apartment advertisement in a Dutch harbour town. Light acoustic guitar, soft piano, gentle percussion, steady optimistic groove, no vocals, no lyrics, quiet and unobtrusive under a voice-over.",
+  "music_length_ms": 62000,
+  "model_id": "music_v1",
+  "force_instrumental": true
+ },
+ "request_id": null,
+ "song_id": "37JGtucg4FVeTD9y1piG",
+ "character_cost": null
+}

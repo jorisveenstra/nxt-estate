@@ -1,0 +1,59 @@
+{
+ "b1": {
+  "titel": "Starters en alleenstaanden",
+  "hooks": [
+   "Klaar met huren en wil je eindelijk een plek die echt van jezelf is?",
+   "Ben je op zoek naar je eerste eigen appartement, nieuw en energiezuinig?",
+   "Een eigen nieuwbouwappartement met buitenruimte en parkeerplaats, voor rond de vierhonderdduizend euro.",
+   "Heb je al gezien welke appartementen er in Oud-IJmuiden worden gebouwd?",
+   "Wil je zelfstandig wonen in een nieuw appartement, zonder eerst te hoeven klussen?"
+  ],
+  "zinnen": [
+   ["ext", "De Visscherij in Oud-IJmuiden bestaat uit acht nieuwbouwappartementen, vlak bij de Vissershaven en het Noordzeekanaal."],
+   ["int", "De prijzen van de nog beschikbare appartementen beginnen rond de vierhonderdduizend euro."],
+   ["int", "Daarvoor krijg je een gloednieuw appartement met volop licht en een eigen tuin of een overdekte loggia op het westen."],
+   ["int", "Het appartement is gasloos, met een warmtepomp en vloerverwarming."],
+   ["park", "Je fiets en spullen zet je in je eigen berging, en je auto op je eigen parkeerplaats op het afgesloten binnenterrein."],
+   ["ext", "De oplevering staat gepland voor het derde kwartaal van 2028."]
+  ],
+  "cta": "Wil je weten welk appartement bij jouw budget past? Klik op de knop hieronder voor alle informatie en plan een afspraak met de makelaar."
+ },
+ "b2": {
+  "titel": "Stellen",
+  "hooks": [
+   "Zoeken jullie samen een licht appartement met een eigen buitenplek voor de avondzon?",
+   "Samen wonen, allebei thuiswerken, en toch een plek om 's avonds buiten te zitten?",
+   "Bijna honderd vierkante meter, een loggia op het westen en de haven om de hoek.",
+   "Is jullie huidige woning te krap voor twee, en missen jullie een fijne buitenruimte?",
+   "Liever wonen op een plek met karakter dan in de zoveelste standaard nieuwbouwwijk?"
+  ],
+  "zinnen": [
+   ["ext", "De Groote Visscherij is een kleinschalig nieuwbouwproject in Oud-IJmuiden, met acht appartementen aan de Duinstraat."],
+   ["int", "Twee van de nog beschikbare appartementen zijn circa negenentachtig en zesennegentig vierkante meter groot, met ruimte om samen te wonen en ook een plek in te richten om thuis te werken."],
+   ["int", "De appartementen hebben volop licht."],
+   ["int", "Buiten hebben jullie een eigen tuin of een overdekte loggia op het westen, waar jullie samen van de avondzon kunnen genieten."],
+   ["int", "Met balkonbeglazing, die als optie mogelijk is, wordt de loggia bijna een extra leefruimte."],
+   ["park", "Jullie fietsen staan in de eigen berging en de auto op een eigen parkeerplaats op het binnenterrein."],
+   ["ext", "En om de hoek liggen de Vissershaven en het Noordzeekanaal: een levendige havenbuurt met echt karakter, geen standaard nieuwbouwwijk."]
+  ],
+  "cta": "Benieuwd hoe het licht en de havenbuurt in het echt voelen? Klik op de knop hieronder voor alle informatie en plan samen een afspraak met de makelaar."
+ },
+ "b3": {
+  "titel": "Haarlem en Amsterdam",
+  "hooks": [
+   "Woon je nu in Haarlem of Amsterdam en wil je meer vierkante meters voor je budget?",
+   "Bijna honderd vierkante meter, een eigen buitenruimte en een eigen parkeerplaats, voor minder dan vijfhonderdduizend euro.",
+   "Heb je IJmuiden al eens serieus bekeken als je volgende woonplek?",
+   "Wil je wonen bij zee en haven, met een gunstige ligging ten opzichte van Haarlem en Amsterdam?",
+   "Wil je ruimer wonen, met een eigen tuin of loggia en een eigen parkeerplaats?"
+  ],
+  "zinnen": [
+   ["ext", "Dit is De Groote Visscherij, een nieuwbouwproject in Oud-IJmuiden, aan de monding van het Noordzeekanaal."],
+   ["int", "Hier zijn nog enkele appartementen beschikbaar van circa negenentachtig en zesennegentig vierkante meter."],
+   ["int", "Daarbij krijg je een eigen tuin of een overdekte loggia op het westen."],
+   ["park", "Je auto staat op je eigen parkeerplaats op het afgesloten binnenterrein, en je spullen in je eigen berging."],
+   ["ext", "Geen gladgestreken stadswijk, maar wel een plek met echt karakter, ruige stranden in de buurt en een gunstige ligging ten opzichte van Haarlem en Amsterdam."]
+  ],
+  "cta": "Wil je eerst zelf ervaren of IJmuiden bij je past? Klik op de knop hieronder voor alle informatie en plan een afspraak met de makelaar om de locatie te bekijken."
+ }
+}
