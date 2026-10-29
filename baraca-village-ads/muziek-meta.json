@@ -1,0 +1,9 @@
+{
+ "model_id": "music_v1",
+ "prompt": "Uplifting, warm instrumental background music for a premium tropical villa investment ad: gentle acoustic guitar, soft marimba, light airy strings and a soft steady pulse, optimistic and calm, island sunrise mood. No vocals, no lyrics.",
+ "music_length_ms": 66000,
+ "force_instrumental": true,
+ "request_id": "",
+ "song_id": "fVKfnAYZmPPpmohdB6h4",
+ "character_cost": null
+}

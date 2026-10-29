@@ -1,0 +1,172 @@
+{
+ "frames": 212,
+ "shots": [
+  {
+   "src": "clips/v12-2.mp4",
+   "from": 0,
+   "dur": 90
+  },
+  {
+   "src": "clips/v03-3.mp4",
+   "from": 90,
+   "dur": 90
+  },
+  {
+   "src": "clips/v01-3.mp4",
+   "from": 180,
+   "dur": 32
+  }
+ ],
+ "audio": [
+  {
+   "src": "vo/b2h3.mp3",
+   "from": 6
+  }
+ ],
+ "music": {
+  "src": "muziek/achtergrond.mp3",
+  "offsetFrames": 88,
+  "volume": 1.0
+ },
+ "words": [
+  {
+   "s": 0.2,
+   "e": 1.16,
+   "t": "Mandalika,"
+  },
+  {
+   "s": 1.24,
+   "e": 1.32,
+   "t": "het"
+  },
+  {
+   "s": 1.4,
+   "e": 2.6,
+   "t": "MotoGP-circuit"
+  },
+  {
+   "s": 2.76,
+   "e": 2.92,
+   "t": "en"
+  },
+  {
+   "s": 3.08,
+   "e": 3.32,
+   "t": "nieuwe"
+  },
+  {
+   "s": 3.4,
+   "e": 4.52,
+   "t": "vliegroutes:"
+  },
+  {
+   "s": 4.6,
+   "e": 4.76,
+   "t": "weet"
+  },
+  {
+   "s": 4.84,
+   "e": 4.92,
+   "t": "u"
+  },
+  {
+   "s": 5.0,
+   "e": 5.08,
+   "t": "wat"
+  },
+  {
+   "s": 5.12,
+   "e": 5.16,
+   "t": "er"
+  },
+  {
+   "s": 5.24,
+   "e": 5.32,
+   "t": "op"
+  },
+  {
+   "s": 5.4,
+   "e": 5.96,
+   "t": "Zuid-Lombok"
+  },
+  {
+   "s": 6.04,
+   "e": 6.76,
+   "t": "gebeurt?"
+  }
+ ],
+ "duckWords": [
+  {
+   "s": 0.2,
+   "e": 1.16,
+   "t": "Mandalika,"
+  },
+  {
+   "s": 1.24,
+   "e": 1.32,
+   "t": "het"
+  },
+  {
+   "s": 1.4,
+   "e": 2.6,
+   "t": "MotoGP-circuit"
+  },
+  {
+   "s": 2.76,
+   "e": 2.92,
+   "t": "en"
+  },
+  {
+   "s": 3.08,
+   "e": 3.32,
+   "t": "nieuwe"
+  },
+  {
+   "s": 3.4,
+   "e": 4.52,
+   "t": "vliegroutes:"
+  },
+  {
+   "s": 4.6,
+   "e": 4.76,
+   "t": "weet"
+  },
+  {
+   "s": 4.84,
+   "e": 4.92,
+   "t": "u"
+  },
+  {
+   "s": 5.0,
+   "e": 5.08,
+   "t": "wat"
+  },
+  {
+   "s": 5.12,
+   "e": 5.16,
+   "t": "er"
+  },
+  {
+   "s": 5.24,
+   "e": 5.32,
+   "t": "op"
+  },
+  {
+   "s": 5.4,
+   "e": 5.96,
+   "t": "Zuid-Lombok"
+  },
+  {
+   "s": 6.04,
+   "e": 6.76,
+   "t": "gebeurt?"
+  }
+ ],
+ "globalOffsetFrames": 0,
+ "totalFrames": 212,
+ "accents": [],
+ "cta": null,
+ "wordmark": true,
+ "fadeIn": true,
+ "fadeOut": false
+}

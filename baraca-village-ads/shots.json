@@ -1,0 +1,351 @@
+{
+ "sources": {
+  "v01": {
+   "file": "baraca_village_Baraca_Village_-_video_01_curtains_in_the_breeze.mov",
+   "sha256": "9fd6162023834fde5e172461739ee4f69f7f5ed86703b69e00ff55c1156d7b9d",
+   "duration": 8.041667,
+   "name": "villa-tuin",
+   "tags": "exterieur,villa,tuin,dag"
+  },
+  "v02": {
+   "file": "baraca_village_Baraca_Village_-_video_02_pool_ripples_and_palms.mov",
+   "sha256": "407e780858f2c58131fbff0ae4f066dcbfdac735296d6a855d56b59beba93e49",
+   "duration": 8.041667,
+   "name": "villa-prive-zwembad",
+   "tags": "exterieur,villa,zwembad,dag"
+  },
+  "v03": {
+   "file": "baraca_village_Baraca_Village_-_video_03_morning_light_push-in.mov",
+   "sha256": "69c2ef3e17172e6c0fa5b25e555fe82546fc8a6f78fcdfe1557f18bdca0fef5c",
+   "duration": 8.041667,
+   "name": "villa-twee-verdiepingen",
+   "tags": "exterieur,villa,ochtendlicht"
+  },
+  "v04": {
+   "file": "baraca_village_Baraca_Village_-_video_04_drone_flyover_to_the_sea.mov",
+   "sha256": "b94246ecced80b7449493ad69070fe5fdb7b87ed12f8319d73ed0ea069a33b1b",
+   "duration": 8.041667,
+   "name": "drone-dorp-naar-zee",
+   "tags": "drone,overzicht,zee,golden-hour"
+  },
+  "v05": {
+   "file": "baraca_village_Baraca_Village_-_video_05_drone_orbit_kids_on_the_village_road.mov",
+   "sha256": "bcc210901dfc71828804ab001ceaa0a57e5bfddca3bd8d3496780babc2ad1066",
+   "duration": 8.041667,
+   "name": "drone-dorpsweg",
+   "tags": "drone,overzicht,weg,kinderen"
+  },
+  "v09": {
+   "file": "baraca_village_Baraca_Village_-_video_09_living_room_curtains.mov",
+   "sha256": "97b884b8150c039bc1782c3313c0aa1ca0e8c7d8555ac96ee0bbb7c5d1a1592c",
+   "duration": 5.041667,
+   "name": "woonkamer",
+   "tags": "interieur,woonkamer"
+  },
+  "v10": {
+   "file": "baraca_village_Baraca_Village_-_video_10_bedroom_garden_breeze.mov",
+   "sha256": "f36273577dc8eb7eb19238fb4324350705d5ca8207493cc13e55121333c4636d",
+   "duration": 5.041667,
+   "name": "slaapkamer",
+   "tags": "interieur,slaapkamer,tuin"
+  },
+  "v11": {
+   "file": "baraca_village_Baraca_Village_-_video_11_kitchen_dining_morning_v2.mov",
+   "sha256": "528dbe8aa77c2956cd767091661e9cb3a5df39b01224cda2465fa271cb03ac9f",
+   "duration": 5.041667,
+   "name": "keuken-eethoek",
+   "tags": "interieur,keuken,ochtend"
+  },
+  "v13": {
+   "file": "baraca_village_Baraca_Village_-_video_13_common_pool.mov",
+   "sha256": "d5ee191cb222c10a95ef0670f20d605454310ed4557c61158f5826b835e774e2",
+   "duration": 5.041667,
+   "name": "gedeeld-zwembad",
+   "tags": "exterieur,zwembad,zonsondergang"
+  },
+  "v12": {
+   "file": "baraca_village_12_Kids_at_the_gate_v2.mov",
+   "sha256": "42b50f97093ce5e750c6d8a384792916f2ca9f69c8bccd84d713a81030944e45",
+   "duration": 5.041667,
+   "name": "kinderen-bij-poort",
+   "tags": "exterieur,kinderen,poort"
+  }
+ },
+ "shots": [
+  {
+   "id": "v01-1",
+   "src": "v01",
+   "start": 0.0,
+   "pan": [
+    0.3,
+    0.55
+   ],
+   "subject": "villa-tuin",
+   "tags": "exterieur,villa,tuin,dag"
+  },
+  {
+   "id": "v01-2",
+   "src": "v01",
+   "start": 2.5,
+   "pan": [
+    0.45,
+    0.7
+   ],
+   "subject": "villa-tuin",
+   "tags": "exterieur,villa,tuin,dag"
+  },
+  {
+   "id": "v01-3",
+   "src": "v01",
+   "start": 5.0,
+   "pan": [
+    0.3,
+    0.55
+   ],
+   "subject": "villa-tuin",
+   "tags": "exterieur,villa,tuin,dag"
+  },
+  {
+   "id": "v02-1",
+   "src": "v02",
+   "start": 0.0,
+   "pan": [
+    0.5,
+    0.5
+   ],
+   "subject": "villa-prive-zwembad",
+   "tags": "exterieur,villa,zwembad,dag"
+  },
+  {
+   "id": "v02-2",
+   "src": "v02",
+   "start": 2.5,
+   "pan": [
+    0.6,
+    0.4
+   ],
+   "subject": "villa-prive-zwembad",
+   "tags": "exterieur,villa,zwembad,dag"
+  },
+  {
+   "id": "v02-3",
+   "src": "v02",
+   "start": 5.0,
+   "pan": [
+    0.5,
+    0.5
+   ],
+   "subject": "villa-prive-zwembad",
+   "tags": "exterieur,villa,zwembad,dag"
+  },
+  {
+   "id": "v03-1",
+   "src": "v03",
+   "start": 0.0,
+   "pan": [
+    0.45,
+    0.7
+   ],
+   "subject": "villa-twee-verdiepingen",
+   "tags": "exterieur,villa,ochtendlicht"
+  },
+  {
+   "id": "v03-2",
+   "src": "v03",
+   "start": 2.5,
+   "pan": [
+    0.3,
+    0.55
+   ],
+   "subject": "villa-twee-verdiepingen",
+   "tags": "exterieur,villa,ochtendlicht"
+  },
+  {
+   "id": "v03-3",
+   "src": "v03",
+   "start": 5.0,
+   "pan": [
+    0.45,
+    0.7
+   ],
+   "subject": "villa-twee-verdiepingen",
+   "tags": "exterieur,villa,ochtendlicht"
+  },
+  {
+   "id": "v04-1",
+   "src": "v04",
+   "start": 0.0,
+   "pan": [
+    0.6,
+    0.4
+   ],
+   "subject": "drone-dorp-naar-zee",
+   "tags": "drone,overzicht,zee,golden-hour"
+  },
+  {
+   "id": "v04-2",
+   "src": "v04",
+   "start": 2.5,
+   "pan": [
+    0.5,
+    0.5
+   ],
+   "subject": "drone-dorp-naar-zee",
+   "tags": "drone,overzicht,zee,golden-hour"
+  },
+  {
+   "id": "v04-3",
+   "src": "v04",
+   "start": 5.0,
+   "pan": [
+    0.6,
+    0.4
+   ],
+   "subject": "drone-dorp-naar-zee",
+   "tags": "drone,overzicht,zee,golden-hour"
+  },
+  {
+   "id": "v05-1",
+   "src": "v05",
+   "start": 0.0,
+   "pan": [
+    0.3,
+    0.55
+   ],
+   "subject": "drone-dorpsweg",
+   "tags": "drone,overzicht,weg,kinderen"
+  },
+  {
+   "id": "v05-2",
+   "src": "v05",
+   "start": 2.5,
+   "pan": [
+    0.45,
+    0.7
+   ],
+   "subject": "drone-dorpsweg",
+   "tags": "drone,overzicht,weg,kinderen"
+  },
+  {
+   "id": "v05-3",
+   "src": "v05",
+   "start": 5.0,
+   "pan": [
+    0.3,
+    0.55
+   ],
+   "subject": "drone-dorpsweg",
+   "tags": "drone,overzicht,weg,kinderen"
+  },
+  {
+   "id": "v09-1",
+   "src": "v09",
+   "start": 0.0,
+   "pan": [
+    0.5,
+    0.5
+   ],
+   "subject": "woonkamer",
+   "tags": "interieur,woonkamer"
+  },
+  {
+   "id": "v09-2",
+   "src": "v09",
+   "start": 1.9416670000000003,
+   "pan": [
+    0.6,
+    0.4
+   ],
+   "subject": "woonkamer",
+   "tags": "interieur,woonkamer"
+  },
+  {
+   "id": "v10-1",
+   "src": "v10",
+   "start": 0.0,
+   "pan": [
+    0.6,
+    0.4
+   ],
+   "subject": "slaapkamer",
+   "tags": "interieur,slaapkamer,tuin"
+  },
+  {
+   "id": "v10-2",
+   "src": "v10",
+   "start": 1.9416670000000003,
+   "pan": [
+    0.5,
+    0.5
+   ],
+   "subject": "slaapkamer",
+   "tags": "interieur,slaapkamer,tuin"
+  },
+  {
+   "id": "v11-1",
+   "src": "v11",
+   "start": 0.0,
+   "pan": [
+    0.5,
+    0.5
+   ],
+   "subject": "keuken-eethoek",
+   "tags": "interieur,keuken,ochtend"
+  },
+  {
+   "id": "v11-2",
+   "src": "v11",
+   "start": 1.9416670000000003,
+   "pan": [
+    0.6,
+    0.4
+   ],
+   "subject": "keuken-eethoek",
+   "tags": "interieur,keuken,ochtend"
+  },
+  {
+   "id": "v13-1",
+   "src": "v13",
+   "start": 0.0,
+   "pan": [
+    0.6,
+    0.4
+   ],
+   "subject": "gedeeld-zwembad",
+   "tags": "exterieur,zwembad,zonsondergang"
+  },
+  {
+   "id": "v13-2",
+   "src": "v13",
+   "start": 1.9416670000000003,
+   "pan": [
+    0.5,
+    0.5
+   ],
+   "subject": "gedeeld-zwembad",
+   "tags": "exterieur,zwembad,zonsondergang"
+  },
+  {
+   "id": "v12-1",
+   "src": "v12",
+   "start": 0.0,
+   "pan": [
+    0.5,
+    0.5
+   ],
+   "subject": "kinderen-bij-poort",
+   "tags": "exterieur,kinderen,poort"
+  },
+  {
+   "id": "v12-2",
+   "src": "v12",
+   "start": 1.9416670000000003,
+   "pan": [
+    0.6,
+    0.4
+   ],
+   "subject": "kinderen-bij-poort",
+   "tags": "exterieur,kinderen,poort"
+  }
+ ]
+}
