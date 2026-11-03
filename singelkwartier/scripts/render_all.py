@@ -8,10 +8,10 @@ BR = "/opt/pw-browsers/chromium"
 def render(comp):
     f = OUT / f"{comp}.mp4"
     if not f.exists():
-        subprocess.run(["npx", "remotion", "render", comp, str(f), f"--browser-executable={BR}", "--concurrency=2", "--codec=h264", "--crf=24"], cwd=ROOT, check=True, stdout=subprocess.DEVNULL)
+        subprocess.run(["npx", "remotion", "render", comp, str(f), f"--browser-executable={BR}", "--concurrency=4", "--codec=h264", "--crf=24"], cwd=ROOT, check=True, stdout=subprocess.DEVNULL)
     return f
 comps = ["Body1", "Body2"] + [f"Hook{b}-{h}" for b in (1, 2) for h in range(1, 6)]
-with ThreadPoolExecutor(2) as ex:
+with ThreadPoolExecutor(1) as ex:
     list(ex.map(render, comps))
 for b in (1, 2):
     for h in range(1, 6):
