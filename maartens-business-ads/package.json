@@ -1,0 +1,10 @@
+{
+  "name": "maartens-business-ads",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Maartens Business advertentievideo's (3 bodies x 5 hooks), staand 1080x1920",
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "remotion render Ad out/video.mp4 --props=props/b1h1.json"
+  }
+}
