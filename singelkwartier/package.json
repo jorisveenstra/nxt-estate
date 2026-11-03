@@ -1,0 +1,9 @@
+{
+  "name": "singelkwartier-videos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Advertentievideo's voor Singelkwartier Vlissingen (2 bodies x 5 hooks, 9:16)",
+  "scripts": {
+    "dev": "remotion studio"
+  }
+}
