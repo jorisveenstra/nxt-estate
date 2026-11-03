@@ -22,17 +22,19 @@ for b in (1,2,3):
         out = R/f"out/final/{name}.mp4"
         hv, bv = R/f"out/seg/Hook{b}-{h}.mp4", R/f"out/seg/Body{b}.mp4"
         hd, bd = dur(hv), dur(bv)
+        done = out.exists()
         total = hd + bd
+        if not done: pass
         lst = R/"out/tmp"/f"{name}.txt"; lst.parent.mkdir(exist_ok=True)
         lst.write_text(f"file '{hv}'\nfile '{bv}'\n")
         vid = R/"out/tmp"/f"{name}-v.mp4"
-        subprocess.run(["ffmpeg","-v","error","-y","-f","concat","-safe","0","-i",str(lst),"-c","copy",str(vid)],check=True)
+        if not done: subprocess.run(["ffmpeg","-v","error","-y","-f","concat","-safe","0","-i",str(lst),"-c","copy",str(vid)],check=True)
         ms = int(round(hd*1000))
         fc = (f"[0:a]adelay=0|0[h];[1:a]adelay={ms}|{ms}[b];[h][b]amix=inputs=2:normalize=0,asplit=2[vo][key];"
               f"[2:a]atrim=0:{total:.3f},volume=0.5,afade=t=in:d=0.8,afade=t=out:st={total-1.8:.3f}:d=1.8[m];"
               f"[m][key]sidechaincompress=threshold=0.03:ratio=8:attack=20:release=400[md];"
               f"[vo][md]amix=inputs=2:normalize=0,alimiter=limit=0.95,apad,atrim=0:{total:.3f}[a]")
-        subprocess.run(["ffmpeg","-v","error","-y","-i",str(R/f"public/vo/b{b}-hook{h}.mp3"),"-i",str(R/f"public/vo/b{b}-body.mp3"),
+        if not done: subprocess.run(["ffmpeg","-v","error","-y","-i",str(R/f"public/vo/b{b}-hook{h}.mp3"),"-i",str(R/f"public/vo/b{b}-body.mp3"),
                         "-i",str(R/"public/muziek/muziek.mp3"),"-i",str(vid),"-filter_complex",fc,"-map","3:v","-map","[a]",
                         "-c:v","copy","-c:a","aac","-b:a","192k","-movflags","+faststart","-shortest",str(out)],check=True)
         # ZIP met bewerkbare bron (geen node_modules/.env/tokens/finale MP4)
@@ -42,7 +44,9 @@ for b in (1,2,3):
                  and not p.name.startswith(".nxt-") and not (p.parent.name=="clips" and p.stem not in clips)
                  and not (p.parent.name=="vo" and not (p.stem in (f"b{b}-body", f"b{b}-hook{h}")))]
         with zipfile.ZipFile(z,"w",zipfile.ZIP_STORED) as zf:
-            for p in files: zf.write(p, "dok-spijkenisse/"+str(p.relative_to(R)))
+            for p in files:
+                src = (R/"out/zipclips"/p.name) if p.parent.name == "clips" else p
+                zf.write(src, "dok-spijkenisse/"+str(p.relative_to(R)))
             zf.write(R.parent/"package.json","package.json"); zf.write(R.parent/"package-lock.json","package-lock.json")
             zf.writestr("dok-spijkenisse/COMPOSITIE.json", json.dumps({"body":b,"hook":h,"compositions":[f"Hook{b}-{h}",f"Body{b}"],"size":"1080x1920","fps":FPS,
               "render":"npx remotion render <id> out.mp4 --muted; daarna scripts/assemble.py (ffmpeg concat + mix)","clips":sorted(clips)}, indent=1))
