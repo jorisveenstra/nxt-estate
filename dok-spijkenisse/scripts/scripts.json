@@ -1,0 +1,61 @@
+{
+ "voice_id": "YgjXqgzBJa9op0K278OW",
+ "b1": {
+  "hooks": [
+   "Huur je nu een bedrijfsruimte, maar wil je eigenlijk een pand dat helemaal van jou is?",
+   "Wil je een eigen bedrijfspand kopen, maar weet je niet waar je moet beginnen met de financiering?",
+   "Betaal je elke maand huur voor een bedrijfsruimte die nooit van jou wordt?",
+   "Voelt het kopen van je eerste bedrijfsunit als een te grote stap om alleen te zetten?",
+   "Ben je klaar om met je bedrijf de stap te zetten van huurder naar eigenaar?"
+  ],
+  "zinnen": [
+   ["intro", "Bij DOK Spijkenisse koop je je eigen bedrijfsunit, en je staat er niet alleen voor."],
+   ["team", "Ons team begeleidt je persoonlijk, van je hypotheek tot de mogelijkheden voor de inrichting van je unit."],
+   ["unit", "Type B heeft zo'n 88 vierkante meter over twee lagen, een hoge overheaddeur en twee eigen parkeerplaatsen."],
+   ["energie", "De unit is energiezuinig en gasloos, en wordt startklaar geleverd met stroom."],
+   ["stappen", "Het aankoopproces telt vier overzichtelijke stappen met persoonlijk contact met de makelaar, zodat je precies weet waar je aan toe bent."],
+   ["planning", "De bouw start in 2026 en de oplevering staat gepland in 2027."],
+   ["slot", "Zo bouw je voortaan aan je eigen pand in plaats van aan dat van je huurbaas."],
+   ["cta", "Klik op de knop hieronder, vraag de volledige documentatie aan en ontdek samen met ons team hoe jij eigenaar wordt van je eigen DOK-unit."]
+  ]
+ },
+ "b2": {
+  "hooks": [
+   "Ligt je materiaal verspreid over een schuur, een garage en de laadbak van je bus?",
+   "Zoek je als aannemer een eigen uitvalsbasis waar je gereedschap, materiaal en administratie bij elkaar liggen?",
+   "Groeit je bouwbedrijf, maar werk je nog steeds vanuit een plek die eigenlijk te klein is?",
+   "Wil je met je bouwbedrijf vanuit een eigen pand werken dat tegen een stootje kan?",
+   "Twijfel je of een compacte bedrijfsunit wel genoeg ruimte biedt voor jouw aannemersbedrijf?"
+  ],
+  "zinnen": [
+   ["intro", "Bij DOK Spijkenisse koop je je eigen bedrijfsunit, al vanaf 189.500 euro."],
+   ["unit", "Type B heeft zo'n 88 vierkante meter over twee lagen, met een hoge overheaddeur en robuuste bouwkwaliteit voor intensief gebruik."],
+   ["twijfel", "Twijfel je of dat genoeg is voor je materiaal, je gereedschap en je administratie?"],
+   ["team", "Ons team denkt persoonlijk met je mee over de inrichting, zodat je elke vierkante meter slim benut."],
+   ["fin", "Ook bij de financiering staan we naast je."],
+   ["ligging", "Je hebt twee eigen parkeerplaatsen voor je bus, en via de A15 en de N218 ben je snel op weg naar je volgende klus."],
+   ["energie", "De unit is gasloos, energiezuinig en wordt startklaar geleverd met stroom."],
+   ["planning", "De oplevering staat gepland in 2027, dus je kunt nu al vooruitplannen voor je eigen uitvalsbasis."],
+   ["cta", "Klik op de knop hieronder, vraag de plattegronden en technische specificaties aan en bespreek met ons team hoe jij jouw unit indeelt."]
+  ]
+ },
+ "b3": {
+  "hooks": [
+   "Ontvang je je klanten nog aan je keukentafel of in een ruimte die eigenlijk niet bij je bedrijf past?",
+   "Wil je dat je klanten bij binnenkomst meteen zien hoe professioneel jij werkt?",
+   "Ben je als vakman trots op je werk, maar laat je werkplek dat nog niet zien?",
+   "Zoek je een eigen bedrijfsplek waar je met plezier werkt en je klanten graag ontvangt?",
+   "Wil je je bedrijf een eigen adres geven met een strakke uitstraling en groen om je heen?"
+  ],
+  "zinnen": [
+   ["intro", "Bij DOK Spijkenisse koop je een eigen bedrijfsunit waar je je klanten met trots ontvangt."],
+   ["team", "Ons team begeleidt je persoonlijk bij het vormgeven van je unit, zodat de inrichting past bij jouw vak en jouw uitstraling."],
+   ["design", "De bedrijfsruimtes hebben een strak en modern ontwerp, aan de Edisonweg met vrij uitzicht over het natuur- en recreatiegebied Mallebos."],
+   ["ligging", "Je klanten vinden je makkelijk, met de A15, de N218 en Rotterdam dichtbij en bushaltes op loopafstand."],
+   ["unit", "Type B biedt zo'n 88 vierkante meter over twee lagen, met ruimte voor je werk en een plek voor je klanten."],
+   ["parkeren", "Met twee eigen parkeerplaatsen staat je bezoek gewoon voor de deur."],
+   ["prijs", "Je koopt al vanaf 189.500 euro, en de oplevering staat gepland in 2027."],
+   ["cta", "Klik op de knop hieronder, vraag de brochure aan en plan een afspraak met ons team om te ontdekken hoe jouw eigen DOK-unit eruit kan zien."]
+  ]
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "model_id": "music_v1",
+ "settings": {
+  "prompt": "Uplifting, positive, modern instrumental background music for a real estate commercial. Warm light piano and plucked guitar, soft uptempo percussion, gentle build-up, optimistic and confident, steady medium tempo, no vocals, no lyrics, leaves room for a voice-over.",
+  "model_id": "music_v1",
+  "force_instrumental": true,
+  "music_length_ms": 75000
+ },
+ "headers": {
+  "song-id": "5PUIzin1Hh8zFYwG8Kvi"
+ }
+}

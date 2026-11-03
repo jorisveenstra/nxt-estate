@@ -1,0 +1,110 @@
+{
+ "b1-hook3": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "character-cost": "36",
+  "request-id": "vyJl2Rj4zIHD4IvWtcRt"
+ },
+ "b3-hook4": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "character-cost": "42",
+  "request-id": "Y9u7EDyp5mk5ewVKl22V"
+ },
+ "b2-hook5": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "character-cost": "44",
+  "request-id": "HZ7He2KNVoyjN7NVYx1p"
+ },
+ "b2-hook4": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "character-cost": "39",
+  "request-id": "qiFANG78lLHyx5tVOu0j"
+ },
+ "b3-hook3": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "character-cost": "37",
+  "request-id": "kDQbKdUfC1WBUM9fKoHL"
+ },
+ "b1-body": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "character-cost": "382",
+  "request-id": "OvLDuw18UVeKML0QaTMe"
+ },
+ "b1-hook2": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "character-cost": "47",
+  "request-id": "dXMALhLu7SrFuykLnzP6"
+ },
+ "b1-hook5": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "character-cost": "36",
+  "request-id": "P32hUog6gGAlsvvaYJC8"
+ },
+ "b1-hook4": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "character-cost": "41",
+  "request-id": "NfsH9pu6GtNtEVabGpy8"
+ },
+ "b2-hook3": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "character-cost": "43",
+  "request-id": "ELv6jclhs3Lypt2Fpimq"
+ },
+ "b3-hook2": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "character-cost": "38",
+  "request-id": "qqeftc017Hu85sdEWqhL"
+ },
+ "b2-body": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "character-cost": "440",
+  "request-id": "8X4wnZzaDlMYFVrvdExX"
+ },
+ "b1-hook1": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "character-cost": "42",
+  "request-id": "pld9YjkfZuEyFJe8AUV2"
+ },
+ "b2-hook1": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "character-cost": "39",
+  "request-id": "Pno1LlZVjGrjMZ9TQOWy"
+ },
+ "b3-hook1": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "character-cost": "49",
+  "request-id": "2OCB4qRlm5zrIyNjMALZ"
+ },
+ "b3-body": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "character-cost": "433",
+  "request-id": "FPympRQHAb9Vq9ZLDmli"
+ },
+ "b3-hook5": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "character-cost": "43",
+  "request-id": "cS4n2NYEyEyYPvqjKavd"
+ },
+ "b2-hook2": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "character-cost": "53",
+  "request-id": "RSjKQ6fnZotKgoTkAhpS"
+ }
+}
