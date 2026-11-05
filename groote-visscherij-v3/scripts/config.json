@@ -1,0 +1,47 @@
+{
+ "b1": {
+  "scenes": [
+   {"clips":["voorgevel","achterzijde-b"],"chips":["De Groote Visscherij","Oud-IJmuiden"]},
+   {"clips":["serre","voorgevel"],"chips":["Vissershaven","Noordzeekanaal"]},
+   {"clips":["binnenterrein","achterzijde"],"chips":["4 woningen","152–156 m² incl. serre"]},
+   {"clips":["serre","woonkamer-right"],"chips":["Eigen orangerie","Serre op het zuidwesten"]},
+   {"clips":["achterzijde","achterzijde-b"],"chips":["Terras 3 m diep"]},
+   {"clips":["woonkamer-eet","woonkamer-fwd"],"chips":["Traplopen later lastiger?"]},
+   {"clips":["woonkamer-fwd2","woonkamer-right"],"chips":["Optioneel: eigen huislift"]},
+   {"clips":["woonkamer-eet","woonkamer-fwd2"],"chips":["Een huis dat met u meegroeit"]},
+   {"clips":["woonkamer-right","woonkamer-fwd"],"chips":["Vooraf bespreken met de makelaar"]},
+   {"clips":["binnenterrein","binnenterrein-b"],"chips":["Eigen parkeerplaats","Oplevering Q3 2028"]}
+  ],
+  "hooks": [["woonkamer-eet","Ruim wonen","Nu én later"],["woonkamer-fwd","Traplopen","lastiger?"],["voorgevel","Ruim wonen","Oud-IJmuiden"],["woonkamer-fwd2","Huislift","optioneel"],["achterzijde","4 woningen","Bik- en Arnoldkade"]],
+  "cta": "binnenterrein"
+ },
+ "b2": {
+  "scenes": [
+   {"clips":["voorgevel","achterzijde-b"],"chips":["De Groote Visscherij","Oud-IJmuiden"]},
+   {"clips":["serre","voorgevel"],"chips":["Aan de haven","Visserskarakter"]},
+   {"clips":["binnenterrein","achterzijde"],"chips":["4 woningen","152–156 m² incl. serre"]},
+   {"clips":["woonkamer-eet","woonkamer-fwd2"],"chips":["Flexibele begane grond","Extra inpandig appartement"]},
+   {"clips":["serre","woonkamer-right"],"chips":["Eigen orangerie","Uitzicht op de haven"]},
+   {"clips":["woonkamer-fwd","woonkamer-right"],"chips":["Ieder een eigen ritme"]},
+   {"clips":["woonkamer-fwd2","woonkamer-eet"],"chips":["Optioneel: huislift"]},
+   {"clips":["woonkamer-right","woonkamer-fwd"],"chips":["Vooraf bespreken met de makelaar"]}
+  ],
+  "hooks": [["woonkamer-fwd","Ouders","dichtbij"],["woonkamer-eet","Meer ruimte","en privacy"],["voorgevel","Eigen plek","aan de haven"],["achterzijde-b","Samen wonen","zelfstandig blijven"],["serre","Wonen aan","het water"]],
+  "cta": "woonkamer-fwd2"
+ },
+ "b3": {
+  "scenes": [
+   {"clips":["voorgevel","achterzijde-b"],"chips":["De Groote Visscherij","Oud-IJmuiden"]},
+   {"clips":["serre","voorgevel"],"chips":["Aan de Vissershaven","Nabij Haarlem & Amsterdam"]},
+   {"clips":["binnenterrein","achterzijde"],"chips":["4 woningen","152–156 m² incl. serre"]},
+   {"clips":["woonkamer-eet","woonkamer-fwd"],"chips":["Kantoor of praktijk aan huis"]},
+   {"clips":["woonkamer-fwd2","woonkamer-right"],"chips":["Praktijk beneden","Privéleven boven"]},
+   {"clips":["serre","woonkamer-right"],"chips":["Eigen orangerie","Serre op het zuidwesten"]},
+   {"clips":["woonkamer-fwd","woonkamer-eet"],"chips":["Geen file, geen reistijd"]},
+   {"clips":["binnenterrein","binnenterrein-b"],"chips":["Eigen parkeerplaats"]},
+   {"clips":["woonkamer-right","woonkamer-fwd2"],"chips":["Vooraf bespreken met de makelaar"]}
+  ],
+  "hooks": [["woonkamer-eet","Praktijk","aan huis"],["woonkamer-fwd2","Praktijk beneden","Privéleven boven"],["woonkamer-right","Werk en privé","gescheiden"],["voorgevel","Geen reistijd","meer"],["woonkamer-fwd","Eigen","werkverdieping"]],
+  "cta": "voorgevel"
+ }
+}

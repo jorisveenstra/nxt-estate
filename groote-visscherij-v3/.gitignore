@@ -1,0 +1,7 @@
+out
+node_modules
+.nxt-*
+public/clips
+public/vo
+public/muziek
+scripts/tts-cache
