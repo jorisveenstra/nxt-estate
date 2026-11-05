@@ -9,7 +9,7 @@ def render(comp):
     dst = OUT / "delen" / f"{comp}.mp4"
     if dst.exists(): return dst
     subprocess.run(["npx", "remotion", "render", comp, str(dst), "--browser-executable", CH, "--chromium-options=no-sandbox", "--concurrency", "2",
-                    "--codec", "h264", "--crf", "24", "--muted", "--pixel-format", "yuv420p", "--x264-preset", "fast"], cwd=R, check=True, capture_output=True)
+                    "--codec", "h264", "--crf", "24", "--muted", "--pixel-format", "yuv420p", "--x264-preset", "fast"], cwd=R, check=True, stdout=open(OUT / "delen" / f"{comp}.log", "w"), stderr=subprocess.STDOUT)
     return dst
 comps = [f"Body{b}" for b in (1, 2, 3)] + [f"Hook{b}-{h}" for b in (1, 2, 3) for h in range(1, 6)]
 with cf.ThreadPoolExecutor(2) as ex:
