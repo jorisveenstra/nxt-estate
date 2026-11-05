@@ -1,0 +1,50 @@
+{
+ "veo": {
+  "model": "veo-3.1-generate-001",
+  "generationIds": {
+   "06": "8xfrLGbukJkEnQR1mPNX",
+   "24": "h2R0Kq2oLytlDjI4KSLV",
+   "13": "VmjPDCSOm5yZdLlFT9ia",
+   "19": "l3QZ0GFlAnC4xG36ud3Y",
+   "20": "bhqWWBhQHrgg7Hh2JwGj",
+   "05": "68kNWvIJmmEBcfpxP9fb",
+   "14": "ccy0I4dgVFptpsjAQWh0",
+   "22": "J74mElDJMhQqIDjgMRt0"
+  },
+  "assets": {
+   "06": "YL0y8OevZgaZF3gsZU1m",
+   "05": "N46MFHWWpFhaVzxMu9Tk",
+   "24": "jVq8lgKmKnrDQu9THd7d",
+   "22": "HcrFGgLaU75chLSCgYhd",
+   "20": "i53rh4sN0MIHBnc0RdkN",
+   "19": "3oJH0ujSWmJeLDU6A0dY",
+   "13": "nI6A6SmHsAuhqdnVovAm",
+   "14": "xTKIeq79EWY8Af71685S"
+  }
+ },
+ "voiceover": {
+  "model_id": "eleven_v4",
+  "voice_id": "jfwdd64Nlhnj6vcFqRHZ",
+  "language_code": "nl"
+ },
+ "music": {
+  "model_id": "music_v1",
+  "song_id": "Uq1nKQjR5aQ85CbtH7Oz",
+  "instrumental": true,
+  "length_ms": 62000
+ },
+ "branding": {
+  "colors": {
+   "navy": "#112337",
+   "blue": "#204ce5",
+   "teal": "#2EBAA5"
+  },
+  "font": "Inter",
+  "logo": "stocknederland.nl white logo",
+  "sources": [
+   "https://stocknederland.nl/utrecht-zuid/"
+  ],
+  "note": "stock-utrecht-zuid.afspraakbij.info is a client-rendered page with no static brand assets"
+ },
+ "mux": "mux.sh: hook+body concat, music 0.16 vol sidechain-ducked under narration"
+}
