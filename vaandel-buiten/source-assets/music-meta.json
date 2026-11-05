@@ -1,0 +1,14 @@
+{
+ "status": "completed",
+ "request": {
+  "model_id": "music_v1",
+  "prompt": "Uplifting, warm and optimistic instrumental background music for a residential real estate advertisement in the Netherlands: gentle acoustic guitar and soft piano, light percussion, airy strings, positive and hopeful mood, steady medium tempo around 100 bpm, clean and modern, no vocals, no lyrics, leaves room for a spoken voice-over.",
+  "force_instrumental": true,
+  "music_length_ms": 72000
+ },
+ "headers": {
+  "content-length": "1153193",
+  "content-type": "audio/mpeg",
+  "song-id": "JfzzwO6QbDnj6PtJ77Qq"
+ }
+}

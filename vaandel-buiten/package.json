@@ -1,0 +1,23 @@
+{
+  "name": "vaandel-buiten-videos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Advertentievideo's voor Vaandel Buiten, Heerhugowaard (2 bodies x 5 hooks), staand 9:16, 1080x1920",
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "python3 scripts/render_all.py"
+  },
+  "dependencies": {
+    "@fontsource/lato": "5.1.0",
+    "@fontsource/poppins": "5.1.0",
+    "@remotion/cli": "4.0.532",
+    "@remotion/renderer": "4.0.532",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.532"
+  },
+  "devDependencies": {
+    "@types/react": "19.1.0",
+    "typescript": "5.8.3"
+  }
+}

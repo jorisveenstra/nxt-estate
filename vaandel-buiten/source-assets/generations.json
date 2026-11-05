@@ -1,0 +1,254 @@
+{
+ "gable_street": {
+  "asset_id": "hYRnx3xfaOhOJX8UlS6u",
+  "source_portrait_sha256": "c88fba54d16f4dfaf395596385387865f01b1f276aac333e633d60745e2e486e",
+  "status": "completed",
+  "prompt": "Very slow gentle push-in towards the brick house with the steep gable on a sunny day, leaves and hedge flowers moving softly in the breeze, a resident quietly walks at the front door. Photorealistic architectural visualisation brought to life, faithful to the photo: the buildings, roofs, bricks, windows, proportions and layout stay exactly as in the start image. one continuous shot, no cuts, no transitions, no morphing.",
+  "generation_id": "qimlurmQsMMGY8ebfmEe",
+  "request_id": "",
+  "submit_headers": {},
+  "file": "source-assets/motion-original/gable_street.mp4",
+  "result_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "completed_meta": {
+   "id": "qimlurmQsMMGY8ebfmEe",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "kids_water": {
+  "asset_id": "YSQfVkij4P6x2sZ6gYlA",
+  "source_portrait_sha256": "99a57ee3ceb115cfafd084bab8f83143fa1c18fa17402196057bb2283b3aa878",
+  "status": "completed",
+  "prompt": "Slow gentle camera glide to the right over the grass and ditch towards the row of brick houses, a child plays on the lawn, willow branches and wildflowers move in the breeze. Photorealistic architectural visualisation brought to life, faithful to the photo: the buildings, roofs, bricks, windows, proportions and layout stay exactly as in the start image. one continuous shot, no cuts, no transitions, no morphing.",
+  "generation_id": "HyrEIN9fPnHSEVbnEQ4p",
+  "request_id": "",
+  "submit_headers": {},
+  "file": "source-assets/motion-original/kids_water.mp4",
+  "result_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "completed_meta": {
+   "id": "HyrEIN9fPnHSEVbnEQ4p",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "corner_bike": {
+  "asset_id": "NlH2vxRhh3uqADhiVZQJ",
+  "source_portrait_sha256": "2fefcf221180654fc856839717c89607f9c5d9025910f39e6e28c4acd1312ee3",
+  "status": "completed",
+  "prompt": "Slow gentle push-in on the gabled corner house, a cyclist rides slowly along the brick street, tree branches and flowers move softly in the breeze, clouds drift. Photorealistic architectural visualisation brought to life, faithful to the photo: the buildings, roofs, bricks, windows, proportions and layout stay exactly as in the start image. one continuous shot, no cuts, no transitions, no morphing.",
+  "generation_id": "EdLGvlZWIZrP7r9NKaYe",
+  "request_id": "",
+  "submit_headers": {},
+  "file": "source-assets/motion-original/corner_bike.mp4",
+  "result_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "completed_meta": {
+   "id": "EdLGvlZWIZrP7r9NKaYe",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "gable_cars": {
+  "asset_id": "bKDMWgUvR3qyhY5ZcgPP",
+  "source_portrait_sha256": "e3716bb2a9cb7b4a21640fa725b1225130fe8323e5acec246831ea0431348ad4",
+  "status": "completed",
+  "prompt": "Slow gentle dolly to the right past the large gabled brick house, the neighbours sitting on the bench chat quietly, flowers sway in the light wind, soft sunshine and drifting clouds. Photorealistic architectural visualisation brought to life, faithful to the photo: the buildings, roofs, bricks, windows, proportions and layout stay exactly as in the start image. one continuous shot, no cuts, no transitions, no morphing.",
+  "generation_id": "AOqCjSaHFzl9RPnJ9glm",
+  "request_id": "",
+  "submit_headers": {},
+  "file": "source-assets/motion-original/gable_cars.mp4",
+  "result_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "completed_meta": {
+   "id": "AOqCjSaHFzl9RPnJ9glm",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "garden_water": {
+  "asset_id": "hjlY5FAQYpqzOmfCytD0",
+  "source_portrait_sha256": "19e0629f09c9d87d862dbf17c0c8d99eb96226293cbadd301110a6b3f1246f9a",
+  "status": "completed",
+  "prompt": "Slow gentle drift forward along the water towards the back gardens with wooden decks, people relaxing on the terraces, reeds and wildflowers sway, light ripples on the water, sunny sky. Photorealistic architectural visualisation brought to life, faithful to the photo: the buildings, roofs, bricks, windows, proportions and layout stay exactly as in the start image. one continuous shot, no cuts, no transitions, no morphing.",
+  "generation_id": "N1xNcJeU37csOvqbkI5S",
+  "request_id": "",
+  "submit_headers": {},
+  "file": "source-assets/motion-original/garden_water.mp4",
+  "result_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "completed_meta": {
+   "id": "N1xNcJeU37csOvqbkI5S",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "house_water": {
+  "asset_id": "vNHWWKiTWE0LZd8MMjUC",
+  "source_portrait_sha256": "892c5dcef84e0ab71626c90e74a1751320c54720f19a43d0738e71d9fca56783",
+  "status": "completed",
+  "prompt": "Slow gentle push-in over the water and wildflowers towards the white-and-brick row of houses, a duck paddles in the ditch, flowers sway softly, sunny clouds drift past. Photorealistic architectural visualisation brought to life, faithful to the photo: the buildings, roofs, bricks, windows, proportions and layout stay exactly as in the start image. one continuous shot, no cuts, no transitions, no morphing.",
+  "generation_id": "6qk6Oj0HSsMzRVPsFMbw",
+  "request_id": "",
+  "submit_headers": {},
+  "file": "source-assets/motion-original/house_water.mp4",
+  "result_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "completed_meta": {
+   "id": "6qk6Oj0HSsMzRVPsFMbw",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "street_trees": {
+  "asset_id": "V7lDYBCIxm2wgLxjbINc",
+  "source_portrait_sha256": "9399deb51be84022b0558b40c598261e8dff93ea4b9aeaaa88a26ee770952fcb",
+  "status": "completed",
+  "prompt": "Slow gentle drift forward along the green verge towards the corner house, the slender tree and hedge move softly in the wind, a white car stands on the driveway, sunny sky. Photorealistic architectural visualisation brought to life, faithful to the photo: the buildings, roofs, bricks, windows, proportions and layout stay exactly as in the start image. one continuous shot, no cuts, no transitions, no morphing.",
+  "generation_id": "8mN68Fi6DEj1KJGcBIR4",
+  "request_id": "",
+  "submit_headers": {},
+  "file": "source-assets/motion-original/street_trees.mp4",
+  "result_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "completed_meta": {
+   "id": "8mN68Fi6DEj1KJGcBIR4",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "interior_kids": {
+  "asset_id": "niM96MBRta3mf7xxrBwc",
+  "source_portrait_sha256": "d6888f6ecfc8bc77aeab32dc4b94e999b60c66e6335fc22b8c30d23fbc70d0d8",
+  "status": "completed",
+  "prompt": "Slow gentle push-in into the bright living room, the two children play with wooden blocks on the rug, the woman on the sofa softly scrolls on her tablet, warm daylight through the windows. Photorealistic architectural visualisation brought to life, faithful to the photo: the buildings, roofs, bricks, windows, proportions and layout stay exactly as in the start image. one continuous shot, no cuts, no transitions, no morphing.",
+  "generation_id": "YizBvjfFy4h2N9p8djqF",
+  "request_id": "",
+  "submit_headers": {},
+  "file": "source-assets/motion-original/interior_kids.mp4",
+  "result_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "completed_meta": {
+   "id": "YizBvjfFy4h2N9p8djqF",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "interior_garden": {
+  "asset_id": "C92pBl2v7t2czHgfdWS8",
+  "source_portrait_sha256": "b72ad8f8f4e666035307cb6169821069ea41b2430375e5db516cbba4c966aac9",
+  "status": "completed",
+  "prompt": "Slow gentle dolly forward through the living room towards the open garden door, the curtain moves in the breeze, the cat on the rug stretches slightly, warm daylight. Photorealistic architectural visualisation brought to life, faithful to the photo: the buildings, roofs, bricks, windows, proportions and layout stay exactly as in the start image. one continuous shot, no cuts, no transitions, no morphing.",
+  "generation_id": "GjSgVpRz4sGuKmnn7CLl",
+  "request_id": "",
+  "submit_headers": {},
+  "file": "source-assets/motion-original/interior_garden.mp4",
+  "result_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "completed_meta": {
+   "id": "GjSgVpRz4sGuKmnn7CLl",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "interior_kitchen": {
+  "asset_id": "Zcuq471oAugYApcZRvoK",
+  "source_portrait_sha256": "6133ec88510652ec6c57c4a02b6734444043a789745b41858a62ec2b61c453cc",
+  "status": "completed",
+  "prompt": "Slow gentle glide through the open living kitchen towards the large garden windows, soft daylight, a plant leaf stirs lightly, a person sits quietly at the dining table. Photorealistic architectural visualisation brought to life, faithful to the photo: the buildings, roofs, bricks, windows, proportions and layout stay exactly as in the start image. one continuous shot, no cuts, no transitions, no morphing.",
+  "generation_id": "RGANCg4FvcAbwpWtrAn4",
+  "request_id": "",
+  "submit_headers": {},
+  "file": "source-assets/motion-original/interior_kitchen.mp4",
+  "result_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "completed_meta": {
+   "id": "RGANCg4FvcAbwpWtrAn4",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "interior_dining": {
+  "asset_id": "qcFuTOernRwOhCvFD0Nu",
+  "source_portrait_sha256": "cb8cb5f6babcb04a3a3da98fa155ec27dab03103691057dfeb2df34488453110",
+  "status": "completed",
+  "prompt": "Slow gentle push-in towards the dining table and open kitchen of the bright living room, soft daylight through the windows, the plants and hanging lamps stir very slightly, calm peaceful atmosphere. Photorealistic architectural visualisation brought to life, faithful to the photo: the buildings, roofs, bricks, windows, proportions and layout stay exactly as in the start image. one continuous shot, no cuts, no transitions, no morphing.",
+  "generation_id": "IgwATEoOSUq7QvGFqbpJ",
+  "request_id": "",
+  "submit_headers": {},
+  "file": "source-assets/motion-original/interior_dining.mp4",
+  "result_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "completed_meta": {
+   "id": "IgwATEoOSUq7QvGFqbpJ",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "interior_living": {
+  "asset_id": "6ocjP8olCbvyC6iakcsc",
+  "source_portrait_sha256": "1df7ec9acb0b9eef61f903710d5465700e3c970b57a97dfcb40be8a458aaaedf",
+  "status": "completed",
+  "prompt": "Slow gentle glide forward through the bright living room past the sofa and armchair towards the windows, soft daylight, curtains and plant leaves move slightly, calm cosy atmosphere. Photorealistic architectural visualisation brought to life, faithful to the photo: the buildings, roofs, bricks, windows, proportions and layout stay exactly as in the start image. one continuous shot, no cuts, no transitions, no morphing.",
+  "generation_id": "TuMrEvF9u4bEauW6RNyY",
+  "request_id": "",
+  "submit_headers": {},
+  "file": "source-assets/motion-original/interior_living.mp4",
+  "result_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "completed_meta": {
+   "id": "TuMrEvF9u4bEauW6RNyY",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ }
+}

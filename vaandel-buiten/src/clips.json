@@ -1,0 +1,14 @@
+{
+ "corner_bike": 8.0,
+ "gable_cars": 8.0,
+ "gable_street": 8.0,
+ "garden_water": 8.0,
+ "house_water": 8.0,
+ "interior_dining": 8.0,
+ "interior_garden": 8.0,
+ "interior_kids": 8.0,
+ "interior_kitchen": 8.0,
+ "interior_living": 8.0,
+ "kids_water": 8.0,
+ "street_trees": 8.0
+}
