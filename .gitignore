@@ -28,3 +28,4 @@ out/
 .DS_Store
 .env
 *.log
+__pycache__/

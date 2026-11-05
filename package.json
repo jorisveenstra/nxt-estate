@@ -4,6 +4,7 @@
   "private": true,
   "description": "Remotion-projecten voor vastgoed- en wervingsvideo's (één map per klant)",
   "dependencies": {
+    "@fontsource/poppins": "^5.3.0",
     "@remotion/bundler": "4.0.532",
     "@remotion/cli": "4.0.532",
     "@remotion/google-fonts": "4.0.532",
