@@ -1,0 +1,19 @@
+{
+ "imp-atelier": 8.0,
+ "imp-keuken": 8.0,
+ "imp-slaapkamer": 8.0,
+ "imp-studio": 8.0,
+ "imp-terras": 8.0,
+ "imp-werkkamer": 8.0,
+ "imp-woonkamer": 8.0,
+ "imp-woonwerk": 8.0,
+ "real-binnentuin": 8.0,
+ "real-gevel": 8.0,
+ "real-ramen": 8.0,
+ "real-ruimte": 8.0,
+ "real-terras": 8.0,
+ "walk-gevel": 3.6,
+ "walk-kamer": 3.6,
+ "walk-ruimte": 3.6,
+ "walk-terras": 3.6
+}

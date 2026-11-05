@@ -1,0 +1,11 @@
+{
+  "name": "koer-karakterplein-13-videos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Advertentievideo's Karakterplein 13 (Koer, Rotterdam): 3 bodies x 5 hooks, 9:16 1080x1920",
+  "scripts": {
+    "dev": "remotion studio",
+    "vo": "python3 scripts/maak_vo.py",
+    "clips": "python3 scripts/clips_json.py"
+  }
+}
