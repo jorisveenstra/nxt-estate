@@ -14,11 +14,15 @@ for b in (1, 2, 3):
         subprocess.run(["ffmpeg", "-v", "error", "-y", "-f", "concat", "-safe", "0", "-i", str(lst), "-c", "copy", str(vid)], check=True)
         hd = dur(hs); total = dur(vid)
         delay = int(round(hd * 1000))
-        fc = (f"[0:a]adelay=0|0[h];[1:a]adelay={delay}|{delay}[bd];[h][bd]amix=inputs=2:normalize=0,loudnorm=I=-15:TP=-1.5:LRA=9[vo];"
-              f"[vo]asplit=2[vo1][sc];[2:a]atrim=0:{total:.2f},asetpts=PTS-STARTPTS,volume=0.35,afade=t=in:d=0.6,afade=t=out:st={total-1.8:.2f}:d=1.8[m];"
-              f"[m][sc]sidechaincompress=threshold=0.03:ratio=8:attack=20:release=400[md];[vo1][md]amix=inputs=2:normalize=0,alimiter=limit=0.95,atrim=0:{total:.2f}[a]")
+        voa = FIN / f"_vo{b}{h}.wav"
+        subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", str(VO / f"b{b}-h{h}.mp3"), "-i", str(VO / f"b{b}-body.mp3"), "-filter_complex",
+                        f"[1:a]adelay={delay}|{delay}[bd];[0:a][bd]amix=inputs=2:normalize=0,loudnorm=I=-15:TP=-1.5:LRA=9,apad=whole_dur={total:.2f},atrim=0:{total:.2f}[vo]",
+                        "-map", "[vo]", "-ar", "44100", str(voa)], check=True)
+        fc = (f"[0:a]asplit=2[vo1][sc];[1:a]atrim=0:{total:.2f},asetpts=PTS-STARTPTS,volume=0.35,afade=t=in:d=0.6,afade=t=out:st={total-1.8:.2f}:d=1.8,apad=whole_dur={total:.2f}[m];"
+              f"[m][sc]sidechaincompress=threshold=0.03:ratio=8:attack=20:release=400[md];[vo1][md]amix=inputs=2:normalize=0:duration=longest,alimiter=limit=0.95,atrim=0:{total:.2f}[a]")
         out = FIN / f"Body {b} Hook {h}.mp4"
-        subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", str(VO / f"b{b}-h{h}.mp3"), "-i", str(VO / f"b{b}-body.mp3"), "-i", str(MUS), "-i", str(vid),
-                        "-filter_complex", fc, "-map", "3:v", "-map", "[a]", "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", str(out)], check=True)
+        subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", str(voa), "-i", str(MUS), "-i", str(vid),
+                        "-filter_complex", fc, "-map", "2:v", "-map", "[a]", "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", str(out)], check=True)
+        voa.unlink()
         vid.unlink(); lst.unlink()
         print(out.name, round(dur(out), 1), "s", round(out.stat().st_size / 1e6, 1), "MB", flush=True)
