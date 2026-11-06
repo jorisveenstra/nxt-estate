@@ -1,0 +1,38 @@
+{
+ "model_id": "eleven_v4",
+ "voice_id": "YgjXqgzBJa9op0K278OW",
+ "requests": {
+  "body": {
+   "request-id": "113K9lyMGbNvzo1o6FWN",
+   "character-cost": "310"
+  },
+  "hook1": {
+   "request-id": "AC2f6ouLGNob5PvxKe5N",
+   "character-cost": "36"
+  },
+  "hook2": {
+   "request-id": "rDf2RJoEojZUUqh3b4jo",
+   "character-cost": "47"
+  },
+  "hook3": {
+   "request-id": "5MmrIlGiRkFqvslbMCvb",
+   "character-cost": "44"
+  },
+  "hook4": {
+   "request-id": "Tc2X6oyfEpFoN5HmnCWA",
+   "character-cost": "37"
+  },
+  "hook5": {
+   "request-id": "6CytoUv8dEmye4aHp9AI",
+   "character-cost": "34"
+  },
+  "hook6": {
+   "request-id": "2IvkYcO5ghjfxOYJwK4C",
+   "character-cost": "42"
+  },
+  "hook7": {
+   "request-id": "AAZYcJcHfXnau8VoUB4a",
+   "character-cost": "48"
+  }
+ }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "pattistpark-ii-videos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Advertentievideo's Pattistpark II Terneuzen (1 body x 7 hooks), 1080x1920",
+  "scripts": {
+    "dev": "remotion studio",
+    "vo": "python3 scripts/maak_vo.py"
+  }
+}

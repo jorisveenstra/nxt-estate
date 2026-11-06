@@ -1,0 +1,11 @@
+{
+ "request": {
+  "prompt": "Uplifting, warm, positive instrumental background music for a modern Dutch waterfront apartment ad. Light piano, soft acoustic guitar, gentle strings, airy percussion, steady hopeful mid-tempo, no vocals, no lyrics, leaves space for a narrator.",
+  "music_length_ms": 46000,
+  "model_id": "music_v1",
+  "force_instrumental": true
+ },
+ "headers": {
+  "song-id": "L3dx1rbRCk87DuHkwlXz"
+ }
+}
