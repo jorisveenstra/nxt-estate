@@ -1,0 +1,43 @@
+{
+  "b1": {
+    "doelgroep": "Doorgroeiende gezinnen",
+    "hooks": [
+      "Wordt jullie rijwoning te klein nu de kinderen groter worden?",
+      "Een tuin van 12 tot 15 meter diep, deels op het zuiden: zo kunnen jullie kinderen straks buiten spelen in Heerhugowaard.",
+      "Zoek je een ruime gezinswoning met een diepe tuin in Heerhugowaard?",
+      "Meer ruimte voor je gezin, zonder weg te gaan uit de regio Alkmaar?",
+      "Heb je al gezien welke gezinswoningen er in Heerhugowaard gebouwd worden?"
+    ],
+    "zinnen": [
+      ["intro", "Dit is Vaandel Buiten in Heerhugowaard: een kleinschalig, groen woonpark in Noord-Hollandse boerderijstijl."],
+      ["ruimte", "De woningen zijn 140 tot 203 vierkante meter groot, dus jullie hebben eindelijk de ruimte om door te groeien."],
+      ["tuin", "Bij De Hofmeester II heb je een tuin van 12 tot 15 meter diep, deels op het zuiden."],
+      ["kinderen", "En de kinderen?"],
+      ["spelen", "Die spelen straks buiten in een kindvriendelijke wijk met natuurspeelplekken en een overdekte buurtschuur."],
+      ["parkeren", "Bij De Hofmeester II parkeer je bovendien twee auto's op eigen terrein."],
+      ["prijs", "De prijzen beginnen bij zeshonderdvijfendertigduizend euro vrij op naam, dus je betaalt geen overdrachtsbelasting."],
+      ["bouw", "De bouw start naar verwachting in het tweede kwartaal van 2027."],
+      ["cta", "Zie je jullie gezin hier al wonen? Op dinsdag 17 november om vijf uur 's middags start de online inschrijving. Klik op de knop hieronder voor alle informatie en schrijf je in."]
+    ]
+  },
+  "b2": {
+    "doelgroep": "Doorstromers 55+",
+    "hooks": [
+      "Woont u nu in een groot huis, maar wilt u straks gelijkvloers kunnen leven?",
+      "Een kamer met badkamer beneden, zonder in te leveren op ruimte: dat kan straks in Heerhugowaard.",
+      "Gelijkvloers wonen hoeft niet te betekenen dat u kleiner gaat wonen.",
+      "Bent u op zoek naar een levensloopbestendige nieuwbouwwoning in Heerhugowaard?",
+      "Heeft u al gezien welke comfortabele woningen er in een groen hofje in Heerhugowaard gebouwd worden?"
+    ],
+    "zinnen": [
+      ["intro", "In Heerhugowaard verrijst Vaandel Buiten: een kleinschalig, groen woonpark met hofjes en Noord-Hollandse boerderijarchitectuur."],
+      ["gelijkvloers", "Bij De Hofmeester III en De Rentmeester XL kunt u gelijkvloers wonen, met een kamer en een badkamer op de begane grond."],
+      ["trap", "Zo blijft uw huis comfortabel, ook als de trap op den duur minder vanzelfsprekend wordt."],
+      ["ruimte", "En u levert niet in op ruimte, want de woningen in Vaandel Buiten zijn 140 tot 203 vierkante meter groot."],
+      ["groen", "Buiten wacht een rustige, groene omgeving met gezamenlijke moestuinen en een overdekte buurtschuur om de buren te ontmoeten."],
+      ["prijs", "De prijzen beginnen bij zeshonderdvijfendertigduizend euro vrij op naam, dus u betaalt geen overdrachtsbelasting."],
+      ["bouw", "De bouw start naar verwachting in het tweede kwartaal van 2027, zodat u uw verhuizing in alle rust kunt voorbereiden."],
+      ["cta", "Wilt u weten welke woning bij u past? Vanaf dinsdag 17 november om vijf uur 's middags kunt u zich online inschrijven. Klik op de knop hieronder voor alle informatie en plan een afspraak met de makelaar."]
+    ]
+  }
+}

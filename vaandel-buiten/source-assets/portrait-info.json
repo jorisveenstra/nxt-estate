@@ -1,0 +1,79 @@
+{
+ "aerial": {
+  "source_index": 46,
+  "source_sha256": "d8093165667290d11cb7c330be9e75b9bd870911b53133a3cad6a6cc54567f79",
+  "crop_x0": 696,
+  "crop_w": 608,
+  "crop_h": 1080
+ },
+ "park_path": {
+  "source_index": 25,
+  "source_sha256": "97daac2438d7956275937aff914a23ffd372b7f7dc17bb927caa020f09aa1f01",
+  "crop_x0": 276,
+  "crop_w": 608,
+  "crop_h": 1080
+ },
+ "blossom_path": {
+  "source_index": 30,
+  "source_sha256": "1ffe3653212ebb6677a0a5910f9c39eeaded07fe93991e1c16a2ec74ec8b3051",
+  "crop_x0": 236,
+  "crop_w": 608,
+  "crop_h": 1080
+ },
+ "wood_row": {
+  "source_index": 37,
+  "source_sha256": "8d3c04b9332eff995c14062682e7266eceec72cd0dbf4c043b2be5cd7db3f9b0",
+  "crop_x0": 196,
+  "crop_w": 608,
+  "crop_h": 1080
+ },
+ "gables_flowers": {
+  "source_index": 41,
+  "source_sha256": "5cedb3ecfabb81d366a9a03a753c1c109a67a1fa7197d92d1cb0328dc488ad17",
+  "crop_x0": 316,
+  "crop_w": 608,
+  "crop_h": 1080
+ },
+ "cyclist_park": {
+  "source_index": 42,
+  "source_sha256": "bebf82c49e685b08065a629d0e67d0ab3b78597406cf720d85ae18c9c72abb1e",
+  "crop_x0": 296,
+  "crop_w": 608,
+  "crop_h": 1080
+ },
+ "bike_lane": {
+  "source_index": 43,
+  "source_sha256": "134dd99ee3ebebc956e7fe974b8b58b5d2abcb15485364414b3fe3d2fea26402",
+  "crop_x0": 346,
+  "crop_w": 608,
+  "crop_h": 1080
+ },
+ "row_path": {
+  "source_index": 47,
+  "source_sha256": "2204df76cef14bd41f1fe0a87f39acf807a159d9cec06b2ef6dd14c1919f9b34",
+  "crop_x0": 336,
+  "crop_w": 608,
+  "crop_h": 1080
+ },
+ "dark_house": {
+  "source_index": 53,
+  "source_sha256": "5981e38246b2aedc61fc298f7ca601b1b5dbfb9880ef7aedbeb169b949c8a1c5",
+  "crop_x0": 146,
+  "crop_w": 608,
+  "crop_h": 1080
+ },
+ "pond_woman": {
+  "source_index": 52,
+  "source_sha256": "1ce83a7c871272d63c045f4fcd7e8ad7f5954f75a98fd5b0351f4096a157baa2",
+  "crop_x0": 472,
+  "crop_w": 608,
+  "crop_h": 1080
+ },
+ "veg_garden": {
+  "source_index": 48,
+  "source_sha256": "ecb7723e7869598bd00a814f0be390ec394a2555830b2ac9ff1f8d8592748c27",
+  "crop_x0": 316,
+  "crop_w": 608,
+  "crop_h": 1080
+ }
+}

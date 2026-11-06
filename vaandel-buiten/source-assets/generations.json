@@ -1,0 +1,233 @@
+{
+ "park_path": {
+  "asset_id": "DUlEoZhbNgjfzarxkOgU",
+  "source_portrait_sha256": "33e9c027ca2c02953c8f7296909769c34107aa53b9ca0fb755eddf8432a5b422",
+  "status": "completed",
+  "prompt": "Very slow gentle push-in towards the large timber-clad house with the steep dark roof, two residents chat quietly in front of the hedge, blossom branches and grass move softly in the breeze. Photorealistic architectural visualisation brought to life, faithful to the photo: the buildings, roofs, timber cladding, windows, proportions and layout stay exactly as in the start image. one continuous shot, no cuts, no transitions, no morphing.",
+  "generation_id": "eLVvIqvq2YX1NcC9wj70",
+  "request_id": "",
+  "submit_headers": {},
+  "file": "source-assets/motion-original/park_path.mp4",
+  "result_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "completed_meta": {
+   "id": "eLVvIqvq2YX1NcC9wj70",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "wood_row": {
+  "asset_id": "cGKb9HpJOEkk4KdcIxxq",
+  "source_portrait_sha256": "8e7efb9e90a349545dc0eb439cf3640d8d8a3e7bfa0e73d4b6111519a5cf5558",
+  "status": "completed",
+  "prompt": "Slow gentle dolly to the right along the row of dark timber houses, a woman walks slowly along the brick path, leaves of the tree sway softly, soft spring sunshine. Photorealistic architectural visualisation brought to life, faithful to the photo: the buildings, roofs, timber cladding, windows, proportions and layout stay exactly as in the start image. one continuous shot, no cuts, no transitions, no morphing.",
+  "generation_id": "URAUoQ4RhWz9AgOohRaZ",
+  "request_id": "",
+  "submit_headers": {},
+  "file": "source-assets/motion-original/wood_row.mp4",
+  "result_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "completed_meta": {
+   "id": "URAUoQ4RhWz9AgOohRaZ",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "blossom_path": {
+  "asset_id": "Tf4LN80jbcoKbNu9mQ5F",
+  "source_portrait_sha256": "dabe669f7538972f677f38a1b73c10f376c350a15006c02edf9c8a91109fb319",
+  "status": "completed",
+  "prompt": "Slow gentle push-in along the brick path between the flower borders towards the gabled houses in the distance, blossom petals drift in the light breeze, small figures play on the green, clouds drift. Photorealistic architectural visualisation brought to life, faithful to the photo: the buildings, roofs, timber cladding, windows, proportions and layout stay exactly as in the start image. one continuous shot, no cuts, no transitions, no morphing.",
+  "generation_id": "QejaUY4nppbURiAxJJKV",
+  "request_id": "",
+  "submit_headers": {},
+  "file": "source-assets/motion-original/blossom_path.mp4",
+  "result_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "completed_meta": {
+   "id": "QejaUY4nppbURiAxJJKV",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "aerial": {
+  "asset_id": "qp5nPWuAOzEV2sMfN0Qu",
+  "source_portrait_sha256": "2bb5d9bef11ecdb01a847a7316b219d72c6d57d98fec7abbd81416e059d11cbb",
+  "status": "completed",
+  "prompt": "Slow gentle aerial drift forward over the small residential park and the canal towards the village, traffic moves quietly on the road, trees sway softly, warm evening sunlight. Photorealistic architectural visualisation brought to life, faithful to the photo: the buildings, roofs, timber cladding, windows, proportions and layout stay exactly as in the start image. one continuous shot, no cuts, no transitions, no morphing.",
+  "generation_id": "A8yhapOShkrXVeWuH2fh",
+  "request_id": "",
+  "submit_headers": {},
+  "file": "source-assets/motion-original/aerial.mp4",
+  "result_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "completed_meta": {
+   "id": "A8yhapOShkrXVeWuH2fh",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "gables_flowers": {
+  "asset_id": "MyqoAwGPXFGkGIVvdZqk",
+  "source_portrait_sha256": "43e12131312d9dd6deb87f6b6abdeb444e3b2bdd1a24bebf545d01928c2efc75",
+  "status": "completed",
+  "prompt": "Slow gentle glide to the right past the white flowers towards the two timber gabled houses, flowers and leaves move softly in the breeze, light clouds drift across the blue sky. Photorealistic architectural visualisation brought to life, faithful to the photo: the buildings, roofs, timber cladding, windows, proportions and layout stay exactly as in the start image. one continuous shot, no cuts, no transitions, no morphing.",
+  "generation_id": "bUelxO5DOilYBgaZfutg",
+  "request_id": "",
+  "submit_headers": {},
+  "file": "source-assets/motion-original/gables_flowers.mp4",
+  "result_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "completed_meta": {
+   "id": "bUelxO5DOilYBgaZfutg",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "cyclist_park": {
+  "asset_id": "DesC5hi1WrnJuZzMHlep",
+  "source_portrait_sha256": "21ab09ed09f3455a91450d46cab2fab9f6953059b1f12c1c985d3b5028c4c6a6",
+  "status": "completed",
+  "prompt": "Slow gentle push-in across the green park between the two trees, a cyclist rides slowly along the path in the distance, flowers in the foreground sway softly, calm evening light. Photorealistic architectural visualisation brought to life, faithful to the photo: the buildings, roofs, timber cladding, windows, proportions and layout stay exactly as in the start image. one continuous shot, no cuts, no transitions, no morphing.",
+  "generation_id": "oAZ21PvNJVhrcZ310WPJ",
+  "request_id": "",
+  "submit_headers": {},
+  "file": "source-assets/motion-original/cyclist_park.mp4",
+  "result_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "completed_meta": {
+   "id": "oAZ21PvNJVhrcZ310WPJ",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "bike_lane": {
+  "asset_id": "ZSeSZdXXOkISWcAh1ZtO",
+  "source_portrait_sha256": "35645be1b58e77f8f90473285ffa1e9c857ec42eff8ce78fb9e7ff15ecad997d",
+  "status": "completed",
+  "prompt": "Slow gentle drift forward along the cycle path, a cyclist in a red top rides slowly towards the brick house, tree branches and grass move softly in the wind, sunny sky. Photorealistic architectural visualisation brought to life, faithful to the photo: the buildings, roofs, timber cladding, windows, proportions and layout stay exactly as in the start image. one continuous shot, no cuts, no transitions, no morphing.",
+  "generation_id": "rxHmfmt4UlW5v5SEJ5mY",
+  "request_id": "",
+  "submit_headers": {},
+  "file": "source-assets/motion-original/bike_lane.mp4",
+  "result_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "completed_meta": {
+   "id": "rxHmfmt4UlW5v5SEJ5mY",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "row_path": {
+  "asset_id": "ca4XBELBHcLDJfd5rJbJ",
+  "source_portrait_sha256": "763768adf9259b8ee057d5fb383e4ce9f80d94901c7dabe317d639c8b7ef0dde",
+  "status": "completed",
+  "prompt": "Slow gentle dolly forward along the brick path towards the timber-clad row of houses, a few residents walk slowly in the distance, spring leaves move softly in the breeze. Photorealistic architectural visualisation brought to life, faithful to the photo: the buildings, roofs, timber cladding, windows, proportions and layout stay exactly as in the start image. one continuous shot, no cuts, no transitions, no morphing.",
+  "generation_id": "9uvYodFUGgK79DMNOgxx",
+  "request_id": "",
+  "submit_headers": {},
+  "file": "source-assets/motion-original/row_path.mp4",
+  "result_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "completed_meta": {
+   "id": "9uvYodFUGgK79DMNOgxx",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "dark_house": {
+  "asset_id": "fuELqvObPi1RG9hbsFJR",
+  "source_portrait_sha256": "ec04a16ad653e4fefbabdc7b47007ca16b974f92200f087e977b22f41c9db206",
+  "status": "completed",
+  "prompt": "Very slow gentle push-in towards the dark timber house with the steep gable, two residents sit quietly on the terrace behind the hedge, branches sway lightly in the wind, calm evening light. Photorealistic architectural visualisation brought to life, faithful to the photo: the buildings, roofs, timber cladding, windows, proportions and layout stay exactly as in the start image. one continuous shot, no cuts, no transitions, no morphing.",
+  "generation_id": "LBbzszUF9XfulGHE2ydG",
+  "request_id": "",
+  "submit_headers": {},
+  "file": "source-assets/motion-original/dark_house.mp4",
+  "result_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "completed_meta": {
+   "id": "LBbzszUF9XfulGHE2ydG",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "pond_woman": {
+  "asset_id": "kouAboV9rIA92LYgG5Dg",
+  "source_portrait_sha256": "b39bb5101cdd8d36274cb29ef182cc434b4bad8d87f84eee985a72bed8408a53",
+  "status": "completed",
+  "prompt": "Slow gentle camera glide to the right over the grass and the water's edge towards the houses, a woman in an orange dress stands still while a small child plays on the path, reeds and wild grass sway softly. Photorealistic architectural visualisation brought to life, faithful to the photo: the buildings, roofs, timber cladding, windows, proportions and layout stay exactly as in the start image. one continuous shot, no cuts, no transitions, no morphing.",
+  "generation_id": "T2LdRgnhVFTZdPbEUI3y",
+  "request_id": "",
+  "submit_headers": {},
+  "file": "source-assets/motion-original/pond_woman.mp4",
+  "result_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "completed_meta": {
+   "id": "T2LdRgnhVFTZdPbEUI3y",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "veg_garden": {
+  "asset_id": "8E99D86wdyvxk176Jys5",
+  "source_portrait_sha256": "0a3f946e3980da16def6d3d068f446b57da69cfb21c6d3f4ecf2929d27321008",
+  "status": "completed",
+  "prompt": "Slow gentle glide forward along the raised vegetable beds towards the timber gabled house, vegetable leaves and tree branches move softly in the breeze, warm daylight. Photorealistic architectural visualisation brought to life, faithful to the photo: the buildings, roofs, timber cladding, windows, proportions and layout stay exactly as in the start image. one continuous shot, no cuts, no transitions, no morphing.",
+  "generation_id": "KRVjwcq8jlTZGUtVlLYT",
+  "request_id": "",
+  "submit_headers": {},
+  "file": "source-assets/motion-original/veg_garden.mp4",
+  "result_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "completed_meta": {
+   "id": "KRVjwcq8jlTZGUtVlLYT",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ }
+}

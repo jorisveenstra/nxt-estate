@@ -1,0 +1,10 @@
+node_modules
+out
+public/clips
+public/vo
+public/muziek
+scripts/tts-cache
+*.mp4
+*.wav
+*.mp3
+source-assets/motion-original/
