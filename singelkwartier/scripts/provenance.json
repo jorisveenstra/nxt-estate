@@ -1,0 +1,4 @@
+{"voiceover":{"model_id":"eleven_v4","voice_id":"YgjXqgzBJa9op0K278OW","request_ids":{"body_cta":"PLwIVP1om6VFAsNaGyyf","hook1":"GXFe0uhbCbrnkLNOXgcD","hook2":"H6jRfsFJEZDvMyN1RcfF","hook3":"KekQUKrrKPWWaDvjUudH","hook4":"CzL69F6uaw6VEcIB6oO6","hook5":"lHvDMcYO3lfNEIMBFZUx"}},
+"music":{"model_id":"music_v1","song_id":"vgDgvvVajQGVvvNOy8xQ","length_ms":62000,"force_instrumental":true},
+"footage":{"note":"Alle clips uit Frame.io Bronnenbibliotheek (hergebruikt, niet opnieuw gegenereerd); carport-art-impressie verwijderd; ~60% echte video / 40% renders","ai_clips":["6b592f1e","6eae0d40","81de8420","b262e598"]},
+"branding":{"colors":["#1a2b3c","#b5a272","#af9982","#a86e4a"],"font":"Poppins","logo":"public/brand/logo.png"}}

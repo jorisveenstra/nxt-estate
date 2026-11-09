@@ -1,0 +1,8 @@
+node_modules
+out
+public/clips
+public/vo
+public/muziek
+.nxt-*
+__pycache__
+scripts/tts-cache
