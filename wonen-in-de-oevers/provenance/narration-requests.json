@@ -1,0 +1,128 @@
+[
+ {
+  "request_id": "7zxzH2OsvubisvVqSCqg",
+  "character_cost": "44",
+  "characters": 90,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW"
+ },
+ {
+  "request_id": "pZUMIeLfRwb1Hw4i8irz",
+  "character_cost": "471",
+  "characters": 972,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW"
+ },
+ {
+  "request_id": "9GPCzybqLir94KMfPTv5",
+  "character_cost": "41",
+  "characters": 85,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW"
+ },
+ {
+  "request_id": "DjsjgQnJifZ2IdP9jLb8",
+  "character_cost": "39",
+  "characters": 81,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW"
+ },
+ {
+  "request_id": "5nO0DBEtVWUCI6D0nPHJ",
+  "character_cost": "480",
+  "characters": 991,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW"
+ },
+ {
+  "request_id": "nwasoxfkrvTx9syOEmoI",
+  "character_cost": "42",
+  "characters": 87,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW"
+ },
+ {
+  "request_id": "2yFUo25Go6TPS8MHtuUW",
+  "character_cost": "59",
+  "characters": 122,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW"
+ },
+ {
+  "request_id": "paidwT7ciKRokb7d1XGc",
+  "character_cost": "32",
+  "characters": 67,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW"
+ },
+ {
+  "request_id": "fd9qZwjPKphiCCXsY3ph",
+  "character_cost": "55",
+  "characters": 114,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW"
+ },
+ {
+  "request_id": "Fs2ENfLKS1gzKt8aDdpq",
+  "character_cost": "42",
+  "characters": 86,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW"
+ },
+ {
+  "request_id": "VUquXuNUe81m3ieQZDIo",
+  "character_cost": "30",
+  "characters": 62,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW"
+ },
+ {
+  "request_id": "unZFmLoRWgmC54ghErKa",
+  "character_cost": "26",
+  "characters": 54,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW"
+ },
+ {
+  "request_id": "N82YAv2c9AAdNrN0506U",
+  "character_cost": "40",
+  "characters": 83,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW"
+ },
+ {
+  "request_id": "qNB7kjaYQOPwtpog1Q1R",
+  "character_cost": "45",
+  "characters": 93,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW"
+ },
+ {
+  "request_id": "FCM8lpKYK1DPlqq4ULK3",
+  "character_cost": "42",
+  "characters": 86,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW"
+ },
+ {
+  "request_id": "2zRqfkdpBCaTC6dKktsN",
+  "character_cost": "41",
+  "characters": 85,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW"
+ },
+ {
+  "request_id": "012bgH98jgrdQuKEpuH3",
+  "character_cost": "378",
+  "characters": 779,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW"
+ },
+ {
+  "request_id": "jA7Lfc0Ot8fwpmUtz19t",
+  "character_cost": "37",
+  "characters": 77,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW"
+ }
+]
