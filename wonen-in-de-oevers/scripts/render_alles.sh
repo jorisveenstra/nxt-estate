@@ -5,7 +5,7 @@ cd "$(dirname "$0")/.."
 CH="${CHROME:-$(ls /opt/pw-browsers/chromium-*/chrome-linux*/chrome | head -1)}"
 mkdir -p out/parts out/final
 ids=(); for b in 1 2 3; do ids+=("Body-b$b"); for h in 1 2 3 4 5; do ids+=("Hook-b${b}h$h"); done; done
-printf '%s\n' "${ids[@]}" | xargs -P 2 -I{} sh -c '[ -s out/parts/{}.mp4 ] || npx remotion render src/index.ts {} out/parts/{}.mp4 --concurrency=2 --browser-executable='"$CH"' --codec=h264 --muted --log=error'
+printf '%s\n' "${ids[@]}" | xargs -P 2 -I{} sh -c '[ -s out/parts/{}.mp4 ] || npx remotion render src/index.ts {} out/parts/{}.mp4 --concurrency=2 --offthreadvideo-cache-size-in-bytes=1500000000 --browser-executable='"$CH"' --codec=h264 --muted --log=error'
 for b in 1 2 3; do for h in 1 2 3 4 5; do
   o="out/final/Body $b Hook $h.mp4"
   hf=$(python3 -c "import json;print(json.load(open('src/timing.json'))['b${b}h${h}']['frames'])")
