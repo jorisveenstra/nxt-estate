@@ -27,7 +27,7 @@ def render(comp):
     uit = SEG / f"{comp}.mp4"
     if uit.exists():
         return
-    run(["npx", "remotion", "render", "src/index.ts", comp, str(uit), f"--browser-executable={CH}", "--concurrency=2", "--log=error"])
+    run(["npx", "remotion", "render", "src/index.ts", comp, str(uit), f"--browser-executable={CH}", "--concurrency=2", "--offthreadvideo-cache-size-in-bytes=1500000000", "--log=error"])
     print("klaar", comp, flush=True)
 
 
@@ -61,8 +61,12 @@ def main():
     SEG.mkdir(parents=True, exist_ok=True)
     FIN.mkdir(parents=True, exist_ok=True)
     comps = [f"Body{b}" for b in bodies] + [f"Hook{b}-{h}" for b in bodies for h in range(1, len(scripts[f"b{b}"]["hooks"]) + 1)]
+    # Bodies (lang, zware 1080x1920-clips) één voor één; korte hooks twee tegelijk (geheugen: 2 bodies tegelijk gaf OOM)
+    for c in comps:
+        if c.startswith("Body"):
+            render(c)
     with ThreadPoolExecutor(2) as ex:
-        list(ex.map(render, comps))
+        list(ex.map(render, [c for c in comps if c.startswith("Hook")]))
     for b in bodies:
         for h in range(1, len(scripts[f"b{b}"]["hooks"]) + 1):
             mix(b, h)
