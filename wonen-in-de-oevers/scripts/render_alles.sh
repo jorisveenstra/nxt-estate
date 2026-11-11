@@ -16,7 +16,7 @@ for b in 1 2 3; do for h in 1 2 3 4 5; do
   fo=$(python3 -c "print(max(0,$tot-2.0))")
   # voice: hook, gepad tot het einde van het hookbeeld, dan body; muziek -22 dB onder de voice (sidechain-ducking), fade in/uit
   ffmpeg -v error -y -i out/parts/v_${b}_${h}.mp4 -i public/vo/b${b}h${h}-hook.wav -i public/vo/body${b}.wav -stream_loop -1 -i public/music/oevers-music.mp3 -filter_complex \
-   "[1:a]apad=whole_dur=$hd[h];[h][2:a]concat=n=2:v=0:a=1[vo];[vo]asplit=2[vo1][vo2];[3:a]atrim=0:$tot,volume=0.20,afade=t=in:d=1.5,afade=t=out:st=$fo:d=2[m];[m][vo2]sidechaincompress=threshold=0.03:ratio=8:attack=20:release=400[md];[vo1][md]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.95[a]" \
+   "[1:a]apad=whole_dur=$hd[h];[h][2:a]concat=n=2:v=0:a=1[vo];[vo]apad=whole_dur=$tot,asplit=2[vo1][vo2];[3:a]atrim=0:$tot,volume=0.20,afade=t=in:d=1.5,afade=t=out:st=$fo:d=2[m];[m][vo2]sidechaincompress=threshold=0.03:ratio=8:attack=20:release=400[md];[vo1][md]amix=inputs=2:duration=longest:normalize=0,alimiter=limit=0.95[a]" \
    -map 0:v -map "[a]" -c:v copy -c:a aac -b:a 192k -t $tot -movflags +faststart "$o"
   echo "$o $(ffprobe -v error -show_entries stream=width,height,codec_name -of csv=p=0 "$o" | tr '\n' ' ') $(stat -c%s "$o")"
 done; done
