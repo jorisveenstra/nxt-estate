@@ -23,7 +23,7 @@ def render(comp):
     if dst.exists():
         return dst
     dst.parent.mkdir(parents=True, exist_ok=True)
-    cmd = ["npx", "remotion", "render", comp, str(dst.with_suffix(".tmp.mp4")), "--muted", "--concurrency=2", "--crf=24", "--log=error"]
+    cmd = ["npx", "remotion", "render", comp, str(dst.with_suffix(".tmp.mp4")), "--muted", "--concurrency=2", "--crf=24", "--log=error", "--offthreadvideo-cache-size-in-bytes=1500000000", "--offthreadvideo-video-threads=1"]
     if CHROME:
         cmd.append(f"--browser-executable={CHROME}")
     subprocess.run(cmd, cwd=ROOT, check=True)
