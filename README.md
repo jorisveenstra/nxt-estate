@@ -13,6 +13,7 @@ per woord en renderbeelden/AI-renders als achtergrond.
 | `tampah-beach-villas/` | Tampah Beach Villas (Lombok) | 2 bodies × 5 hooks |
 | `huisunie/` | Huisunie | 3 bodies, 12 video's |
 | `nxt-estate/` | nxt.estate (eigen ads, kantoorunits) | V2–V4 × 3 hooks |
+| `wonen-in-de-oevers/` | Wonen in de Oevers (Maassluis) | 3 bodies × 5 hooks (staand 9:16, portal-jobs) |
 
 ## Opzet
 

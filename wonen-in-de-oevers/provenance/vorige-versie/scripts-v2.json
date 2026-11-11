@@ -1,0 +1,63 @@
+{
+ "1": {
+  "titel": "Doorgroeien naar een gezinswoning met school en speelnatuur om de hoek",
+  "hooks": [
+   "Groeit jullie gezin, maar groeit jullie huis niet mee?",
+   "Ben je op zoek naar een gezinswoning in Maassluis, met de basisschool op loopafstand?",
+   "Wonen jullie nu in een appartement, maar zijn jullie klaar voor de volgende stap?",
+   "Vijf slaapkamers, drie woonlagen en park en water om de hoek: zo kan jullie gezin straks wonen.",
+   "Twijfel je of een gezinswoning haalbaar is? Dan is het tijd voor een financiële check."
+  ],
+  "zinnen": [
+   ["z0", "Dit is De Oevers, een kleinschalige nieuwbouwbuurt op een schiereiland in het groene Wilgenrijk in Maassluis."],
+   ["z1", "Hier zijn nog maar vier tussenwoningen beschikbaar."],
+   ["z2", "Elke woning heeft 129 vierkante meter woonruimte, drie woonlagen en vijf slaapkamers."],
+   ["z3", "Zo is er ruimte voor een kinderkamer, een logeerplek én een eigen werkplek."],
+   ["z4", "De woningen staan op ruime percelen van 155 tot 172 vierkante meter, met park, water en natuurspeelplekken vlakbij."],
+   ["z5", "De basisschool ligt op circa vijf minuten lopen."],
+   ["z6", "Je woont gasloos, met vloerverwarming en een aardwarmtepomp die standaard in de prijs zit."],
+   ["z7", "De prijzen liggen tussen 592.500 en 605.000 euro, en de oplevering staat gepland voor het tweede kwartaal van 2028."]
+  ],
+  "cta": "Er zijn nog maar vier woningen beschikbaar. Klik op de knop hieronder voor alle informatie en doe vrijblijvend een financiële check, zodat je meteen weet wat er voor jullie mogelijk is."
+ },
+ "2": {
+  "titel": "Van verduurzamen naar toekomstbestendige nieuwbouw voor eigenaren van een jaren-tachtigwoning",
+  "hooks": [
+   "Twijfel je tussen je huidige huis verduurzamen of de overstap maken naar nieuwbouw?",
+   "Woon je in een huis uit de jaren tachtig en ben je klaar met klussen en verduurzamen?",
+   "Een nieuwbouwwoning in Maassluis, met de warmtepomp al in de prijs?",
+   "Waarom je huis stap voor stap verbouwen, als je ook in één keer toekomstbestendig kunt wonen?",
+   "Gasloos, vloerverwarming en een aardwarmtepomp in de prijs: zo woon je straks in Maassluis."
+  ],
+  "zinnen": [
+   ["z0", "Dit is De Oevers, een kleinschalige nieuwbouwbuurt op een schiereiland in het groene Wilgenrijk in Maassluis."],
+   ["z1", "Hier zijn nog maar vier tussenwoningen beschikbaar, en die zijn vanaf de eerste dag klaar voor de toekomst."],
+   ["z2", "In plaats van je huidige huis stap voor stap te verduurzamen, woon je hier meteen gasloos, met vloerverwarming en een aardwarmtepomp."],
+   ["z3", "Die warmtepomp zit standaard in de prijs, terwijl je die bij veel andere nieuwbouw nog los betaalt voor circa vijftienduizend euro."],
+   ["z4", "Met 129 vierkante meter woonruimte, drie woonlagen en vijf slaapkamers heb je bovendien alle ruimte."],
+   ["z5", "De woningen staan op ruime percelen van 155 tot 172 vierkante meter, met park en water dichtbij."],
+   ["z6", "De prijzen liggen tussen 592.500 en 605.000 euro, en de oplevering staat gepland voor het tweede kwartaal van 2028."]
+  ],
+  "cta": "Er zijn nog maar vier woningen beschikbaar. Klik op de knop hieronder voor alle informatie en plan een afspraak met de makelaar, zodat je ontdekt welke woning bij jouw woonwensen past."
+ },
+ "3": {
+  "titel": "Ruim wonen tussen park en water voor gezinnen die met overwaarde de stap maken",
+  "hooks": [
+   "Wilt u met uw gezin wonen tussen park en water, met alle ruimte om u heen?",
+   "Heeft u overwaarde op uw huidige woning en zoekt u een ruime gezinswoning met karakter?",
+   "129 vierkante meter, vijf slaapkamers en park en water dichtbij: zo kan uw gezin straks wonen in Maassluis.",
+   "Rustig wonen bij park en water, en toch binnen circa dertig minuten in Rotterdam?",
+   "Nog maar vier tussenwoningen te koop in het groene Wilgenrijk: bent u er snel bij?"
+  ],
+  "zinnen": [
+   ["z0", "Dit is De Oevers, een kleinschalige nieuwbouwbuurt op een schiereiland in het groene en waterrijke Wilgenrijk in Maassluis."],
+   ["z1", "Hier zijn nog maar vier tussenwoningen te koop."],
+   ["z2", "Met 129 vierkante meter woonruimte, drie woonlagen en vijf slaapkamers heeft uw gezin alle ruimte om te leven, te werken en tot rust te komen."],
+   ["z3", "Elke woning staat op een ruim perceel van 155 tot 172 vierkante meter, in een rustige buurt met park en water dichtbij."],
+   ["z4", "U woont gasloos en comfortabel, met vloerverwarming en een aardwarmtepomp die standaard in de prijs zit."],
+   ["z5", "Het voelt hier als buiten wonen, terwijl u in circa tien minuten naar de metro loopt en binnen circa dertig minuten met het openbaar vervoer in Rotterdam bent."],
+   ["z6", "De prijzen liggen tussen 592.500 en 605.000 euro, en de oplevering staat gepland voor het tweede kwartaal van 2028."]
+  ],
+  "cta": "Er zijn nog maar vier woningen beschikbaar. Klik op de knop hieronder voor alle informatie en plan een afspraak met de makelaar, zodat u samen ontdekt wat uw overwaarde voor u mogelijk maakt."
+ }
+}

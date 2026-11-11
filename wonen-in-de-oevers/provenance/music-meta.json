@@ -1,0 +1,12 @@
+{
+ "request_id": null,
+ "character_cost": null,
+ "song_id": "vmlFF3uTqhs8aMd8T5Cr",
+ "model_id": "music_v1",
+ "settings": {
+  "model_id": "music_v1",
+  "prompt": "Uplifting, warm, positive instrumental background music for a real-estate ad about a family neighbourhood by the water and park: gentle acoustic guitar, soft piano, light percussion and airy strings, hopeful and bright, moderate tempo, no vocals, no lyrics.",
+  "force_instrumental": true,
+  "music_length_ms": 80000
+ }
+}
