@@ -1,0 +1,272 @@
+[
+ {
+  "cache": "0ddb9f24897e4f0a",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request": {
+   "text": "Een nieuwbouwappartement met een tweede slaapkamer, zodat je thuiswerkt zonder aan de keukentafel te zitten?",
+   "model_id": "eleven_v4",
+   "language_code": "nl",
+   "next_text": "Nieuwe Weelde bestaat uit zestig middeldure koopappartementen in de wijk Nieuwe Steen in Hoorn. Elk appartement heeft twee slaapkamers, dus naast jullie slaapkamer is er ruimte voor een thuiswerkplek of een logeerkamer. De lichte woonkamer met open keuken loopt direct door naar je eigen balkon met u"
+  },
+  "headers": {
+   "History-Item-Id": "RZcy0ggwnq7wDWxwfihK",
+   "Request-Id": "VEqbsaY368qKhnLwsfhq"
+  }
+ },
+ {
+  "cache": "4d2e85036085064d",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request": {
+   "text": "Wist je dat een zeer energiezuinig appartement je extra leencapaciteit kan geven?",
+   "model_id": "eleven_v4",
+   "language_code": "nl",
+   "next_text": "Nieuwe Weelde bestaat uit zestig middeldure koopappartementen in de wijk Nieuwe Steen in Hoorn. Elk appartement heeft twee slaapkamers, dus naast jullie slaapkamer is er ruimte voor een thuiswerkplek of een logeerkamer. De lichte woonkamer met open keuken loopt direct door naar je eigen balkon met u"
+  },
+  "headers": {
+   "History-Item-Id": "VTpj124XsexEBnm2PV4T",
+   "Request-Id": "ZCkDmzA52p7GhM2r3N3q"
+  }
+ },
+ {
+  "cache": "524d2b7437946dbb",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request": {
+   "text": "Nieuwe Weelde bestaat uit zestig middeldure koopappartementen in de wijk Nieuwe Steen in Hoorn. Elk appartement heeft twee slaapkamers, dus naast jullie slaapkamer is er ruimte voor een thuiswerkplek of een logeerkamer. De lichte woonkamer met open keuken loopt direct door naar je eigen balkon met uitzicht op het groen. Het appartement is gasloos, met een eigen warmtepomp en vloerverwarming die in de zomer ook voor koeling zorgt. Met een voorlopig energielabel A+++ heb je bovendien recht op extra leencapaciteit. Naar de binnenstad fiets je in circa twaalf minuten, en de A7 ligt op circa drie kilometer. Bij elk appartement hoort een eigen parkeerplaats in de garage, en een keukencheque is inbegrepen. Benieuwd wat jij kunt lenen en welke appartementen nog beschikbaar zijn? Klik op de knop hieronder voor alle informatie en plan een afspraak met onze makelaar.",
+   "model_id": "eleven_v4",
+   "language_code": "nl",
+   "previous_text": "Ben je klaar met huren en wil je samen jullie eerste koopwoning in Hoorn?"
+  },
+  "headers": {
+   "History-Item-Id": "Ixxloh6fKoMdrxzxiv52",
+   "Request-Id": "O1usWbDhcMf9DvKQZEkp"
+  }
+ },
+ {
+  "cache": "5976a2a71f6d3712",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request": {
+   "text": "Dit is Nieuwe Weelde, in de wijk Nieuwe Steen in Hoorn. Hier worden zestig koopappartementen gebouwd van circa zeventig tot achtentachtig vierkante meter, allemaal met twee slaapkamers en een eigen balkon. Uw appartement is volledig gelijkvloers, met een lift naar uw verdieping en naar uw eigen parkeerplaats in de garage. De appartementen zijn levensloopbestendig ontworpen, zodat u hier comfortabel kunt blijven wonen. U heeft uw eigen voordeur en bepaalt zelf hoe u woont. Zin in gezelschap, dan drinkt u in de buurtkamer koffie met de buren of doet u mee aan een workshop of sportles. In de gezamenlijke daktuin vindt u een moestuin en een lange tafel om samen te eten. Hier draait alles om welzijn in plaats van zorg, en meedoen is nooit verplicht. De huisarts, apotheek en supermarkt liggen in de buurt. Er zijn nog maar enkele appartementen beschikbaar. Klik op de knop hieronder voor alle informatie en plan een afspraak met onze makelaar.",
+   "model_id": "eleven_v4",
+   "language_code": "nl",
+   "previous_text": "Wilt u zelfstandig blijven wonen, maar wel met gezellige buren om de hoek?"
+  },
+  "headers": {
+   "History-Item-Id": "hL7nXi1OMeeOBadwnXoX",
+   "Request-Id": "BjxeRuYPA6O0uESfCrsw"
+  }
+ },
+ {
+  "cache": "720942d68c9c0033",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request": {
+   "text": "Wilt u zelfstandig blijven wonen, maar wel met gezellige buren om de hoek?",
+   "model_id": "eleven_v4",
+   "language_code": "nl",
+   "next_text": "Dit is Nieuwe Weelde, in de wijk Nieuwe Steen in Hoorn. Hier worden zestig koopappartementen gebouwd van circa zeventig tot achtentachtig vierkante meter, allemaal met twee slaapkamers en een eigen balkon. Uw appartement is volledig gelijkvloers, met een lift naar uw verdieping en naar uw eigen park"
+  },
+  "headers": {
+   "History-Item-Id": "ZF8Vkq4QAMYy30QIluoT",
+   "Request-Id": "K6xUPnuQCPeuUMv7vYyl"
+  }
+ },
+ {
+  "cache": "83e9070bf08d77ac",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request": {
+   "text": "Geen tuin meer om bij te houden, geen gasrekening meer, en toch twee ruime slaapkamers.",
+   "model_id": "eleven_v4",
+   "language_code": "nl",
+   "next_text": "Nieuwe Weelde bestaat uit zestig nieuwe koopappartementen in de groene wijk Nieuwe Steen in Hoorn. De appartementen zijn tot circa achtentachtig vierkante meter groot, met een woonkamer en open keuken van circa negenentwintig vierkante meter en twee ruime slaapkamers. Je spullen berg je op in de inp"
+  },
+  "headers": {
+   "History-Item-Id": "CSXCytIVehjSprlUHmmN",
+   "Request-Id": "igespNO7aIKKTNNtcdQ3"
+  }
+ },
+ {
+  "cache": "845f27ac8278750a",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request": {
+   "text": "Een gelijkvloers appartement met lift, een eigen balkon en een buurtkamer voor ontmoeting, in Hoorn.",
+   "model_id": "eleven_v4",
+   "language_code": "nl",
+   "next_text": "Dit is Nieuwe Weelde, in de wijk Nieuwe Steen in Hoorn. Hier worden zestig koopappartementen gebouwd van circa zeventig tot achtentachtig vierkante meter, allemaal met twee slaapkamers en een eigen balkon. Uw appartement is volledig gelijkvloers, met een lift naar uw verdieping en naar uw eigen park"
+  },
+  "headers": {
+   "History-Item-Id": "uH7BJOVNeDG8lv0LFxjq",
+   "Request-Id": "LkYk83e63qdwF4t5TphB"
+  }
+ },
+ {
+  "cache": "8f354ac7642695aa",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request": {
+   "text": "Denk je al een tijdje na over verhuizen, maar weet je niet hoe je dat moet regelen met je huidige woning?",
+   "model_id": "eleven_v4",
+   "language_code": "nl",
+   "next_text": "Nieuwe Weelde bestaat uit zestig nieuwe koopappartementen in de groene wijk Nieuwe Steen in Hoorn. De appartementen zijn tot circa achtentachtig vierkante meter groot, met een woonkamer en open keuken van circa negenentwintig vierkante meter en twee ruime slaapkamers. Je spullen berg je op in de inp"
+  },
+  "headers": {
+   "History-Item-Id": "c6ArgeEClFuBZeWlNmdD",
+   "Request-Id": "QTBRaYzmxZPdQFuqr6HC"
+  }
+ },
+ {
+  "cache": "9b7ad1bd13349f50",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request": {
+   "text": "Nieuwe Weelde bestaat uit zestig nieuwe koopappartementen in de groene wijk Nieuwe Steen in Hoorn. De appartementen zijn tot circa achtentachtig vierkante meter groot, met een woonkamer en open keuken van circa negenentwintig vierkante meter en twee ruime slaapkamers. Je spullen berg je op in de inpandige berging, en je auto staat op je eigen parkeerplaats in de garage. Je hebt geen tuin meer om bij te houden, maar wel een balkon van circa tien vierkante meter met uitzicht op het groen. Het appartement is gasloos, met een eigen warmtepomp, vloerverwarming en -koeling en een voorlopig energielabel A+++. De oplevering staat naar verwachting gepland voor het derde kwartaal van 2027, dus je hebt de tijd om je huidige woning te verkopen. De hypotheekspecialisten van VORM Sales & Finance denken met je mee over overbrugging en oplossingen voor dubbele maandlasten tijdens de bouw. Er zijn nog maar enkele appartementen beschikbaar. Klik op de knop hieronder voor alle informatie en plan een afspraak met onze makelaar.",
+   "model_id": "eleven_v4",
+   "language_code": "nl",
+   "previous_text": "Is je huis eigenlijk te groot geworden, en ben je klaar met al dat onderhoud?"
+  },
+  "headers": {
+   "History-Item-Id": "6PD9u6qFkEZfGmTHznri",
+   "Request-Id": "K43yQXIIjIEN7miv8Jlp"
+  }
+ },
+ {
+  "cache": "a50850826c98e2c4",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request": {
+   "text": "Ben je klaar met huren en wil je samen jullie eerste koopwoning in Hoorn?",
+   "model_id": "eleven_v4",
+   "language_code": "nl",
+   "next_text": "Nieuwe Weelde bestaat uit zestig middeldure koopappartementen in de wijk Nieuwe Steen in Hoorn. Elk appartement heeft twee slaapkamers, dus naast jullie slaapkamer is er ruimte voor een thuiswerkplek of een logeerkamer. De lichte woonkamer met open keuken loopt direct door naar je eigen balkon met u"
+  },
+  "headers": {
+   "History-Item-Id": "ZUdjYKRzJwKhazP3vFuE",
+   "Request-Id": "whzZIF9ZRqqYEM1bR29R"
+  }
+ },
+ {
+  "cache": "adfc9d7a646d1b68",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request": {
+   "text": "Wil je kleiner wonen in Hoorn, maar ben je bang voor dubbele maandlasten?",
+   "model_id": "eleven_v4",
+   "language_code": "nl",
+   "next_text": "Nieuwe Weelde bestaat uit zestig nieuwe koopappartementen in de groene wijk Nieuwe Steen in Hoorn. De appartementen zijn tot circa achtentachtig vierkante meter groot, met een woonkamer en open keuken van circa negenentwintig vierkante meter en twee ruime slaapkamers. Je spullen berg je op in de inp"
+  },
+  "headers": {
+   "History-Item-Id": "UmDzPWj9yjiFhACwWS3J",
+   "Request-Id": "Uq5inZ11DEC9va0bhT6y"
+  }
+ },
+ {
+  "cache": "b349903dca94dca2",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request": {
+   "text": "Kleiner wonen betekent niet dat u uw vrijheid hoeft in te leveren.",
+   "model_id": "eleven_v4",
+   "language_code": "nl",
+   "next_text": "Dit is Nieuwe Weelde, in de wijk Nieuwe Steen in Hoorn. Hier worden zestig koopappartementen gebouwd van circa zeventig tot achtentachtig vierkante meter, allemaal met twee slaapkamers en een eigen balkon. Uw appartement is volledig gelijkvloers, met een lift naar uw verdieping en naar uw eigen park"
+  },
+  "headers": {
+   "History-Item-Id": "kpfzuWaHAEI5cL3NaS9S",
+   "Request-Id": "QdaiqykZwSndXClv1xAl"
+  }
+ },
+ {
+  "cache": "d07c76ad6c019047",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request": {
+   "text": "Zoek je een duurzame eerste koopwoning, op fietsafstand van de binnenstad van Hoorn?",
+   "model_id": "eleven_v4",
+   "language_code": "nl",
+   "next_text": "Nieuwe Weelde bestaat uit zestig middeldure koopappartementen in de wijk Nieuwe Steen in Hoorn. Elk appartement heeft twee slaapkamers, dus naast jullie slaapkamer is er ruimte voor een thuiswerkplek of een logeerkamer. De lichte woonkamer met open keuken loopt direct door naar je eigen balkon met u"
+  },
+  "headers": {
+   "History-Item-Id": "J46ix6Z1HokeHzLfgzSA",
+   "Request-Id": "xfAjKxasw3E79fnY9SjE"
+  }
+ },
+ {
+  "cache": "dc3488592a212d1e",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request": {
+   "text": "Is je huis eigenlijk te groot geworden, en ben je klaar met al dat onderhoud?",
+   "model_id": "eleven_v4",
+   "language_code": "nl",
+   "next_text": "Nieuwe Weelde bestaat uit zestig nieuwe koopappartementen in de groene wijk Nieuwe Steen in Hoorn. De appartementen zijn tot circa achtentachtig vierkante meter groot, met een woonkamer en open keuken van circa negenentwintig vierkante meter en twee ruime slaapkamers. Je spullen berg je op in de inp"
+  },
+  "headers": {
+   "History-Item-Id": "Sq79KRk5ji8mXfsfQpXd",
+   "Request-Id": "Ln9AegOQStyxc7Dejddv"
+  }
+ },
+ {
+  "cache": "e6635550ce7b9f11",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request": {
+   "text": "Heeft u al gehoord van het Goud Wonen-concept in Hoorn?",
+   "model_id": "eleven_v4",
+   "language_code": "nl",
+   "next_text": "Dit is Nieuwe Weelde, in de wijk Nieuwe Steen in Hoorn. Hier worden zestig koopappartementen gebouwd van circa zeventig tot achtentachtig vierkante meter, allemaal met twee slaapkamers en een eigen balkon. Uw appartement is volledig gelijkvloers, met een lift naar uw verdieping en naar uw eigen park"
+  },
+  "headers": {
+   "History-Item-Id": "s5TmZWu02wEYi5rGvREp",
+   "Request-Id": "ErHS9HnhUEGMMCyET0jR"
+  }
+ },
+ {
+  "cache": "ea9878e78a32952e",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request": {
+   "text": "Zijn de kinderen de deur uit en is uw huis eigenlijk te groot geworden?",
+   "model_id": "eleven_v4",
+   "language_code": "nl",
+   "next_text": "Dit is Nieuwe Weelde, in de wijk Nieuwe Steen in Hoorn. Hier worden zestig koopappartementen gebouwd van circa zeventig tot achtentachtig vierkante meter, allemaal met twee slaapkamers en een eigen balkon. Uw appartement is volledig gelijkvloers, met een lift naar uw verdieping en naar uw eigen park"
+  },
+  "headers": {
+   "History-Item-Id": "H6vsxSdnWUmHeKcGLYq9",
+   "Request-Id": "aRlgh2nH17U2YKSDaRx7"
+  }
+ },
+ {
+  "cache": "ec1f237033e7eff9",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request": {
+   "text": "Heb je al gezien welke appartementen er in de wijk Nieuwe Steen in Hoorn gebouwd worden?",
+   "model_id": "eleven_v4",
+   "language_code": "nl",
+   "next_text": "Nieuwe Weelde bestaat uit zestig nieuwe koopappartementen in de groene wijk Nieuwe Steen in Hoorn. De appartementen zijn tot circa achtentachtig vierkante meter groot, met een woonkamer en open keuken van circa negenentwintig vierkante meter en twee ruime slaapkamers. Je spullen berg je op in de inp"
+  },
+  "headers": {
+   "History-Item-Id": "uFDwUIzHmHK2IHTQEHFp",
+   "Request-Id": "xLEPA2NgfLqtoB0sCg4h"
+  }
+ },
+ {
+  "cache": "ed86c388f7147df1",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request": {
+   "text": "Jullie eerste eigen huis, gasloos, met vloerkoeling en een balkon met uitzicht op het groen?",
+   "model_id": "eleven_v4",
+   "language_code": "nl",
+   "next_text": "Nieuwe Weelde bestaat uit zestig middeldure koopappartementen in de wijk Nieuwe Steen in Hoorn. Elk appartement heeft twee slaapkamers, dus naast jullie slaapkamer is er ruimte voor een thuiswerkplek of een logeerkamer. De lichte woonkamer met open keuken loopt direct door naar je eigen balkon met u"
+  },
+  "headers": {
+   "History-Item-Id": "QSUIA496pCyn7qrxVi89",
+   "Request-Id": "Cdd5mFlsdlu6P8UL61Fj"
+  }
+ }
+]

@@ -28,3 +28,11 @@ out/
 .DS_Store
 .env
 *.log
+
+# Nieuwe Weelde: generatie-ledger (bevat provider-responses), portretafgeleiden en bronrenders staan in de Frame.io-bibliotheek
+**/scripts/gen-ledger.json
+**/public/portret/*.png
+**/public/bron/
+**/public/clips-arch/
+.nxt-*.json
+__pycache__/

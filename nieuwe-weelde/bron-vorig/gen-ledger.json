@@ -1,0 +1,352 @@
+{
+ "buurtkamer": {
+  "asset_id": "AKbrssSlxyCoeVApQNqH",
+  "request": {
+   "model_id": "veo-3.1-generate-001",
+   "prompt": "Slow gentle push-in on the community room, neighbours chatting at the table, a man walking slowly towards the garden door, soft sunlight. Preserve the interior exactly. one continuous shot, no cuts, no transitions, no morphing.",
+   "start_frame": {
+    "type": "asset",
+    "asset_id": "AKbrssSlxyCoeVApQNqH"
+   },
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "generate_audio": false,
+   "aspect_ratio": "9:16"
+  },
+  "status": "completed",
+  "generation_id": "mnHhVxaKa5HpMXf2cSAd",
+  "poll_response": {
+   "id": "mnHhVxaKa5HpMXf2cSAd",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  },
+  "probe": {
+   "programs": [],
+   "streams": [
+    {
+     "width": 1080,
+     "height": 1920,
+     "tags": {}
+    }
+   ],
+   "format": {
+    "duration": "8.000000"
+   }
+  },
+  "bron_sha256": "c4312f984e4841ced0aa512e9d92fdd2284695c065f7e4d3067e6068afa9d35b",
+  "portret_sha256": "0295c566014647ffe2ccbdc9f12ba637ff10e947efe4a9686cfeed613c75c517",
+  "portret_crop": {
+   "bron": "visual_05.03_SURREND3R_-_Buurtkamer.jpg",
+   "bronAfmeting": [
+    4000,
+    2667
+   ],
+   "crop": [
+    850,
+    0,
+    1500,
+    2667
+   ]
+  }
+ },
+ "gevel-zomer": {
+  "asset_id": "bJsTGoZJTTtF1ZUV1Z1O",
+  "request": {
+   "model_id": "veo-3.1-generate-001",
+   "prompt": "Slow gentle push-in towards the apartment building facade, leaves rustling softly, children playing on the lawn, soft summer light. Preserve the architecture exactly. one continuous shot, no cuts, no transitions, no morphing.",
+   "start_frame": {
+    "type": "asset",
+    "asset_id": "bJsTGoZJTTtF1ZUV1Z1O"
+   },
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "generate_audio": false,
+   "aspect_ratio": "9:16"
+  },
+  "status": "completed",
+  "generation_id": "DEeD89FdZatXZtWCUMf7",
+  "poll_response": {
+   "id": "DEeD89FdZatXZtWCUMf7",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  },
+  "probe": {
+   "programs": [],
+   "streams": [
+    {
+     "width": 1080,
+     "height": 1920,
+     "tags": {}
+    }
+   ],
+   "format": {
+    "duration": "8.000000"
+   }
+  },
+  "bron_sha256": "bb84a60743d0a40bef8fc3510d71a5a57f869d5a46999ae5a033eced47739f97",
+  "portret_sha256": "65833a1c55cb8f13222523ebb72e2c54ce01e94237563f820c5890aeb6f5552f",
+  "portret_crop": {
+   "bron": "2442_ext_00-SURREND3R.jpg",
+   "bronAfmeting": [
+    4000,
+    2667
+   ],
+   "crop": [
+    1250,
+    0,
+    1500,
+    2667
+   ]
+  }
+ },
+ "gracht-zon": {
+  "asset_id": "TxEdq9GPLEr9yUF4rkhk",
+  "request": {
+   "model_id": "veo-3.1-generate-001",
+   "prompt": "Slow gentle upward tilt along the apartment building next to the canal, water rippling softly, swans drifting, grass swaying in a light breeze. Preserve the architecture exactly. one continuous shot, no cuts, no transitions, no morphing.",
+   "start_frame": {
+    "type": "asset",
+    "asset_id": "TxEdq9GPLEr9yUF4rkhk"
+   },
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "generate_audio": false,
+   "aspect_ratio": "9:16"
+  },
+  "status": "completed",
+  "generation_id": "JjuzQy87KA0qNaVhqG4Q",
+  "poll_response": {
+   "id": "JjuzQy87KA0qNaVhqG4Q",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  },
+  "probe": {
+   "programs": [],
+   "streams": [
+    {
+     "width": 1080,
+     "height": 1920,
+     "tags": {}
+    }
+   ],
+   "format": {
+    "duration": "8.000000"
+   }
+  },
+  "bron_sha256": "3ec921e7fc332c535d2abe4f7c439fa1f38d95175d88f45248abc0082bd64cd3",
+  "portret_sha256": "49cb074ad860a9eacad1eb27447cfe40b8dbd55c351eae578fdae6ef669461ab",
+  "portret_crop": {
+   "bron": "Nieuwe_Weelde_2.png",
+   "bronAfmeting": [
+    1536,
+    1024
+   ],
+   "crop": [
+    634,
+    0,
+    576,
+    1024
+   ]
+  }
+ },
+ "luchtfoto-hoorn": {
+  "asset_id": "IYaU1o9DOOua3Wfdjt6y",
+  "request": {
+   "model_id": "veo-3.1-generate-001",
+   "prompt": "Slow gentle aerial drone drift forward over the town and the apartment buildings, soft hazy morning light. Preserve the architecture exactly. one continuous shot, no cuts, no transitions, no morphing.",
+   "start_frame": {
+    "type": "asset",
+    "asset_id": "IYaU1o9DOOua3Wfdjt6y"
+   },
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "generate_audio": false,
+   "aspect_ratio": "9:16"
+  },
+  "status": "completed",
+  "generation_id": "F4Qc5kopVkhFkhQ8ETfi",
+  "poll_response": {
+   "id": "F4Qc5kopVkhFkhQ8ETfi",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  },
+  "probe": {
+   "programs": [],
+   "streams": [
+    {
+     "width": 1080,
+     "height": 1920,
+     "tags": {}
+    }
+   ],
+   "format": {
+    "duration": "8.000000"
+   }
+  },
+  "bron_sha256": "933d2de017033f4b420d6866aa43d39f1c2d19d84cf4e88c3b3613a82dadeabe",
+  "portret_sha256": "624f455c83bb4dcf1ef7a3062211f1657092f60c89727c9ad71ae1b4863e4033",
+  "portret_crop": {
+   "bron": "visual_09_2442_ext_35.jpg",
+   "bronAfmeting": [
+    5472,
+    3648
+   ],
+   "crop": [
+    1984,
+    0,
+    2052,
+    3648
+   ]
+  }
+ },
+ "luchtfoto-wijk": {
+  "asset_id": "6MTm1E60GeM807zhpw29",
+  "request": {
+   "model_id": "veo-3.1-generate-001",
+   "prompt": "Slow gentle aerial drone drift forward over the apartment buildings and canal, trees moving slightly, soft morning light. Preserve the architecture exactly. one continuous shot, no cuts, no transitions, no morphing.",
+   "start_frame": {
+    "type": "asset",
+    "asset_id": "6MTm1E60GeM807zhpw29"
+   },
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "generate_audio": false,
+   "aspect_ratio": "9:16"
+  },
+  "status": "completed",
+  "generation_id": "Xiv0K9c9u3vHlrjxnsVT",
+  "poll_response": {
+   "id": "Xiv0K9c9u3vHlrjxnsVT",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  },
+  "probe": {
+   "programs": [],
+   "streams": [
+    {
+     "width": 1080,
+     "height": 1920,
+     "tags": {}
+    }
+   ],
+   "format": {
+    "duration": "8.000000"
+   }
+  },
+  "bron_sha256": "ef5cbbf5831c715099a7a317b1cdd212fba4f4d60134d6127c800aaff76cc818",
+  "portret_sha256": "aa58b3f18c3664de8e328fc965914d5523b311ac91e84435fc67f752f56c5cff",
+  "portret_crop": {
+   "bron": "visual_10_2442_ext_45.jpg",
+   "bronAfmeting": [
+    5472,
+    3648
+   ],
+   "crop": [
+    2148,
+    0,
+    2052,
+    3648
+   ]
+  }
+ },
+ "park-pad": {
+  "asset_id": "GjIsZPlkYWVd9d8JnL1k",
+  "request": {
+   "model_id": "veo-3.1-generate-001",
+   "prompt": "Slow gentle push-in along the garden path towards the building, people sitting at the picnic table, birds flying in the sky, grass swaying. Preserve the architecture exactly. one continuous shot, no cuts, no transitions, no morphing.",
+   "start_frame": {
+    "type": "asset",
+    "asset_id": "GjIsZPlkYWVd9d8JnL1k"
+   },
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "generate_audio": false,
+   "aspect_ratio": "9:16"
+  },
+  "status": "completed",
+  "generation_id": "6k3W6hhan6lKpf8dTUQl",
+  "poll_response": {
+   "id": "6k3W6hhan6lKpf8dTUQl",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  },
+  "probe": {
+   "programs": [],
+   "streams": [
+    {
+     "width": 1080,
+     "height": 1920,
+     "tags": {}
+    }
+   ],
+   "format": {
+    "duration": "8.000000"
+   }
+  },
+  "bron_sha256": "234c5e8a7f86502d378f31999a6e9f1eaa7b330d47574529b1f71721bc37142d",
+  "portret_sha256": "97be06582b5038960a29e148643296d4f9c4b6d1829f6e253e4c318bb2eb8bea",
+  "portret_crop": {
+   "bron": "visual_01_2442_ext_cloud-0025.jpg",
+   "bronAfmeting": [
+    4000,
+    2668
+   ],
+   "crop": [
+    1450,
+    0,
+    1501,
+    2668
+   ]
+  }
+ },
+ "woonkamer-man": {
+  "asset_id": "FaN9rvvQlMsAxu3etkdV",
+  "request": {
+   "model_id": "veo-3.1-generate-001",
+   "prompt": "Slow gentle push-in on the living room, the man slowly lifts his cup, soft daylight through the windows, curtains moving very slightly. Preserve the interior exactly. one continuous shot, no cuts, no transitions, no morphing.",
+   "start_frame": {
+    "type": "asset",
+    "asset_id": "FaN9rvvQlMsAxu3etkdV"
+   },
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "generate_audio": false,
+   "aspect_ratio": "9:16"
+  },
+  "status": "completed",
+  "generation_id": "lJNIFSkZTbriFeUWSfMP",
+  "poll_response": {
+   "id": "lJNIFSkZTbriFeUWSfMP",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  },
+  "probe": {
+   "programs": [],
+   "streams": [
+    {
+     "width": 1080,
+     "height": 1920,
+     "tags": {}
+    }
+   ],
+   "format": {
+    "duration": "8.000000"
+   }
+  },
+  "bron_sha256": "28fd4e112dfc12e2297dad4bb903028d7276e1380d83e617949dd7ce2dae8c99",
+  "portret_sha256": "06967c1af88d02cec26e5876018f284a37e27e87440ee539e90179ab22031408",
+  "portret_crop": {
+   "bron": "Nieuwe_Weelde_1.png",
+   "bronAfmeting": [
+    1536,
+    1024
+   ],
+   "crop": [
+    403,
+    0,
+    576,
+    1024
+   ]
+  }
+ }
+}

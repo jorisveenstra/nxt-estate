@@ -1,0 +1,5 @@
+{
+ "balkon-jong": {"bron": "visual 02_0075_SURREND3R.jpg", "bronAfmeting": [4000, 2668], "crop": "crop=1500:2667:950:0 -> 1080x1920 lanczos", "methode": "onderwerp-bewuste uitsnede, geen outpainting"},
+ "keuken-jong": {"bron": "visual 08_SURREND3R - Type C.jpg", "bronAfmeting": [4000, 2667], "crop": "crop=1380:2453:2620:110 -> 1080x1920 lanczos", "methode": "onderwerp-bewuste uitsnede (jonge moeder + keuken; senioren aan tafel bewust buiten beeld), geen outpainting"},
+ "woonkamer-jong": {"bron": "ChatGPT Image 8 jan 2026, 09_49_44.png", "bronAfmeting": [1536, 1024], "crop": "crop=576:1024:150:0 -> 1080x1920 lanczos", "methode": "onderwerp-bewuste uitsnede (jonge vrouw in woonkamer; balkon met ouder stel buiten beeld), geen outpainting"}
+}

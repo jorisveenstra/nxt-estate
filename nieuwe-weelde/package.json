@@ -1,0 +1,10 @@
+{
+  "name": "nieuwe-weelde-videos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Advertentievideo's voor Nieuwe Weelde (Hoorn): 3 bodies x 5 hooks, 9:16 1080x1920",
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "python3 scripts/render_alles.py"
+  }
+}
