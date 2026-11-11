@@ -1,0 +1,17 @@
+{
+  "name": "stock-haarlem-xl-videos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Advertentievideo's STOCK Haarlem XL (3 bodies x 5 hooks, 9:16)",
+  "scripts": {
+    "dev": "remotion studio",
+    "timing": "python3 scripts/timing.py",
+    "render": "python3 scripts/render.py"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.532",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.532"
+  }
+}

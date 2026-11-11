@@ -1,0 +1,452 @@
+{
+ "asset:80bf973ce823d537c0f2eae53411e165ca006396afe5d69a1ed593b844e47126": {
+  "asset_id": "IE6lom4B3b9RATKwvcPO",
+  "response_keys": [
+   "asset_id",
+   "name",
+   "mime_type",
+   "created_at_unix",
+   "content_url"
+  ]
+ },
+ "video:showroom:80bf973ce823d537c0f2eae53411e165ca006396afe5d69a1ed593b844e47126": {
+  "status": "done",
+  "started": 1794394145.5516965,
+  "model": "veo-3.1-generate-001",
+  "source_sha256": "80bf973ce823d537c0f2eae53411e165ca006396afe5d69a1ed593b844e47126",
+  "prompt": "Bright Scandinavian-style showroom interior with white arches, black steel staircase and large windows. Very slow, smooth dolly forward through the arch. Keep the architecture, materials, furniture and proportions exactly as in the image. Natural daylight, realistic. One continuous shot, no cuts, no transitions, no morphing.",
+  "settings": {
+   "model_id": "veo-3.1-generate-001",
+   "start_frame": {
+    "type": "asset",
+    "asset_id": "IE6lom4B3b9RATKwvcPO"
+   },
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "generate_audio": false,
+   "aspect_ratio": "9:16"
+  },
+  "generation_id": "y3ndZNlOFLNUNhvKXBBi",
+  "request_id": null,
+  "character_cost": null,
+  "response_keys": [
+   "id",
+   "status"
+  ],
+  "final_status": {
+   "id": "y3ndZNlOFLNUNhvKXBBi",
+   "status": "completed",
+   "content_url": "https://storage.googleapis.com/xi-backend/database/workspace/9e0d1fb9d61845dc85e2924bf2b5e3b4/content_generation/TcDCmQRLDtLtbdqQZEl2/y3ndZNlOFLNUNhvKXBBi/content.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=xi-backend-prod%40xi-labs.iam.gserviceaccount.com%2F20261111%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261111T105122Z&X-Goog-Expires=7200&X-Goog-SignedHeaders=host&X-Goog-Signature=06d75b2fd818f1b6244c7f2433a60647adc841c8cee53c343175322a2d216c189716f63a489971ea49ab08738244588e4c806dbea88b01f948e24be61db1948d072dee35fed82b0f4684ec802b82b783a060d8b13298d00799a9045bd45da8af43d91a55fd353708bf3556da06215b2d24c8c239c6accae05e494ae37936278c69e2684fb6b86c99e7dbc15e2fbdcc0a921160bbab95286407c78242a0edf3859f913824ddac6c914f534a519661ce5ada76aa8a32bb7104c077d0a6a79a87a0b50d83078483470a48a59bf11fad743ed27617bda3c4568ed96976fad2910a99efb41c4307a6dd5df6d1623b9333e9d17b6aaeefe6fe1b9eaa6233dc5016fbab",
+   "content_mime_type": "video/mp4"
+  },
+  "clip_sha256": "0f80cced23a36387ab3e90e839d6cc8f2c58e3de45039fec343621979c999bfe"
+ },
+ "asset:c8ff2f5cd685c1bdcd015565ad7e213a1efc3618d8064035ddac13bdbff16450": {
+  "asset_id": "IONLNZN5WFMpaVn0IEkl",
+  "response_keys": [
+   "asset_id",
+   "name",
+   "mime_type",
+   "created_at_unix",
+   "content_url"
+  ]
+ },
+ "video:studio:c8ff2f5cd685c1bdcd015565ad7e213a1efc3618d8064035ddac13bdbff16450": {
+  "status": "done",
+  "started": 1794394215.120968,
+  "model": "veo-3.1-generate-001",
+  "source_sha256": "c8ff2f5cd685c1bdcd015565ad7e213a1efc3618d8064035ddac13bdbff16450",
+  "prompt": "Bright design studio with concrete ceiling, large black-framed windows and herringbone oak floor. Very slow, smooth lateral camera slide along the windows with soft sunlight. Keep the architecture, windows, furniture and proportions exactly as in the image. Realistic. One continuous shot, no cuts, no transitions, no morphing.",
+  "settings": {
+   "model_id": "veo-3.1-generate-001",
+   "start_frame": {
+    "type": "asset",
+    "asset_id": "IONLNZN5WFMpaVn0IEkl"
+   },
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "generate_audio": false,
+   "aspect_ratio": "9:16"
+  },
+  "generation_id": "neqFUjX5UwOi1ya2g6OE",
+  "request_id": null,
+  "character_cost": null,
+  "header_names": [
+   "access-control-allow-headers",
+   "access-control-allow-methods",
+   "access-control-allow-origin",
+   "access-control-max-age",
+   "alt-svc",
+   "connection",
+   "content-length",
+   "content-type",
+   "date",
+   "retry-after",
+   "server",
+   "strict-transport-security",
+   "vary",
+   "via",
+   "x-region",
+   "x-trace-id"
+  ],
+  "response_keys": [
+   "id",
+   "status"
+  ],
+  "final_status": {
+   "id": "neqFUjX5UwOi1ya2g6OE",
+   "status": "completed",
+   "content_url": "https://storage.googleapis.com/xi-backend/database/workspace/9e0d1fb9d61845dc85e2924bf2b5e3b4/content_generation/hTRax3DXAuf7QRh3jpLw/neqFUjX5UwOi1ya2g6OE/content.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=xi-backend-prod%40xi-labs.iam.gserviceaccount.com%2F20261111%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261111T105201Z&X-Goog-Expires=7200&X-Goog-SignedHeaders=host&X-Goog-Signature=0504a876ede93cf3ca04b83f79b31aa59099c2c2ad89c5b65efa4676e050e333fe073d9e63479b2c92b7479e2b4cb8bac45b1b13c738b316ff59dfc7ec1bf2f8d71e3b9a7bb794d45e341d3619eef9fbb99502066b886613ee135328c83a9f5b4a1ce10c964744b5cd6b12b8569a5364efbcac15b0798125801676a12c2183a99e8163641526f9b84ef6db1802abbf5d69818b2778b2382dfe0eaa976b1908ab9d489f83615f1f2636aaf2b0feb7466e1a9a6bca1e527b1a05978293941b41f2f05375a967af5c356f45224631654615f393039689fa4278a7b06bf56d40de27a31b64fa3fab466ba55150ae3d181857c3cfc0dee4791ccb81484a15ca032f29",
+   "content_mime_type": "video/mp4"
+  },
+  "clip_sha256": "0083b92a5e5dcae9633974f5a497cd506a85478dadb6f12ba93ba3247440c596"
+ },
+ "asset:2463b0454c0d9ee6540a3cb4d4b55e7da26300630c65bde16b77b03faf8eb131": {
+  "asset_id": "GPZYKDbsSmAWe4mVPAoR",
+  "response_keys": [
+   "asset_id",
+   "name",
+   "mime_type",
+   "created_at_unix",
+   "content_url"
+  ]
+ },
+ "video:werkruimte:2463b0454c0d9ee6540a3cb4d4b55e7da26300630c65bde16b77b03faf8eb131": {
+  "status": "done",
+  "started": 1794394216.2908738,
+  "model": "veo-3.1-generate-001",
+  "source_sha256": "2463b0454c0d9ee6540a3cb4d4b55e7da26300630c65bde16b77b03faf8eb131",
+  "prompt": "Light open workspace with concrete ceiling, round stone table with flowers and windows in the back. Very slow, gentle push-in towards the windows, natural daylight. Keep the architecture, furniture, materials and proportions exactly as in the image. Realistic. One continuous shot, no cuts, no transitions, no morphing.",
+  "settings": {
+   "model_id": "veo-3.1-generate-001",
+   "start_frame": {
+    "type": "asset",
+    "asset_id": "GPZYKDbsSmAWe4mVPAoR"
+   },
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "generate_audio": false,
+   "aspect_ratio": "9:16"
+  },
+  "generation_id": "Cf4PzGfbdgLh9fuuoKAv",
+  "request_id": null,
+  "character_cost": null,
+  "header_names": [
+   "access-control-allow-headers",
+   "access-control-allow-methods",
+   "access-control-allow-origin",
+   "access-control-max-age",
+   "alt-svc",
+   "connection",
+   "content-length",
+   "content-type",
+   "date",
+   "retry-after",
+   "server",
+   "strict-transport-security",
+   "vary",
+   "via",
+   "x-region",
+   "x-trace-id"
+  ],
+  "response_keys": [
+   "id",
+   "status"
+  ],
+  "final_status": {
+   "id": "Cf4PzGfbdgLh9fuuoKAv",
+   "status": "completed",
+   "content_url": "https://storage.googleapis.com/xi-backend/database/workspace/9e0d1fb9d61845dc85e2924bf2b5e3b4/content_generation/nYekx5kKNMDYZkszUGw5/Cf4PzGfbdgLh9fuuoKAv/content.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=xi-backend-prod%40xi-labs.iam.gserviceaccount.com%2F20261111%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261111T105202Z&X-Goog-Expires=7200&X-Goog-SignedHeaders=host&X-Goog-Signature=b70adc817f8d202582e3b8d14afafaace56333106bcd3fe30944bf04a69ea188792d7d14d91da0799fe7fa9e5567503def0f1c67c693fe99b0a3d78531b17a95edf695707d6923b03695692e3340db29ac0cc8e6a0d29ac3164d01adfd9ad401951b79dd96d7d34f2111e4405a8b5dbaa3d93961dafd836e45110e799aa144a77533f2b4cb09426989d7bab346a76131f63e75999fd140c56597abfb797a091ddc136eab767403077a5f51e1ad27bafa73baf74156386b177dc77ddefe2181bb6ac9c6498103d46c0e3ac6a87d5375f35dae02fa54eb978254cbfc76bc4e68ee0dd1db86ca57f5467c44bbc43b7d72633ca5125c4a918562d6d7fdf11bbca860",
+   "content_mime_type": "video/mp4"
+  },
+  "clip_sha256": "a3b6f35c00b4c2e848b53ed77f87393ddb4214011896717cb739858e26ac9990"
+ },
+ "tts:b1h1:e392412ba07b450d": {
+  "status": "done",
+  "started": 1794394273.016522,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "text": "Heeft je architectenbureau in Haarlem geen plek meer voor maquettes, materiaalmonsters en archief?",
+  "request_id": "j6XRBEXueD9tJTcOGZLD",
+  "character_cost": "48",
+  "file": "b1h1.mp3",
+  "sha256": "65f381a2ce5f14448568136eef98d4340abd1404403210b8394eb4998238d790"
+ },
+ "tts:body1:10d9a5769ba61888": {
+  "status": "done",
+  "started": 1794394273.0129583,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "text": "Bij Stock Haarlem XL huur je een nieuwe unit vanaf zo'n tweehonderddrieënnegentig vierkante meter, verdeeld over drie lagen. Beneden is ruimte voor je maquettes, materiaalmonsters en archief. Daarboven heb je een representatief kantoor, waar je team ontwerpt en je opdrachtgevers ontvangt. En helemaal bovenop heb je een eigen dakterras, voor een pauze of een gesprek met een klant in de buitenlucht. De unit is gasloos, met een luchtwarmtepomp, vloerverwarming en energielabel A plus plus plus. Zo werk je comfortabel en houd je je energieverbruik laag. De locatie aan de Oudeweg, de N tweehonderd, is goed bereikbaar voor opdrachtgevers en leveranciers. De unit wordt turnkey opgeleverd, dus na de oplevering in het derde kwartaal van 2026 kun je meteen aan de slag. Klik op de knop hieronder, download de brochure en bekijk welke unit bij jouw bureau past!",
+  "request_id": "SdEInN5Maf86OE7WD9ge",
+  "character_cost": "416",
+  "file": "body1.mp3",
+  "sha256": "b6d26f63233569024da56875ea8b0b9da111b10ee2d7cd47173ac46775d9867f"
+ },
+ "tts:b1h3:415fedbaf27fbe3b": {
+  "status": "done",
+  "started": 1794394273.0181494,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "text": "Ontwerp je de mooiste gebouwen, maar werkt je eigen bureau nog vanuit een kantoor dat daar niet bij past?",
+  "request_id": "VUNnmbfo86yTRSDXgPag",
+  "character_cost": "51",
+  "file": "b1h3.mp3",
+  "sha256": "38e365954e13787ed2e7ebec26926e79dd1ef691ec8c313bf84bd7298482855f"
+ },
+ "tts:b1h2:21c351268b32ea99": {
+  "status": "done",
+  "started": 1794394273.019577,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "text": "Zoek je voor je architectenbureau een studio in Haarlem waar je team ontwerpt en je opdrachtgevers ontvangt?",
+  "request_id": "0AlCRPP86A3nqIahy5HP",
+  "character_cost": "52",
+  "file": "b1h2.mp3",
+  "sha256": "02e8df9e9f33e20a9f7d74179baee0cabc3f382e7debc5edae4f01da74322ca0"
+ },
+ "tts:b1h4:e3b4e3887f64ae2f": {
+  "status": "done",
+  "started": 1794394276.239067,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "text": "Klaar om je architectenbureau in Haarlem een eigen, herkenbare plek te geven?",
+  "request_id": "kujwGyOtqrbsTb59f9N5",
+  "character_cost": "37",
+  "file": "b1h4.mp3",
+  "sha256": "4f5b33778cb6d82651c2b12a2e2b8d3204a0af5a683e33205ced7a4d0ed92463"
+ },
+ "tts:b1h5:4df45b546ec72822": {
+  "status": "done",
+  "started": 1794394276.2431178,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "text": "Dit is dé nieuwe werkplek in Haarlem voor architecten die maquettes, team en klanten onder één dak willen.",
+  "request_id": "uvTrdWfXnv5SFsVxPKEv",
+  "character_cost": "51",
+  "file": "b1h5.mp3",
+  "sha256": "83e5a58ffa0c831f9ffb0c3b9ae8edc46d4f062ea36fccdd528fe73165e7e79a"
+ },
+ "tts:body2:295b93158419f673": {
+  "status": "done",
+  "started": 1794394276.6842177,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "text": "Bij Stock Haarlem XL huur je een nieuwe unit van drie lagen, vanaf zo'n tweehonderddrieënnegentig vierkante meter. In de bedrijfsruimte richt je je eigen studio in voor fotoshoots, video en contentproductie. In het representatieve kantoor werkt je team aan campagnes en presenteer je je ideeën aan klanten. Op het eigen dakterras houd je een teamsessie in de buitenlucht of vier je een gewonnen pitch. De locatie aan de Oudeweg, de N tweehonderd, is goed bereikbaar en zichtbaar voor klanten en partners. De unit is gasloos, met een luchtwarmtepomp, vloerverwarming en energielabel A plus plus plus. Hij wordt turnkey opgeleverd, zodat je na de oplevering in het derde kwartaal van 2026 direct je eigen identiteit kunt neerzetten. Klik op de knop hieronder en schrijf je in voor jouw unit bij Stock Haarlem XL!",
+  "request_id": "WUmKjAcz3WIuFRtUFMkk",
+  "character_cost": "393",
+  "file": "body2.mp3",
+  "sha256": "e24d6aa3814748bc61ac79226660fc241a9d79e2ae54836c35cdb96e64d65c1e"
+ },
+ "tts:b2h1:ca26ecb7a16e3a63": {
+  "status": "done",
+  "started": 1794394278.9637814,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "text": "Huur je voor elke fotoshoot nog een externe studio, terwijl je team ergens anders aan de campagne werkt?",
+  "request_id": "umFHUqiaIl6wsNqt8CHD",
+  "character_cost": "50",
+  "file": "b2h1.mp3",
+  "sha256": "a9c237e3d04f685f50b69a347e674c78295420daf8b709d06f56a8ef37531511"
+ },
+ "tts:b2h2:553a87bf1a609f52": {
+  "status": "done",
+  "started": 1794394279.7570484,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "text": "Zoek je voor je marketingbureau in Haarlem een plek waar shoots, teamwerk en klantpresentaties samenkomen?",
+  "request_id": "s8zRpzBJYFErI8cHQNt5",
+  "character_cost": "51",
+  "file": "b2h2.mp3",
+  "sha256": "0bb3bdf7655cd976e84d56791b864e1cb359d99aea1ec1285b7f0a9a2b9f2ef3"
+ },
+ "tts:b2h3:72814bf34447c24c": {
+  "status": "done",
+  "started": 1794394282.192258,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "text": "Bouw je merken voor je klanten, maar mist je eigen bureau nog een plek met een eigen gezicht?",
+  "request_id": "NwlbBPwzJhVnpOs12Pva",
+  "character_cost": "45",
+  "file": "b2h3.mp3",
+  "sha256": "5dc9499aa34af2f12c392649a5fbd2cf802971d7762c6728b52cb5eff9cf0ceb"
+ },
+ "tts:b2h4:7c866af8244cec4a": {
+  "status": "done",
+  "started": 1794394282.776875,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "text": "Klaar om je creatieve bureau in Haarlem een werkplek te geven waar je team graag naartoe komt?",
+  "request_id": "IWpaifdVaJ50IADctqd6",
+  "character_cost": "46",
+  "file": "b2h4.mp3",
+  "sha256": "6947d371789a917c946e16a774736219c166301a627cf62bfa2587c44570c1ff"
+ },
+ "tts:b2h5:8c35a579ff55f845": {
+  "status": "done",
+  "started": 1794394284.700248,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "text": "Dit is dé nieuwe werkplek in Haarlem voor creatieve bureaus die studio en kantoor onder één dak willen.",
+  "request_id": "RohvMrtIRdfeVB7uSQaj",
+  "character_cost": "50",
+  "file": "b2h5.mp3",
+  "sha256": "f2e34963b3ab17b9c8f636cf15eff6135c60690813aede017496ddb5830b87c9"
+ },
+ "tts:body3:e5a60c3ff16ee752": {
+  "status": "done",
+  "started": 1794394285.5416622,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "text": "Bij Stock Haarlem XL huur je een nieuwe unit van drie lagen, vanaf zo'n tweehonderddrieënnegentig vierkante meter. In de bedrijfsruimte laat je klanten je stoffen, materialen en meubels zien en voelen. In het representatieve kantoor richt je je ontwerpstudio in, met je moodboards en tekeningen binnen handbereik. Op het eigen dakterras rond je een klantgesprek af met een kop koffie in de buitenlucht. Wil je extra opvallen, dan zijn er naast de tussenunits ook twee hoekunits. Het is nieuwbouw, gasloos en met energielabel A plus plus plus, dus je ruimte is net zo verzorgd als jouw ontwerpen. De unit wordt turnkey opgeleverd in het derde kwartaal van 2026, zodat je direct je eigen stijl kunt neerzetten. Klik op de knop hieronder, bekijk de verhuurtekeningen en kies de unit die bij jouw studio past!",
+  "request_id": "0VPEd5YxmiCqDzjGKWso",
+  "character_cost": "390",
+  "file": "body3.mp3",
+  "sha256": "fd506b6903d963eefd016804676fd94cc3f8ba609cf3562cc80a73a1c24740c9"
+ },
+ "tts:b3h1:794643e8324791b2": {
+  "status": "done",
+  "started": 1794394287.734827,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "text": "Laat je je klanten in Haarlem nog stalen en materialen zien aan de keukentafel of via een scherm?",
+  "request_id": "r9Z99mHHTlu1t6eA5nh7",
+  "character_cost": "47",
+  "file": "b3h1.mp3",
+  "sha256": "f3d5f88242bc022e08829353a5dcea021e235806a0a0f15031effa2a5c30bf49"
+ },
+ "tts:b3h2:228ef59e7d360229": {
+  "status": "done",
+  "started": 1794394290.641189,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "text": "Zoek je voor je interieurstudio in Haarlem een plek waar je showroom en ontwerpstudio samenkomen?",
+  "request_id": "ZfQWfFwZJ3zABtJoSvDs",
+  "character_cost": "47",
+  "file": "b3h2.mp3",
+  "sha256": "89de863339df600cfe9d7c01bf4044ba2f89fdbec51a163e7fc0cedd0e42b0ff"
+ },
+ "tts:b3h3:0fc8cd5f05c164ec": {
+  "status": "done",
+  "started": 1794394291.0270984,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "text": "Maak je prachtige interieurs voor anderen, maar laat je eigen werkplek je vakmanschap nog niet zien?",
+  "request_id": "AZcMeuBT8FUPWG7IXXff",
+  "character_cost": "48",
+  "file": "b3h3.mp3",
+  "sha256": "865970ecf349a4add96a4b51a00a56b2d633c05b69841c0ab4b14f8d29173ac9"
+ },
+ "tts:b3h4:e420a6fd85404c59": {
+  "status": "done",
+  "started": 1794394293.6826885,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "text": "Klaar om je designstudio in Haarlem een plek te geven waar klanten je stijl meteen voelen?",
+  "request_id": "hI4uuQmVbr1SPSZBml5P",
+  "character_cost": "44",
+  "file": "b3h4.mp3",
+  "sha256": "113857ceaa34bc6dbded926156202c0b86dfff66523d6143f961f57038991bea"
+ },
+ "tts:b3h5:92190c1c3ce4885f": {
+  "status": "done",
+  "started": 1794394294.0865922,
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "text": "Dit is dé nieuwe plek in Haarlem voor interieurontwerpers die materialen, meubels en studio onder één dak willen.",
+  "request_id": "xGfHQwEfpisJpMZSSSuv",
+  "character_cost": "55",
+  "file": "b3h5.mp3",
+  "sha256": "9ad18d149bab4f1928fe71313a1e66d720eeb7a704e4165eac3a733516618f30"
+ },
+ "music:body2:2947cbe90a47dac7": {
+  "status": "done",
+  "started": 1794394321.7331748,
+  "model_id": "music_v1",
+  "prompt": "Uplifting, energetic yet polished instrumental for a creative agency workspace ad: bright synths, light claps, warm bass, positive and inspiring, 105 bpm, no vocals, clean ending.",
+  "music_length_ms": 60092,
+  "force_instrumental": true,
+  "request_id": null,
+  "song_id": "uBklT1US686oyYxIerbS",
+  "character_cost": null,
+  "header_names": [
+   "access-control-allow-headers",
+   "access-control-allow-methods",
+   "access-control-allow-origin",
+   "access-control-max-age",
+   "alt-svc",
+   "connection",
+   "content-length",
+   "content-type",
+   "date",
+   "server",
+   "song-id",
+   "strict-transport-security",
+   "vary",
+   "via",
+   "x-region",
+   "x-trace-id"
+  ],
+  "sha256": "b58d6b1afe36b87e14f27adffdd9f5a817b447911379d61bb58e5fcf2a4d024a"
+ },
+ "music:body1:5ceeeddcc2f9981c": {
+  "status": "done",
+  "started": 1794394337.3701549,
+  "model_id": "music_v1",
+  "prompt": "Uplifting, positive modern instrumental for a real estate ad aimed at architects: warm piano, soft plucked guitar, light electronic beat, airy and optimistic, steady 100 bpm, no vocals, clean ending.",
+  "music_length_ms": 63984,
+  "force_instrumental": true,
+  "request_id": null,
+  "song_id": "Ua8IkNuT2zUObYBoPtGc",
+  "character_cost": null,
+  "header_names": [
+   "access-control-allow-headers",
+   "access-control-allow-methods",
+   "access-control-allow-origin",
+   "access-control-max-age",
+   "alt-svc",
+   "connection",
+   "content-length",
+   "content-type",
+   "date",
+   "server",
+   "song-id",
+   "strict-transport-security",
+   "vary",
+   "via",
+   "x-region",
+   "x-trace-id"
+  ],
+  "sha256": "c277276349c5392dca5f6243da1abe5d26750243d76ee38f418e2a7541c86c1f"
+ },
+ "music:body3:c7035e79d1e9b4f2": {
+  "status": "done",
+  "started": 1794394321.7534564,
+  "model_id": "music_v1",
+  "prompt": "Uplifting, elegant instrumental for an interior design studio and showroom ad: soft piano, gentle strings, light percussion, warm and refined, 95 bpm, no vocals, clean ending.",
+  "music_length_ms": 59935,
+  "force_instrumental": true,
+  "request_id": null,
+  "song_id": "o4vnjm03VbR2sG14d8Se",
+  "character_cost": null,
+  "header_names": [
+   "access-control-allow-headers",
+   "access-control-allow-methods",
+   "access-control-allow-origin",
+   "access-control-max-age",
+   "alt-svc",
+   "connection",
+   "content-length",
+   "content-type",
+   "date",
+   "server",
+   "song-id",
+   "strict-transport-security",
+   "vary",
+   "via",
+   "x-region",
+   "x-trace-id"
+  ],
+  "sha256": "d145bee1dd971efe8028cad2469d3c36eab448e3a889a52a4d3cf7472cd8d5f6"
+ }
+}

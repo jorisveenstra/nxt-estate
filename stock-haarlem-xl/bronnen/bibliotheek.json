@@ -1,0 +1,77 @@
+{
+ "flex": {
+  "herkomst": "hergebruikt uit Frame.io-Bronnenbibliotheek",
+  "libraryAssetId": "febdda66-3cf1-41fd-b86c-148dacb69678",
+  "title": "Stock Nederland - flexibele ruimte met glaswand en trap - rustige beweging vooruit - daglicht",
+  "sha256": "8da0fdabddaa15638ad98eaa6830fe0bd4434da3e1ea13a0297e6d0c6bf6eebb",
+  "sourceSha256": "95d6cfd7a65f4cf7d0be0851f91fec01d86288f7e0662bf1a157710f75f786b1",
+  "generationId": "ltGIAma9BR7MDJvRlAHW"
+ },
+ "kantoor": {
+  "herkomst": "hergebruikt uit Frame.io-Bronnenbibliotheek",
+  "libraryAssetId": "36ee9a2a-2f29-4180-be71-0212edb411a5",
+  "title": "Stock Nederland - kantoorunit met glaswand en ronde tafel - rustige push-in - daglicht",
+  "sha256": "5e5808a4324b6878b35306bf98a6221f1b30d62cec42ed12a9de656965d6f107",
+  "sourceSha256": "76b6fbfbc9fc1a6db51de9d9cec102e90786cca14ad7322a3bbf5a52317dad2e",
+  "generationId": "VbubWSLuMkVtZsN0xn7u"
+ },
+ "trap": {
+  "herkomst": "hergebruikt uit Frame.io-Bronnenbibliotheek",
+  "libraryAssetId": "771a1037-10ec-4131-91d3-0c369b8d87e6",
+  "title": "Stock Haarlem XL - interieur met stalen trap - rustige camerabeweging - daglicht",
+  "sha256": "5537a7a60472b1cca9b0b32a06cc2ac0d992447cdf0fc5e4a7b0778601468200",
+  "sourceSha256": "e4765d08e13b0c46574af7fc0e7984677f3a87fa5570677706a4effa7cde07e8",
+  "generationId": "0sfOKfPwU6tF9XdEwi9B"
+ },
+ "gevel": {
+  "herkomst": "hergebruikt uit Frame.io-Bronnenbibliotheek",
+  "libraryAssetId": "11bb00ff-b1e8-4dc0-8171-aef1dfdd2d69",
+  "title": "Stock Haarlem XL - gevel met units en entrees - rustige zijwaartse beweging - daglicht",
+  "sha256": "739f6c8a9de7eb9d31083bea3c9297aa18f8dabbfb2117cecb282a5425d1f27d",
+  "sourceSha256": "aab644124fe28884f41608cfdac82acc276e7788daa71efb00efc4ebb994c23c",
+  "generationId": "Iw9EzZOBB8biJWkJACVg"
+ },
+ "hoek": {
+  "herkomst": "hergebruikt uit Frame.io-Bronnenbibliotheek",
+  "libraryAssetId": "d80e5362-c746-4beb-9745-aefdf2a2b287",
+  "title": "Stock Haarlem XL - hoekgevel voorzijde met plint - rustige push-in - daglicht",
+  "sha256": "78938e954d2090e7f777b47e07f2dda553ceee0ce317f4f80fd629573aa5019d",
+  "sourceSha256": "45c9376038afa2e20c9933c7ca929dc15f6c8f8f7304c0712ac17c0d0a8fd5a9",
+  "generationId": "3OD3Btv0Xx3YTF8PnbG4"
+ },
+ "luchtfoto": {
+  "herkomst": "hergebruikt uit Frame.io-Bronnenbibliotheek",
+  "libraryAssetId": "2cf9c4af-6d8d-4ec0-8551-b8c7470b9722",
+  "title": "Stock Haarlem XL - bedrijventerrein overzicht - langzame luchtopname vooruit - daglicht",
+  "sha256": "9bd5bf78265bb86c758b10ee567b7a04916e3eb6158ddd3af9e815f897f18434",
+  "sourceSha256": "00a3cb0ddddecb91ca7ec44e852700dab2f3811d24bcb880f66cb9b985db909f",
+  "generationId": "N39vmGfUd2qzlrv9blXt"
+ },
+ "showroom": {
+  "herkomst": "nieuw gegenereerd in deze batch (veo-3.1-generate-001, 1080p, 9:16, 8 s, zonder audio)",
+  "libraryAssetId": "475d44ea-dd71-48ce-95d1-af7dc6e06ba2",
+  "portraitImageAssetId": "5db93d0e-5617-4abb-abef-3473c139e391",
+  "sha256": "0f80cced23a36387ab3e90e839d6cc8f2c58e3de45039fec343621979c999bfe",
+  "sourceSha256": "80bf973ce823d537c0f2eae53411e165ca006396afe5d69a1ed593b844e47126",
+  "generationId": "y3ndZNlOFLNUNhvKXBBi",
+  "prompt": "Bright Scandinavian-style showroom interior with white arches, black steel staircase and large windows. Very slow, smooth dolly forward through the arch. Keep the architecture, materials, furniture and proportions exactly as in the image. Natural daylight, realistic. One continuous shot, no cuts, no transitions, no morphing."
+ },
+ "studio": {
+  "herkomst": "nieuw gegenereerd in deze batch (veo-3.1-generate-001, 1080p, 9:16, 8 s, zonder audio)",
+  "libraryAssetId": "97a36d2e-a5c1-45ae-a53f-76833c362b67",
+  "portraitImageAssetId": "6b01c55d-39da-4156-9ccb-9fa7590ae7a3",
+  "sha256": "0083b92a5e5dcae9633974f5a497cd506a85478dadb6f12ba93ba3247440c596",
+  "sourceSha256": "c8ff2f5cd685c1bdcd015565ad7e213a1efc3618d8064035ddac13bdbff16450",
+  "generationId": "neqFUjX5UwOi1ya2g6OE",
+  "prompt": "Bright design studio with concrete ceiling, large black-framed windows and herringbone oak floor. Very slow, smooth lateral camera slide along the windows with soft sunlight. Keep the architecture, windows, furniture and proportions exactly as in the image. Realistic. One continuous shot, no cuts, no transitions, no morphing."
+ },
+ "werkruimte": {
+  "herkomst": "nieuw gegenereerd in deze batch (veo-3.1-generate-001, 1080p, 9:16, 8 s, zonder audio)",
+  "libraryAssetId": "994e497a-820c-45c3-8fbf-63cfe6651b07",
+  "portraitImageAssetId": "f2a68652-73a9-4614-a118-8a9250d50cc9",
+  "sha256": "a3b6f35c00b4c2e848b53ed77f87393ddb4214011896717cb739858e26ac9990",
+  "sourceSha256": "2463b0454c0d9ee6540a3cb4d4b55e7da26300630c65bde16b77b03faf8eb131",
+  "generationId": "Cf4PzGfbdgLh9fuuoKAv",
+  "prompt": "Light open workspace with concrete ceiling, round stone table with flowers and windows in the back. Very slow, gentle push-in towards the windows, natural daylight. Keep the architecture, furniture, materials and proportions exactly as in the image. Realistic. One continuous shot, no cuts, no transitions, no morphing."
+ }
+}

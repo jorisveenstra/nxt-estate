@@ -1,0 +1,9 @@
+out/
+node_modules
+public/clips/
+public/vo/
+public/music/
+bronnen/clips-origineel/
+bronnen/origineel/
+bronnen/startbeelden/
+__pycache__/
