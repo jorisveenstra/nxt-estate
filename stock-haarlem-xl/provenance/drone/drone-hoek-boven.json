@@ -21,7 +21,7 @@
   "startSec": 0.0,
   "durationSec": 8,
   "crop": "crop=1215:2160:200:0,scale=1080:1920,setsar=1,fps=30",
-  "codec": "libx264 crf18"
+  "codec": "libx264 crf23 preset slow"
  },
  "generationId": null,
  "aiGenerated": false
