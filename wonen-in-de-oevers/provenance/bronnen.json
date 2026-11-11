@@ -1,0 +1,83 @@
+{
+ "TR1": {
+  "original": "tussenwoning voorkant rechts.jpg",
+  "original_sha256": "f0222b99a181702b9da3cd4a533acbf2be55eddf0548ef3c53aeabf27116efdd",
+  "portrait_sha256": "093408591b2c3fc32a9a294d0dc6a8f57c1deccdc54eab56a309c6a9f1e6f6a5",
+  "clip_sha256": "a3b8b0345c12d3aad9e20d5b635c5f98c23078c8f4840679becb9460493f0715",
+  "generation_id": "7MnuKCk8Y2CnMMI0XKLe",
+  "portrait_asset": "de599e6b-6039-447a-8fdf-a5aef5b0af99",
+  "clip_asset": "64489632-d96f-40d1-a108-751f2e317580"
+ },
+ "TR2": {
+  "original": "tussenwoning voorkant rechts.jpg",
+  "original_sha256": "f0222b99a181702b9da3cd4a533acbf2be55eddf0548ef3c53aeabf27116efdd",
+  "portrait_sha256": "f177ac3e95c19934b4658ca833b038325998eddcd036b877689edbd8dda8239b",
+  "clip_sha256": "6201f1121edd9ae8ffa866c60a5ec83216fe268abc62ece355f8e3a6f1dd0e20",
+  "generation_id": "Rx7XBdrgBT8gXbTT2AgW",
+  "portrait_asset": "6726caf4-d8cc-41fd-b0b4-8b7b675c913f",
+  "clip_asset": "8b575742-90f9-4278-81e7-f8b0c53408b7"
+ },
+ "TL1": {
+  "original": "tussenwoning voorkant links.jpg",
+  "original_sha256": "85378b67c196adba24d0df60f49e109ce731d26d2683ff093b515ac0b448729c",
+  "portrait_sha256": "175b75c1a6ee8fb544d9af735c796c254e9685867b65900131eb4fda4ab32066",
+  "clip_sha256": "c3764506cf84c61238f578c676db530cff6b3fe74b2a0f4707c4a6a6dd18ccb0",
+  "generation_id": "WuUtSCW5696GjsFfCkZO",
+  "portrait_asset": "2d189e61-05b3-4c51-b1c7-3c31bc221300",
+  "clip_asset": "534271b0-e807-422b-b4a7-ce64090983d0"
+ },
+ "TL2": {
+  "original": "tussenwoning voorkant links.jpg",
+  "original_sha256": "85378b67c196adba24d0df60f49e109ce731d26d2683ff093b515ac0b448729c",
+  "portrait_sha256": "8d65a42bb584fa02593aec629c28a6f8e8271fc9a772a288fc1915a99513ba16",
+  "clip_sha256": "165913fdf11608ce1be7a1c5a0f1ecd3e66645ed14db558cd84e8b57ed68ecaa",
+  "generation_id": "fo5FIRra50P6RRrO22TR",
+  "portrait_asset": "2d2877d6-6a94-4ea9-83de-5321c5f64146",
+  "clip_asset": "f44e4828-5391-437b-ae06-575e4485ab78"
+ },
+ "TL3": {
+  "original": "tussenwoning voorkant links.jpg",
+  "original_sha256": "85378b67c196adba24d0df60f49e109ce731d26d2683ff093b515ac0b448729c",
+  "portrait_sha256": "7426501db7d0f3ae88d7214e77e804ca708011775c77721d041b1d8118138c43",
+  "clip_sha256": "eaca833388437bdc0605f819e35c452eccd8fd4f66b479672e3e64f147b99d03",
+  "generation_id": "dEB9RXqLRAS9IxP3gOXc",
+  "portrait_asset": "8cb6ab12-ba39-4be1-a2a7-06c28848b3fa",
+  "clip_asset": "5942cb61-f4bc-4a6c-9991-ac86abc8c1bb"
+ },
+ "TU1": {
+  "original": "tussenwoning voorkant uitgezoomd.jpg",
+  "original_sha256": "deb5b535ea366dc131b5a530da0edf4c17ae734fa05b014d6341026ceacdd897",
+  "portrait_sha256": "efc8c0a08f6224dc24323757ab921ec42656f598ac4f167a92fa6ee7a23ce32d",
+  "clip_sha256": "8002806bb19bf7b4cab0d0cb733030ce56fa4f2085559e0a4334dd6dff316f4c",
+  "generation_id": "Y0rbaJUF7NNlpugxpXGX",
+  "portrait_asset": "22b0e68a-ecda-49f3-a2fa-1844a93073af",
+  "clip_asset": "1f61d1d7-54cd-4ca2-aad3-c867d8970ea3"
+ },
+ "TU2": {
+  "original": "tussenwoning voorkant uitgezoomd.jpg",
+  "original_sha256": "deb5b535ea366dc131b5a530da0edf4c17ae734fa05b014d6341026ceacdd897",
+  "portrait_sha256": "536e173499f5b70d3cf7039e6eb68c94a9ef5cf1d04e3fb23339479abefe92b5",
+  "clip_sha256": "cd18f349b7180943c2d2276764050e000bde94a5a0b55794a5a3594a42f3af97",
+  "generation_id": "K6RqfU2j4P0xxtdovsfe",
+  "portrait_asset": "52019cad-99a2-488a-bc42-3d3d7eb9cf22",
+  "clip_asset": "1ba60b83-b396-4b6f-b1ac-10a271e76b73"
+ },
+ "TI1": {
+  "original": "binnenkant tussenwoning .jpg",
+  "original_sha256": "b4c8b86cf8c6eb2b8b38314a3c8cbfd686afe77141235900fc0c13b12e223bf3",
+  "portrait_sha256": "396a685e7e3affb1212828129232bded1bf20e6c87e786686c897ecb9fb9ee97",
+  "clip_sha256": "01a1e658b131cfe8f55076d6bfe508934743e30388571ba59f7c43254c4326d3",
+  "generation_id": "rQxWi2cWLaLathQKYB6H",
+  "portrait_asset": "2184b7cc-845b-4d1a-95c3-55b969e59e1f",
+  "clip_asset": "1e7941a1-dfc7-488b-8cf6-623b04bc5989"
+ },
+ "TI2": {
+  "original": "binnenkant tussenwoning .jpg",
+  "original_sha256": "b4c8b86cf8c6eb2b8b38314a3c8cbfd686afe77141235900fc0c13b12e223bf3",
+  "portrait_sha256": "26c1ad5cecd38fb0f40ec34f2faafdf726535dc1b58f16fed63fa2ca546618a5",
+  "clip_sha256": "d8fcf97a57688d91512a0de23bef3a1139f38c402c266de36b51c9747c98adfa",
+  "generation_id": "LFUBzDoBScq2i8DPzkiV",
+  "portrait_asset": "dce7dbfb-f14a-44bf-86b5-53cad2c42206",
+  "clip_asset": "47e27569-ed5c-455d-a05d-636b42aa41e8"
+ }
+}
