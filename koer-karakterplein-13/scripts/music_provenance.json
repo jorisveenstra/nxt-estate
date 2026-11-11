@@ -1,0 +1,18 @@
+{
+ "model_id": "music_v1",
+ "settings": {
+  "prompt": "Uplifting, warm, positive instrumental background music for a modern architecture and real estate ad: light acoustic guitar, soft piano, gentle percussion and airy synth pads, hopeful and creative mood, steady mid tempo, no vocals",
+  "music_length_ms": 62000,
+  "model_id": "music_v1",
+  "force_instrumental": true
+ },
+ "headers": {
+  "song-id": "jPGpmVH5kvFUpLqaxNUU"
+ },
+ "revisie_1": {
+  "file": "public/muziek/muziek_v2.mp3",
+  "derived_from": "public/muziek/muziek.mp3 (song-id jPGpmVH5kvFUpLqaxNUU)",
+  "edit": "ffmpeg atempo=0.935 (6.5% trager, toonhoogte gelijk) om de langere tijdlijn (tot ca. 65 s) te dekken",
+  "new_generation": false
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "real-gevel": {
+  "file": "d703d6ff_Karakterplein133072RZRotterdam-01.jpg",
+  "cx": 0.74,
+  "kind": "foto",
+  "prompt": "Slow subtle push-in toward the green-clad building facade and entrance, gentle natural light shift, realistic camera movement"
+ },
+ "real-entree": {
+  "file": "fb29963c_Karakterplein133072RZRotterdam-22.jpg",
+  "cx": 0.5,
+  "skip": true
+ },
+ "real-voordeur": {
+  "file": "1290a8ba_Karakterplein133072RZRotterdam-02.jpg",
+  "cx": 0.6,
+  "kind": "foto",
+  "prompt": "Slow gentle push-in toward the two green front doors under the canopy, subtle realistic camera movement",
+  "skip": true
+ },
+ "real-binnentuin": {
+  "file": "749a07b4_Karakterplein133072RZRotterdam-16.jpg",
+  "cx": 0.55,
+  "kind": "foto",
+  "prompt": "Slow gentle pan right across the courtyard garden and brick houses, subtle realistic camera movement, leaves moving slightly in the breeze"
+ },
+ "real-terras": {
+  "file": "4b42c245_Karakterplein133072RZRotterdam-15.jpg",
+  "cx": 0.45,
+  "kind": "foto",
+  "prompt": "Slow forward dolly along the terrace beside the green facade, subtle realistic camera movement"
+ },
+ "real-ruimte": {
+  "file": "3932bea7_Karakterplein133072RZRotterdam-11.jpg",
+  "cx": 0.5,
+  "kind": "foto",
+  "prompt": "Slow gentle push-in into the large empty bright room with windows, subtle realistic camera movement, daylight"
+ },
+ "real-ramen": {
+  "file": "59da3c5b_Karakterplein133072RZRotterdam-07.jpg",
+  "cx": 0.55,
+  "kind": "foto",
+  "prompt": "Slow gentle pan across the long row of windows in the bare room, subtle realistic camera movement, daylight"
+ },
+ "imp-terras": {
+  "file": "03af82d0_terras_eerste_verdieping_ingericht_variant_1.png",
+  "cx": 0.55,
+  "kind": "impressie",
+  "prompt": "Slow gentle push-in along the furnished terrace with plants, subtle realistic camera movement, warm sunlight"
+ },
+ "imp-atelier": {
+  "file": "1f48c6a9_grote_ruimte_bgg_licht_kunstatelier_met_eiken_vloer.png",
+  "cx": 0.5,
+  "kind": "impressie",
+  "prompt": "Slow gentle push-in into the bright art studio with oak floor and large table, subtle realistic camera movement, soft daylight"
+ },
+ "imp-studio": {
+  "file": "dcfe7ff5_grote_ruimte_bgg_lichte_ontwerpstudio.png",
+  "cx": 0.5,
+  "kind": "impressie",
+  "prompt": "Slow gentle push-in into the bright design studio with desks and window row, subtle realistic camera movement, soft daylight"
+ },
+ "imp-werkkamer": {
+  "file": "50edbfdd_werkkamer_variant_1.png",
+  "cx": 0.68,
+  "kind": "impressie",
+  "prompt": "Slow gentle push-in toward the desk by the window in the home office, subtle realistic camera movement, soft daylight"
+ },
+ "imp-keuken": {
+  "file": "436ed21a_keuken_eerste_verdieping_alternatief.png",
+  "cx": 0.5,
+  "kind": "impressie",
+  "prompt": "Slow gentle dolly across the kitchen island and cabinets, subtle realistic camera movement, soft warm light"
+ },
+ "imp-woonkamer": {
+  "file": "4642ce41_woonkamer_eerste_verdieping.png",
+  "cx": 0.5,
+  "kind": "impressie",
+  "prompt": "Slow gentle push-in into the living room with sofa and windows, subtle realistic camera movement, warm daylight"
+ },
+ "imp-woonwerk": {
+  "file": "e09ec155_grote_ruimte_bgg_lichte_woon_werk_ruimte.png",
+  "cx": 0.5,
+  "kind": "impressie",
+  "prompt": "Slow gentle pan across the bright combined living and working space, subtle realistic camera movement, daylight"
+ },
+ "imp-slaapkamer": {
+  "file": "2bc5f270_hoofdslaapkamer_variant_1.png",
+  "cx": 0.55,
+  "kind": "impressie",
+  "prompt": "Slow gentle push-in toward the bed by the large windows, subtle realistic camera movement, soft daylight"
+ }
+}
