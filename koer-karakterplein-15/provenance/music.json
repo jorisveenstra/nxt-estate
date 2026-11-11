@@ -1,0 +1,8 @@
+{
+ "model_id": "music_v1",
+ "instrumental": true,
+ "length_ms": 60000,
+ "used_song_id": "IcM6gJJqxFhssEfdxql3",
+ "prompt": "Uplifting, warm, positive instrumental background music for a modern Dutch architecture and real estate ad. Light acoustic guitar, soft piano, gentle percussion, optimistic and creative mood, steady mid tempo, no vocals.",
+ "note": "two earlier generations (gTOgK2LEEqpfQK6k4oGE, hG4BmSBpxBJ18N3jQjDt) were billed but not saved"
+}

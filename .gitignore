@@ -28,3 +28,7 @@ out/
 .DS_Store
 .env
 *.log
+**/scripts/vo-cache/
+# Portal-ledgers (usage/media receipts) horen niet in git
+.nxt-usage-*.json
+.nxt-media-*.json

@@ -1,0 +1,102 @@
+{
+ "r-voorgevel": {
+  "generation_id": "ZPxLbzoNXMGE0tvJfQoB",
+  "asset_id": "Ny62BERNfTzgFB2aDl4K",
+  "start_frame_sha256": "6c48cf9147b6be790130280e04a5ab50e473bc2a1089198ffee2cd08d50c839e",
+  "model_id": "veo-3.1-generate-001",
+  "source_file": "foto/Karakterplein153072RZRotterdamNL-01.jpg",
+  "crop_center_x": 0.55,
+  "prompt": "Slow gentle push-in toward the green-clad apartment building with terracotta brick walls, blue sky, subtle natural camera movement. One continuous shot, no cuts, no transitions, no morphing.",
+  "impressie": false
+ },
+ "r-voordeur": {
+  "generation_id": "FzrJdnx1vsMwJulmFcDI",
+  "asset_id": "SAe74BpEkZvt6gt04zy7",
+  "start_frame_sha256": "83b69bd36f44b0f7a4404c351b8a6f75bb90f6cbe9c776d7ca775bfa1fe81644",
+  "model_id": "veo-3.1-generate-001",
+  "source_file": "foto/Karakterplein153072RZRotterdamNL-03.jpg",
+  "crop_center_x": 0.38,
+  "prompt": "Slow gentle push-in toward the green front door with number 15 and the gate, subtle natural camera movement. One continuous shot, no cuts, no transitions, no morphing.",
+  "impressie": false
+ },
+ "r-terras": {
+  "generation_id": "UPTpOLxAbr7NygChv1OC",
+  "asset_id": "7tKg0iDJxbA6GSoJaczz",
+  "start_frame_sha256": "909851a8867a090f356a5401c0167226cee1bc3572c4579b6b25b594d5b04a01",
+  "model_id": "veo-3.1-generate-001",
+  "source_file": "foto/Karakterplein153072RZRotterdamNL-18.jpg",
+  "crop_center_x": 0.42,
+  "prompt": "Slow gentle camera glide forward along the roof terrace with green railing, daylight, subtle natural camera movement. One continuous shot, no cuts, no transitions, no morphing.",
+  "impressie": false
+ },
+ "r-raam": {
+  "generation_id": "PbNsg4SNL1zy3W7yn43B",
+  "asset_id": "Dj2Bwrwd14kZtTa0ez0t",
+  "start_frame_sha256": "63d1b3a99bde8234cdd7fd5afd3f66ea84dd202b24fde696d29ca06325fd0bc7",
+  "model_id": "veo-3.1-generate-001",
+  "source_file": "foto/Karakterplein153072RZRotterdamNL-13.jpg",
+  "crop_center_x": 0.68,
+  "prompt": "Slow gentle push-in toward the large green-framed window, sunlight falling on the concrete floor, subtle natural camera movement. One continuous shot, no cuts, no transitions, no morphing.",
+  "impressie": false
+ },
+ "r-open": {
+  "generation_id": "dXW3XmEcMGyqctjD83C3",
+  "asset_id": "f4DJxjQlSITd9hWZnL9v",
+  "start_frame_sha256": "520e62424eec8b5088a18a7187fb93470aa8cfa5af4d7584f5358a8bdeefe3da",
+  "model_id": "veo-3.1-generate-001",
+  "source_file": "foto/Karakterplein153072RZRotterdamNL-09.jpg",
+  "crop_center_x": 0.5,
+  "prompt": "Slow gentle push-in through the open raw ground-floor space with concrete column and large windows, subtle natural camera movement. One continuous shot, no cuts, no transitions, no morphing.",
+  "impressie": false
+ },
+ "a-woonkamer": {
+  "generation_id": "mdzJl0NwPGBxFhNRqT4Q",
+  "asset_id": "A0wDreRizjXjVwEqv8qP",
+  "start_frame_sha256": "bb9fe3361109c4fd984559dfc602481c0d088d34e3a7bce01b02fc576e814678",
+  "model_id": "veo-3.1-generate-001",
+  "source_file": "ai/grote ruime woonkamer(1).jpg",
+  "crop_center_x": 0.5,
+  "prompt": "Slow gentle push-in on the bright furnished living room with dining table and kitchen, warm daylight, subtle natural camera movement. One continuous shot, no cuts, no transitions, no morphing.",
+  "impressie": true
+ },
+ "a-atelier": {
+  "generation_id": "GTPxpwsklAPSjjsyscsZ",
+  "asset_id": "GWzme3YEZXXPal8QFeiZ",
+  "start_frame_sha256": "28204716ea2b4ff63ff1eddd4611be4c01e9685c5b7bcf8c37af83b728411df2",
+  "model_id": "veo-3.1-generate-001",
+  "source_file": "ai/ruimte begane grond variant 1(1).jpg",
+  "crop_center_x": 0.5,
+  "prompt": "Slow gentle push-in through the light studio space with work tables and large windows, subtle natural camera movement. One continuous shot, no cuts, no transitions, no morphing.",
+  "impressie": true
+ },
+ "a-naaien": {
+  "generation_id": "8eNjMMsAlMIhEAljkBRr",
+  "asset_id": "LW2oZUw3dTdojhtDcxwf",
+  "start_frame_sha256": "5fea206de4a6dc0d0d7a1c26d569850ef1be5233b6b1089753adbb74706f633b",
+  "model_id": "veo-3.1-generate-001",
+  "source_file": "ai/hobbykamer naaien.jpg",
+  "crop_center_x": 0.45,
+  "prompt": "Slow gentle push-in on the bright hobby room with a large worktable, green window frames, warm daylight, subtle natural camera movement. One continuous shot, no cuts, no transitions, no morphing.",
+  "impressie": true
+ },
+ "a-kinderkamer": {
+  "generation_id": "PB1LWw0EXGPuZRkcJOoa",
+  "asset_id": "89nwKGg6g41DzMuC5zwP",
+  "start_frame_sha256": "26194562b6e89dbda1a53e4a4ffae9c3db1de7cb56c3785238bf1f6f92cda001",
+  "model_id": "veo-3.1-generate-001",
+  "source_file": "ai/kinderkamer.jpg",
+  "crop_center_x": 0.45,
+  "prompt": "Slow gentle push-in on the child's bedroom with play area and large green-framed window, subtle natural camera movement. One continuous shot, no cuts, no transitions, no morphing.",
+  "impressie": true
+ },
+ "a-terras": {
+  "generation_id": "A6Ibzbifl0BHVYfjPI1l",
+  "asset_id": "kqUhOpuATR8OalTVRHhM",
+  "start_frame_sha256": "eec53a19a973e5a76074b13127f123bc1d34df7fe6845607c4ac0f69c9a119e3",
+  "model_id": "veo-3.1-generate-001",
+  "source_file": "ai/buitenterras variant 1.jpg",
+  "crop_center_x": 0.55,
+  "prompt": "Slow gentle push-in over the furnished roof terrace with plants and seating, blue sky, subtle natural camera movement. One continuous shot, no cuts, no transitions, no morphing.",
+  "impressie": true
+ }
+}

@@ -1,0 +1,135 @@
+{
+ "voice_id": "YgjXqgzBJa9op0K278OW",
+ "model_id": "eleven_v4",
+ "items": {
+  "b1-body": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "2GiVrTIqkiyLa7gJ6c1O",
+   "character_cost": null,
+   "chars": 906,
+   "revision": "225 m2 + kijkafspraak"
+  },
+  "b1-h1": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "Wa8aca1VHw2liPhSPbyn",
+   "character_cost": "38",
+   "chars": 79
+  },
+  "b1-h2": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "zKQyq0CjoVQBRLlV4hhp",
+   "character_cost": "32",
+   "chars": 67
+  },
+  "b1-h3": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "yUaLt3Lf3vbNP69pvdm7",
+   "character_cost": "32",
+   "chars": 66
+  },
+  "b1-h4": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "JwFZAWID611PvRuLfZfo",
+   "character_cost": "42",
+   "chars": 86
+  },
+  "b1-h5": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "a0xLc5sGRrGZppoovbym",
+   "character_cost": "52",
+   "chars": 107
+  },
+  "b2-body": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "M8W12aj5ayLIXgLeHX1o",
+   "character_cost": null,
+   "chars": 765,
+   "revision": "225 m2 + kijkafspraak"
+  },
+  "b2-h1": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "ZAsBWzfR5sIE4K2YwHd6",
+   "character_cost": "39",
+   "chars": 80
+  },
+  "b2-h2": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "y8KxTdTVwhm19VU7KESK",
+   "character_cost": "39",
+   "chars": 80
+  },
+  "b2-h3": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "DrzPBBgQOa0qqCDDd9zR",
+   "character_cost": "32",
+   "chars": 66
+  },
+  "b2-h4": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "5r3lugwCfuLVgAsoKoDF",
+   "character_cost": "37",
+   "chars": 76
+  },
+  "b2-h5": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "2AZYW2YTKY9mlADb41tb",
+   "character_cost": "52",
+   "chars": 107
+  },
+  "b3-body": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "JvwZeJRsgiK8RNHadfkd",
+   "character_cost": null,
+   "chars": 912,
+   "revision": "225 m2 + kijkafspraak"
+  },
+  "b3-h1": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "iPC7dVYvXx3h3Fn5JRC7",
+   "character_cost": "37",
+   "chars": 76
+  },
+  "b3-h2": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "v9fkTr70pif64z51ZQSF",
+   "character_cost": "35",
+   "chars": 72
+  },
+  "b3-h3": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "YXWrdNe9rYc9OaL4eKwQ",
+   "character_cost": "17",
+   "chars": 36
+  },
+  "b3-h4": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "nueD3kYoQAluDk6HethV",
+   "character_cost": "38",
+   "chars": 79
+  },
+  "b3-h5": {
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "model_id": "eleven_v4",
+   "request_id": "P2FVkvFouNgj09Jp45vz",
+   "character_cost": "48",
+   "chars": 99
+  }
+ }
+}

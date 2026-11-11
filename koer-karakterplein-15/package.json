@@ -1,0 +1,10 @@
+{
+  "name": "karakterplein-15-videos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Karakterplein 15 (Koer, Rotterdam): 3 bodies x 5 hooks, staand 9:16",
+  "scripts": {
+    "dev": "remotion studio",
+    "timing": "python3 scripts/maak_timing.py"
+  }
+}
