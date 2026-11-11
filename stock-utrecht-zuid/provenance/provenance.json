@@ -1,0 +1,103 @@
+{
+ "veo": {
+  "model": "veo-3.1-generate-001",
+  "generationIds": {
+   "06": "8xfrLGbukJkEnQR1mPNX",
+   "24": "Eg0JkAL1kQ7W7OP63IZy",
+   "13": "VmjPDCSOm5yZdLlFT9ia",
+   "19": "l3QZ0GFlAnC4xG36ud3Y",
+   "20": "bhqWWBhQHrgg7Hh2JwGj",
+   "05": "68kNWvIJmmEBcfpxP9fb",
+   "14": "ccy0I4dgVFptpsjAQWh0",
+   "22": "J74mElDJMhQqIDjgMRt0"
+  },
+  "assets": {
+   "06": "YL0y8OevZgaZF3gsZU1m",
+   "05": "N46MFHWWpFhaVzxMu9Tk",
+   "24": "kIQZZplwdxLiNw5lekal",
+   "22": "HcrFGgLaU75chLSCgYhd",
+   "20": "i53rh4sN0MIHBnc0RdkN",
+   "19": "3oJH0ujSWmJeLDU6A0dY",
+   "13": "nI6A6SmHsAuhqdnVovAm",
+   "14": "xTKIeq79EWY8Af71685S"
+  }
+ },
+ "voiceover": {
+  "model_id": "eleven_v4",
+  "voice_id": "jfwdd64Nlhnj6vcFqRHZ",
+  "language_code": "nl"
+ },
+ "music": {
+  "model_id": "music_v1",
+  "song_id": "Uq1nKQjR5aQ85CbtH7Oz",
+  "instrumental": true,
+  "length_ms": 62000
+ },
+ "branding": {
+  "colors": {
+   "navy": "#112337",
+   "blue": "#204ce5",
+   "teal": "#2EBAA5"
+  },
+  "font": "Inter",
+  "logo": "stocknederland.nl white logo",
+  "sources": [
+   "https://stocknederland.nl/utrecht-zuid/"
+  ],
+  "note": "stock-utrecht-zuid.afspraakbij.info is a client-rendered page with no static brand assets"
+ },
+ "mux": "mux.sh: hook+body concat, music 0.16 vol sidechain-ducked under narration",
+ "revision": {
+  "note": "c24 vervangen: eerdere gevelclip voegde onterecht verdiepingen toe. Nieuwe clip uit staand startbeeld (public/img/p24.jpg) met twee bouwlagen behouden; vorige generation h2R0Kq2oLytlDjI4KSLV verworpen."
+ },
+ "revision2": {
+  "feedback": "Merel Haijemaije: 'de meren' -> 'De Meern' in alle bodies/hooks; body 3 'gym' -> 'sportschool', parkeren/sanitair en trainingsstudio als stelling i.p.v. vraag; body 1 sportgebruik mogelijk als stelling; naaistudio-beeld (c22) vervangen door beelden van het daadwerkelijke gebouw (B1H5 -> c20, B3H2 -> c13, B3H3 -> c14, bodies zonder c22).",
+  "new_voiceovers": {
+   "b1body": {
+    "model_id": "eleven_v4",
+    "voice_id": "jfwdd64Nlhnj6vcFqRHZ",
+    "request_id": "BH2PWLWWUlQjMZOQEZye",
+    "history_item_id": "LXpbP1jAC0YYhEHFGxvC"
+   },
+   "b2body": {
+    "model_id": "eleven_v4",
+    "voice_id": "jfwdd64Nlhnj6vcFqRHZ",
+    "request_id": "3kS5gY8axIxEBANCJdjl",
+    "history_item_id": "gYXTFMelsYMfnkBaJ00j"
+   },
+   "b3body": {
+    "model_id": "eleven_v4",
+    "voice_id": "jfwdd64Nlhnj6vcFqRHZ",
+    "request_id": "gITjQrlM5TOaaIk7hgCi",
+    "history_item_id": "D1pmkjtjgRyl50Embf2D"
+   },
+   "b1h3": {
+    "model_id": "eleven_v4",
+    "voice_id": "jfwdd64Nlhnj6vcFqRHZ",
+    "request_id": "WbdRVZHwSWhNmBICA1Vf",
+    "history_item_id": "YThVc4J5YZWQq1dz3gO0"
+   },
+   "b2h4": {
+    "model_id": "eleven_v4",
+    "voice_id": "jfwdd64Nlhnj6vcFqRHZ",
+    "request_id": "xHoDYNZxb5TqbpYTdAWJ",
+    "history_item_id": "AMYQRfDveTqUV9IA2XZa"
+   },
+   "b3h1": {
+    "model_id": "eleven_v4",
+    "voice_id": "jfwdd64Nlhnj6vcFqRHZ",
+    "request_id": "jMzMJIbfuKGl5wu4EYfb",
+    "history_item_id": "2FeUzHQqmv9Yai0I63Bd"
+   },
+   "b3h4": {
+    "model_id": "eleven_v4",
+    "voice_id": "jfwdd64Nlhnj6vcFqRHZ",
+    "request_id": "QqQhTYIHFKcXqeMshYX2",
+    "history_item_id": "ENt2uyG9Y4nXNsskJyUA"
+   }
+  },
+  "reused": "overige hook-voice-overs (eleven_v4, zie voiceover), alle Veo-clips en music_v1-stem hergebruikt; geen nieuwe beelden of muziek gegenereerd",
+  "build": "scripts/build_data_rev.py bouwt data/*.json uit scripts/texts_rev.json + alignments; render.sh + mux.sh",
+  "sound_effects": "uitgeschakeld"
+ }
+}
