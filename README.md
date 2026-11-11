@@ -13,6 +13,7 @@ per woord en renderbeelden/AI-renders als achtergrond.
 | `tampah-beach-villas/` | Tampah Beach Villas (Lombok) | 2 bodies × 5 hooks |
 | `huisunie/` | Huisunie | 3 bodies, 12 video's |
 | `nxt-estate/` | nxt.estate (eigen ads, kantoorunits) | V2–V4 × 3 hooks |
+| `stock-haarlem-xl/` | STOCK Haarlem XL (Jan van Krimpenweg) | 2 bodies × 5 hooks (portal-revisie) |
 
 ## Opzet
 
@@ -76,3 +77,8 @@ rclone config create gdrive drive scope=drive.file   # eenmalig: Google-account 
 ```
 
 `media.sh` kopieert alleen; er wordt nooit iets verwijderd aan de andere kant.
+
+## Portal-koppeling
+
+`tools/portal_bridge.py` is de actuele bridge-helper van portal.nxt-estate.com (claim, voortgang,
+bronnenbibliotheek, usage-rapportage en Frame.io-upload). Job-tokens en signed URL's horen nooit in deze repo.

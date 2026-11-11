@@ -1,0 +1,29 @@
+{
+ "clip": "public/clips/drone-entrees.mp4",
+ "title": "Stock Haarlem XL - unit-entrees met boogpuien - lage dronevlucht langs gevel - daglicht - 9x16",
+ "description": "Echte dronebeelden (nov 2026): lage vlucht langs de gevel met grote boogpuien van de units. Geschikt voor de units/eigen bedrijfsruimte en entree. Maten en deurhoogte niet zichtbaar/bevestigd.",
+ "tags": [
+  "buiten",
+  "dag",
+  "drone",
+  "entree",
+  "gevel",
+  "laag",
+  "haarlem",
+  "echt"
+ ],
+ "source": {
+  "frameioLibraryFile": "drone_beelden_nieuw_DJI_20261106142456_0408_D.mp4",
+  "sha256": "e2e51c2e95c090e75c4d0beca41892298658aed96cb2e0e6ee048de80f2a5206",
+  "resolution": "3840x2160",
+  "note": "Echte dronebeelden uit de Bronnenbibliotheek (drone_beelden_nieuw)"
+ },
+ "edit": {
+  "startSec": 0.0,
+  "durationSec": 8,
+  "crop": "crop=1215:2160:0:0,scale=1080:1920,setsar=1,fps=30",
+  "codec": "libx264 crf18"
+ },
+ "generationId": null,
+ "aiGenerated": false
+}

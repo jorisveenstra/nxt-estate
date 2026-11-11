@@ -1,0 +1,28 @@
+{
+ "clip": "public/clips/drone-daklijn.mp4",
+ "title": "Stock Haarlem XL - daklijn unitrij met toren - drone stijgend - daglicht - 9x16",
+ "description": "Echte dronebeelden (nov 2026): daklijn van de unitrij met rood-witte gevel en de toren op de achtergrond, camera stijgt. Geschikt voor gebouwoverzicht, groei en locatie Haarlem.",
+ "tags": [
+  "buiten",
+  "dag",
+  "drone",
+  "stijgend",
+  "unitrij",
+  "haarlem",
+  "echt"
+ ],
+ "source": {
+  "frameioLibraryFile": "drone_beelden_nieuw_DJI_20261106142456_0408_D.mp4",
+  "sha256": "e2e51c2e95c090e75c4d0beca41892298658aed96cb2e0e6ee048de80f2a5206",
+  "resolution": "3840x2160",
+  "note": "Echte dronebeelden uit de Bronnenbibliotheek (drone_beelden_nieuw)"
+ },
+ "edit": {
+  "startSec": 15.0,
+  "durationSec": 8,
+  "crop": "crop=1215:2160:900:0,scale=1080:1920,setsar=1,fps=30",
+  "codec": "libx264 crf18"
+ },
+ "generationId": null,
+ "aiGenerated": false
+}

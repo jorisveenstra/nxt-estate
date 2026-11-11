@@ -1,0 +1,28 @@
+{
+ "clip": "public/clips/drone-hoek-boven.mp4",
+ "title": "Stock Haarlem XL - hoekgebouw van boven - drone vlucht vooruit - daglicht - 9x16",
+ "description": "Echte dronebeelden (nov 2026): hoekgebouw en unitrij van boven met dak en terras, camera beweegt vooruit. Geschikt als openingsbeeld en gebouwoverzicht.",
+ "tags": [
+  "buiten",
+  "dag",
+  "drone",
+  "hoekgebouw",
+  "luchtopname",
+  "haarlem",
+  "echt"
+ ],
+ "source": {
+  "frameioLibraryFile": "drone_beelden_nieuw_DJI_20261106143416_0419_D.mp4",
+  "sha256": "017f836866a255626695c5db94b0967de229d487b5aeae5ef8d4b98a16aa94ff",
+  "resolution": "3840x2160",
+  "note": "Echte dronebeelden uit de Bronnenbibliotheek (drone_beelden_nieuw)"
+ },
+ "edit": {
+  "startSec": 0.0,
+  "durationSec": 8,
+  "crop": "crop=1215:2160:200:0,scale=1080:1920,setsar=1,fps=30",
+  "codec": "libx264 crf18"
+ },
+ "generationId": null,
+ "aiGenerated": false
+}

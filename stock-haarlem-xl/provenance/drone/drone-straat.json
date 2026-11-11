@@ -1,0 +1,28 @@
+{
+ "clip": "public/clips/drone-straat.mp4",
+ "title": "Stock Haarlem XL - straatzijde met bomen - drone luchtopname - daglicht - 9x16",
+ "description": "Echte dronebeelden (nov 2026): straatzijde van het gebouw aan de Jan van Krimpenweg met bomen en verkeer. Geschikt voor locatie en bereikbaarheid. Geen claims over parkeren.",
+ "tags": [
+  "buiten",
+  "dag",
+  "drone",
+  "straatzijde",
+  "locatie",
+  "haarlem",
+  "echt"
+ ],
+ "source": {
+  "frameioLibraryFile": "drone_beelden_nieuw_DJI_20261106141342_0382_D.mp4",
+  "sha256": "6768a53f7ddf24a56a01bd882c1a8920114cde331610816f7556b9e9d90992e5",
+  "resolution": "3840x2160",
+  "note": "Echte dronebeelden uit de Bronnenbibliotheek (drone_beelden_nieuw)"
+ },
+ "edit": {
+  "startSec": 0.0,
+  "durationSec": 8,
+  "crop": "crop=1215:2160:1300:0,scale=1080:1920,setsar=1,fps=30",
+  "codec": "libx264 crf18"
+ },
+ "generationId": null,
+ "aiGenerated": false
+}

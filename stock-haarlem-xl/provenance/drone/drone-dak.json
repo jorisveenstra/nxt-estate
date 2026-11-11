@@ -1,0 +1,28 @@
+{
+ "clip": "public/clips/drone-dak.mp4",
+ "title": "Stock Haarlem XL - unitrij met dak en binnenterrein - drone luchtopname - daglicht - 9x16",
+ "description": "Echte dronebeelden (nov 2026): lange unitrij van boven met dak, rood-witte gevel en binnenterrein met parkeerplaatsen. Geschikt voor overzicht van de 19 units en locatie. Terrein nog deels in aanleg.",
+ "tags": [
+  "buiten",
+  "dag",
+  "drone",
+  "luchtopname",
+  "unitrij",
+  "haarlem",
+  "echt"
+ ],
+ "source": {
+  "frameioLibraryFile": "drone_beelden_nieuw_DJI_20261106141243_0380_D.mp4",
+  "sha256": "ab5f06b6fe4ffd3d60f95d3a8c5be65953ec5ca09fd2647d5136d270d92c1c6c",
+  "resolution": "3840x2160",
+  "note": "Echte dronebeelden uit de Bronnenbibliotheek (drone_beelden_nieuw)"
+ },
+ "edit": {
+  "startSec": 0.0,
+  "durationSec": 8,
+  "crop": "crop=1215:2160:1300:0,scale=1080:1920,setsar=1,fps=30",
+  "codec": "libx264 crf18"
+ },
+ "generationId": null,
+ "aiGenerated": false
+}

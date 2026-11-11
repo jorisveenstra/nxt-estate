@@ -1,0 +1,28 @@
+{
+ "clip": "public/clips/drone-gevel-laag.mp4",
+ "title": "Stock Haarlem XL - gevel met boogpuien op terrein - lage dronebeweging - daglicht - 9x16",
+ "description": "Echte dronebeelden (nov 2026): gevel met grote boogpuien op ooghoogte vanaf het binnenterrein. Geschikt voor units, bedrijfsruimte en laden/lossen-sfeer zonder maten te claimen. Terrein in aanleg.",
+ "tags": [
+  "buiten",
+  "dag",
+  "drone",
+  "gevel",
+  "laag",
+  "haarlem",
+  "echt"
+ ],
+ "source": {
+  "frameioLibraryFile": "drone_beelden_nieuw_DJI_20261106142202_0400_D.mp4",
+  "sha256": "6fb966fe9012392bce74274d04eb02f75a49965eb200957f3dbbe60726098cd5",
+  "resolution": "3840x2160",
+  "note": "Echte dronebeelden uit de Bronnenbibliotheek (drone_beelden_nieuw)"
+ },
+ "edit": {
+  "startSec": 20.0,
+  "durationSec": 8,
+  "crop": "crop=1215:2160:2300:0,scale=1080:1920,setsar=1,fps=30",
+  "codec": "libx264 crf18"
+ },
+ "generationId": null,
+ "aiGenerated": false
+}

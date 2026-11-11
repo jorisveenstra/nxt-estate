@@ -1,0 +1,27 @@
+{
+ "clip": "public/clips/drone-hoek.mp4",
+ "title": "Stock Haarlem XL - hoekgebouw rode gevel - drone vlucht langs hoek - daglicht - 9x16",
+ "description": "Echte dronebeelden (nov 2026): hoekgebouw met rood-witte gevel en begin van de unitrij, camera beweegt langs de hoek. Geschikt als openingsbeeld/hook en gebouwoverzicht. Bouwwerkzaamheden en geparkeerde auto's zichtbaar.",
+ "tags": [
+  "buiten",
+  "dag",
+  "drone",
+  "hoekgevel",
+  "haarlem",
+  "echt"
+ ],
+ "source": {
+  "frameioLibraryFile": "drone_beelden_nieuw_DJI_20261106141053_0375_D.mp4",
+  "sha256": "55a082aacaade15e0d5b94c13dbbe30019de174f1953cf704ca6bbfab6b08ada",
+  "resolution": "3840x2160",
+  "note": "Echte dronebeelden uit de Bronnenbibliotheek (drone_beelden_nieuw)"
+ },
+ "edit": {
+  "startSec": 0.0,
+  "durationSec": 8,
+  "crop": "crop=1215:2160:150:0,scale=1080:1920,setsar=1,fps=30",
+  "codec": "libx264 crf18"
+ },
+ "generationId": null,
+ "aiGenerated": false
+}
