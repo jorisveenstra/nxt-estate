@@ -1,0 +1,7 @@
+{
+  "name": "wonen-in-de-oevers-videos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Advertentievideo's Wonen in de Oevers (Maassluis): 3 bodies x 5 hooks, staand 1080x1920",
+  "scripts": { "dev": "remotion studio", "timing": "python3 scripts/maak_timing.py" }
+}
