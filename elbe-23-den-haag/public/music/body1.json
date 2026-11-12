@@ -1,0 +1,10 @@
+{
+ "model_id": "music_v1",
+ "prompt": "Uplifting, positive and modern instrumental background music for a Dutch commercial real estate advertisement: confident light electronic pop with warm plucked synths, soft piano, gentle claps and a steady mid-tempo groove around 105 BPM. Optimistic and ambitious, clean production, no vocals, no lyrics, even energy without big drops so a voice-over stays clearly on top, with a natural ending.",
+ "music_length_ms": 61000,
+ "force_instrumental": true,
+ "request_id": "3f451aaa72b530edb29dc8a099ccec15",
+ "song_id": "eoz4YtRXFhBqXz7Fn2Km",
+ "character_cost": null,
+ "request_id_match": "inferred (from /v1/workspace/analytics/requests trace_id; no request-id header returned)"
+}

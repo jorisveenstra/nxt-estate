@@ -28,3 +28,7 @@ out/
 .DS_Store
 .env
 *.log
+
+# Portal-job bestanden (usage/ledger-receipts) nooit committen
+.nxt-*.json
+__pycache__/
