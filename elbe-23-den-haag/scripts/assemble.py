@@ -35,7 +35,7 @@ def render(comp):
     if dst.exists():
         return
     tmp = SEG / f"{comp}.tmp.mp4"
-    cmd = ["npx", "remotion", "render", "src/index.ts", comp, str(tmp), "--muted", "--crf=24", "--concurrency=2", "--log=error"]
+    cmd = ["npx", "remotion", "render", "src/index.ts", comp, str(tmp), "--muted", "--crf=24", "--concurrency=3", "--offthreadvideo-cache-size-in-bytes=1200000000", "--log=error"]
     if os.environ.get("CHROME"):
         cmd.append(f"--browser-executable={os.environ['CHROME']}")
     run(cmd)
@@ -97,8 +97,11 @@ def main():
     SEG.mkdir(parents=True, exist_ok=True)
     FIN.mkdir(parents=True, exist_ok=True)
     comps = [f"Body{b}" for b in (1, 2, 3)] + [f"Body{b}-Hook{h}-hook" for b in (1, 2, 3) for h in range(1, 6)]
+    # Bodies achter elkaar (geheugen: OffthreadVideo-cache), hooks twee tegelijk
+    for c in comps[:3]:
+        render(c)
     with ThreadPoolExecutor(2) as ex:
-        list(ex.map(render, comps))
+        list(ex.map(render, comps[3:]))
     with ThreadPoolExecutor(3) as ex:
         list(ex.map(lambda bh: build(*bh), [(b, h) for b in (1, 2, 3) for h in range(1, 6)]))
 
