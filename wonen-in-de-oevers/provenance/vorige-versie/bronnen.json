@@ -1,0 +1,79 @@
+{
+ "A": {
+  "original_filename": "Paars 2 Blok 11--drive-0ec58100a5a4d32fa409.jpg",
+  "frameio_asset_id": "frame:a3e9a179-48b4-4459-9a1d-c109541cc52c",
+  "original_sha256": "2ef2e8174196e33d6168d9096ae71440e8561018266fdec681f2e32b7c6b4bf8",
+  "portrait_sha256": "9c351d5fc6a71421f40608b94e3a91811deea7912e6943557f6526694e498e63",
+  "clip_sha256": "f8126caf949679650bd8c2a9fc4d7b723d53a0a5f312353f357e26eafe485f00"
+ },
+ "B": {
+  "original_filename": "Paars 4 Blok 5--drive-732003a2c32a5387048c.jpg",
+  "frameio_asset_id": "frame:ccca2cc1-a47a-45a8-9fe2-687e49c4ff1b",
+  "original_sha256": "74e8e95a148cdcdf08516aad40170104afd82ab9414bc6d7d96c15d7ec43653e",
+  "portrait_sha256": "c5bfe3fc925c138ed8531cc251fb43972f41959e265f12e8b73849ab802226ad",
+  "clip_sha256": "d5691d6333a7ec0bfbfb81e2eb1f6e9b4a708a9afae06537be264b8c936ae919"
+ },
+ "C": {
+  "original_filename": "Geel 2 blok 5--drive-05f4fa7a98680d0ac049.jpg",
+  "frameio_asset_id": "frame:3db8f645-04d1-45b6-8250-7c23648a62d7",
+  "original_sha256": "e610599dac4ac5887c2ae35dabb57fc9bdc163159aef6b5a07f52ff8e4c728c9",
+  "portrait_sha256": "eb8d2e4c0caa6e08d74a1ab18d38b036bf32cdc7d7d14349670d8c01ac3402b3",
+  "clip_sha256": "21455fa62df0638b1a15d5d9a1659dbd9622a9f7a6c44dfaf303e53088ba8a69"
+ },
+ "D": {
+  "original_filename": "Geel 11 Blok 12--drive-0c5ebf298675918ee1c2.jpg",
+  "frameio_asset_id": "frame:ac43a674-11c5-4e09-a16d-25d67f787d0c",
+  "original_sha256": "058a6de0ff15690abe0eceefbc27ac3a8861fdd9908753475f05218ada624b13",
+  "portrait_sha256": "6454f656d81879f34f0f36b12e56b431148c4f92091cbe4f00cafa5efb7b6053",
+  "clip_sha256": "b567f72f099ff025dea77b166c148c5f2165088129ff055dcbf9f4bd3a4f4757"
+ },
+ "E": {
+  "original_filename": "Interieur 1_BNR 43 rev1--drive-83e6db65d6951aac1514.jpg",
+  "frameio_asset_id": "frame:9db4f8a9-2aaf-49bb-a4cf-72d3f0bb5b44",
+  "original_sha256": "54f019e0903380bd849228e8a174f1ac28d1c7faa7a31a4e4f477b0be7841310",
+  "portrait_sha256": "cdf9df84c9cf4d0c99ffe600c66d358a986b1f051d267d595ab679523bf36616",
+  "clip_sha256": "34de85a16527d4513797c4eabc258d67b8859f6a2dbbfeaa340d0f5dc3ba7a99"
+ },
+ "F": {
+  "original_filename": "Interieur 4_BNR 25--drive-7f0215babb9cccbfcb66.jpg",
+  "frameio_asset_id": "frame:0d7ac279-82ed-48df-abd0-e1750b477d70",
+  "original_sha256": "0d3b01296f8197724f4a19b24a2c5dd04f9637ef248005bef4ae443f908cf57c",
+  "portrait_sha256": "6a6d4272b05a47c265a523297d8ccb0f78d19878bdbdfb604168da0f7aa993fd",
+  "clip_sha256": "c18031449720c138c69e0e04e786bfad2f3661917f0631dc9961205d94795360"
+ },
+ "G": {
+  "original_filename": "Interieur 3_BNR 47 Rev1--drive-99e195cafef34e48c855.jpg",
+  "frameio_asset_id": "frame:1fb3f34c-729c-4ef8-852f-3f6781e75c05",
+  "original_sha256": "7da555b477e0147aced5bfa13b70105fd4b95a998a12f6b813d395c8b17d1478",
+  "portrait_sha256": "fd8536c6650753919d0a40c78d40d2dded856b01419e7aff9f20455dc4a46a3e",
+  "clip_sha256": "f6213eb98c42e021bf7c111d4ab078aed308df333181d6f1de9d6cf88d1365d6"
+ },
+ "H": {
+  "original_filename": "Geel 1 Blok 16--drive-9629f5d3d1f3fb995c5a.jpg",
+  "frameio_asset_id": "frame:e8855d3f-077c-4f3e-a56f-5839322c2e8a",
+  "original_sha256": "58898ee31dc8f87df85803d8fce288f4cbaddaae895749bbdb0cfb70cda447ac",
+  "portrait_sha256": "0782362d6535944226d897056be1bd5df3f39f19df1338f16a3800adbaea1c57",
+  "clip_sha256": "06a044ba4ff832528a2746b92bf3c99a814c9f981863bf4cf88c56a590ea4cdc"
+ },
+ "I": {
+  "original_filename": "Geel 10 Blok 13-12--drive-18f3295cd92b4f1dbdb4.jpg",
+  "frameio_asset_id": "frame:216b0d7c-0f74-466c-892d-c2e7cff61595",
+  "original_sha256": "2a3c231a4ce8afa5e6996178feaa70eb039198d3ca35887cc4165d339b163695",
+  "portrait_sha256": "c4cd6a538b7603ae2d64a8586df3c24108c542b7a14822d8286a21827c707e6d",
+  "clip_sha256": "e610ee3470031c25c7c52539deedfe022e394d12b2b59074e70df67b5dd32ecd"
+ },
+ "J": {
+  "original_filename": "Vogelvlucht gecropt kleiner--drive-5d903709157447ee2954.jpg",
+  "frameio_asset_id": "frame:82bff28e-30b1-4fbc-9dd7-ceddc1d95360",
+  "original_sha256": "cd7398ecd11fd8d118ef4af899a9c585273b10fa680cb4e729ee87a818721dc6",
+  "portrait_sha256": "251ff5cdd84017d5cdd68012b28178dd42ea2bb2ec632a70e4865a7ce2947911",
+  "clip_sha256": "aa00f1cd393e31cc0aa229d066e1befd83d6a45baa88709548562e047c615d14"
+ },
+ "L": {
+  "original_filename": "Paars 1 Blok 7--drive-dde9b44448f8d3fa4826.jpg",
+  "frameio_asset_id": "frame:5425eec5-4b98-404f-bea6-8d9cf198409b",
+  "original_sha256": "5471d8dabfe3d0793897091cf84193d03a122de26e14f825a6dd3c83afa3c969",
+  "portrait_sha256": "743f0fb6171cb4536f1e975e77b6610364509b4179b8f5051f5bb82299fc2962",
+  "clip_sha256": "7e5499b6c2323c3a3a6ac66196cdf6de7cdb586dc3a4fc01d1441c453de5e6ae"
+ }
+}
