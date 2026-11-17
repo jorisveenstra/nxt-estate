@@ -20,7 +20,7 @@ def build(b, h):
     d = int(round(hook_s * 1000))
     fc = (f"[1:a]aresample=48000,apad[hv];[2:a]aresample=48000,adelay={d}|{d}[bv];"
           f"[hv][bv]amix=inputs=2:normalize=0,atrim=0:{total:.3f},asplit[vo][sc];"
-          f"[3:a]aresample=48000,atrim=0:{total:.3f},volume=0.30,afade=t=in:d=0.4,afade=t=out:st={total-2.2:.3f}:d=2.2[mu];"
+          f"[3:a]aresample=48000,atrim=0:{total:.3f},volume=0.22,afade=t=in:d=0.4,afade=t=out:st={total-2.2:.3f}:d=2.2[mu];"
           f"[mu][sc]sidechaincompress=threshold=0.03:ratio=6:attack=20:release=400[duck];"
           f"[vo][duck]amix=inputs=2:normalize=0,loudnorm=I=-14:TP=-1.5:LRA=11,aresample=48000[a]")
     run(["ffmpeg", "-y", "-v", "error", "-i", str(vid), "-i", str(ROOT / f"public/vo/b{b}_h{h}.mp3"),
