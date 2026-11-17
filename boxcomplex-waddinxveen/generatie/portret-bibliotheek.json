@@ -1,0 +1,42 @@
+{
+ "a2_hoek_boxcomplex": {
+  "bronSha256": "be1b287bf139197353388063fbd802c60bd8835a793ee7ddeeff930d955b6cf0",
+  "portretSha256": "ee59fb4ad90cbd7978cd8fd17e5c3dfc5f2589f12897fcbbd273a9ea859c91ea",
+  "libraryAssetId": "e43e0af1-ec21-4fd9-aa42-3285850fade1"
+ },
+ "a2_entrees": {
+  "bronSha256": "be1b287bf139197353388063fbd802c60bd8835a793ee7ddeeff930d955b6cf0",
+  "portretSha256": "b61eaead606c28f6bd5b17a601ef485d170744f3b15fc03d95bbe0dd10945591",
+  "libraryAssetId": "c0c073c9-7c16-4862-bdd9-3d2d8ab465c7"
+ },
+ "b3_hoekunit": {
+  "bronSha256": "b02cdd7d4b9783b87f95cccc29d2de3eb42447baed4802312cd7f6114203d459",
+  "portretSha256": "eaf1dc4b2c08b1b46346ae574b0918da7fe0b1d6810433550d07a3aeae2a93f0",
+  "libraryAssetId": "f2d28e0f-094d-419a-9adc-ff81e40dcadd"
+ },
+ "b3_rij_water": {
+  "bronSha256": "b02cdd7d4b9783b87f95cccc29d2de3eb42447baed4802312cd7f6114203d459",
+  "portretSha256": "205282723c0bbde4999fcbde9611afb44493a9a274b7a2b6a8e40efbefb09793",
+  "libraryAssetId": "f282888d-680e-4bea-a767-9c03451ef8ed"
+ },
+ "c1_oranje_unit": {
+  "bronSha256": "89295337a41eaef1d4af0b2aeff1ceec134d8d6671edd07b1ff5e1d2f3bd188e",
+  "portretSha256": "52c6a524f2847fb992e96ee7621a93c1bfc2ad221ed6401acc843e6171a8d812",
+  "libraryAssetId": "3e76b758-01b6-4b73-9e7c-bd3dfb76efc4"
+ },
+ "d1_doorsnede_trap": {
+  "bronSha256": "548507feb8680d9c873f8f7f06496c694d0877ba2436b2b02e6a8289acbcf2d8",
+  "portretSha256": "94d414b1114281e8a72097e96b83bed8ac32969e4702338223a99c45b8801f5b",
+  "libraryAssetId": "753affd6-0b22-4181-beaf-0ea96a4ab81d"
+ },
+ "d1_doorsnede_opslag": {
+  "bronSha256": "548507feb8680d9c873f8f7f06496c694d0877ba2436b2b02e6a8289acbcf2d8",
+  "portretSha256": "2840e4e78ce9c75958f9db35135067d1884eea31ca64c70f86bcb093ff779724",
+  "libraryAssetId": "88ca015f-31c9-4f03-ac78-95899b72f6eb"
+ },
+ "vv2_vogelvlucht": {
+  "bronSha256": "f494ef9c71336e50233b5d8f8308953d3866526d25be4ba63aed45c95a287bac",
+  "portretSha256": "054d36c184773b052b2f86e678dd36f5f6a63baa701f917de0a2f80829cf76c3",
+  "libraryAssetId": "bc6c1b51-3f62-434f-b09f-4ae9e36866af"
+ }
+}

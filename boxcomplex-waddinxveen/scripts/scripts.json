@@ -1,0 +1,79 @@
+{
+ "_uitleg": "Tekst uit de portal-snapshot (scriptversie 3). {weergave|uitspraak}: links in de ondertitel, rechts wat de stem zegt.",
+ "bodies": {
+  "1": {
+   "naam": "Vakbedrijven: bus, materiaal en administratie op één eigen plek",
+   "hooks": [
+    "Ligt je gereedschap nog verspreid over je garage, je bus en een gehuurde loods?",
+    "Heb je een installatie- of onderhoudsbedrijf en zoek je een vaste plek voor je bus en je materiaal?",
+    "Ben je aannemer of schilder en wil je eindelijk een bedrijfsruimte die van jezelf is?",
+    "Is je garage thuis eigenlijk al lang te klein voor je bedrijf?",
+    "Dit is dé nieuwe bedrijfsunit in Waddinxveen voor vakmensen die hun materiaal en administratie op één plek willen."
+   ],
+   "body": [
+    "Bij Boxcomplex Waddinxveen koop je je eigen bedrijfsunit, al vanaf {€209.900|tweehonderdnegenduizend negenhonderd euro} vrij op naam, exclusief {btw|bee tee wee}.",
+    "Je krijgt ruim honderd vierkante meter, verdeeld over twee lagen.",
+    "Beneden zet je je materiaal en gereedschap kwijt, met drie meter zestig vrije hoogte en een betonvloer die duizend kilo per vierkante meter draagt.",
+    "Boven richt je een plek in voor je planning en administratie.",
+    "Via de geïsoleerde overheaddeur haal je je spullen makkelijk naar buiten, en bij je unit horen één of twee eigen parkeerplaatsen.",
+    "Via de {A12|A twaalf} en {A20|A twintig} zit je snel bij je klussen tussen Rotterdam, Gouda en Zoetermeer.",
+    "De unit wordt casco opgeleverd, dus je deelt hem zelf in zoals jouw vak dat vraagt.",
+    "De oplevering staat gepland in het tweede kwartaal van {2026|tweeduizend zesentwintig}."
+   ],
+   "cta": [
+    "Benieuwd of jouw bedrijf hier zijn vaste basis vindt?",
+    "Klik op de knop hieronder, download de brochure en we nemen contact met je op om samen te kijken of de unit bij jouw werk past."
+   ]
+  },
+  "2": {
+   "naam": "Van huurder naar eigenaar: eigen adres, eigen indeling",
+   "hooks": [
+    "Betaal je elke maand huur voor een bedrijfsruimte die nooit van jou wordt?",
+    "Ben je net gestart en wil je je bedrijf meteen een eigen adres geven?",
+    "Wil je zelf bepalen hoe je bedrijfsruimte eruitziet, zonder eerst je verhuurder om toestemming te vragen?",
+    "Twijfel je of kopen nu verstandig is, terwijl je huur gewoon blijft doorlopen?",
+    "Dit is de nieuwe bedrijfsunit in Waddinxveen waarmee je van huurder eigenaar wordt."
+   ],
+   "body": [
+    "Bij Boxcomplex Waddinxveen koop je je eigen bedrijfsunit, al vanaf {€209.900|tweehonderdnegenduizend negenhonderd euro} vrij op naam, exclusief {btw|bee tee wee}.",
+    "Je hebt geen huurbaas meer die bepaalt wat je met je ruimte mag, maar een eigen plek met een eigen adres en huisnummer.",
+    "De unit wordt casco opgeleverd, dus jij kiest zelf hoe je hem indeelt en afwerkt.",
+    "Zo ontvang je klanten op een plek die echt bij jouw bedrijf past.",
+    "Je betaalt in termijnen tijdens de bouw, met de laatste tien procent vlak voor de oplevering in het tweede kwartaal van {2026|tweeduizend zesentwintig}.",
+    "Twijfel je over financiering of de rente?",
+    "Samen met financieringspartner Mogelijk bekijk je welke mogelijkheden er voor jouw situatie zijn.",
+    "Groeit je bedrijf later verder, dan kun je de unit eventueel ook verhuren."
+   ],
+   "cta": [
+    "Benieuwd of een eigen bedrijfsruimte voor jou haalbaar is?",
+    "Klik op de knop hieronder en download de brochure.",
+    "Bespreek daarna met ons jouw mogelijkheden, ook voor de financiering."
+   ]
+  },
+  "3": {
+   "naam": "Beleggers: tastbaar bedrijfsvastgoed met verhuurbegeleiding",
+   "hooks": [
+    "Wil je je vermogen laten groeien met vastgoed dat je zelf kunt bekijken?",
+    "Overweeg je een bedrijfsunit als belegging, maar zie je op tegen het vinden van een huurder?",
+    "Zoek je voor je holding een eerste of volgende belegging in bedrijfsruimte in de Randstad?",
+    "Liever een tastbare bedrijfsunit dan een belegging waar je alleen cijfers van ziet?",
+    "Dit is de nieuwe bedrijfsunit in Waddinxveen waarbij de ontwikkelaar ook na de oplevering betrokken blijft."
+   ],
+   "body": [
+    "Bij Boxcomplex Waddinxveen koop je een nieuwe bedrijfsunit als belegging, vanaf {€209.900|tweehonderdnegenduizend negenhonderd euro} vrij op naam, exclusief {btw|bee tee wee}.",
+    "Het zijn zestien compacte units van ruim honderd vierkante meter op bedrijvenpark Coenecoop, vlak bij de {A12|A twaalf} en {A20|A twintig}.",
+    "Omdat de unit casco wordt opgeleverd, bepaal je zelf de afbouw en de huurprijs.",
+    "Zie je op tegen het vinden van een huurder, dan begeleidt Boxcomplex je ook na de oplevering bij het verhuurtraject.",
+    "Boxcomplex heeft ervaring met het ontwikkelen, verkopen en verhuren van kleine bedrijfsunits.",
+    "Het beheer van de gemeenschappelijke voorzieningen en de opstalverzekering lopen via de {VvE|vee vee ee}.",
+    "Een voorbeeldberekening komt uit op circa zeven komma vier procent netto, exclusief financiering, maar die is indicatief en geen garantie.",
+    "De oplevering staat gepland in het tweede kwartaal van {2026|tweeduizend zesentwintig}."
+   ],
+   "cta": [
+    "Benieuwd wat deze unit voor jouw portefeuille kan betekenen?",
+    "Klik op de knop hieronder en download de beleggingsbrochure.",
+    "Daarna bespreken we graag jouw situatie, de voorbeeldberekening en de begeleiding bij verhuur."
+   ]
+  }
+ }
+}
