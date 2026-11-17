@@ -28,3 +28,7 @@ out/
 .DS_Store
 .env
 *.log
+
+# Python
+__pycache__/
+*.pyc
