@@ -28,3 +28,9 @@ out/
 .DS_Store
 .env
 *.log
+
+# Westeinde 41: klantrenders en afgeleiden (staan in de Frame.io-bronnenbibliotheek), Remotion-bundel
+**/bron/origineel/
+**/bron/staand/
+**/ai-clips/
+**/build/

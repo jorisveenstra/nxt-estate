@@ -1,0 +1,95 @@
+{
+ "opmerking": "Opgeslagen in de Frame.io Bronnenbibliotheek van het project. polder-weiland (tekst-naar-video, geen bronafbeelding) werd door de portal geweigerd als motion_clip en staat alleen in dit archief.",
+ "assets": [
+  {
+   "id": "a400b476-c1eb-4cd2-be23-504d01ab013e",
+   "title": "Westeinde 41 Oosthuizen - Voorgevel - voordeur en dakkapellen - staande uitsnede - zonnige middag - 9x16",
+   "kind": "portrait_image",
+   "sha256": "99586cbd0057c0f16380a2fad05c410e2062ed1fbad87a9b9d4a101c514da366",
+   "sourceSha256": "9452565364176e415fb10d7034ecb805a5d61384752404eb84833c65b9823529"
+  },
+  {
+   "id": "18ec83e1-0f66-4d16-b3f6-2ef58e45ba29",
+   "title": "Westeinde 41 Oosthuizen - Voorgevel - voordeur en dakkapellen - rustige push-in naar de voordeur - zonnige middag - 9x16",
+   "kind": "motion_clip",
+   "sha256": "60bae4345edab6e52763e0c2d20e04b5dfdf7c8c3d27041e601a171f568cb435",
+   "sourceSha256": "99586cbd0057c0f16380a2fad05c410e2062ed1fbad87a9b9d4a101c514da366",
+   "generationId": "YGRuRbGWRk0DL7Fn1Vay"
+  },
+  {
+   "id": "11fb180f-f635-4838-bef5-50869804df5d",
+   "title": "Westeinde 41 Oosthuizen - Voorgevel - rechterzijde met dakkapellen - staande uitsnede - zonnige middag - 9x16",
+   "kind": "portrait_image",
+   "sha256": "8164981db68eaa7384b66de5979a2bad731f8455110e61ba1b2bbee7fd04f0a9",
+   "sourceSha256": "9452565364176e415fb10d7034ecb805a5d61384752404eb84833c65b9823529"
+  },
+  {
+   "id": "ab1b1de6-8731-4c0a-8901-c598c9d02096",
+   "title": "Westeinde 41 Oosthuizen - Voorgevel - rechterzijde met dakkapellen - langzame zijwaartse dolly - zonnige middag - 9x16",
+   "kind": "motion_clip",
+   "sha256": "7dccea6ded4274e48c64aa2aeeb393c0c2ed8cbc87a635c12694d1186f6ff488",
+   "sourceSha256": "8164981db68eaa7384b66de5979a2bad731f8455110e61ba1b2bbee7fd04f0a9",
+   "generationId": "D3KdDlfl7DGVj7ImNhjV"
+  },
+  {
+   "id": "c94c4906-b409-4b7b-bafa-cb08649d1737",
+   "title": "Westeinde 41 Oosthuizen - Achtergevel - terras aan het water - staande uitsnede - gouden uur - 9x16",
+   "kind": "portrait_image",
+   "sha256": "fbd0b390610752a9f99c9f42da457ef806fab3a17717c8ce69a4f354b76370b5",
+   "sourceSha256": "807693340072fa77eaf81e09a019e77f1351bf923bb049121b5b05f8a38cf1c8"
+  },
+  {
+   "id": "0e1dd17a-13e8-4af6-96c8-7b73828ca0ce",
+   "title": "Westeinde 41 Oosthuizen - Achtergevel - terras aan het water - rustige push-in - gouden uur - 9x16",
+   "kind": "motion_clip",
+   "sha256": "ab166aea3fd7a4bd9e09cb592c3e3a5813be7c7eaee7106c7c339ece05a60c21",
+   "sourceSha256": "fbd0b390610752a9f99c9f42da457ef806fab3a17717c8ce69a4f354b76370b5",
+   "generationId": "qsYFKTBoEj7QKNPTOnZL"
+  },
+  {
+   "id": "66b02b25-77d3-4dff-a1dd-23e365fa0e52",
+   "title": "Westeinde 41 Oosthuizen - Interieur - woonkeuken met kookeiland - staande uitsnede - daglicht - 9x16",
+   "kind": "portrait_image",
+   "sha256": "3560e612e59f9e6082a8db9c6d23fcff901ae34955cee986220ec62cc857d4c5",
+   "sourceSha256": "68060ce2d8a0d4c8b851e6c46b286ca17045a896cff7599294494a9067878750"
+  },
+  {
+   "id": "f29e0d58-165b-4053-8367-9e81581066c2",
+   "title": "Westeinde 41 Oosthuizen - Interieur - woonkeuken met kookeiland - subtiele push-in richting tuindeuren - daglicht - 9x16",
+   "kind": "motion_clip",
+   "sha256": "ae64c70d58cb0e657cba5b628b25a4291432c9d23244002812a80c083f27651a",
+   "sourceSha256": "3560e612e59f9e6082a8db9c6d23fcff901ae34955cee986220ec62cc857d4c5",
+   "generationId": "xsxwbkqFEgLxyFFV2nS5"
+  },
+  {
+   "id": "63f81df1-ab5e-46e1-aeed-16c3b8b0cb7d",
+   "title": "Westeinde 41 Oosthuizen - Interieur - living met tuindeuren - staande uitsnede - daglicht - 9x16",
+   "kind": "portrait_image",
+   "sha256": "46bb44d6c444dbce3475af955ec540d331677e8e79d8f541a0949ad394b899fd",
+   "sourceSha256": "6b6e4bcede5bdf2d556b7874f4a4163674450530e7516f1aa360f4eb1171c56a"
+  },
+  {
+   "id": "4ab5374c-0b20-4fa4-b7f7-9906a7ee6f11",
+   "title": "Westeinde 41 Oosthuizen - Interieur - living met tuindeuren - push-in naar de ramen - daglicht - 9x16",
+   "kind": "motion_clip",
+   "sha256": "7b953e3b7875c6f263348cc8646e6929411518a2543b20775d193431cff47856",
+   "sourceSha256": "46bb44d6c444dbce3475af955ec540d331677e8e79d8f541a0949ad394b899fd",
+   "generationId": "jZiLUQJACDvhjxS3GM3T"
+  },
+  {
+   "id": "a72d1b5c-cc88-494a-91fd-44b9a2ffdb8f",
+   "title": "Westeinde 41 Oosthuizen - Interieur - living met wandkast en hanglamp - staande uitsnede - daglicht - 9x16",
+   "kind": "portrait_image",
+   "sha256": "7767b37361780253485c130824a18d2daa3bc017c653e475a367c99dbd7e78ea",
+   "sourceSha256": "6b6e4bcede5bdf2d556b7874f4a4163674450530e7516f1aa360f4eb1171c56a"
+  },
+  {
+   "id": "b71f3560-1036-4f5a-8b27-8443035e06f7",
+   "title": "Westeinde 41 Oosthuizen - Interieur - living met wandkast en hanglamp - langzame boog naar rechts - daglicht - 9x16",
+   "kind": "motion_clip",
+   "sha256": "21740e99353033600c9c9a28ea14372a1c7714566c844f50c71baa6cf02064c5",
+   "sourceSha256": "7767b37361780253485c130824a18d2daa3bc017c653e475a367c99dbd7e78ea",
+   "generationId": "RVTdg9ycPa8eESnvZVIL"
+  }
+ ]
+}

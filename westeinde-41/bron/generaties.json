@@ -1,0 +1,565 @@
+{
+ "video:polder-weiland": {
+  "status": "completed",
+  "at": "2026-11-17T21:42:12Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Photorealistic documentary footage shot on a full-frame cinema camera, natural light, realistic materials, subtle gimbal movement, vertical 9:16 framing, Noord-Holland, the Netherlands. Slow aerial drone shot over a flat green Dutch polder landscape with grazing black-and-white cows, straight drainage ditches reflecting the sky and a wide open horizon, soft morning light, light clouds.",
+  "type": "text_to_video",
+  "generation_id": "dxA40hMbzeYC9jXMcxfO",
+  "request_id": null,
+  "file": "ai-clips/polder-weiland.mp4",
+  "sha256": "e43b7d1c727f1d0e37c248b5d949da9b46a3f28145ab40d25cf76658f502bde9",
+  "response_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "geometry": "1080x1920",
+  "sar": "1:1",
+  "duration": 8.0,
+  "portrait_ok": true
+ },
+ "asset:voorgevel-voordeur": {
+  "status": "done",
+  "sha256": "99586cbd0057c0f16380a2fad05c410e2062ed1fbad87a9b9d4a101c514da366",
+  "at": "2026-11-17T21:42:12Z",
+  "asset_id": "QkaoYFlT5rSIxxoczO9z",
+  "response_keys": [
+   "asset_id",
+   "content_url",
+   "created_at_unix",
+   "mime_type",
+   "name"
+  ]
+ },
+ "video:voorgevel-voordeur": {
+  "status": "completed",
+  "at": "2026-11-17T21:42:16Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Keep the building, its proportions, brickwork, roof tiles, dormers, window frames, materials and layout exactly as in the image; do not add, remove or change any architecture. Photorealistic, natural light. Very slow, smooth gimbal push-in towards the front door of this new brick house, leaves gently moving in the breeze, soft sunny afternoon light.",
+  "type": "image_to_video",
+  "start_frame": "bron/staand/voorgevel-voordeur.jpg",
+  "start_frame_sha256": "99586cbd0057c0f16380a2fad05c410e2062ed1fbad87a9b9d4a101c514da366",
+  "generation_id": "YGRuRbGWRk0DL7Fn1Vay",
+  "request_id": null,
+  "file": "ai-clips/voorgevel-voordeur.mp4",
+  "sha256": "60bae4345edab6e52763e0c2d20e04b5dfdf7c8c3d27041e601a171f568cb435",
+  "response_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "geometry": "1080x1920",
+  "sar": "1:1",
+  "duration": 8.0,
+  "portrait_ok": true
+ },
+ "tts:aca15f228a995015": {
+  "status": "done",
+  "at": "2026-11-17T21:43:29Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Dit is Westeinde 41 in Oosthuizen: één nieuwbouwwoning, met vrij uitzicht over polder de Zeevang aan de voorkant. Aan de achterkant ligt de tuin aan vaarbaar water, en uw eigen boot kunt u bij het perceel aanleggen. Vanuit de living kijkt u naar twee kanten naar buiten, met een woonkeuken met kookeiland als middelpunt. Naast de living liggen een kantoor en een berging. Wilt u later liever gelijkvloers wonen? Dan is er een optionele indeling met een slaapkamer en douche op de begane grond. U parkeert op twee eigen plaatsen, en de bakker, de slager, de supermarkt en de vrijdagmarkt vindt u gewoon in het dorp. De vergunning is verleend, en de oplevering staat naar verwachting gepland voor het eerste kwartaal van 2028. Klik op de knop hieronder voor alle informatie en plan een afspraak met de makelaar, om meteen ook de verkoop van uw huidige woning en uw verhuisplanning te bespreken.",
+  "request_id": "DqNWQ4YyumLnGkEYJ8nF",
+  "character_cost": "432",
+  "cache": "scripts/tts-cache/aca15f228a995015.json"
+ },
+ "tts:d576831567685a84": {
+  "status": "done",
+  "at": "2026-11-17T21:43:29Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Zijn de kinderen uit huis en wilt u rustig wonen aan het water, met vrij uitzicht over de polder?",
+  "request_id": "Ma4icXcJOvFSMsjv3CT4",
+  "character_cost": "47",
+  "cache": "scripts/tts-cache/d576831567685a84.json"
+ },
+ "tts:9b6c60fa7b283a9d": {
+  "status": "done",
+  "at": "2026-11-17T21:43:29Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Wilt u comfortabel nieuw wonen in Oosthuizen, met de mogelijkheid om later beneden te slapen?",
+  "request_id": "2WmRXdpwtyDqXVtJYmbf",
+  "character_cost": "45",
+  "cache": "scripts/tts-cache/9b6c60fa7b283a9d.json"
+ },
+ "tts:66ff4e1a7dcf98ef": {
+  "status": "done",
+  "at": "2026-11-17T21:43:29Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Polder aan de voorkant, vaarwater aan de achterkant: zo kunt u straks wonen in Oosthuizen.",
+  "request_id": "sorooZHJ9NJjSxLGWrQR",
+  "character_cost": "44",
+  "cache": "scripts/tts-cache/66ff4e1a7dcf98ef.json"
+ },
+ "tts:515c415d935a7c3d": {
+  "status": "done",
+  "at": "2026-11-17T21:43:32Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Zoekt u in de Zeevang een woning die mee kan bewegen met uw volgende levensfase?",
+  "request_id": "HWFf7UnHmrJkif6eEaEm",
+  "character_cost": "39",
+  "cache": "scripts/tts-cache/515c415d935a7c3d.json"
+ },
+ "tts:4a7dec86c3089238": {
+  "status": "done",
+  "at": "2026-11-17T21:43:32Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Heeft u al gezien welke woning er aan het Westeinde in Oosthuizen gebouwd gaat worden?",
+  "request_id": "Go8TWdfm8jEGfc70MizH",
+  "character_cost": "42",
+  "cache": "scripts/tts-cache/4a7dec86c3089238.json"
+ },
+ "tts:f13e0ee95451f5a3": {
+  "status": "done",
+  "at": "2026-11-17T21:43:33Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Dit is Westeinde 41 in Oosthuizen: één nieuw te bouwen gezinswoning van circa honderdvierenzeventig vierkante meter, en geen huis in een groot project. Het hart van het huis is de woonkeuken met kookeiland, met ruimte voor een grote eettafel waar jullie samen eten. Op de eerste verdieping liggen drie slaapkamers, een badkamer en een inloopkast. En de zolder? Die richt je in als speelkamer of chillruimte voor de kinderen. Beneden is een apart kantoor, zodat je rustig kunt thuiswerken. De tuin is circa dertien meter breed en ligt aan vaarbaar water, met plek voor een loungehoek, een buitenkeuken en de fietsen. Je parkeert op twee eigen plaatsen, en de bakker, de supermarkt en de vrijdagmarkt vind je gewoon in het dorp. De vergunning is verleend, en de oplevering staat naar verwachting gepland voor het eerste kwartaal van 2028. Zie je jullie gezin hier al wonen? Klik op de knop hieronder voor alle informatie en plan een afspraak met de makelaar, om ook de verkoop van je huidige woning en jullie verhuisplanning te bespreken.",
+  "request_id": "EjbcAExc7nrXBkwyk8rt",
+  "character_cost": "502",
+  "cache": "scripts/tts-cache/f13e0ee95451f5a3.json"
+ },
+ "tts:4f7b80a6b0d433c6": {
+  "status": "done",
+  "at": "2026-11-17T21:43:34Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Komt jullie gezin ruimte tekort, en zoeken jullie een nieuwbouwwoning in een dorp met de tuin aan het water?",
+  "request_id": "68GfXD2iFe8pcWzTDQ0L",
+  "character_cost": "52",
+  "cache": "scripts/tts-cache/4f7b80a6b0d433c6.json"
+ },
+ "tts:1adbe96db13bdc6c": {
+  "status": "done",
+  "at": "2026-11-17T21:43:34Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Een speelkamer op zolder, een eigen kantoor beneden en een tuin aan het water: zo kan jullie gezin straks wonen in Oosthuizen.",
+  "request_id": "VA5gNdzyMf8jP1EeUmFu",
+  "character_cost": "61",
+  "cache": "scripts/tts-cache/1adbe96db13bdc6c.json"
+ },
+ "tts:a28248cbe9c7f470": {
+  "status": "done",
+  "at": "2026-11-17T21:43:37Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Wil je meer ruimte voor je gezin, zonder in een groot nieuwbouwproject te gaan wonen?",
+  "request_id": "9R5BnaNojONEO4sXhPdt",
+  "character_cost": "41",
+  "cache": "scripts/tts-cache/a28248cbe9c7f470.json"
+ },
+ "tts:b5aa0fa9d8c4ac47": {
+  "status": "done",
+  "at": "2026-11-17T21:43:37Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Ben je op zoek naar een gezinswoning van circa honderdvierenzeventig vierkante meter in Oosthuizen?",
+  "request_id": "H0ku16SdmoJBhmPE9wmA",
+  "character_cost": "48",
+  "cache": "scripts/tts-cache/b5aa0fa9d8c4ac47.json"
+ },
+ "tts:264234f146698a7e": {
+  "status": "done",
+  "at": "2026-11-17T21:43:39Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Zoek je een huis waar het hele gezin samenkomt rond een woonkeuken met kookeiland?",
+  "request_id": "nZfTBFxWmzIvFQb1MhUj",
+  "character_cost": "40",
+  "cache": "scripts/tts-cache/264234f146698a7e.json"
+ },
+ "tts:bed3213b14737418": {
+  "status": "done",
+  "at": "2026-11-17T21:43:40Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Ruil de drukte in voor Westeinde 41 in Oosthuizen: één nieuwbouwwoning tussen polder en vaarwater. Aan de voorkant kijk je vrij uit over polder de Zeevang. Aan de achterkant ligt je tuin op het westen aan vaarbaar water, waar je je eigen boot bij het perceel kunt aanleggen. Binnen heb je circa honderdvierenzeventig vierkante meter woonruimte, met een woonkeuken met kookeiland en een living met uitzicht naar twee kanten. Werk je vaak thuis? Dan heb je ruimte voor een apart kantoor. De warme bakker, de slager, de Plus-supermarkt en de vrijdagmarkt vind je in het dorp zelf. De woning moet nog gebouwd worden, dus je kiest op basis van de plattegronden en tekeningen. De vergunning is verleend, en de oplevering staat naar verwachting gepland voor het eerste kwartaal van 2028. Klik op de knop hieronder, bekijk de plattegronden en tekeningen, en plan een afspraak met de makelaar om al je vragen over de woning en de omgeving te stellen.",
+  "request_id": "Jq07uGq4RGkvkpdTpLcR",
+  "character_cost": "456",
+  "cache": "scripts/tts-cache/bed3213b14737418.json"
+ },
+ "tts:2723f0652a4abdd3": {
+  "status": "done",
+  "at": "2026-11-17T21:43:41Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Woon je nu in de stad en droom je van een huis aan het water, met vrij uitzicht over de polder?",
+  "request_id": "ZVDQPrNXZMQ3iOOOSB9X",
+  "character_cost": "46",
+  "cache": "scripts/tts-cache/2723f0652a4abdd3.json"
+ },
+ "tts:e802d5a11441d111": {
+  "status": "done",
+  "at": "2026-11-17T21:43:43Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Wil je landelijk wonen aan het water, zonder je eigen thuiswerkplek op te geven?",
+  "request_id": "WfLgVYihizsgb8qltFeE",
+  "character_cost": "39",
+  "cache": "scripts/tts-cache/e802d5a11441d111.json"
+ },
+ "tts:c637b087be5e6da7": {
+  "status": "done",
+  "at": "2026-11-17T21:43:44Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Hoe zou het zijn om je eigen boot gewoon aan je eigen perceel aan te leggen?",
+  "request_id": "5cqAB0XLdpZpHN5ljn0H",
+  "character_cost": "37",
+  "cache": "scripts/tts-cache/c637b087be5e6da7.json"
+ },
+ "tts:bfdaf2aa00e669ab": {
+  "status": "done",
+  "at": "2026-11-17T21:43:45Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Uitkijken over de polder, met je tuin aan vaarbaar water: zo kan landelijk wonen in Oosthuizen eruitzien.",
+  "request_id": "zrxNAHeRnRR3LjWM4O8l",
+  "character_cost": "51",
+  "cache": "scripts/tts-cache/bfdaf2aa00e669ab.json"
+ },
+ "tts:3f0558ddb037b48a": {
+  "status": "done",
+  "at": "2026-11-17T21:43:46Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Ben je klaar voor meer rust en zoek je een nieuwbouwwoning aan het water in een echt dorp?",
+  "request_id": "GfCMFE9WNwZqlYpg1MMX",
+  "character_cost": "44",
+  "cache": "scripts/tts-cache/3f0558ddb037b48a.json"
+ },
+ "music:muziek": {
+  "status": "done",
+  "at": "2026-11-17T21:44:09Z",
+  "model_id": "music_v1",
+  "prompt": "Uplifting, warm and positive instrumental background music for a Dutch real estate advert about a new family home by the water in a quiet village: light acoustic guitar, soft piano, gentle strings and subtle percussion, airy and optimistic, steady medium tempo around 100 BPM, no vocals, no lyrics, consistent energy, mixed to sit underneath a spoken voice-over.",
+  "music_length_ms": 72000,
+  "force_instrumental": true,
+  "request_id": null,
+  "song_id": "X592jmc2gMKzdxcYZ4cH",
+  "file": "public/muziek/muziek.mp3"
+ },
+ "asset:voorgevel-rechts": {
+  "status": "done",
+  "sha256": "8164981db68eaa7384b66de5979a2bad731f8455110e61ba1b2bbee7fd04f0a9",
+  "at": "2026-11-17T21:44:50Z",
+  "asset_id": "LAV0s0dGoLQw0kpI52H7",
+  "response_keys": [
+   "asset_id",
+   "content_url",
+   "created_at_unix",
+   "mime_type",
+   "name"
+  ]
+ },
+ "asset:achtergevel-boot": {
+  "status": "done",
+  "sha256": "6105c22cb9f8090013db09e2fc429fdc5599240ea10a81071237abfb3a2f0b96",
+  "at": "2026-11-17T21:44:50Z",
+  "asset_id": "PdM8dCilj4y8rvBLkc4v",
+  "response_keys": [
+   "asset_id",
+   "content_url",
+   "created_at_unix",
+   "mime_type",
+   "name"
+  ]
+ },
+ "asset:achtergevel-terras": {
+  "status": "done",
+  "sha256": "fbd0b390610752a9f99c9f42da457ef806fab3a17717c8ce69a4f354b76370b5",
+  "at": "2026-11-17T21:44:50Z",
+  "asset_id": "wuQTbjl4QNE1Lqvrtw23",
+  "response_keys": [
+   "asset_id",
+   "content_url",
+   "created_at_unix",
+   "mime_type",
+   "name"
+  ]
+ },
+ "asset:woonkamer-ramen": {
+  "status": "done",
+  "sha256": "46bb44d6c444dbce3475af955ec540d331677e8e79d8f541a0949ad394b899fd",
+  "at": "2026-11-17T21:44:50Z",
+  "asset_id": "MzDTn5HB9urMmcIhGne5",
+  "response_keys": [
+   "asset_id",
+   "content_url",
+   "created_at_unix",
+   "mime_type",
+   "name"
+  ]
+ },
+ "asset:woonkamer-kast": {
+  "status": "done",
+  "sha256": "7767b37361780253485c130824a18d2daa3bc017c653e475a367c99dbd7e78ea",
+  "at": "2026-11-17T21:44:50Z",
+  "asset_id": "4BiNyqC9nrcwOG7lSzEG",
+  "response_keys": [
+   "asset_id",
+   "content_url",
+   "created_at_unix",
+   "mime_type",
+   "name"
+  ]
+ },
+ "asset:keuken-kookeiland": {
+  "status": "done",
+  "sha256": "3560e612e59f9e6082a8db9c6d23fcff901ae34955cee986220ec62cc857d4c5",
+  "at": "2026-11-17T21:44:50Z",
+  "asset_id": "wzs3RNC5pAzhgtSvh0iW",
+  "response_keys": [
+   "asset_id",
+   "content_url",
+   "created_at_unix",
+   "mime_type",
+   "name"
+  ]
+ },
+ "video:voorgevel-rechts": {
+  "status": "completed",
+  "at": "2026-11-17T21:44:52Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Keep the building, its proportions, brickwork, roof tiles, dormers, window frames, materials and layout exactly as in the image; do not add, remove or change any architecture. Photorealistic, natural light. Slow, smooth lateral dolly to the left along the front facade, the woman gently pets the dog, leaves moving softly, sunny afternoon.",
+  "type": "image_to_video",
+  "start_frame": "bron/staand/voorgevel-rechts.jpg",
+  "start_frame_sha256": "8164981db68eaa7384b66de5979a2bad731f8455110e61ba1b2bbee7fd04f0a9",
+  "generation_id": "D3KdDlfl7DGVj7ImNhjV",
+  "request_id": null,
+  "file": "ai-clips/voorgevel-rechts.mp4",
+  "sha256": "7dccea6ded4274e48c64aa2aeeb393c0c2ed8cbc87a635c12694d1186f6ff488",
+  "response_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "geometry": "1080x1920",
+  "sar": "1:1",
+  "duration": 8.0,
+  "portrait_ok": true
+ },
+ "video:keuken-kookeiland": {
+  "status": "completed",
+  "at": "2026-11-17T21:44:52Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Keep the building, its proportions, brickwork, roof tiles, dormers, window frames, materials and layout exactly as in the image; do not add, remove or change any architecture. Photorealistic, natural light. Very slow, subtle push-in of only a few centimetres past the kitchen island towards the garden doors, sunlight shifts subtly, plants move gently outside.",
+  "type": "image_to_video",
+  "start_frame": "bron/staand/keuken-kookeiland.jpg",
+  "start_frame_sha256": "3560e612e59f9e6082a8db9c6d23fcff901ae34955cee986220ec62cc857d4c5",
+  "generation_id": "xsxwbkqFEgLxyFFV2nS5",
+  "request_id": null,
+  "file": "ai-clips/keuken-kookeiland.mp4",
+  "sha256": "ae64c70d58cb0e657cba5b628b25a4291432c9d23244002812a80c083f27651a",
+  "response_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "geometry": "1080x1920",
+  "sar": "1:1",
+  "duration": 8.0,
+  "portrait_ok": true
+ },
+ "video:achtergevel-terras": {
+  "status": "completed",
+  "at": "2026-11-17T21:44:52Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Keep the building, its proportions, brickwork, roof tiles, dormers, window frames, materials and layout exactly as in the image; do not add, remove or change any architecture. Photorealistic, natural light. Slow, smooth push-in towards the garden terrace at golden hour, the people on the terrace move naturally and talk, plants sway gently, warm evening light.",
+  "type": "image_to_video",
+  "start_frame": "bron/staand/achtergevel-terras.jpg",
+  "start_frame_sha256": "fbd0b390610752a9f99c9f42da457ef806fab3a17717c8ce69a4f354b76370b5",
+  "generation_id": "qsYFKTBoEj7QKNPTOnZL",
+  "request_id": null,
+  "file": "ai-clips/achtergevel-terras.mp4",
+  "sha256": "ab166aea3fd7a4bd9e09cb592c3e3a5813be7c7eaee7106c7c339ece05a60c21",
+  "response_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "geometry": "1080x1920",
+  "sar": "1:1",
+  "duration": 8.0,
+  "portrait_ok": true
+ },
+ "video:woonkamer-ramen": {
+  "status": "completed",
+  "at": "2026-11-17T21:44:52Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Keep the building, its proportions, brickwork, roof tiles, dormers, window frames, materials and layout exactly as in the image; do not add, remove or change any architecture. Photorealistic, natural light. Slow, smooth push-in through the living room towards the tall windows, curtains move softly in a light breeze, warm daylight.",
+  "type": "image_to_video",
+  "start_frame": "bron/staand/woonkamer-ramen.jpg",
+  "start_frame_sha256": "46bb44d6c444dbce3475af955ec540d331677e8e79d8f541a0949ad394b899fd",
+  "generation_id": "jZiLUQJACDvhjxS3GM3T",
+  "request_id": null,
+  "file": "ai-clips/woonkamer-ramen.mp4",
+  "sha256": "7b953e3b7875c6f263348cc8646e6929411518a2543b20775d193431cff47856",
+  "response_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "geometry": "1080x1920",
+  "sar": "1:1",
+  "duration": 8.0,
+  "portrait_ok": true
+ },
+ "video:woonkamer-kast": {
+  "status": "completed",
+  "at": "2026-11-17T21:44:52Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Keep the building, its proportions, brickwork, roof tiles, dormers, window frames, materials and layout exactly as in the image; do not add, remove or change any architecture. Photorealistic, natural light. Slow, smooth arc to the right through the living room, the gold pendant light glints softly, warm daylight.",
+  "type": "image_to_video",
+  "start_frame": "bron/staand/woonkamer-kast.jpg",
+  "start_frame_sha256": "7767b37361780253485c130824a18d2daa3bc017c653e475a367c99dbd7e78ea",
+  "generation_id": "RVTdg9ycPa8eESnvZVIL",
+  "request_id": null,
+  "file": "ai-clips/woonkamer-kast.mp4",
+  "sha256": "21740e99353033600c9c9a28ea14372a1c7714566c844f50c71baa6cf02064c5",
+  "response_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "geometry": "1080x1920",
+  "sar": "1:1",
+  "duration": 8.0,
+  "portrait_ok": true
+ },
+ "video:achtergevel-boot": {
+  "status": "completed",
+  "at": "2026-11-17T21:44:52Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Keep the building, its proportions, brickwork, roof tiles, dormers, window frames, materials and layout exactly as in the image; do not add, remove or change any architecture. Photorealistic, natural light. Slow, smooth lateral dolly along the water, gentle ripples on the canal, the boat bobs softly at the jetty, ducks swim, warm golden-hour light.",
+  "type": "image_to_video",
+  "start_frame": "bron/staand/achtergevel-boot.jpg",
+  "start_frame_sha256": "6105c22cb9f8090013db09e2fc429fdc5599240ea10a81071237abfb3a2f0b96",
+  "generation_id": "tfiCLO6MEDusiR4qBdeT",
+  "request_id": null,
+  "file": "ai-clips/achtergevel-boot.mp4",
+  "sha256": "2f51907b403806817c0b578e0a959fddd573b7099146eb2ffe4fd96dccb46b59",
+  "response_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "geometry": "1080x1920",
+  "sar": "1:1",
+  "duration": 8.0,
+  "portrait_ok": true
+ },
+ "video:polder-sloot-riet": {
+  "status": "rejected",
+  "at": "2026-11-17T21:47:24Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Photorealistic documentary footage shot on a full-frame cinema camera, natural light, realistic materials, subtle gimbal movement, vertical 9:16 framing, Noord-Holland, the Netherlands. Low slow gimbal shot along a still Dutch polder ditch lined with reeds, a heron standing in the water, green meadows beyond, early morning light with light mist.",
+  "type": "text_to_video",
+  "http": 401,
+  "error": "{\"detail\":{\"type\":\"invalid_request\",\"code\":\"quota_exceeded\",\"message\":\"This request exceeds your quota of 1353487. You have 9158 credits remaining, while 9696 credits are required for this request.\",\"status\":\"quota_exceeded\",\"request_id\":\"fe409300cb0e54fc65abec6bdcb3eb70\"}}"
+ },
+ "video:vaarwater-sloep": {
+  "status": "rejected",
+  "at": "2026-11-17T21:47:25Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Photorealistic documentary footage shot on a full-frame cinema camera, natural light, realistic materials, subtle gimbal movement, vertical 9:16 framing, Noord-Holland, the Netherlands. A small wooden electric sloop boat with a couple in their sixties glides slowly along a quiet Dutch village waterway lined with reeds and willow trees, warm golden evening light, gentle ripples.",
+  "type": "text_to_video",
+  "http": 401,
+  "error": "{\"detail\":{\"type\":\"invalid_request\",\"code\":\"quota_exceeded\",\"message\":\"This request exceeds your quota of 1353487. You have 9158 credits remaining, while 9696 credits are required for this request.\",\"status\":\"quota_exceeded\",\"request_id\":\"795436484e83373565abec6bdcb3e5d4\"}}"
+ },
+ "video:boot-aanmeren": {
+  "status": "rejected",
+  "at": "2026-11-17T21:47:25Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Photorealistic documentary footage shot on a full-frame cinema camera, natural light, realistic materials, subtle gimbal movement, vertical 9:16 framing, Noord-Holland, the Netherlands. Close-up of a man's hands tying the mooring line of a small wooden sloop to a cleat on a wooden garden jetty at the water's edge, calm water, warm late afternoon light.",
+  "type": "text_to_video",
+  "http": 401,
+  "error": "{\"detail\":{\"type\":\"invalid_request\",\"code\":\"quota_exceeded\",\"message\":\"This request exceeds your quota of 1353487. You have 9158 credits remaining, while 9696 credits are required for this request.\",\"status\":\"quota_exceeded\",\"request_id\":\"7d2aa812d9566601347b02d9eba515a6\"}}"
+ },
+ "video:dorpsstraat": {
+  "status": "rejected",
+  "at": "2026-11-17T21:47:25Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Photorealistic documentary footage shot on a full-frame cinema camera, natural light, realistic materials, subtle gimbal movement, vertical 9:16 framing, Noord-Holland, the Netherlands. Slow gimbal shot along a quiet historic Dutch village street in Noord-Holland with traditional brick houses with white window frames, a cyclist passing, a church spire in the distance, sunny morning.",
+  "type": "text_to_video",
+  "http": 401,
+  "error": "{\"detail\":{\"type\":\"invalid_request\",\"code\":\"quota_exceeded\",\"message\":\"This request exceeds your quota of 1353487. You have 9158 credits remaining, while 9696 credits are required for this request.\",\"status\":\"quota_exceeded\",\"request_id\":\"4cb7512c166350e0347b02d9eba51d8c\"}}"
+ },
+ "video:bakker": {
+  "status": "rejected",
+  "at": "2026-11-17T21:47:25Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Photorealistic documentary footage shot on a full-frame cinema camera, natural light, realistic materials, subtle gimbal movement, vertical 9:16 framing, Noord-Holland, the Netherlands. Inside a small traditional Dutch village bakery, a smiling baker hands a paper bag with fresh bread over the counter to a customer, shelves with fresh loaves, warm morning light.",
+  "type": "text_to_video",
+  "http": 401,
+  "error": "{\"detail\":{\"type\":\"invalid_request\",\"code\":\"quota_exceeded\",\"message\":\"This request exceeds your quota of 1353487. You have 9158 credits remaining, while 9696 credits are required for this request.\",\"status\":\"quota_exceeded\",\"request_id\":\"019f2616f13ce02d347b02d9eba51f67\"}}"
+ },
+ "video:vrijdagmarkt": {
+  "status": "rejected",
+  "at": "2026-11-17T21:47:26Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Photorealistic documentary footage shot on a full-frame cinema camera, natural light, realistic materials, subtle gimbal movement, vertical 9:16 framing, Noord-Holland, the Netherlands. A small weekly outdoor market on a Dutch village square, stalls with fresh vegetables, flowers and Dutch cheese, local people shopping and chatting, sunny late morning, slow gimbal shot.",
+  "type": "text_to_video",
+  "http": 401,
+  "error": "{\"detail\":{\"type\":\"invalid_request\",\"code\":\"quota_exceeded\",\"message\":\"This request exceeds your quota of 1353487. You have 9158 credits remaining, while 9696 credits are required for this request.\",\"status\":\"quota_exceeded\",\"request_id\":\"39cbcfeb92ad7edc347b02d9eba51459\"}}"
+ },
+ "video:thuiswerken": {
+  "status": "rejected",
+  "at": "2026-11-17T21:47:26Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Photorealistic documentary footage shot on a full-frame cinema camera, natural light, realistic materials, subtle gimbal movement, vertical 9:16 framing, Noord-Holland, the Netherlands. A woman in her forties works on a laptop at a tidy wooden desk in a calm home office, she looks up and smiles at the view of green meadows through the window, soft daylight.",
+  "type": "text_to_video",
+  "http": 401,
+  "error": "{\"detail\":{\"type\":\"invalid_request\",\"code\":\"quota_exceeded\",\"message\":\"This request exceeds your quota of 1353487. You have 9158 credits remaining, while 9696 credits are required for this request.\",\"status\":\"quota_exceeded\",\"request_id\":\"56f530e1984424ea347b02d9eba51d8d\"}}"
+ },
+ "video:gezin-eettafel": {
+  "status": "rejected",
+  "at": "2026-11-17T21:47:26Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Photorealistic documentary footage shot on a full-frame cinema camera, natural light, realistic materials, subtle gimbal movement, vertical 9:16 framing, Noord-Holland, the Netherlands. A Dutch family with two children shares dinner at a large wooden dining table, passing a bowl of salad and laughing, warm evening light, close and natural, slow push-in.",
+  "type": "text_to_video",
+  "http": 401,
+  "error": "{\"detail\":{\"type\":\"invalid_request\",\"code\":\"quota_exceeded\",\"message\":\"This request exceeds your quota of 1353487. You have 9158 credits remaining, while 9696 credits are required for this request.\",\"status\":\"quota_exceeded\",\"request_id\":\"f6f71ec5cd7d6999347b02d9eba511be\"}}"
+ },
+ "video:zolder-speelkamer": {
+  "status": "rejected",
+  "at": "2026-11-17T21:47:27Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Photorealistic documentary footage shot on a full-frame cinema camera, natural light, realistic materials, subtle gimbal movement, vertical 9:16 framing, Noord-Holland, the Netherlands. Two children play with building blocks on a soft rug in a bright attic playroom with sloped wooden ceiling and a roof window, sunlight falling in, warm and calm.",
+  "type": "text_to_video",
+  "http": 401,
+  "error": "{\"detail\":{\"type\":\"invalid_request\",\"code\":\"quota_exceeded\",\"message\":\"This request exceeds your quota of 1353487. You have 9158 credits remaining, while 9696 credits are required for this request.\",\"status\":\"quota_exceeded\",\"request_id\":\"6ad1bec01ee475ed347b02d9eba5153f\"}}"
+ },
+ "video:stel-koffie-water": {
+  "status": "rejected",
+  "at": "2026-11-17T21:47:27Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Photorealistic documentary footage shot on a full-frame cinema camera, natural light, realistic materials, subtle gimbal movement, vertical 9:16 framing, Noord-Holland, the Netherlands. A retired Dutch couple in their sixties drinks coffee on a garden terrace at the water's edge, the woman points at ducks on the water, relaxed and smiling, soft morning light.",
+  "type": "text_to_video",
+  "http": 401,
+  "error": "{\"detail\":{\"type\":\"invalid_request\",\"code\":\"quota_exceeded\",\"message\":\"This request exceeds your quota of 1353487. You have 9158 credits remaining, while 9696 credits are required for this request.\",\"status\":\"quota_exceeded\",\"request_id\":\"21cac3624e9b685cb2b660af374baad7\"}}"
+ },
+ "video:fietsers-dijk": {
+  "status": "rejected",
+  "at": "2026-11-17T21:47:27Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Photorealistic documentary footage shot on a full-frame cinema camera, natural light, realistic materials, subtle gimbal movement, vertical 9:16 framing, Noord-Holland, the Netherlands. Two cyclists ride along a narrow dyke road through the flat green Dutch polder, wide sky with white clouds, slow aerial tracking shot, sunny afternoon.",
+  "type": "text_to_video",
+  "http": 401,
+  "error": "{\"detail\":{\"type\":\"invalid_request\",\"code\":\"quota_exceeded\",\"message\":\"This request exceeds your quota of 1353487. You have 9158 credits remaining, while 9696 credits are required for this request.\",\"status\":\"quota_exceeded\",\"request_id\":\"1d324fbc8e90ba4c347b02d9eba518e3\"}}"
+ }
+}
