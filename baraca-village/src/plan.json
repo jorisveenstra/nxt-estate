@@ -1,0 +1,1444 @@
+{
+ "fps": 30,
+ "pauze": 0.35,
+ "staart": 2.2,
+ "bodies": {
+  "b1": {
+   "frames": 1338,
+   "shots": [
+    {
+     "clip": "drone_zee",
+     "start": 0.0,
+     "end": 2.52,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "drone_orbit",
+     "start": 2.52,
+     "end": 5.72,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "drone_zee_links",
+     "start": 5.72,
+     "end": 8.4,
+     "van": 3,
+     "rate": 1.0
+    },
+    {
+     "clip": "zwembad",
+     "start": 8.4,
+     "end": 10.24,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "drone_orbit",
+     "start": 10.24,
+     "end": 12.24,
+     "van": 4,
+     "rate": 1.0
+    },
+    {
+     "clip": "straat",
+     "start": 12.24,
+     "end": 14.56,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "villa1",
+     "start": 14.56,
+     "end": 17.44,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "drone_zee",
+     "start": 17.44,
+     "end": 21.547,
+     "van": 2,
+     "rate": 1.0
+    },
+    {
+     "clip": "villa3",
+     "start": 21.547,
+     "end": 24.72,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "woonkamer",
+     "start": 24.72,
+     "end": 27.76,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "keuken",
+     "start": 27.76,
+     "end": 31.28,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "slaapkamer",
+     "start": 31.28,
+     "end": 33.84,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "zwembad_rechts",
+     "start": 33.84,
+     "end": 36.0,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "poort",
+     "start": 36.0,
+     "end": 38.24,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "villa2",
+     "start": 38.24,
+     "end": 44.6,
+     "van": 0,
+     "rate": 1.0
+    }
+   ],
+   "accents": [
+    {
+     "type": "chip",
+     "start": 1.36,
+     "end": 4.04,
+     "icon": "pin",
+     "text": "Zuid-Lombok"
+    },
+    {
+     "type": "vergelijk",
+     "start": 4.04,
+     "end": 5.93,
+     "links": "Bali",
+     "linksSub": "toen",
+     "rechts": "Zuid-Lombok",
+     "rechtsSub": "nu"
+    },
+    {
+     "type": "chip",
+     "start": 5.72,
+     "end": 10.45,
+     "icon": "landmark",
+     "text": "Mandalika",
+     "sub": "speciale economische zone"
+    },
+    {
+     "type": "trend",
+     "start": 12.36,
+     "end": 14.77,
+     "text": "Grondprijzen",
+     "sub": "stijgen flink"
+    },
+    {
+     "type": "chip",
+     "start": 14.84,
+     "end": 17.65,
+     "icon": "x",
+     "text": "Geen los project"
+    },
+    {
+     "type": "fases",
+     "start": 17.92,
+     "end": 21.743,
+     "label": "Fase 1 van 5",
+     "sub": "masterplan"
+    },
+    {
+     "type": "stat",
+     "start": 22.32,
+     "end": 26.2,
+     "value": "€165.000",
+     "label": "instap vanaf"
+    },
+    {
+     "type": "termijnen",
+     "start": 26.2,
+     "end": 27.97,
+     "n": 4,
+     "label": "4 gelijke termijnen tijdens de bouw"
+    },
+    {
+     "type": "stat",
+     "start": 28.0,
+     "end": 31.53,
+     "value": "2028",
+     "label": "geplande oplevering"
+    },
+    {
+     "type": "trend",
+     "start": 31.4,
+     "end": 36.21,
+     "text": "Prijzen stijgen",
+     "sub": "naarmate de bouw vordert"
+    },
+    {
+     "type": "cta",
+     "start": 36.8,
+     "end": 44.6,
+     "knop": "Vraag het investeringsplan aan",
+     "sub": "Plan vrijblijvend een gesprek"
+    }
+   ],
+   "sfx": [
+    {
+     "file": "golven",
+     "at": 0.0,
+     "vol": 0.18,
+     "dur": 2.52
+    },
+    {
+     "file": "accent-whoosh",
+     "at": 1.36,
+     "vol": 0.3
+    },
+    {
+     "file": "accent-pop",
+     "at": 4.04,
+     "vol": 0.35
+    },
+    {
+     "file": "accent-whoosh",
+     "at": 5.72,
+     "vol": 0.3
+    },
+    {
+     "file": "golven",
+     "at": 5.72,
+     "vol": 0.18,
+     "dur": 2.68
+    },
+    {
+     "file": "accent-pop",
+     "at": 12.36,
+     "vol": 0.35
+    },
+    {
+     "file": "tropisch",
+     "at": 14.56,
+     "vol": 0.18,
+     "dur": 2.88
+    },
+    {
+     "file": "accent-whoosh",
+     "at": 14.84,
+     "vol": 0.3
+    },
+    {
+     "file": "golven",
+     "at": 17.44,
+     "vol": 0.18,
+     "dur": 4.107
+    },
+    {
+     "file": "accent-pop",
+     "at": 17.92,
+     "vol": 0.35
+    },
+    {
+     "file": "accent-pop",
+     "at": 22.32,
+     "vol": 0.35
+    },
+    {
+     "file": "accent-pop",
+     "at": 26.2,
+     "vol": 0.35
+    },
+    {
+     "file": "accent-pop",
+     "at": 28.0,
+     "vol": 0.35
+    },
+    {
+     "file": "accent-pop",
+     "at": 31.4,
+     "vol": 0.35
+    },
+    {
+     "file": "accent-pop",
+     "at": 36.8,
+     "vol": 0.35
+    }
+   ]
+  },
+  "b2": {
+   "frames": 1715,
+   "shots": [
+    {
+     "clip": "drone_zee",
+     "start": 0.0,
+     "end": 2.08,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "poort",
+     "start": 2.08,
+     "end": 5.813,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "villa1",
+     "start": 5.813,
+     "end": 7.92,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "villa2",
+     "start": 7.92,
+     "end": 8.6,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "villa3",
+     "start": 8.6,
+     "end": 12.213,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "zwembad",
+     "start": 12.213,
+     "end": 17.44,
+     "van": 0,
+     "rate": 0.9533
+    },
+    {
+     "clip": "woonkamer",
+     "start": 17.44,
+     "end": 19.733,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "slaapkamer",
+     "start": 19.733,
+     "end": 22.56,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "keuken",
+     "start": 22.56,
+     "end": 26.32,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "straat",
+     "start": 26.32,
+     "end": 29.12,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "poort_kinderen",
+     "start": 29.12,
+     "end": 31.974,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "drone_orbit",
+     "start": 31.974,
+     "end": 36.987,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "woonkamer_tuin",
+     "start": 36.987,
+     "end": 41.44,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "keuken_eiland",
+     "start": 41.44,
+     "end": 44.613,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "villa2_zwembad",
+     "start": 44.613,
+     "end": 48.56,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "villa3",
+     "start": 48.56,
+     "end": 50.053,
+     "van": 3,
+     "rate": 1.0
+    },
+    {
+     "clip": "drone_zee_links",
+     "start": 50.053,
+     "end": 57.167,
+     "van": 0,
+     "rate": 1.0
+    }
+   ],
+   "accents": [
+    {
+     "type": "chip",
+     "start": 0.28,
+     "end": 2.08,
+     "icon": "pin",
+     "text": "Baraca Village",
+     "sub": "Zuid-Lombok"
+    },
+    {
+     "type": "chip",
+     "start": 2.08,
+     "end": 6.037,
+     "icon": "globe",
+     "text": "Spreiden buiten Nederland"
+    },
+    {
+     "type": "kamers",
+     "start": 7.44,
+     "end": 9.867,
+     "items": [
+      "1",
+      "2",
+      "3"
+     ],
+     "label": "slaapkamers",
+     "cues": [
+      0.0,
+      0.48,
+      1.16
+     ]
+    },
+    {
+     "type": "stat",
+     "start": 9.867,
+     "end": 12.437,
+     "value": "€165.000",
+     "label": "vrijstaande villa vanaf"
+    },
+    {
+     "type": "duo",
+     "start": 14.88,
+     "end": 19.957,
+     "a": [
+      "7,5%",
+      "lange verhuur"
+     ],
+     "b": [
+      "12%",
+      "korte verhuur"
+     ],
+     "cueB": 2.72,
+     "note": "verwacht netto huurrendement"
+    },
+    {
+     "type": "duo",
+     "start": 20.56,
+     "end": 26.53,
+     "a": [
+      "10%",
+      "belasting op huur"
+     ],
+     "b": [
+      "± 2,5%",
+      "effectief bij verkoop"
+     ],
+     "cueB": 2.8,
+     "note": "volgens de ontwikkelaar"
+    },
+    {
+     "type": "chip",
+     "start": 27.44,
+     "end": 29.33,
+     "icon": "vraag",
+     "text": "Juridisch geregeld?"
+    },
+    {
+     "type": "lijst",
+     "start": 31.28,
+     "end": 37.183,
+     "items": [
+      "PT PMA",
+      "HGB-titel",
+      "Overdragen · verlengen · vernieuwen"
+     ],
+     "cues": [
+      0.0,
+      1.48,
+      2.92
+     ]
+    },
+    {
+     "type": "chip",
+     "start": 37.4,
+     "end": 41.65,
+     "icon": "info",
+     "text": "Fiscaal in Nederland?",
+     "sub": "bespreek het met uw eigen adviseur"
+    },
+    {
+     "type": "lijst",
+     "start": 43.44,
+     "end": 48.77,
+     "items": [
+      "Eigendomsstructuur",
+      "Betaalschema",
+      "Verwachte rendementen"
+     ],
+     "cues": [
+      0.0,
+      1.28,
+      3.08
+     ]
+    },
+    {
+     "type": "cta",
+     "start": 48.56,
+     "end": 57.167,
+     "knop": "Vraag het investeringsplan aan",
+     "sub": "Gesprek over de eigendomsstructuur"
+    }
+   ],
+   "sfx": [
+    {
+     "file": "golven",
+     "at": 0.0,
+     "vol": 0.18,
+     "dur": 2.08
+    },
+    {
+     "file": "accent-whoosh",
+     "at": 0.28,
+     "vol": 0.3
+    },
+    {
+     "file": "accent-whoosh",
+     "at": 2.08,
+     "vol": 0.3
+    },
+    {
+     "file": "tropisch",
+     "at": 5.813,
+     "vol": 0.18,
+     "dur": 2.107
+    },
+    {
+     "file": "accent-whoosh",
+     "at": 7.44,
+     "vol": 0.3
+    },
+    {
+     "file": "accent-pop",
+     "at": 7.92,
+     "vol": 0.3
+    },
+    {
+     "file": "accent-pop",
+     "at": 8.6,
+     "vol": 0.3
+    },
+    {
+     "file": "accent-pop",
+     "at": 9.867,
+     "vol": 0.35
+    },
+    {
+     "file": "accent-pop",
+     "at": 14.88,
+     "vol": 0.35
+    },
+    {
+     "file": "accent-pop",
+     "at": 17.6,
+     "vol": 0.3
+    },
+    {
+     "file": "accent-pop",
+     "at": 20.56,
+     "vol": 0.35
+    },
+    {
+     "file": "accent-pop",
+     "at": 23.36,
+     "vol": 0.3
+    },
+    {
+     "file": "accent-whoosh",
+     "at": 27.44,
+     "vol": 0.3
+    },
+    {
+     "file": "accent-whoosh",
+     "at": 31.28,
+     "vol": 0.3
+    },
+    {
+     "file": "accent-pop",
+     "at": 32.76,
+     "vol": 0.3
+    },
+    {
+     "file": "accent-pop",
+     "at": 34.2,
+     "vol": 0.3
+    },
+    {
+     "file": "accent-whoosh",
+     "at": 37.4,
+     "vol": 0.3
+    },
+    {
+     "file": "accent-whoosh",
+     "at": 43.44,
+     "vol": 0.3
+    },
+    {
+     "file": "tropisch",
+     "at": 44.613,
+     "vol": 0.18,
+     "dur": 3.947
+    },
+    {
+     "file": "accent-pop",
+     "at": 44.72,
+     "vol": 0.3
+    },
+    {
+     "file": "accent-pop",
+     "at": 46.52,
+     "vol": 0.3
+    },
+    {
+     "file": "accent-pop",
+     "at": 48.56,
+     "vol": 0.35
+    },
+    {
+     "file": "golven",
+     "at": 50.053,
+     "vol": 0.18,
+     "dur": 7.114
+    }
+   ]
+  },
+  "b3": {
+   "frames": 1646,
+   "shots": [
+    {
+     "clip": "villa1",
+     "start": 0.0,
+     "end": 4.12,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "drone_zee_links",
+     "start": 4.12,
+     "end": 7.28,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "drone_zee",
+     "start": 7.28,
+     "end": 9.88,
+     "van": 4,
+     "rate": 1.0
+    },
+    {
+     "clip": "zwembad",
+     "start": 9.88,
+     "end": 11.28,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "keuken",
+     "start": 11.28,
+     "end": 15.12,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "speeltuin",
+     "start": 15.12,
+     "end": 17.76,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "poort",
+     "start": 17.76,
+     "end": 19.44,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "villa2_zwembad",
+     "start": 19.44,
+     "end": 23.36,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "drone_orbit",
+     "start": 23.36,
+     "end": 27.6,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "straat",
+     "start": 27.6,
+     "end": 31.04,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "woonkamer",
+     "start": 31.04,
+     "end": 35.2,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "badkamer",
+     "start": 35.2,
+     "end": 38.56,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "slaapkamer",
+     "start": 38.56,
+     "end": 43.08,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "villa3",
+     "start": 43.08,
+     "end": 46.52,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "villa2",
+     "start": 46.52,
+     "end": 54.867,
+     "van": 0,
+     "rate": 0.9564
+    }
+   ],
+   "accents": [
+    {
+     "type": "chip",
+     "start": 1.84,
+     "end": 4.12,
+     "icon": "home",
+     "text": "Vrijstaande villa"
+    },
+    {
+     "type": "chip",
+     "start": 4.12,
+     "end": 7.25,
+     "icon": "pin",
+     "text": "Zuid-Lombok",
+     "sub": "heuvels en rijstvelden"
+    },
+    {
+     "type": "duo",
+     "start": 8.84,
+     "end": 15.05,
+     "a": [
+      "5 min",
+      "naar Tampah Bay"
+     ],
+     "b": [
+      "20 min",
+      "naar Kuta"
+     ],
+     "cueB": 1.64,
+     "note": null
+    },
+    {
+     "type": "lijst",
+     "start": 16.16,
+     "end": 19.21,
+     "items": [
+      "Sauna",
+      "Sportschool",
+      "Afgesloten ingang"
+     ],
+     "cues": [
+      0.0,
+      0.84,
+      1.76
+     ]
+    },
+    {
+     "type": "chip",
+     "start": 20.92,
+     "end": 23.05,
+     "icon": "sleutel",
+     "text": "Tussendoor verhuren"
+    },
+    {
+     "type": "chip",
+     "start": 24.52,
+     "end": 27.29,
+     "icon": "vraag",
+     "text": "Grip op afstand?"
+    },
+    {
+     "type": "stat",
+     "start": 29.48,
+     "end": 30.97,
+     "value": "45 min",
+     "label": "vanaf vliegveld Lombok"
+    },
+    {
+     "type": "chip",
+     "start": 31.6,
+     "end": 38.33,
+     "icon": "gesprek",
+     "text": "Persoonlijk gesprek",
+     "sub": "met het team van Baraca Capital"
+    },
+    {
+     "type": "stat",
+     "start": 40.64,
+     "end": 43.84,
+     "value": "€165.000",
+     "label": "1-slaapkamervilla vanaf"
+    },
+    {
+     "type": "chip",
+     "start": 43.84,
+     "end": 46.77,
+     "icon": "kalender",
+     "text": "Oplevering gepland: 2028"
+    },
+    {
+     "type": "cta",
+     "start": 46.52,
+     "end": 54.867,
+     "knop": "Bekijk de villa's",
+     "sub": "Plan vrijblijvend een gesprek"
+    }
+   ],
+   "sfx": [
+    {
+     "file": "tropisch",
+     "at": 0.0,
+     "vol": 0.18,
+     "dur": 4.12
+    },
+    {
+     "file": "accent-whoosh",
+     "at": 1.84,
+     "vol": 0.3
+    },
+    {
+     "file": "accent-whoosh",
+     "at": 4.12,
+     "vol": 0.3
+    },
+    {
+     "file": "golven",
+     "at": 4.12,
+     "vol": 0.18,
+     "dur": 3.16
+    },
+    {
+     "file": "golven",
+     "at": 7.28,
+     "vol": 0.18,
+     "dur": 2.6
+    },
+    {
+     "file": "accent-pop",
+     "at": 8.84,
+     "vol": 0.35
+    },
+    {
+     "file": "accent-pop",
+     "at": 10.48,
+     "vol": 0.3
+    },
+    {
+     "file": "water",
+     "at": 15.12,
+     "vol": 0.18,
+     "dur": 2.64
+    },
+    {
+     "file": "accent-whoosh",
+     "at": 16.16,
+     "vol": 0.3
+    },
+    {
+     "file": "accent-pop",
+     "at": 17.0,
+     "vol": 0.3
+    },
+    {
+     "file": "accent-pop",
+     "at": 17.92,
+     "vol": 0.3
+    },
+    {
+     "file": "tropisch",
+     "at": 19.44,
+     "vol": 0.18,
+     "dur": 3.92
+    },
+    {
+     "file": "accent-whoosh",
+     "at": 20.92,
+     "vol": 0.3
+    },
+    {
+     "file": "accent-whoosh",
+     "at": 24.52,
+     "vol": 0.3
+    },
+    {
+     "file": "accent-pop",
+     "at": 29.48,
+     "vol": 0.35
+    },
+    {
+     "file": "accent-whoosh",
+     "at": 31.6,
+     "vol": 0.3
+    },
+    {
+     "file": "accent-pop",
+     "at": 40.64,
+     "vol": 0.35
+    },
+    {
+     "file": "accent-whoosh",
+     "at": 43.84,
+     "vol": 0.3
+    },
+    {
+     "file": "accent-pop",
+     "at": 46.52,
+     "vol": 0.35
+    }
+   ]
+  }
+ },
+ "hooks": {
+  "b1_h1": {
+   "frames": 149,
+   "shots": [
+    {
+     "clip": "drone_orbit",
+     "start": 0.0,
+     "end": 2.32,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "villa2_zwembad",
+     "start": 2.32,
+     "end": 4.967,
+     "van": 0,
+     "rate": 1.0
+    }
+   ],
+   "kicker": {
+    "text": "Bali, tien jaar geleden?",
+    "note": null
+   },
+   "sfx": [
+    {
+     "file": "accent-whoosh",
+     "at": 0.15,
+     "vol": 0.3
+    },
+    {
+     "file": "tropisch",
+     "at": 2.32,
+     "vol": 0.18,
+     "dur": 2.647
+    }
+   ]
+  },
+  "b1_h2": {
+   "frames": 169,
+   "shots": [
+    {
+     "clip": "zwembad",
+     "start": 0.0,
+     "end": 1.92,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "drone_zee",
+     "start": 1.92,
+     "end": 5.633,
+     "van": 0,
+     "rate": 1.0
+    }
+   ],
+   "kicker": {
+    "text": "Lombok: het eiland naast Bali",
+    "note": null
+   },
+   "sfx": [
+    {
+     "file": "accent-whoosh",
+     "at": 0.15,
+     "vol": 0.3
+    },
+    {
+     "file": "golven",
+     "at": 1.92,
+     "vol": 0.18,
+     "dur": 3.713
+    }
+   ]
+  },
+  "b1_h3": {
+   "frames": 149,
+   "shots": [
+    {
+     "clip": "drone_zee_links",
+     "start": 0.0,
+     "end": 3.36,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "villa1",
+     "start": 3.36,
+     "end": 4.967,
+     "van": 0,
+     "rate": 1.0
+    }
+   ],
+   "kicker": {
+    "text": "Kustgrond wordt schaars",
+    "note": null
+   },
+   "sfx": [
+    {
+     "file": "accent-whoosh",
+     "at": 0.15,
+     "vol": 0.3
+    },
+    {
+     "file": "golven",
+     "at": 0.0,
+     "vol": 0.18,
+     "dur": 3.36
+    },
+    {
+     "file": "tropisch",
+     "at": 3.36,
+     "vol": 0.18,
+     "dur": 1.607
+    }
+   ]
+  },
+  "b1_h4": {
+   "frames": 154,
+   "shots": [
+    {
+     "clip": "villa3",
+     "start": 0.0,
+     "end": 3.04,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "drone_orbit",
+     "start": 3.04,
+     "end": 5.133,
+     "van": 2,
+     "rate": 1.0
+    }
+   ],
+   "kicker": {
+    "text": "Vroeg instappen zonder gok",
+    "note": null
+   },
+   "sfx": [
+    {
+     "file": "accent-whoosh",
+     "at": 0.15,
+     "vol": 0.3
+    }
+   ]
+  },
+  "b2_h1": {
+   "frames": 127,
+   "shots": [
+    {
+     "clip": "woonkamer_tuin",
+     "start": 0.0,
+     "end": 2.72,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "villa2",
+     "start": 2.72,
+     "end": 4.233,
+     "van": 0,
+     "rate": 1.0
+    }
+   ],
+   "kicker": {
+    "text": "Alles in NL vastgoed of beurs?",
+    "note": null
+   },
+   "sfx": [
+    {
+     "file": "accent-whoosh",
+     "at": 0.15,
+     "vol": 0.3
+    }
+   ]
+  },
+  "b2_h2": {
+   "frames": 169,
+   "shots": [
+    {
+     "clip": "drone_zee",
+     "start": 0.0,
+     "end": 1.8,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "poort",
+     "start": 1.8,
+     "end": 5.633,
+     "van": 0,
+     "rate": 1.0
+    }
+   ],
+   "kicker": {
+    "text": "Eigendom in Indonesië?",
+    "note": null
+   },
+   "sfx": [
+    {
+     "file": "accent-whoosh",
+     "at": 0.15,
+     "vol": 0.3
+    },
+    {
+     "file": "golven",
+     "at": 0.0,
+     "vol": 0.18,
+     "dur": 1.8
+    }
+   ]
+  },
+  "b2_h3": {
+   "frames": 132,
+   "shots": [
+    {
+     "clip": "villa1",
+     "start": 0.0,
+     "end": 2.4,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "keuken_eiland",
+     "start": 2.4,
+     "end": 4.4,
+     "van": 0,
+     "rate": 1.0
+    }
+   ],
+   "kicker": {
+    "text": "Juridisch: hoe zit dat?",
+    "note": null
+   },
+   "sfx": [
+    {
+     "file": "accent-whoosh",
+     "at": 0.15,
+     "vol": 0.3
+    },
+    {
+     "file": "tropisch",
+     "at": 0.0,
+     "vol": 0.18,
+     "dur": 2.4
+    }
+   ]
+  },
+  "b2_h4": {
+   "frames": 216,
+   "shots": [
+    {
+     "clip": "zwembad",
+     "start": 0.0,
+     "end": 3.6,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "villa3",
+     "start": 3.6,
+     "end": 7.2,
+     "van": 0,
+     "rate": 1.0
+    }
+   ],
+   "kicker": {
+    "text": "10% belasting op huur*",
+    "note": "volgens de ontwikkelaar"
+   },
+   "sfx": [
+    {
+     "file": "accent-whoosh",
+     "at": 0.15,
+     "vol": 0.3
+    }
+   ]
+  },
+  "b2_h5": {
+   "frames": 190,
+   "shots": [
+    {
+     "clip": "drone_orbit",
+     "start": 0.0,
+     "end": 3.6,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "straat",
+     "start": 3.6,
+     "end": 6.333,
+     "van": 0,
+     "rate": 1.0
+    }
+   ],
+   "kicker": {
+    "text": "Spreiden mét structuur",
+    "note": null
+   },
+   "sfx": [
+    {
+     "file": "accent-whoosh",
+     "at": 0.15,
+     "vol": 0.3
+    }
+   ]
+  },
+  "b3_h1": {
+   "frames": 135,
+   "shots": [
+    {
+     "clip": "villa2_zwembad",
+     "start": 0.0,
+     "end": 2.4,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "drone_zee",
+     "start": 2.4,
+     "end": 4.5,
+     "van": 3,
+     "rate": 1.0
+    }
+   ],
+   "kicker": {
+    "text": "Strand op 5 minuten",
+    "note": null
+   },
+   "sfx": [
+    {
+     "file": "accent-whoosh",
+     "at": 0.15,
+     "vol": 0.3
+    },
+    {
+     "file": "tropisch",
+     "at": 0.0,
+     "vol": 0.18,
+     "dur": 2.4
+    },
+    {
+     "file": "golven",
+     "at": 2.4,
+     "vol": 0.18,
+     "dur": 2.1
+    }
+   ]
+  },
+  "b3_h2": {
+   "frames": 122,
+   "shots": [
+    {
+     "clip": "zwembad_rechts",
+     "start": 0.0,
+     "end": 2.36,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "villa1",
+     "start": 2.36,
+     "end": 4.067,
+     "van": 0,
+     "rate": 1.0
+    }
+   ],
+   "kicker": {
+    "text": "Je eigen vakantieadres",
+    "note": null
+   },
+   "sfx": [
+    {
+     "file": "accent-whoosh",
+     "at": 0.15,
+     "vol": 0.3
+    },
+    {
+     "file": "tropisch",
+     "at": 2.36,
+     "vol": 0.18,
+     "dur": 1.707
+    }
+   ]
+  },
+  "b3_h3": {
+   "frames": 156,
+   "shots": [
+    {
+     "clip": "drone_zee_links",
+     "start": 0.0,
+     "end": 3.12,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "slaapkamer",
+     "start": 3.12,
+     "end": 5.2,
+     "van": 0,
+     "rate": 1.0
+    }
+   ],
+   "kicker": {
+    "text": "Tussen rijstvelden en zee",
+    "note": null
+   },
+   "sfx": [
+    {
+     "file": "accent-whoosh",
+     "at": 0.15,
+     "vol": 0.3
+    },
+    {
+     "file": "golven",
+     "at": 0.0,
+     "vol": 0.18,
+     "dur": 3.12
+    }
+   ]
+  },
+  "b3_h4": {
+   "frames": 135,
+   "shots": [
+    {
+     "clip": "drone_zee",
+     "start": 0.0,
+     "end": 2.72,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "poort",
+     "start": 2.72,
+     "end": 4.5,
+     "van": 0,
+     "rate": 1.0
+    }
+   ],
+   "kicker": {
+    "text": "Ver weg, tóch grip",
+    "note": null
+   },
+   "sfx": [
+    {
+     "file": "accent-whoosh",
+     "at": 0.15,
+     "vol": 0.3
+    },
+    {
+     "file": "golven",
+     "at": 0.0,
+     "vol": 0.18,
+     "dur": 2.72
+    }
+   ]
+  },
+  "b3_h5": {
+   "frames": 183,
+   "shots": [
+    {
+     "clip": "drone_orbit",
+     "start": 0.0,
+     "end": 4.32,
+     "van": 0,
+     "rate": 1.0
+    },
+    {
+     "clip": "villa3",
+     "start": 4.32,
+     "end": 6.1,
+     "van": 0,
+     "rate": 1.0
+    }
+   ],
+   "kicker": {
+    "text": "Hier komt jouw villa",
+    "note": null
+   },
+   "sfx": [
+    {
+     "file": "accent-whoosh",
+     "at": 0.15,
+     "vol": 0.3
+    }
+   ]
+  }
+ }
+}
