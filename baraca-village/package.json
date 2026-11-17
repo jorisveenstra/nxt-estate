@@ -1,0 +1,11 @@
+{
+  "name": "baraca-village-videos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Advertentievideo's Baraca Village (Tampah Beach Villas | Baraca Capital): 3 bodies, 14 hook-varianten, staand 1080x1920",
+  "scripts": {
+    "dev": "remotion studio",
+    "plan": "python3 scripts/lijn_uit.py && python3 scripts/plan.py",
+    "render": "python3 scripts/render.py"
+  }
+}

@@ -1,0 +1,179 @@
+{
+ "project": "Tampah Beach Villas | Baraca Capital",
+ "selectie": "alleen bronnen met 'baraca_village' in de naam (klantinstructie)",
+ "bronnen": [
+  {
+   "frameio_library_id": "frame:1a8f308f-5371-463d-af94-01868de5f701",
+   "filename": "baraca_village Baraca Village - video 09 living room curtains (1).mov",
+   "kind": "source_video",
+   "size": 22330703,
+   "sha256": null
+  },
+  {
+   "frameio_library_id": "frame:0a086e97-f25b-4180-ae29-bc6bc68e3f6d",
+   "filename": "baraca_village Baraca Village - video 13 common pool.mov",
+   "kind": "source_video",
+   "size": 26705323,
+   "sha256": "d5ee191cb222c10a95ef0670f20d605454310ed4557c61158f5826b835e774e2"
+  },
+  {
+   "frameio_library_id": "frame:ea4b7af4-639c-48e1-8d22-42ee6864237e",
+   "filename": "baraca_village Baraca Village - video 02 pool ripples and palms.mov",
+   "kind": "source_video",
+   "size": 36431252,
+   "sha256": "407e780858f2c58131fbff0ae4f066dcbfdac735296d6a855d56b59beba93e49"
+  },
+  {
+   "frameio_library_id": "frame:cf73a79a-1d62-4ab9-a271-80a826e0ecf0",
+   "filename": "baraca_village Baraca Village - video 10 bedroom garden breeze (1).mov",
+   "kind": "source_video",
+   "size": 19856364,
+   "sha256": null
+  },
+  {
+   "frameio_library_id": "frame:f97318db-01de-48fc-95cc-7988052e04bf",
+   "filename": "baraca_village Baraca Village - video 05 drone orbit kids on the village road.mov",
+   "kind": "source_video",
+   "size": 38189354,
+   "sha256": "bcc210901dfc71828804ab001ceaa0a57e5bfddca3bd8d3496780babc2ad1066"
+  },
+  {
+   "frameio_library_id": "frame:35941302-086e-402e-ba2f-d4e74d5fd5dc",
+   "filename": "baraca_village Baraca Village - video 10 bedroom garden breeze.mov",
+   "kind": "source_video",
+   "size": 19856364,
+   "sha256": "f36273577dc8eb7eb19238fb4324350705d5ca8207493cc13e55121333c4636d"
+  },
+  {
+   "frameio_library_id": "frame:a199168f-1784-4415-adf2-1896265141c4",
+   "filename": "baraca_village Baraca Village - video 09 living room curtains.mov",
+   "kind": "source_video",
+   "size": 22330703,
+   "sha256": "97b884b8150c039bc1782c3313c0aa1ca0e8c7d8555ac96ee0bbb7c5d1a1592c"
+  },
+  {
+   "frameio_library_id": "frame:eb31a7d7-d5a3-4543-8822-a5e34852f29c",
+   "filename": "baraca_village Baraca Village - video 11 kitchen dining morning v2.mov",
+   "kind": "source_video",
+   "size": 16772393,
+   "sha256": "528dbe8aa77c2956cd767091661e9cb3a5df39b01224cda2465fa271cb03ac9f"
+  },
+  {
+   "frameio_library_id": "frame:90624759-58f0-4cd4-a1c8-1295c266f3f9",
+   "filename": "baraca_village Baraca Village - video 04 drone flyover to the sea.mov",
+   "kind": "source_video",
+   "size": 37661061,
+   "sha256": "b94246ecced80b7449493ad69070fe5fdb7b87ed12f8319d73ed0ea069a33b1b"
+  },
+  {
+   "frameio_library_id": "frame:9e93681e-32a4-4b22-950c-cab61e8333b2",
+   "filename": "baraca_village Baraca Village - video 01 curtains in the breeze.mov",
+   "kind": "source_video",
+   "size": 34309218,
+   "sha256": "9fd6162023834fde5e172461739ee4f69f7f5ed86703b69e00ff55c1156d7b9d"
+  },
+  {
+   "frameio_library_id": "frame:cbf5918b-3e92-4260-b80c-7b616dcede78",
+   "filename": "baraca_village Baraca Village - video 03 morning light push-in.mov",
+   "kind": "source_video",
+   "size": 36156401,
+   "sha256": "69c2ef3e17172e6c0fa5b25e555fe82546fc8a6f78fcdfe1557f18bdca0fef5c"
+  },
+  {
+   "frameio_library_id": "frame:ded050aa-6e40-4b7f-9636-1a60476264d2",
+   "filename": "baraca_village 12 Kids at the gate v2.mov",
+   "kind": "source_video",
+   "size": 14802651,
+   "sha256": "42b50f97093ce5e750c6d8a384792916f2ca9f69c8bccd84d713a81030944e45"
+  },
+  {
+   "frameio_library_id": "frame:2a1a78f6-800f-4ad8-aeb1-4ee5c296bc73",
+   "filename": "baraca_village Playground.png",
+   "kind": "source_image",
+   "size": 1792342,
+   "sha256": "4ae4655c07aec41d705df54dad021f10438b3bdb23ee20eb4b67d8ca7387a13f"
+  },
+  {
+   "frameio_library_id": "frame:3f710f3a-aff6-42d0-acff-25469853215e",
+   "filename": "baraca_village 3 bedroom.webp",
+   "kind": "source_image",
+   "size": 609000,
+   "sha256": "db11e66b43001db4faf69b48477dd5eb7039f2f2fa23590495314bf15bcf460e"
+  },
+  {
+   "frameio_library_id": "frame:355fe6ac-b693-4d7b-96f5-5bd7b2a6abaf",
+   "filename": "baraca_village 1 bedroom.webp",
+   "kind": "source_image",
+   "size": 599196,
+   "sha256": "87ac808c3cd1e4160f0f09b39467aded3c759353499c2e2212e1b573b0c7041b"
+  },
+  {
+   "frameio_library_id": "frame:c0204ed7-82a2-4c12-b83a-3ce371d2a011",
+   "filename": "baraca_village 2 bedroom.png",
+   "kind": "source_image",
+   "size": 10907876,
+   "sha256": "77c19ce31ae0376232ad0e54fc1b3855ace3b34593e3daebb3e0c6fc48aa71ab"
+  },
+  {
+   "frameio_library_id": "frame:05a6b2d2-f01c-4dbf-b9e7-c72415763a2b",
+   "filename": "baraca_village Living room.png",
+   "kind": "source_image",
+   "size": 1250942,
+   "sha256": "7d90ed8f751d18e46f639bf958a53abe3e9ef365533e881257eb012385526e5c"
+  },
+  {
+   "frameio_library_id": "frame:8645aebc-8803-496c-85a0-ab2c8e8620e8",
+   "filename": "baraca_village Kitchen.png",
+   "kind": "source_image",
+   "size": 1008653,
+   "sha256": "c339014c7bcb46781ec6625d8619ad98cf9dc310f6bd3cd5bccb791dedc9dcb0"
+  },
+  {
+   "frameio_library_id": "frame:03f2f46d-d1ed-42d1-9157-f9fb56922997",
+   "filename": "baraca_village Streetside.png",
+   "kind": "source_image",
+   "size": 1443276,
+   "sha256": "c7820c984d1bfacc6f3ec5b0488fd4fff91f082ffbf6304de9d98285c2d6d344"
+  },
+  {
+   "frameio_library_id": "frame:33b39f4a-5f43-42fb-a175-99d91a1ff6fd",
+   "filename": "baraca_village Bedroom.png",
+   "kind": "source_image",
+   "size": 1326976,
+   "sha256": "083fc83b3a26a097c98cb413d39b8c608faf4c27eec941b00d64679cfdae3a30"
+  },
+  {
+   "frameio_library_id": "frame:cac05dd5-9070-4782-956e-bd39ab676db4",
+   "filename": "baraca_village Common pool.png",
+   "kind": "source_image",
+   "size": 1742320,
+   "sha256": "cd5c80332190eff04f2fe3f19da84356ecdfb7a7ed14094695603ac70f457744"
+  },
+  {
+   "frameio_library_id": "frame:42577dbc-0b7e-4991-a317-be733ac31e6e",
+   "filename": "baraca_village Drone view.jpg",
+   "kind": "source_image",
+   "size": 646098,
+   "sha256": "f2eb65809d1eb0223805225de746df0b6c92f0c3c8f238b1cbcb0e88ed8f1de5"
+  },
+  {
+   "frameio_library_id": "frame:5fdb0b34-5643-4073-8dc0-0aa7fe2262ba",
+   "filename": "baraca_village Bathroom.png",
+   "kind": "source_image",
+   "size": 980265,
+   "sha256": "0120d630f92d10b261629cda67777e9c8f12ec1125c18c545b71452365ddbc34"
+  }
+ ],
+ "nieuw_in_bronnenbibliotheek": {
+  "portrait_image": [
+   "24f7b1d0-95b6-46c4-8a7e-bac6e602de5c",
+   "3fdce50a-a036-4a47-b6f5-7869ede05281",
+   "5f00fa63-ac43-4ffd-bbe9-65e7c32ce0af"
+  ],
+  "motion_clip": [
+   "5ae01776-8b99-48e5-b55f-1e7174b86a00",
+   "a443c43a-88c2-4fe2-9847-bc9d4adb67ac",
+   "c6549a46-be4c-412b-837b-c11f9ffd4106"
+  ]
+ }
+}

@@ -13,6 +13,7 @@ per woord en renderbeelden/AI-renders als achtergrond.
 | `tampah-beach-villas/` | Tampah Beach Villas (Lombok) | 2 bodies × 5 hooks |
 | `huisunie/` | Huisunie | 3 bodies, 12 video's |
 | `nxt-estate/` | nxt.estate (eigen ads, kantoorunits) | V2–V4 × 3 hooks |
+| `baraca-village/` | Baraca Village (Tampah Beach Villas | Baraca Capital) | 3 bodies × 4–5 hooks (14) |
 
 ## Opzet
 

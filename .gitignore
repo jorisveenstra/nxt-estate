@@ -28,3 +28,10 @@ out/
 .DS_Store
 .env
 *.log
+**/public/mix/
+**/public/sfx/*.mp3
+**/media/beweging/*.mp4
+**/media/portret/
+**/media/bronnen/
+**/scripts/receipts/
+.nxt-*
