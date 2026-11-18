@@ -1,0 +1,471 @@
+{
+ "tts:72165e1548d1ad21": {
+  "status": "done",
+  "at": "2026-11-17T23:54:02Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Wilt u uw boot afmeren voor de deur van uw eigen vrijstaande nieuwbouwhuis?",
+  "request_id": "khbEsSDQCDDj0sMLOLmT",
+  "character_cost": "36",
+  "cache": "scripts/tts-cache/72165e1548d1ad21.json"
+ },
+ "tts:512e45850023e6c0": {
+  "status": "done",
+  "at": "2026-11-17T23:54:02Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Dit is Apollolaan 48a in Oostzaan: één vrijstaande nieuwbouwwoning, direct aan de ringvaart. Uw boot meert u hier af voor de deur. Achter de woning ligt natuurgebied Het Twiske, met vrij uitzicht over water en groen. Dankzij de brede gevel met veel glas haalt u die omgeving gewoon naar binnen. Vanuit de leefverdieping met open keuken stapt u direct de tuin in, op een perceel van 319 vierkante meter. Op de verdiepingen vindt u vier slaapkamers, twee badkamers en een inloopkast. De vergunning is al verleend, dus na de koop kan de bouw direct beginnen. De vraagprijs is 1.295.000 euro vrij op naam. Klik op de knop hieronder, vraag de brochure met plattegronden aan en plan een persoonlijk gesprek met Chantal van DJZN.",
+  "request_id": "RXarxeBpV7V5kWllYSDC",
+  "character_cost": "350",
+  "cache": "scripts/tts-cache/512e45850023e6c0.json"
+ },
+ "tts:d1c893c0e7b58869": {
+  "status": "done",
+  "at": "2026-11-17T23:54:02Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Water voor de deur en Het Twiske achter het huis: zo kunt u straks wonen in Oostzaan.",
+  "request_id": "9JSahQuFbPT3j8FQ6dCv",
+  "character_cost": "41",
+  "cache": "scripts/tts-cache/d1c893c0e7b58869.json"
+ },
+ "tts:b033129bcb6dc48c": {
+  "status": "done",
+  "at": "2026-11-17T23:54:02Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Zoekt u een vrijstaande woning aan het water, met vrij uitzicht over natuurgebied Het Twiske?",
+  "request_id": "2CvLKWczbiR1oV18IlDT",
+  "character_cost": "45",
+  "cache": "scripts/tts-cache/b033129bcb6dc48c.json"
+ },
+ "tts:a471ef8377ed3795": {
+  "status": "done",
+  "at": "2026-11-17T23:54:04Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Varen en de natuur in, zonder eerst in de auto te hoeven stappen?",
+  "request_id": "u92ky3WSSOyC1rqBDfjt",
+  "character_cost": "32",
+  "cache": "scripts/tts-cache/a471ef8377ed3795.json"
+ },
+ "tts:4cfa53cb8e36e6d4": {
+  "status": "done",
+  "at": "2026-11-17T23:54:05Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Heeft u al gezien welk huis er aan de ringvaart in Oostzaan gebouwd gaat worden?",
+  "request_id": "SgCLPZ9eQfOUdGIjMNCO",
+  "character_cost": "39",
+  "cache": "scripts/tts-cache/4cfa53cb8e36e6d4.json"
+ },
+ "tts:628263e454165caa": {
+  "status": "done",
+  "at": "2026-11-17T23:54:05Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Aan de Apollolaan in Oostzaan bouwt DJZN één vrijstaande nieuwbouwwoning, en daar blijft het bij. De vergunning is al verleend, dus direct na de koop kan de bouw beginnen, met een bouwtijd van één jaar. Met energielabel A+++, een warmtepomp en vloerverwarming woont u comfortabel met lage energielasten. Het perceel van 319 vierkante meter heeft twee toegangen, ruimte voor drie auto's en een vrijstaande garage van 18 vierkante meter. Binnen vindt u 157 vierkante meter met vier slaapkamers, twee badkamers en een inloopkast. U woont direct aan de ringvaart met uitzicht over Het Twiske, en bent met de auto in circa 20 minuten in Amsterdam-Centrum. U koopt rechtstreeks van de ontwikkelaar, met Bart als persoonlijk aanspreekpunt. De vraagprijs is 1.295.000 euro vrij op naam. Klik op de knop hieronder voor de brochure met plattegronden en bespreek uw vragen direct met Chantal van DJZN.",
+  "request_id": "JSOCcVKGybsv1qrbyxQ3",
+  "character_cost": "432",
+  "cache": "scripts/tts-cache/628263e454165caa.json"
+ },
+ "tts:d9e686a78d10e584": {
+  "status": "done",
+  "at": "2026-11-17T23:54:06Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Zoekt u een vrijstaande nieuwbouwwoning bij Amsterdam waarvan de vergunning al rond is?",
+  "request_id": "PEwaNPXjIzBaPKOMlVCR",
+  "character_cost": "42",
+  "cache": "scripts/tts-cache/d9e686a78d10e584.json"
+ },
+ "tts:1af9fdb814611986": {
+  "status": "done",
+  "at": "2026-11-17T23:54:07Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Eén vrijstaande nieuwbouwwoning met energielabel A+++, waarvan de bouw direct na de koop kan starten.",
+  "request_id": "mgBuQksk53izKxuEei1t",
+  "character_cost": "49",
+  "cache": "scripts/tts-cache/1af9fdb814611986.json"
+ },
+ "tts:cb3a83c9aa0a73cb": {
+  "status": "done",
+  "at": "2026-11-17T23:54:09Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Wilt u bijzonder wonen dicht bij Amsterdam, zonder onzekerheid over de vergunning?",
+  "request_id": "teHljgSuiQuyl5DIttdO",
+  "character_cost": "40",
+  "cache": "scripts/tts-cache/cb3a83c9aa0a73cb.json"
+ },
+ "tts:ab3066fced3de620": {
+  "status": "done",
+  "at": "2026-11-17T23:54:09Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Bent u op zoek naar nieuwbouw met lage energielasten, ruimte voor drie auto's en een eigen garage?",
+  "request_id": "Xj0uLjXjRQyZegLVwASC",
+  "character_cost": "48",
+  "cache": "scripts/tts-cache/ab3066fced3de620.json"
+ },
+ "tts:47a18f12ca5cd79c": {
+  "status": "done",
+  "at": "2026-11-17T23:54:11Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Aan de ringvaart in Oostzaan, met Het Twiske direct achter het huis, wordt één vrijstaande nieuwbouwwoning gebouwd. Zo zet u de stap naar vrijstaand wonen, zonder uw vertrouwde omgeving te verlaten. De woning staat op een perceel van 319 vierkante meter, met ruimte voor drie auto's en een vrijstaande garage. Op de begane grond leeft u rond een open keuken, met directe verbinding naar de tuin. Daarboven vindt u vier slaapkamers, twee badkamers en een inloopkast. Met energielabel A+++, een warmtepomp en vloerverwarming woont u comfortabel en met lage energielasten. De vergunning is al verleend, dus na de koop start de bouw direct, met een bouwtijd van één jaar. Er komt maar één van deze woningen aan de Apollolaan. De vraagprijs is 1.295.000 euro vrij op naam. Klik op de knop hieronder voor de brochure met plattegronden en plan een gesprek met Bart van Chantal om samen uw verhuisplanning door te nemen.",
+  "request_id": "0eVVSloSmz3moEj6meWQ",
+  "character_cost": "442",
+  "cache": "scripts/tts-cache/47a18f12ca5cd79c.json"
+ },
+ "tts:c685c029518d749c": {
+  "status": "done",
+  "at": "2026-11-17T23:54:12Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Woont u in de Zaanstreek en droomt u van vrijstaand wonen, zonder uw vertrouwde omgeving achter te laten?",
+  "request_id": "gXBz2PUlNzkHhE1vmVNX",
+  "character_cost": "51",
+  "cache": "scripts/tts-cache/c685c029518d749c.json"
+ },
+ "tts:e564b05d14e99c14": {
+  "status": "done",
+  "at": "2026-11-17T23:54:14Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Wilt u de stap maken van een rij- of twee-onder-een-kapwoning naar vrijstaand wonen, gewoon hier in de regio?",
+  "request_id": "JX2qPinGkwiiVmN7iTWl",
+  "character_cost": "53",
+  "cache": "scripts/tts-cache/e564b05d14e99c14.json"
+ },
+ "tts:0407d582c0df71e1": {
+  "status": "done",
+  "at": "2026-11-17T23:54:15Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Kent u Het Twiske? Straks kunt u er direct naast wonen, in een vrijstaand nieuwbouwhuis.",
+  "request_id": "RH8tIVBU8GWjSMZgdCsx",
+  "character_cost": "43",
+  "cache": "scripts/tts-cache/0407d582c0df71e1.json"
+ },
+ "tts:679b4627a3feb360": {
+  "status": "done",
+  "at": "2026-11-17T23:54:16Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Vrijstaand wonen aan het water, en toch in de buurt blijven waar u zich thuis voelt?",
+  "request_id": "M0O5hCMaxIP42VqvWAfT",
+  "character_cost": "41",
+  "cache": "scripts/tts-cache/679b4627a3feb360.json"
+ },
+ "tts:ce47470aebf0daba": {
+  "status": "done",
+  "at": "2026-11-17T23:54:17Z",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "text": "Een vrijstaand nieuwbouwhuis aan de ringvaart in Oostzaan: zoiets komt zelden voorbij.",
+  "request_id": "eu5FkzUxbqjum6bu6tlw",
+  "character_cost": "42",
+  "cache": "scripts/tts-cache/ce47470aebf0daba.json"
+ },
+ "asset:achtergevel-woning": {
+  "status": "done",
+  "sha256": "4909bb7ca78ec1cbad29429e80fa6e2b2fc41ad842e97bf52ca673a75df4de60",
+  "at": "2026-11-17T23:55:05Z",
+  "asset_id": "Rsgg6PwdLqpsD6NUkP2y",
+  "response_keys": [
+   "asset_id",
+   "content_url",
+   "created_at_unix",
+   "mime_type",
+   "name"
+  ]
+ },
+ "asset:achtergevel-boot": {
+  "status": "done",
+  "sha256": "af36feca7343100f1bca3d995a2a3dcf966c4c97627dca79906151d908cad599",
+  "at": "2026-11-17T23:55:05Z",
+  "asset_id": "93WO96SOl7w5yetqRYzP",
+  "response_keys": [
+   "asset_id",
+   "content_url",
+   "created_at_unix",
+   "mime_type",
+   "name"
+  ]
+ },
+ "asset:achtergevel-terras": {
+  "status": "done",
+  "sha256": "d38be3b38f88fa73b6b48c5a36d42744aecd2338f8a89266bfffd55ea2934d61",
+  "at": "2026-11-17T23:55:05Z",
+  "asset_id": "Ca56sJ0mfKPe191NYq7E",
+  "response_keys": [
+   "asset_id",
+   "content_url",
+   "created_at_unix",
+   "mime_type",
+   "name"
+  ]
+ },
+ "asset:ringvaart-twiske": {
+  "status": "done",
+  "sha256": "8f0a4109c47038bd3da23d145f5f07c05b2142665080b2c097e11272bb8bce82",
+  "at": "2026-11-17T23:55:05Z",
+  "asset_id": "9fenNj8VbgjXVloE6bky",
+  "response_keys": [
+   "asset_id",
+   "content_url",
+   "created_at_unix",
+   "mime_type",
+   "name"
+  ]
+ },
+ "asset:keuken-kookeiland": {
+  "status": "done",
+  "sha256": "4962a089ec0673836876fd528712e6e05702fd69e306a4adf2509c850ad7e5e8",
+  "at": "2026-11-17T23:55:05Z",
+  "asset_id": "RJyfTSH5V9VGHzF6CrpR",
+  "response_keys": [
+   "asset_id",
+   "content_url",
+   "created_at_unix",
+   "mime_type",
+   "name"
+  ]
+ },
+ "asset:keuken-eettafel": {
+  "status": "done",
+  "sha256": "2ac6d30f93aab6ffdb260ee4cbf329dcc48fc772d997fe6183fa296ff51b525a",
+  "at": "2026-11-17T23:55:05Z",
+  "asset_id": "tw3lC0XSQYD63ON9WntM",
+  "response_keys": [
+   "asset_id",
+   "content_url",
+   "created_at_unix",
+   "mime_type",
+   "name"
+  ]
+ },
+ "video:achtergevel-terras": {
+  "status": "completed",
+  "at": "2026-11-17T23:55:07Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Keep the building, interior, furniture, proportions, materials, window frames and layout exactly as in the image; do not add, remove or change any architecture. Photorealistic, natural light. Slow, smooth pedestal rise from the reeds at the water's edge up towards the garden terrace and the glass extension, the couple on the lounge sofa relaxes and talks, ornamental grasses sway softly, warm evening light.",
+  "type": "image_to_video",
+  "start_frame": "bron/staand/achtergevel-terras.jpg",
+  "start_frame_sha256": "d38be3b38f88fa73b6b48c5a36d42744aecd2338f8a89266bfffd55ea2934d61",
+  "generation_id": "41aMThluO4T4kHiOuuhV",
+  "request_id": null,
+  "file": "ai-clips/achtergevel-terras.mp4",
+  "sha256": "7fd6ef72b2e61e972f43bdc4c921beace4793c83724d8be90da4c0a5fb9c3239",
+  "response_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "geometry": "1080x1920",
+  "sar": "1:1",
+  "duration": 8.0,
+  "portrait_ok": true
+ },
+ "video:keuken-kookeiland": {
+  "status": "completed",
+  "at": "2026-11-17T23:55:07Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Keep the building, interior, furniture, proportions, materials, window frames and layout exactly as in the image; do not add, remove or change any architecture. Photorealistic, natural light. Very slow, subtle push-in past the curved kitchen island towards the large windows with the green nature view, sunlight shifts subtly across the floor, the palm leaves move gently.",
+  "type": "image_to_video",
+  "start_frame": "bron/staand/keuken-kookeiland.jpg",
+  "start_frame_sha256": "4962a089ec0673836876fd528712e6e05702fd69e306a4adf2509c850ad7e5e8",
+  "generation_id": "EPHtAkHEYfhzl7AAFW3w",
+  "request_id": null,
+  "file": "ai-clips/keuken-kookeiland.mp4",
+  "sha256": "7a32024e0dd6cdaa0e1b7318590f3fbf8c965a9594ec786b3a1f848a6e4f34f5",
+  "response_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "geometry": "1080x1920",
+  "sar": "1:1",
+  "duration": 8.0,
+  "portrait_ok": true
+ },
+ "video:ringvaart-twiske": {
+  "status": "completed",
+  "at": "2026-11-17T23:55:07Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Keep the building, interior, furniture, proportions, materials, window frames and layout exactly as in the image; do not add, remove or change any architecture. Photorealistic, natural light. Slow, smooth forward drone-like glide above the calm waterway, the small white boat cruises gently along the reeds leaving a soft wake, trees of the nature area sway slightly, clear blue sky, bright sunny day.",
+  "type": "image_to_video",
+  "start_frame": "bron/staand/ringvaart-twiske.jpg",
+  "start_frame_sha256": "8f0a4109c47038bd3da23d145f5f07c05b2142665080b2c097e11272bb8bce82",
+  "generation_id": "3cFdaiJOaKdCUvfzO1QW",
+  "request_id": null,
+  "file": "ai-clips/ringvaart-twiske.mp4",
+  "sha256": "3c85d445993b5e8aaada755dc3f843f61d65a4997034b21f4ea2f5c449a59411",
+  "response_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "geometry": "1080x1920",
+  "sar": "1:1",
+  "duration": 8.0,
+  "portrait_ok": true
+ },
+ "video:achtergevel-boot": {
+  "status": "completed",
+  "at": "2026-11-17T23:55:07Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Keep the building, interior, furniture, proportions, materials, window frames and layout exactly as in the image; do not add, remove or change any architecture. Photorealistic, natural light. Slow, smooth lateral dolly to the left along the water, the wooden motorboat bobs gently at the quay in front of the garden, soft ripples on the water, the couple on the terrace talks naturally, warm golden-hour light.",
+  "type": "image_to_video",
+  "start_frame": "bron/staand/achtergevel-boot.jpg",
+  "start_frame_sha256": "af36feca7343100f1bca3d995a2a3dcf966c4c97627dca79906151d908cad599",
+  "generation_id": "xjMH6KTJQZP82eV0AJAL",
+  "request_id": null,
+  "file": "ai-clips/achtergevel-boot.mp4",
+  "sha256": "1f303bcef6ec38629c5542e36e4440936119a14136ea8a5a67d26a277eeebb14",
+  "response_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "geometry": "1080x1920",
+  "sar": "1:1",
+  "duration": 8.0,
+  "portrait_ok": true
+ },
+ "video:achtergevel-woning": {
+  "status": "completed",
+  "at": "2026-11-17T23:55:07Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Keep the building, interior, furniture, proportions, materials, window frames and layout exactly as in the image; do not add, remove or change any architecture. Photorealistic, natural light. Very slow, smooth gimbal push-in towards the rear facade of this new detached brick house with two dormers, reeds and grasses at the water's edge sway gently in the breeze, birds fly in the sky, warm golden-hour light.",
+  "type": "image_to_video",
+  "start_frame": "bron/staand/achtergevel-woning.jpg",
+  "start_frame_sha256": "4909bb7ca78ec1cbad29429e80fa6e2b2fc41ad842e97bf52ca673a75df4de60",
+  "generation_id": "oojooZWlxHEOekXCOSFh",
+  "request_id": null,
+  "file": "ai-clips/achtergevel-woning.mp4",
+  "sha256": "218cdfca285330134f3c1b6aaf4f8dbbfbc657ad888d39c5eafbb780c39f58c2",
+  "response_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "geometry": "1080x1920",
+  "sar": "1:1",
+  "duration": 8.0,
+  "portrait_ok": true
+ },
+ "video:keuken-eettafel": {
+  "status": "completed",
+  "at": "2026-11-17T23:55:07Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Keep the building, interior, furniture, proportions, materials, window frames and layout exactly as in the image; do not add, remove or change any architecture. Photorealistic, natural light. Slow, smooth lateral dolly to the left past the round dining table towards the glass garden doors, the pendant lights hang still, sunlight falls softly into the room, reeds move gently outside.",
+  "type": "image_to_video",
+  "start_frame": "bron/staand/keuken-eettafel.jpg",
+  "start_frame_sha256": "2ac6d30f93aab6ffdb260ee4cbf329dcc48fc772d997fe6183fa296ff51b525a",
+  "generation_id": "okuF2xXBZ2oyN5sfsTi9",
+  "request_id": null,
+  "file": "ai-clips/keuken-eettafel.mp4",
+  "sha256": "11a35051cea4f44b483b7f6edf30a13acc319dec7fc78ad7535b07cbf4e69727",
+  "response_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "geometry": "1080x1920",
+  "sar": "1:1",
+  "duration": 8.0,
+  "portrait_ok": true
+ },
+ "music:muziek": {
+  "status": "done",
+  "at": "2026-11-17T23:55:53Z",
+  "model_id": "music_v1",
+  "prompt": "Uplifting, warm and positive instrumental background music for a Dutch real estate advert about a new family detached home on the water next to a nature reserve: light acoustic guitar, soft piano, gentle strings and subtle percussion, airy and optimistic, steady medium tempo around 100 BPM, no vocals, no lyrics, consistent energy, mixed to sit underneath a spoken voice-over.",
+  "music_length_ms": 72000,
+  "force_instrumental": true,
+  "request_id": null,
+  "song_id": "DhBT7jy7Ec05MG9IpeoK",
+  "file": "public/muziek/muziek.mp3"
+ },
+ "asset:woonkamer-tuindeuren": {
+  "status": "done",
+  "sha256": "e2c96e620eb5512185b2a641f96050dfe51fecc99408ce42d1b3174ddfadf715",
+  "at": "2026-11-17T23:57:31Z",
+  "asset_id": "xhJ7PxMxTsqMSDFusx9O",
+  "response_keys": [
+   "asset_id",
+   "content_url",
+   "created_at_unix",
+   "mime_type",
+   "name"
+  ]
+ },
+ "asset:woonkamer-eethoek": {
+  "status": "done",
+  "sha256": "dcb03d1f6de6c5b72dc4c8324f198cf82dfb59491614668d31000eb34800011b",
+  "at": "2026-11-17T23:57:32Z",
+  "asset_id": "ETdzpXabowQnCuTtp3hw",
+  "response_keys": [
+   "asset_id",
+   "content_url",
+   "created_at_unix",
+   "mime_type",
+   "name"
+  ]
+ },
+ "video:woonkamer-tuindeuren": {
+  "status": "completed",
+  "at": "2026-11-17T23:57:33Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Keep the building, interior, furniture, proportions, materials, window frames and layout exactly as in the image; do not add, remove or change any architecture. Photorealistic, natural light. Slow, smooth push-in through the living room towards the tall glass doors with the view over the water and reeds, curtains move softly in a light breeze, warm afternoon daylight.",
+  "type": "image_to_video",
+  "start_frame": "bron/staand/woonkamer-tuindeuren.jpg",
+  "start_frame_sha256": "e2c96e620eb5512185b2a641f96050dfe51fecc99408ce42d1b3174ddfadf715",
+  "generation_id": "vxwJcEJTXuZ2oHOEEsSZ",
+  "request_id": null,
+  "file": "ai-clips/woonkamer-tuindeuren.mp4",
+  "sha256": "0ee3c83375195dbe63eebed56669b3299cb418317da0ab5393ee0eb2bc711dee",
+  "response_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "geometry": "1080x1920",
+  "sar": "1:1",
+  "duration": 8.0,
+  "portrait_ok": true
+ },
+ "video:woonkamer-eethoek": {
+  "status": "completed",
+  "at": "2026-11-17T23:57:33Z",
+  "model": "veo-3.1-generate-001",
+  "prompt": "One continuous shot, no cuts, no transitions, no morphing. Keep the building, interior, furniture, proportions, materials, window frames and layout exactly as in the image; do not add, remove or change any architecture. Photorealistic, natural light. Slow, smooth arc to the right through the living area towards the dining table and kitchen, the pendant lights glint softly, warm afternoon daylight.",
+  "type": "image_to_video",
+  "start_frame": "bron/staand/woonkamer-eethoek.jpg",
+  "start_frame_sha256": "dcb03d1f6de6c5b72dc4c8324f198cf82dfb59491614668d31000eb34800011b",
+  "generation_id": "M7UsnYfTKbBFa81Cqpk1",
+  "request_id": null,
+  "file": "ai-clips/woonkamer-eethoek.mp4",
+  "sha256": "9c9e93006bbc205d259c594894fde4a5958ed1dbaeb399d07b5e7530f01b0af0",
+  "response_keys": [
+   "content_mime_type",
+   "content_url",
+   "id",
+   "status"
+  ],
+  "geometry": "1080x1920",
+  "sar": "1:1",
+  "duration": 8.0,
+  "portrait_ok": true
+ }
+}

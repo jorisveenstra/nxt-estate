@@ -1,0 +1,7 @@
+out
+build
+node_modules
+__pycache__/
+bron/origineel/
+bron/staand/
+ai-clips/

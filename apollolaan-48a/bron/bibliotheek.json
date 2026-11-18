@@ -1,0 +1,154 @@
+{
+ "staand:achtergevel-woning": {
+  "asset_id": "35169116-0090-46b4-8a62-d4a7934eef53",
+  "status": "ready",
+  "file": "bron/staand/achtergevel-woning.jpg",
+  "sha256": "4909bb7ca78ec1cbad29429e80fa6e2b2fc41ad842e97bf52ca673a75df4de60",
+  "source_sha256": "c9d037769fb52473f5cce1b81750c4eb3e0c89f84856d498f3cb9ce5823fc741",
+  "library_id": "35169116-0090-46b4-8a62-d4a7934eef53",
+  "title": "Apollolaan 48a - Achtergevel woning met dakkapellen - staande uitsnede - gouden uur - 9x16"
+ },
+ "staand:achtergevel-boot": {
+  "asset_id": "dbf3acdc-1e64-4714-b8ac-5ef6fae1b9fb",
+  "status": "ready",
+  "file": "bron/staand/achtergevel-boot.jpg",
+  "sha256": "af36feca7343100f1bca3d995a2a3dcf966c4c97627dca79906151d908cad599",
+  "source_sha256": "c9d037769fb52473f5cce1b81750c4eb3e0c89f84856d498f3cb9ce5823fc741",
+  "library_id": "dbf3acdc-1e64-4714-b8ac-5ef6fae1b9fb",
+  "title": "Apollolaan 48a - Achtertuin met boot aan de kade - staande uitsnede - gouden uur - 9x16"
+ },
+ "staand:achtergevel-terras": {
+  "asset_id": "7aa29ff9-af13-463e-a4f1-5f7086c9ba67",
+  "status": "ready",
+  "file": "bron/staand/achtergevel-terras.jpg",
+  "sha256": "d38be3b38f88fa73b6b48c5a36d42744aecd2338f8a89266bfffd55ea2934d61",
+  "source_sha256": "c9d037769fb52473f5cce1b81750c4eb3e0c89f84856d498f3cb9ce5823fc741",
+  "library_id": "7aa29ff9-af13-463e-a4f1-5f7086c9ba67",
+  "title": "Apollolaan 48a - Terras en glazen aanbouw aan het water - staande uitsnede - gouden uur - 9x16"
+ },
+ "staand:ringvaart-twiske": {
+  "asset_id": "2b68c046-9ed8-4bcf-b88e-2bff3d15179b",
+  "status": "ready",
+  "file": "bron/staand/ringvaart-twiske.jpg",
+  "sha256": "8f0a4109c47038bd3da23d145f5f07c05b2142665080b2c097e11272bb8bce82",
+  "source_sha256": "dcc40bf9d20b9b1cc39e0644daeee4305d1c4329f8d3fda4b0a4c0f37aec0a90",
+  "library_id": "2b68c046-9ed8-4bcf-b88e-2bff3d15179b",
+  "title": "Apollolaan 48a - Ringvaart richting Het Twiske met bootje - staande uitsnede - zonnig - 9x16"
+ },
+ "staand:keuken-kookeiland": {
+  "asset_id": "e348ae95-9b0d-40c2-9779-8ff390cdfc4f",
+  "status": "ready",
+  "file": "bron/staand/keuken-kookeiland.jpg",
+  "sha256": "4962a089ec0673836876fd528712e6e05702fd69e306a4adf2509c850ad7e5e8",
+  "source_sha256": "eb3d8a29e6cfc470cc8384a419478e0bf30daab3bf74caa0ab46c22601cabe80",
+  "library_id": "e348ae95-9b0d-40c2-9779-8ff390cdfc4f",
+  "title": "Apollolaan 48a - Keuken met kookeiland en natuurzicht - staande uitsnede - daglicht - 9x16"
+ },
+ "staand:keuken-eettafel": {
+  "asset_id": "2b7d6c06-2785-4f35-827b-8a8244412c47",
+  "status": "ready",
+  "file": "bron/staand/keuken-eettafel.jpg",
+  "sha256": "2ac6d30f93aab6ffdb260ee4cbf329dcc48fc772d997fe6183fa296ff51b525a",
+  "source_sha256": "eb3d8a29e6cfc470cc8384a419478e0bf30daab3bf74caa0ab46c22601cabe80",
+  "library_id": "2b7d6c06-2785-4f35-827b-8a8244412c47",
+  "title": "Apollolaan 48a - Eettafel en tuindeuren - staande uitsnede - daglicht - 9x16"
+ },
+ "staand:woonkamer-tuindeuren": {
+  "asset_id": "e5494c7a-550e-40b5-bc5e-4a6c32ff1560",
+  "status": "ready",
+  "file": "bron/staand/woonkamer-tuindeuren.jpg",
+  "sha256": "e2c96e620eb5512185b2a641f96050dfe51fecc99408ce42d1b3174ddfadf715",
+  "source_sha256": "f45e73f752a2152a2a5dc3586e0854794ab5eea5aca48ac97a50f508089d1e7e",
+  "library_id": "e5494c7a-550e-40b5-bc5e-4a6c32ff1560",
+  "title": "Apollolaan 48a - Woonkamer met glazen deuren naar het water - staande uitsnede - daglicht - 9x16"
+ },
+ "staand:woonkamer-eethoek": {
+  "asset_id": "62e56d2a-c119-4afb-a18c-0c08c5df37da",
+  "status": "ready",
+  "file": "bron/staand/woonkamer-eethoek.jpg",
+  "sha256": "dcb03d1f6de6c5b72dc4c8324f198cf82dfb59491614668d31000eb34800011b",
+  "source_sha256": "f45e73f752a2152a2a5dc3586e0854794ab5eea5aca48ac97a50f508089d1e7e",
+  "library_id": "62e56d2a-c119-4afb-a18c-0c08c5df37da",
+  "title": "Apollolaan 48a - Woonkamer richting eethoek en keuken - staande uitsnede - daglicht - 9x16"
+ },
+ "clip:achtergevel-woning": {
+  "asset_id": "f387de6d-9c81-4aa7-aa65-eecd5a2646a0",
+  "status": "ready",
+  "file": "ai-clips/achtergevel-woning.mp4",
+  "sha256": "218cdfca285330134f3c1b6aaf4f8dbbfbc657ad888d39c5eafbb780c39f58c2",
+  "source_sha256": "4909bb7ca78ec1cbad29429e80fa6e2b2fc41ad842e97bf52ca673a75df4de60",
+  "generation_id": "oojooZWlxHEOekXCOSFh",
+  "library_id": "f387de6d-9c81-4aa7-aa65-eecd5a2646a0",
+  "title": "Apollolaan 48a - Achtergevel woning met dakkapellen - rustige push-in - gouden uur - Veo 9x16"
+ },
+ "clip:achtergevel-boot": {
+  "asset_id": "29c98467-98b0-416e-a5d4-012ec9dd192c",
+  "status": "ready",
+  "file": "ai-clips/achtergevel-boot.mp4",
+  "sha256": "1f303bcef6ec38629c5542e36e4440936119a14136ea8a5a67d26a277eeebb14",
+  "source_sha256": "af36feca7343100f1bca3d995a2a3dcf966c4c97627dca79906151d908cad599",
+  "generation_id": "xjMH6KTJQZP82eV0AJAL",
+  "library_id": "29c98467-98b0-416e-a5d4-012ec9dd192c",
+  "title": "Apollolaan 48a - Achtertuin met boot aan de kade - zijwaartse dolly - gouden uur - Veo 9x16"
+ },
+ "clip:achtergevel-terras": {
+  "asset_id": "5425dd59-c5b6-4cd9-8b16-aa352845bd3d",
+  "status": "ready",
+  "file": "ai-clips/achtergevel-terras.mp4",
+  "sha256": "7fd6ef72b2e61e972f43bdc4c921beace4793c83724d8be90da4c0a5fb9c3239",
+  "source_sha256": "d38be3b38f88fa73b6b48c5a36d42744aecd2338f8a89266bfffd55ea2934d61",
+  "generation_id": "41aMThluO4T4kHiOuuhV",
+  "library_id": "5425dd59-c5b6-4cd9-8b16-aa352845bd3d",
+  "title": "Apollolaan 48a - Terras en glazen aanbouw aan het water - opwaartse camerabeweging - gouden uur - Veo 9x16"
+ },
+ "clip:ringvaart-twiske": {
+  "asset_id": "e399380c-c3e4-47a7-9db3-4dd84b8a465c",
+  "status": "ready",
+  "file": "ai-clips/ringvaart-twiske.mp4",
+  "sha256": "3c85d445993b5e8aaada755dc3f843f61d65a4997034b21f4ea2f5c449a59411",
+  "source_sha256": "8f0a4109c47038bd3da23d145f5f07c05b2142665080b2c097e11272bb8bce82",
+  "generation_id": "3cFdaiJOaKdCUvfzO1QW",
+  "library_id": "e399380c-c3e4-47a7-9db3-4dd84b8a465c",
+  "title": "Apollolaan 48a - Ringvaart richting Het Twiske met bootje - glijdende vlucht over het water - zonnig - Veo 9x16"
+ },
+ "clip:keuken-kookeiland": {
+  "asset_id": "86295bb2-74a4-43e2-9b4f-3851ba930c7e",
+  "status": "ready",
+  "file": "ai-clips/keuken-kookeiland.mp4",
+  "sha256": "7a32024e0dd6cdaa0e1b7318590f3fbf8c965a9594ec786b3a1f848a6e4f34f5",
+  "source_sha256": "4962a089ec0673836876fd528712e6e05702fd69e306a4adf2509c850ad7e5e8",
+  "generation_id": "EPHtAkHEYfhzl7AAFW3w",
+  "library_id": "86295bb2-74a4-43e2-9b4f-3851ba930c7e",
+  "title": "Apollolaan 48a - Keuken met kookeiland en natuurzicht - rustige push-in - daglicht - Veo 9x16"
+ },
+ "clip:keuken-eettafel": {
+  "asset_id": "47af1519-2668-4173-bbe3-a1f108dfcf62",
+  "status": "ready",
+  "file": "ai-clips/keuken-eettafel.mp4",
+  "sha256": "11a35051cea4f44b483b7f6edf30a13acc319dec7fc78ad7535b07cbf4e69727",
+  "source_sha256": "2ac6d30f93aab6ffdb260ee4cbf329dcc48fc772d997fe6183fa296ff51b525a",
+  "generation_id": "okuF2xXBZ2oyN5sfsTi9",
+  "library_id": "47af1519-2668-4173-bbe3-a1f108dfcf62",
+  "title": "Apollolaan 48a - Eettafel en tuindeuren - zijwaartse dolly - daglicht - Veo 9x16"
+ },
+ "clip:woonkamer-tuindeuren": {
+  "asset_id": "36c7db9e-44e9-4425-bcea-fe7996e7c26c",
+  "status": "ready",
+  "file": "ai-clips/woonkamer-tuindeuren.mp4",
+  "sha256": "0ee3c83375195dbe63eebed56669b3299cb418317da0ab5393ee0eb2bc711dee",
+  "source_sha256": "e2c96e620eb5512185b2a641f96050dfe51fecc99408ce42d1b3174ddfadf715",
+  "generation_id": "vxwJcEJTXuZ2oHOEEsSZ",
+  "library_id": "36c7db9e-44e9-4425-bcea-fe7996e7c26c",
+  "title": "Apollolaan 48a - Woonkamer met glazen deuren naar het water - push-in naar de glazen deuren - daglicht - Veo 9x16"
+ },
+ "clip:woonkamer-eethoek": {
+  "asset_id": "eeb94d6d-b1e0-4edb-9fc4-a46e39887d8b",
+  "status": "ready",
+  "file": "ai-clips/woonkamer-eethoek.mp4",
+  "sha256": "9c9e93006bbc205d259c594894fde4a5958ed1dbaeb399d07b5e7530f01b0af0",
+  "source_sha256": "dcb03d1f6de6c5b72dc4c8324f198cf82dfb59491614668d31000eb34800011b",
+  "generation_id": "M7UsnYfTKbBFa81Cqpk1",
+  "library_id": "eeb94d6d-b1e0-4edb-9fc4-a46e39887d8b",
+  "title": "Apollolaan 48a - Woonkamer richting eethoek en keuken - boog naar de eethoek - daglicht - Veo 9x16"
+ }
+}
