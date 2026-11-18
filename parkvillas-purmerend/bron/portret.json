@@ -1,0 +1,123 @@
+{
+ "voorgevel-park": {
+  "bron": "voorkant.jpg",
+  "bronSha256": "41a673ffa5632162a8eb6c311c2e9d3eaacc1c25417a1fd1042a8397ef57e88e",
+  "crop": [
+   608,
+   1080,
+   656,
+   0
+  ],
+  "portretSha256": "69217ffed92af837212376e9f991dbfb17d4434fcdc7f509643ce4cb6d2f34be"
+ },
+ "achtergevel-terras": {
+  "bron": "achterkant hoog.jpg",
+  "bronSha256": "f55194a122aadc2cbec733a857d639ce2b248efda12a43df93aede56ec673519",
+  "crop": [
+   608,
+   1080,
+   579,
+   0
+  ],
+  "portretSha256": "e5a404498167a9ffb7ee3f35f9423f1adb322c325f7e3ca55fdc4a70071639cb"
+ },
+ "achtergevel-straat": {
+  "bron": "achterkant laag.jpg",
+  "bronSha256": "28b9ced2474d25ae1322cbaf26b1d4eaa8546ce91ad4d0f12490379c518a8692",
+  "crop": [
+   608,
+   1080,
+   272,
+   0
+  ],
+  "portretSha256": "94e7efd52c8d6fb8e18f932c82be049453ffd1e27098f7fce626be2d5dd3c9a4"
+ },
+ "stadstuin": {
+  "bron": "tuin.jpg",
+  "bronSha256": "664b089616142c4357eb566b559c57be6d4bd5327fce66ba3ae91470a7f91861",
+  "crop": [
+   608,
+   1080,
+   560,
+   0
+  ],
+  "portretSha256": "656049ede227116508107bd06cafaa322c9bf807bfe29a51f7de8a44c13cfc85"
+ },
+ "woonkamer": {
+  "bron": "woonkamer_parkvilla.jpg",
+  "bronSha256": "1fc4d00970b5d878a74ce58a116c77334825d7f86d69817eb5f307c9267f2116",
+  "crop": [
+   608,
+   1080,
+   598,
+   0
+  ],
+  "portretSha256": "c9f3c35d6e3c368d45b12bdc214410db030b6119e6f9eebd8aacfa3052834417"
+ },
+ "keuken": {
+  "bron": "Naamloos-1_0001_1189_LivingKitchen_15_12_2025_Final_Cam_2-3-3-1920x1080.jpg",
+  "bronSha256": "6b7833ec6eb3a70716eaaace225cc68e224ea549331ce2f55d469566d7a915c0",
+  "crop": [
+   608,
+   1080,
+   464,
+   0
+  ],
+  "portretSha256": "0bafb8cce45554c191a21368aebe92cba2ab28454cba656addbe8412bf6f30ec"
+ },
+ "loft-studio": {
+  "bron": "Pilates.jpg",
+  "bronSha256": "c5a54dc0c0a9d199445fa817e87d0ed4cebdddff21dcc2b643b688380d9123fd",
+  "crop": [
+   608,
+   1080,
+   656,
+   0
+  ],
+  "portretSha256": "013979a49cceb4dad6844f65855a093230326ef7d8e4f9519ae46366e3dd74c1"
+ },
+ "slaapkamer": {
+  "bron": "slaapkamer met bad.jpg",
+  "bronSha256": "4e6b93b4c1b5e19fa97e997f8361581573aabd9f42999a568ab1611d07a4ac07",
+  "crop": [
+   608,
+   1080,
+   560,
+   0
+  ],
+  "portretSha256": "5f44f0e87848d977a104aa99f8bac80ba68e7160a252dac2783934ec2d2bcc3d"
+ },
+ "park-vijver": {
+  "bron": "Foto van park.jpg",
+  "bronSha256": "9b4aba36bc7cb24940918416c4be284c77509fcb006acf831bcd76384831b921",
+  "crop": [
+   960,
+   1707,
+   800,
+   0
+  ],
+  "portretSha256": "a96c3eedff580b9da42dc2ba16bcce2cf3a2259f4f4b80fc7fe8d9203620e353"
+ },
+ "park-wandelpad": {
+  "bron": "Foto van park 2.jpg",
+  "bronSha256": "3634e318d9be40f9297a6fef26e5470de0bb79cf6f4b2c9845131e4e3401fb04",
+  "crop": [
+   960,
+   1707,
+   160,
+   0
+  ],
+  "portretSha256": "f19d50e859aa81a27529bcf4ff44b238dce82c411b1c4c30a91d63eccf33a145"
+ },
+ "park-wandelaars": {
+  "bron": "Foto van park 4.jpg",
+  "bronSha256": "b46d2c05062918b5311a250f0789650a3252500e4e5f515a727011b3266c89bc",
+  "crop": [
+   960,
+   1707,
+   1210,
+   0
+  ],
+  "portretSha256": "55041b1c310c86d56bc8eeb21886d08d620516358f76cfa20236f09b7315030a"
+ }
+}

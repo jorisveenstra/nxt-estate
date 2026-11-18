@@ -1,0 +1,10 @@
+{
+ "state": "done",
+ "model_id": "music_v1",
+ "prompt": "Uplifting, warm and positive instrumental background music for a premium new-build home advert next to a green city park. Light acoustic guitar, soft piano, gentle claps and airy strings, steady medium tempo around 105 BPM, optimistic and elegant, consistent energy without big drops, clean ending. No vocals, no lyrics.",
+ "music_length_ms": 66000,
+ "force_instrumental": true,
+ "headers": {
+  "song-id": "rS6QgfbKA3vWRYBqj4TL"
+ }
+}
