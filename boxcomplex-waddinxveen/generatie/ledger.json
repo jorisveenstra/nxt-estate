@@ -1,0 +1,414 @@
+{
+ "vo:b1_h1": {
+  "status": "klaar",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "request_id": "l5vSQk8tbHiCPNxKLb9c",
+  "character_cost": "38"
+ },
+ "veo:a2_hoek_boxcomplex": {
+  "asset_id": "BgqlNwMWOzvqbBy9u2Nt",
+  "model": "veo-3.1-generate-001",
+  "startframe": "ai-renders/portret/a2_hoek_boxcomplex.png",
+  "status": "klaar",
+  "prompt": "Slow gentle push-in toward the corner of the dark grey business-unit building with the BOXCOMPLEX sign, the white van stays parked, clouds drift slightly, natural daylight. One continuous shot, no cuts, no transitions, no morphing. Keep the architecture, proportions, materials, signage and layout exactly as in the start image; photorealistic.",
+  "settings": {
+   "model_id": "veo-3.1-generate-001",
+   "start_frame": {
+    "type": "asset",
+    "asset_id": "BgqlNwMWOzvqbBy9u2Nt"
+   },
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "generate_audio": false,
+   "aspect_ratio": "9:16"
+  },
+  "generation_id": "snn9q69WiyxgbBCOOsRq",
+  "request_id": "snn9q69WiyxgbBCOOsRq",
+  "headers": {},
+  "width": 1080,
+  "height": 1920,
+  "duration": 8.0,
+  "result": {
+   "id": "snn9q69WiyxgbBCOOsRq",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "vo:b1_h2": {
+  "status": "klaar",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "request_id": "ppJP5DLHe5aLIVKEnqpY",
+  "character_cost": "48"
+ },
+ "vo:b1_h3": {
+  "status": "klaar",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "request_id": "5VFAGdWZgp579tncU65Q",
+  "character_cost": "41"
+ },
+ "vo:b1_h4": {
+  "status": "klaar",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "request_id": "E3MGMUbqsUn6MazMOwZA",
+  "character_cost": "30"
+ },
+ "vo:b1_h5": {
+  "status": "klaar",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "request_id": "HGVwfLYWWgCvgSHGXWmn",
+  "character_cost": "55"
+ },
+ "vo:b2_h1": {
+  "status": "klaar",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "request_id": "PPkSb6F4N0fnT8UBma1b",
+  "character_cost": "36"
+ },
+ "veo:a2_entrees": {
+  "asset_id": "PrHzeHUAQ9AtR1X0ydEj",
+  "model": "veo-3.1-generate-001",
+  "startframe": "ai-renders/portret/a2_entrees.png",
+  "status": "klaar",
+  "prompt": "Slow smooth lateral dolly along the row of business-unit entrances with overhead doors, people walk naturally, natural daylight. One continuous shot, no cuts, no transitions, no morphing. Keep the architecture, proportions, materials, signage and layout exactly as in the start image; photorealistic.",
+  "settings": {
+   "model_id": "veo-3.1-generate-001",
+   "start_frame": {
+    "type": "asset",
+    "asset_id": "PrHzeHUAQ9AtR1X0ydEj"
+   },
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "generate_audio": false,
+   "aspect_ratio": "9:16"
+  },
+  "generation_id": "sFC62GzK3AScQq6C5VCf",
+  "request_id": "sFC62GzK3AScQq6C5VCf",
+  "headers": {},
+  "width": 1080,
+  "height": 1920,
+  "duration": 8.0,
+  "result": {
+   "id": "sFC62GzK3AScQq6C5VCf",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "veo:d1_doorsnede_opslag": {
+  "asset_id": "DWC4dMMI9yiGoy3kCRuw",
+  "model": "veo-3.1-generate-001",
+  "startframe": "ai-renders/portret/d1_doorsnede_opslag.png",
+  "status": "klaar",
+  "prompt": "Slow smooth upward tilt over the cutaway section from the storage racks on the ground floor to the workspace on the upper floor, the man upstairs moves calmly, soft daylight. One continuous shot, no cuts, no transitions, no morphing. Keep the architecture, proportions, materials, signage and layout exactly as in the start image; photorealistic.",
+  "settings": {
+   "model_id": "veo-3.1-generate-001",
+   "start_frame": {
+    "type": "asset",
+    "asset_id": "DWC4dMMI9yiGoy3kCRuw"
+   },
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "generate_audio": false,
+   "aspect_ratio": "9:16"
+  },
+  "generation_id": "wT4nhyRAaEJJaIWc8C42",
+  "request_id": "wT4nhyRAaEJJaIWc8C42",
+  "headers": {},
+  "width": 1080,
+  "height": 1920,
+  "duration": 8.0,
+  "result": {
+   "id": "wT4nhyRAaEJJaIWc8C42",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "veo:c1_oranje_unit": {
+  "asset_id": "mcaDmEzDFDpVeNAI9lYq",
+  "model": "veo-3.1-generate-001",
+  "startframe": "ai-renders/portret/c1_oranje_unit.png",
+  "status": "klaar",
+  "prompt": "Slow gentle push-in toward the open overhead door of the business unit with the orange sign, the man with the bicycle stands still and looks inside, natural daylight. One continuous shot, no cuts, no transitions, no morphing. Keep the architecture, proportions, materials, signage and layout exactly as in the start image; photorealistic.",
+  "settings": {
+   "model_id": "veo-3.1-generate-001",
+   "start_frame": {
+    "type": "asset",
+    "asset_id": "mcaDmEzDFDpVeNAI9lYq"
+   },
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "generate_audio": false,
+   "aspect_ratio": "9:16"
+  },
+  "generation_id": "doTvexH6YrDq3ZcBXxVL",
+  "request_id": "doTvexH6YrDq3ZcBXxVL",
+  "headers": {},
+  "width": 1080,
+  "height": 1920,
+  "duration": 8.0,
+  "result": {
+   "id": "doTvexH6YrDq3ZcBXxVL",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "veo:vv2_vogelvlucht": {
+  "asset_id": "FPSlYOJQfFAnTmvc1iH0",
+  "model": "veo-3.1-generate-001",
+  "startframe": "ai-renders/portret/vv2_vogelvlucht.png",
+  "status": "klaar",
+  "prompt": "Slow smooth aerial drone glide forward and slightly down toward the flat-roofed business-unit building, trees sway gently, natural daylight. One continuous shot, no cuts, no transitions, no morphing. Keep the architecture, proportions, materials, signage and layout exactly as in the start image; photorealistic.",
+  "settings": {
+   "model_id": "veo-3.1-generate-001",
+   "start_frame": {
+    "type": "asset",
+    "asset_id": "FPSlYOJQfFAnTmvc1iH0"
+   },
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "generate_audio": false,
+   "aspect_ratio": "9:16"
+  },
+  "generation_id": "WqCg5xcjFjDxIY2MC8om",
+  "request_id": "WqCg5xcjFjDxIY2MC8om",
+  "headers": {},
+  "width": 1080,
+  "height": 1920,
+  "duration": 8.0,
+  "result": {
+   "id": "WqCg5xcjFjDxIY2MC8om",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "vo:b2_h2": {
+  "status": "klaar",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "request_id": "5pLTSRjxZhXBK6kRSLX4",
+  "character_cost": "33"
+ },
+ "veo:b3_rij_water": {
+  "asset_id": "XYJxPrrunBiYQ9YFu9hN",
+  "model": "veo-3.1-generate-001",
+  "startframe": "ai-renders/portret/b3_rij_water.png",
+  "status": "klaar",
+  "prompt": "Slow smooth lateral dolly along the row of business units beside the canal, water ripples gently, clouds drift, natural daylight. One continuous shot, no cuts, no transitions, no morphing. Keep the architecture, proportions, materials, signage and layout exactly as in the start image; photorealistic.",
+  "settings": {
+   "model_id": "veo-3.1-generate-001",
+   "start_frame": {
+    "type": "asset",
+    "asset_id": "XYJxPrrunBiYQ9YFu9hN"
+   },
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "generate_audio": false,
+   "aspect_ratio": "9:16"
+  },
+  "generation_id": "URUqDJLIW6iyP0TwbGNW",
+  "request_id": "URUqDJLIW6iyP0TwbGNW",
+  "headers": {},
+  "width": 1080,
+  "height": 1920,
+  "duration": 8.0,
+  "result": {
+   "id": "URUqDJLIW6iyP0TwbGNW",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "veo:d1_doorsnede_trap": {
+  "asset_id": "BSLmWgeiJClw5daOS73f",
+  "model": "veo-3.1-generate-001",
+  "startframe": "ai-renders/portret/d1_doorsnede_trap.png",
+  "status": "klaar",
+  "prompt": "Slow gentle push-in on the cutaway section of the two-storey business unit, the man carrying a box walks slowly toward the stairs, the person upstairs works at the desk, soft daylight. One continuous shot, no cuts, no transitions, no morphing. Keep the architecture, proportions, materials, signage and layout exactly as in the start image; photorealistic.",
+  "settings": {
+   "model_id": "veo-3.1-generate-001",
+   "start_frame": {
+    "type": "asset",
+    "asset_id": "BSLmWgeiJClw5daOS73f"
+   },
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "generate_audio": false,
+   "aspect_ratio": "9:16"
+  },
+  "generation_id": "iuCmrMLRNKM8EvR8dvY3",
+  "request_id": "iuCmrMLRNKM8EvR8dvY3",
+  "headers": {},
+  "width": 1080,
+  "height": 1920,
+  "duration": 8.0,
+  "result": {
+   "id": "iuCmrMLRNKM8EvR8dvY3",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "veo:b3_hoekunit": {
+  "asset_id": "jLFhRQpngymXn5ZPFMBH",
+  "model": "veo-3.1-generate-001",
+  "startframe": "ai-renders/portret/b3_hoekunit.png",
+  "status": "klaar",
+  "prompt": "Slow gentle push-in toward the open overhead door of the corner business unit, pedestrians walk slowly, leaves sway lightly, natural daylight. One continuous shot, no cuts, no transitions, no morphing. Keep the architecture, proportions, materials, signage and layout exactly as in the start image; photorealistic.",
+  "settings": {
+   "model_id": "veo-3.1-generate-001",
+   "start_frame": {
+    "type": "asset",
+    "asset_id": "jLFhRQpngymXn5ZPFMBH"
+   },
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "generate_audio": false,
+   "aspect_ratio": "9:16"
+  },
+  "generation_id": "ufgMZQ7HvPAKn68HLnHo",
+  "request_id": "ufgMZQ7HvPAKn68HLnHo",
+  "headers": {},
+  "width": 1080,
+  "height": 1920,
+  "duration": 8.0,
+  "result": {
+   "id": "ufgMZQ7HvPAKn68HLnHo",
+   "status": "completed",
+   "content_mime_type": "video/mp4"
+  }
+ },
+ "vo:b2_h3": {
+  "status": "klaar",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "request_id": "iSIoW2L7ATtPsPmVK9Lv",
+  "character_cost": "51"
+ },
+ "vo:b3_h1": {
+  "status": "klaar",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "request_id": "W506euu9IBl7GuScEcLc",
+  "character_cost": "35"
+ },
+ "vo:b3_h2": {
+  "status": "klaar",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "request_id": "di2MB1nFqQnl7X7dUZAC",
+  "character_cost": "45"
+ },
+ "vo:b3_h3": {
+  "status": "klaar",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "request_id": "E1vBlWMezP23COrv3vAI",
+  "character_cost": "44"
+ },
+ "vo:b3_h4": {
+  "status": "klaar",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "request_id": "aTEn9rS5FFLm7nUvFk7X",
+  "character_cost": "40"
+ },
+ "muziek": {
+  "status": "klaar",
+  "settings": {
+   "model_id": "music_v1",
+   "prompt": "Uplifting, positive, modern corporate instrumental for a Dutch business-property advertisement: warm plucked guitar and light piano, soft driving percussion, steady 105 BPM, confident and optimistic, clean mix that stays in the background beneath a voice-over, no vocals, no lyrics, consistent energy, gentle ending.",
+   "music_length_ms": 72000,
+   "force_instrumental": true
+  },
+  "request_id": null,
+  "song_id": "BR6VC6ycY4Ef9xQEstkh",
+  "character_cost": null
+ },
+ "vo-rev0:b1_body": {
+  "status": "klaar",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "request_id": "LC6xJ7NCZWuLqOAsoNv5",
+  "character_cost": "481"
+ },
+ "vo-rev0:b2_body": {
+  "status": "klaar",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "request_id": "nPeHibGYHL4mNHlM29Js",
+  "character_cost": "463"
+ },
+ "vo-rev0:b3_body": {
+  "status": "klaar",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "request_id": "kxERtEsgp55940SqIfza",
+  "character_cost": "540"
+ },
+ "vo-rev0:b2_h4": {
+  "status": "klaar",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "request_id": "pCo6h6N5MJ5EY4clzVxP",
+  "character_cost": "38"
+ },
+ "vo-rev0:b2_h5": {
+  "status": "klaar",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "request_id": "6ky21ySgZ0Dh15SCViDt",
+  "character_cost": "40"
+ },
+ "vo-rev0:b3_h5": {
+  "status": "klaar",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "request_id": "nvU6DwjYb58zGHaJ6Tfh",
+  "character_cost": "52"
+ },
+ "vo:b1_body": {
+  "status": "klaar",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "request_id": "PvF6HbFWQZMukSg4VYLG",
+  "character_cost": "500"
+ },
+ "vo:b2_body": {
+  "status": "klaar",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "request_id": "dUVHcsumSOxV0VIaDDhw",
+  "character_cost": "461"
+ },
+ "vo:b3_body": {
+  "status": "klaar",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "request_id": "bbGu4NkI3FdAYN1xE4Mb",
+  "character_cost": "541"
+ },
+ "vo:b2_h4": {
+  "status": "klaar",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "request_id": "U0p2ttcU2KDIdInAIo07",
+  "character_cost": "107"
+ },
+ "vo:b2_h5": {
+  "status": "klaar",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "request_id": "DPKKbTczAc2pVC6XHb4s",
+  "character_cost": "42"
+ },
+ "vo:b3_h5": {
+  "status": "klaar",
+  "model": "eleven_v4",
+  "voice": "YgjXqgzBJa9op0K278OW",
+  "request_id": "Uj4rlj2iMAN2egS8F5MV",
+  "character_cost": "53"
+ }
+}

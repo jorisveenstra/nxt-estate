@@ -1,0 +1,656 @@
+{
+ "fps": 30,
+ "segments": {
+  "b1_h1": {
+   "type": "hook",
+   "vo": "b1_h1",
+   "frames": 152,
+   "tag": "VOOR VAKMENSEN",
+   "shots": [
+    {
+     "clip": "c1_oranje_unit",
+     "from": 0,
+     "start": 0,
+     "frames": 152
+    }
+   ]
+  },
+  "b1_h2": {
+   "type": "hook",
+   "vo": "b1_h2",
+   "frames": 174,
+   "tag": "VOOR VAKMENSEN",
+   "shots": [
+    {
+     "clip": "a2_entrees",
+     "from": 0,
+     "start": 0,
+     "frames": 174
+    }
+   ]
+  },
+  "b1_h3": {
+   "type": "hook",
+   "vo": "b1_h3",
+   "frames": 157,
+   "tag": "VOOR VAKMENSEN",
+   "shots": [
+    {
+     "clip": "b3_hoekunit",
+     "from": 0,
+     "start": 0,
+     "frames": 157
+    }
+   ]
+  },
+  "b1_h4": {
+   "type": "hook",
+   "vo": "b1_h4",
+   "frames": 118,
+   "tag": "VOOR VAKMENSEN",
+   "shots": [
+    {
+     "clip": "d1_doorsnede_opslag",
+     "from": 0,
+     "start": 0,
+     "frames": 118
+    }
+   ]
+  },
+  "b1_h5": {
+   "type": "hook",
+   "vo": "b1_h5",
+   "frames": 219,
+   "tag": "VOOR VAKMENSEN",
+   "shots": [
+    {
+     "clip": "vv2_vogelvlucht",
+     "from": 0,
+     "start": 0,
+     "frames": 219
+    }
+   ]
+  },
+  "b1": {
+   "type": "body",
+   "vo": "b1_body",
+   "frames": 1844,
+   "shots": [
+    {
+     "clip": "a2_hoek_boxcomplex",
+     "from": 0.0,
+     "start": 0,
+     "frames": 132
+    },
+    {
+     "clip": "a2_entrees",
+     "from": 0.0,
+     "start": 132,
+     "frames": 132
+    },
+    {
+     "clip": "d1_doorsnede_trap",
+     "from": 0.0,
+     "start": 264,
+     "frames": 115
+    },
+    {
+     "clip": "b3_hoekunit",
+     "from": 0.0,
+     "start": 379,
+     "frames": 131
+    },
+    {
+     "clip": "d1_doorsnede_opslag",
+     "from": 0.0,
+     "start": 510,
+     "frames": 131
+    },
+    {
+     "clip": "d1_doorsnede_trap",
+     "from": 2.8,
+     "start": 641,
+     "frames": 156
+    },
+    {
+     "clip": "c1_oranje_unit",
+     "from": 0.0,
+     "start": 797,
+     "frames": 115
+    },
+    {
+     "clip": "a2_entrees",
+     "from": 4.16,
+     "start": 912,
+     "frames": 115
+    },
+    {
+     "clip": "vv2_vogelvlucht",
+     "from": 0.0,
+     "start": 1027,
+     "frames": 175
+    },
+    {
+     "clip": "d1_doorsnede_trap",
+     "from": 1.44,
+     "start": 1202,
+     "frames": 154
+    },
+    {
+     "clip": "b3_rij_water",
+     "from": 0.0,
+     "start": 1356,
+     "frames": 137
+    },
+    {
+     "clip": "b3_hoekunit",
+     "from": 4.36,
+     "start": 1493,
+     "frames": 84
+    },
+    {
+     "clip": "a2_entrees",
+     "from": 1.77,
+     "start": 1577,
+     "frames": 134
+    },
+    {
+     "clip": "a2_hoek_boxcomplex",
+     "from": 3.54,
+     "start": 1711,
+     "frames": 133
+    }
+   ],
+   "callouts": [
+    {
+     "start": 0,
+     "end": 264,
+     "title": "VANAF €209.900",
+     "sub": "v.o.n. excl. btw"
+    },
+    {
+     "start": 266,
+     "end": 379,
+     "title": "±104–108 M²",
+     "sub": "verdeeld over 2 lagen"
+    },
+    {
+     "start": 382,
+     "end": 641,
+     "title": "3,60 M VRIJE HOOGTE",
+     "sub": "vloer 1.000 kg/m²"
+    },
+    {
+     "start": 643,
+     "end": 797,
+     "title": "BOVEN: EXTRA RUIMTE",
+     "sub": "bijv. voor planning & administratie"
+    },
+    {
+     "start": 799,
+     "end": 1027,
+     "title": "OVERHEADDEUR",
+     "sub": "+ 1 of 2 eigen parkeerplaatsen"
+    },
+    {
+     "start": 1030,
+     "end": 1202,
+     "title": "A12 · A20",
+     "sub": "Rotterdam · Gouda · Zoetermeer"
+    },
+    {
+     "start": 1205,
+     "end": 1356,
+     "title": "CASCO OPLEVERING",
+     "sub": "zelf indelen"
+    },
+    {
+     "start": 1358,
+     "end": 1493,
+     "title": "OPLEVERING EIND Q2 2027",
+     "sub": ""
+    }
+   ],
+   "ctaFrom": 1495,
+   "buttonFrom": 1579
+  },
+  "b2_h1": {
+   "type": "hook",
+   "vo": "b2_h1",
+   "frames": 138,
+   "tag": "VAN HUURDER NAAR EIGENAAR",
+   "shots": [
+    {
+     "clip": "c1_oranje_unit",
+     "from": 0,
+     "start": 0,
+     "frames": 138
+    }
+   ]
+  },
+  "b2_h2": {
+   "type": "hook",
+   "vo": "b2_h2",
+   "frames": 135,
+   "tag": "VAN HUURDER NAAR EIGENAAR",
+   "shots": [
+    {
+     "clip": "a2_entrees",
+     "from": 0,
+     "start": 0,
+     "frames": 135
+    }
+   ]
+  },
+  "b2_h3": {
+   "type": "hook",
+   "vo": "b2_h3",
+   "frames": 183,
+   "tag": "VAN HUURDER NAAR EIGENAAR",
+   "shots": [
+    {
+     "clip": "b3_hoekunit",
+     "from": 0,
+     "start": 0,
+     "frames": 183
+    }
+   ]
+  },
+  "b2_h4": {
+   "type": "hook",
+   "vo": "b2_h4",
+   "frames": 368,
+   "tag": "VAN HUURDER NAAR EIGENAAR",
+   "shots": [
+    {
+     "clip": "d1_doorsnede_opslag",
+     "from": 0,
+     "start": 0,
+     "frames": 132
+    },
+    {
+     "clip": "c1_oranje_unit",
+     "from": 0,
+     "start": 132,
+     "frames": 236
+    }
+   ]
+  },
+  "b2_h5": {
+   "type": "hook",
+   "vo": "b2_h5",
+   "frames": 159,
+   "tag": "VAN HUURDER NAAR EIGENAAR",
+   "shots": [
+    {
+     "clip": "vv2_vogelvlucht",
+     "from": 0,
+     "start": 0,
+     "frames": 159
+    }
+   ]
+  },
+  "b2": {
+   "type": "body",
+   "vo": "b2_body",
+   "frames": 1636,
+   "shots": [
+    {
+     "clip": "a2_hoek_boxcomplex",
+     "from": 0.0,
+     "start": 0,
+     "frames": 132
+    },
+    {
+     "clip": "b3_hoekunit",
+     "from": 0.0,
+     "start": 132,
+     "frames": 132
+    },
+    {
+     "clip": "a2_entrees",
+     "from": 0.0,
+     "start": 264,
+     "frames": 97
+    },
+    {
+     "clip": "b3_hoekunit",
+     "from": 4.4,
+     "start": 361,
+     "frames": 97
+    },
+    {
+     "clip": "d1_doorsnede_trap",
+     "from": 0.0,
+     "start": 458,
+     "frames": 142
+    },
+    {
+     "clip": "c1_oranje_unit",
+     "from": 0.0,
+     "start": 600,
+     "frames": 108
+    },
+    {
+     "clip": "vv2_vogelvlucht",
+     "from": 0.0,
+     "start": 708,
+     "frames": 113
+    },
+    {
+     "clip": "b3_rij_water",
+     "from": 0.0,
+     "start": 821,
+     "frames": 113
+    },
+    {
+     "clip": "d1_doorsnede_opslag",
+     "from": 0.0,
+     "start": 934,
+     "frames": 72
+    },
+    {
+     "clip": "a2_hoek_boxcomplex",
+     "from": 2.64,
+     "start": 1006,
+     "frames": 160
+    },
+    {
+     "clip": "b3_rij_water",
+     "from": 3.76,
+     "start": 1166,
+     "frames": 118
+    },
+    {
+     "clip": "b3_hoekunit",
+     "from": 2.48,
+     "start": 1284,
+     "frames": 91
+    },
+    {
+     "clip": "a2_entrees",
+     "from": 3.24,
+     "start": 1375,
+     "frames": 83
+    },
+    {
+     "clip": "a2_hoek_boxcomplex",
+     "from": 1.04,
+     "start": 1458,
+     "frames": 178
+    }
+   ],
+   "callouts": [
+    {
+     "start": 0,
+     "end": 264,
+     "title": "VANAF €209.900",
+     "sub": "v.o.n. excl. btw"
+    },
+    {
+     "start": 266,
+     "end": 458,
+     "title": "EIGEN ADRES",
+     "sub": "met eigen huisnummer"
+    },
+    {
+     "start": 461,
+     "end": 600,
+     "title": "CASCO",
+     "sub": "zelf indelen en afwerken"
+    },
+    {
+     "start": 602,
+     "end": 708,
+     "title": "JOUW PLEK",
+     "sub": "voor jouw klanten"
+    },
+    {
+     "start": 710,
+     "end": 934,
+     "title": "BETALEN IN TERMIJNEN",
+     "sub": "laatste 10% vlak voor oplevering eind Q2 2027"
+    },
+    {
+     "start": 936,
+     "end": 1006,
+     "title": "FINANCIERING?",
+     "sub": ""
+    },
+    {
+     "start": 1008,
+     "end": 1166,
+     "title": "PARTNER: MOGELIJK",
+     "sub": "mogelijkheden per situatie, geen garantie"
+    },
+    {
+     "start": 1169,
+     "end": 1284,
+     "title": "LATER VERHUREN?",
+     "sub": "eventueel mogelijk"
+    }
+   ],
+   "ctaFrom": 1286,
+   "buttonFrom": 1378
+  },
+  "b3_h1": {
+   "type": "hook",
+   "vo": "b3_h1",
+   "frames": 128,
+   "tag": "VOOR BELEGGERS",
+   "shots": [
+    {
+     "clip": "c1_oranje_unit",
+     "from": 0,
+     "start": 0,
+     "frames": 128
+    }
+   ]
+  },
+  "b3_h2": {
+   "type": "hook",
+   "vo": "b3_h2",
+   "frames": 159,
+   "tag": "VOOR BELEGGERS",
+   "shots": [
+    {
+     "clip": "a2_entrees",
+     "from": 0,
+     "start": 0,
+     "frames": 159
+    }
+   ]
+  },
+  "b3_h3": {
+   "type": "hook",
+   "vo": "b3_h3",
+   "frames": 162,
+   "tag": "VOOR BELEGGERS",
+   "shots": [
+    {
+     "clip": "b3_hoekunit",
+     "from": 0,
+     "start": 0,
+     "frames": 162
+    }
+   ]
+  },
+  "b3_h4": {
+   "type": "hook",
+   "vo": "b3_h4",
+   "frames": 145,
+   "tag": "VOOR BELEGGERS",
+   "shots": [
+    {
+     "clip": "d1_doorsnede_opslag",
+     "from": 0,
+     "start": 0,
+     "frames": 145
+    }
+   ]
+  },
+  "b3_h5": {
+   "type": "hook",
+   "vo": "b3_h5",
+   "frames": 188,
+   "tag": "VOOR BELEGGERS",
+   "shots": [
+    {
+     "clip": "vv2_vogelvlucht",
+     "from": 0,
+     "start": 0,
+     "frames": 188
+    }
+   ]
+  },
+  "b3": {
+   "type": "body",
+   "vo": "b3_body",
+   "frames": 1931,
+   "shots": [
+    {
+     "clip": "a2_hoek_boxcomplex",
+     "from": 0.0,
+     "start": 0,
+     "frames": 137
+    },
+    {
+     "clip": "a2_entrees",
+     "from": 0.0,
+     "start": 137,
+     "frames": 137
+    },
+    {
+     "clip": "vv2_vogelvlucht",
+     "from": 0.0,
+     "start": 274,
+     "frames": 112
+    },
+    {
+     "clip": "b3_rij_water",
+     "from": 0.0,
+     "start": 386,
+     "frames": 113
+    },
+    {
+     "clip": "d1_doorsnede_trap",
+     "from": 0.0,
+     "start": 499,
+     "frames": 142
+    },
+    {
+     "clip": "c1_oranje_unit",
+     "from": 0.0,
+     "start": 641,
+     "frames": 89
+    },
+    {
+     "clip": "a2_entrees",
+     "from": 4.56,
+     "start": 730,
+     "frames": 88
+    },
+    {
+     "clip": "b3_hoekunit",
+     "from": 0.0,
+     "start": 818,
+     "frames": 164
+    },
+    {
+     "clip": "b3_rij_water",
+     "from": 2.72,
+     "start": 982,
+     "frames": 158
+    },
+    {
+     "clip": "d1_doorsnede_opslag",
+     "from": 0.0,
+     "start": 1140,
+     "frames": 125
+    },
+    {
+     "clip": "c1_oranje_unit",
+     "from": 2.96,
+     "start": 1265,
+     "frames": 125
+    },
+    {
+     "clip": "vv2_vogelvlucht",
+     "from": 3.68,
+     "start": 1390,
+     "frames": 129
+    },
+    {
+     "clip": "b3_hoekunit",
+     "from": 5.04,
+     "start": 1519,
+     "frames": 89
+    },
+    {
+     "clip": "a2_entrees",
+     "from": 2.4,
+     "start": 1608,
+     "frames": 96
+    },
+    {
+     "clip": "a2_hoek_boxcomplex",
+     "from": 0.44,
+     "start": 1704,
+     "frames": 227
+    }
+   ],
+   "callouts": [
+    {
+     "start": 0,
+     "end": 274,
+     "title": "VANAF €209.900",
+     "sub": "v.o.n. excl. btw"
+    },
+    {
+     "start": 276,
+     "end": 499,
+     "title": "16 UNITS · COENECOOP",
+     "sub": "vlak bij A12 en A20"
+    },
+    {
+     "start": 502,
+     "end": 641,
+     "title": "ZELF AFBOUW & HUURPRIJS",
+     "sub": ""
+    },
+    {
+     "start": 643,
+     "end": 818,
+     "title": "VERHUURBEGELEIDING",
+     "sub": "ook na oplevering"
+    },
+    {
+     "start": 821,
+     "end": 982,
+     "title": "ERVARING MET KLEINE UNITS",
+     "sub": "ontwikkelen · verkopen · verhuren"
+    },
+    {
+     "start": 984,
+     "end": 1140,
+     "title": "VvE-BEHEER",
+     "sub": "voorzieningen & opstalverzekering"
+    },
+    {
+     "start": 1142,
+     "end": 1390,
+     "title": "CA. 7,4% NETTO*",
+     "sub": "*indicatief, excl. financiering, geen garantie"
+    },
+    {
+     "start": 1392,
+     "end": 1519,
+     "title": "OPLEVERING EIND Q2 2027",
+     "sub": ""
+    }
+   ],
+   "ctaFrom": 1522,
+   "buttonFrom": 1610
+  }
+ }
+}
