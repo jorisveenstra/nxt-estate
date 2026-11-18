@@ -1,0 +1,119 @@
+{
+ "straat-hoekwoning": {
+  "src": "17767daa-a310-420c-a7ab-d9ff8c149c26.jpeg",
+  "cx": 0.4,
+  "label": "Impressie 1",
+  "w": 5332,
+  "h": 3000,
+  "crop": [
+   1688,
+   3000,
+   1289,
+   0
+  ]
+ },
+ "hoek-bewoners": {
+  "src": "c9e8a5e3-eb1e-49e9-92bd-3ec8da5fd805.jpeg",
+  "cx": 0.56,
+  "label": "Impressie 2",
+  "w": 5332,
+  "h": 3000,
+  "crop": [
+   1688,
+   3000,
+   2142,
+   0
+  ]
+ },
+ "laan-gezinnen": {
+  "src": "d1fa4836-22f4-4ac5-a434-167ceefb0950.jpeg",
+  "cx": 0.33,
+  "label": "Impressie 6",
+  "w": 5332,
+  "h": 3000,
+  "crop": [
+   1688,
+   3000,
+   916,
+   0
+  ]
+ },
+ "groen-avondzon": {
+  "src": "38d95b29-a75c-4277-bc35-e4eb82453f0a.jpeg",
+  "cx": 0.72,
+  "label": "Impressie 7",
+  "w": 5204,
+  "h": 3076,
+  "crop": [
+   1730,
+   3076,
+   2882,
+   0
+  ]
+ },
+ "woonkamer": {
+  "src": "e37a1422-dd4d-4c3e-b767-509fae9a7e4c.png",
+  "cx": 0.5,
+  "label": "Impressie 8",
+  "w": 5336,
+  "h": 3000,
+  "crop": [
+   1688,
+   3000,
+   1824,
+   0
+  ]
+ },
+ "slaapkamer": {
+  "src": "0f70e582-d62e-467b-a0d7-a672a1d5bf54.png",
+  "cx": 0.56,
+  "label": "Impressie 9",
+  "w": 5332,
+  "h": 3000,
+  "crop": [
+   1688,
+   3000,
+   2142,
+   0
+  ]
+ },
+ "kinderkamer": {
+  "src": "57c3dbdf-d7cd-45ce-a1d2-4631de4e6ae0.png",
+  "cx": 0.46,
+  "label": "Impressie 10",
+  "w": 5336,
+  "h": 3000,
+  "crop": [
+   1688,
+   3000,
+   1611,
+   0
+  ]
+ },
+ "plattegrond-bg": {
+  "src": "48177e87-d9a7-40e6-8e8d-c85d5f41ee06.png",
+  "cx": 0.45,
+  "label": "Impressie 11 begane grond",
+  "w": 5332,
+  "h": 3000,
+  "crop": [
+   1688,
+   3000,
+   1555,
+   0
+  ]
+ },
+ "groen-avondzon-v2": {
+  "src": "38d95b29-a75c-4277-bc35-e4eb82453f0a.jpeg",
+  "cx": 0.72,
+  "label": "Impressie 7",
+  "w": 5204,
+  "h": 3076,
+  "crop": [
+   1730,
+   3076,
+   2882,
+   0
+  ]
+ }
+}

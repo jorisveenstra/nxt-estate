@@ -1,0 +1,182 @@
+[
+ {
+  "part": "b1body",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "8NdkkFqc8nmGWbdMx3n2",
+  "character_cost": 360.0,
+  "characters": 743,
+  "text": "Aan de President Kennedylaan in Heerenveen bouwt Hetebrij Bouw achttien nieuwe woningen. Het zijn grondgebonden tussen- en hoekwoningen, centraal in Heerenveen, met je eigen voordeur. Elke woning krijgt twaalf zonnepanelen, een accupakket en een home management system. De woningen hebben een aansluiting van tien ampère, dus je houdt wel rekening met je stroomgebruik. De makelaar legt je graag uit hoe zonnepanelen, accu en home management system daarbij samenwerken. De oplevering staat gepland voor het vierde kwartaal van 2026. Zo heb je de tijd om alles rustig op een rij te zetten, te beginnen met je hypotheek. Klik op de knop hieronder voor alle informatie en plan een afspraak met R M W Makelaars, zodat je meteen weet waar je staat.",
+  "file": "5e859a97205a22bc.mp3"
+ },
+ {
+  "part": "b1h1",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "q3DQhzJrS4hHkmeRo95D",
+  "character_cost": 34.0,
+  "characters": 71,
+  "text": "Ben je op zoek naar je eerste eigen koopwoning, centraal in Heerenveen?",
+  "file": "b172c9b0d8e2b9ca.mp3"
+ },
+ {
+  "part": "b1h2",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "NmZBlMPm4BqZVmPSZhmS",
+  "character_cost": 29.0,
+  "characters": 60,
+  "text": "Klaar met huren en toe aan een eigen voordeur in Heerenveen?",
+  "file": "2bafc0f063f99595.mp3"
+ },
+ {
+  "part": "b1h3",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "uDZzxqMA87sJm3I9ED7R",
+  "character_cost": 36.0,
+  "characters": 75,
+  "text": "Een nieuwbouwwoning met zonnepanelen en een eigen accu, als je eerste huis?",
+  "file": "17dbd8f876d4ada3.mp3"
+ },
+ {
+  "part": "b1h4",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "0wPtR9n5tgGCtgsf7rrP",
+  "character_cost": 39.0,
+  "characters": 81,
+  "text": "Heb je al gezien wat er aan de President Kennedylaan in Heerenveen gebouwd wordt?",
+  "file": "6e402e175ce959b7.mp3"
+ },
+ {
+  "part": "b1h5",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "v5xf2506m9Y83bcL1B35",
+  "character_cost": 38.0,
+  "characters": 79,
+  "text": "Wil je weten of jouw eerste eigen huis haalbaar is, nog voordat je gaat kijken?",
+  "file": "00086125cdbce76d.mp3"
+ },
+ {
+  "part": "b2body",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "0YC5b11zbBSxcA9yw9gY",
+  "character_cost": 392.0,
+  "characters": 808,
+  "text": "Aan de groene President Kennedylaan in Heerenveen bouwt Hetebrij Bouw een kleinschalig project van achttien woningen. Het zijn grondgebonden tussen- en hoekwoningen, dus je woont met je gezin in een eigen huis met een eigen voordeur. Je woont hier centraal in Heerenveen, in een rustige omgeving waar kinderen buiten kunnen spelen. Na een drukke dag kom je thuis in alle rust, met het groen van de laan om je heen. Elke woning krijgt twaalf zonnepanelen, een accupakket en een home management system. De makelaar laat je graag zien hoe de woningen zijn ingedeeld, zodat je goed kunt vergelijken wat bij jullie gezin past. De oplevering staat gepland voor het vierde kwartaal van 2026. Zie je jullie gezin hier al wonen? Klik op de knop hieronder voor alle informatie en plan een afspraak met R M W Makelaars.",
+  "file": "08486673277421f6.mp3"
+ },
+ {
+  "part": "b2h1",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "aDN0XZpwEChnKR343DN8",
+  "character_cost": 43.0,
+  "characters": 89,
+  "text": "Zoek je een nieuwbouwwoning voor je gezin, rustig gelegen en toch centraal in Heerenveen?",
+  "file": "69cc47b56c9bfaa1.mp3"
+ },
+ {
+  "part": "b2h2",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "oX3OQZr7w6MEEFmQaLad",
+  "character_cost": 33.0,
+  "characters": 68,
+  "text": "Een eigen huis aan een groene laan, zonder Heerenveen uit te hoeven?",
+  "file": "98c7f446c0f9adad.mp3"
+ },
+ {
+  "part": "b2h3",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "3r6hC1aARnNho8d3vCj1",
+  "character_cost": 36.0,
+  "characters": 75,
+  "text": "Droom je van een rustige plek waar je kinderen gewoon buiten kunnen spelen?",
+  "file": "90fbcb8f0b075772.mp3"
+ },
+ {
+  "part": "b2h4",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "f6138mVSgOXuPbsyik5c",
+  "character_cost": 39.0,
+  "characters": 81,
+  "text": "Achttien nieuwe woningen, een groene laan en het centrum van Heerenveen dichtbij.",
+  "file": "ea166a799e541030.mp3"
+ },
+ {
+  "part": "b2h5",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "sC93KOGmInUwtdHfs18g",
+  "character_cost": 41.0,
+  "characters": 84,
+  "text": "Wil je de woningen eerst goed vergelijken voordat je kiest waar je gezin gaat wonen?",
+  "file": "9e5880252971327e.mp3"
+ },
+ {
+  "part": "b3body",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "RmVb0wJFSS2NT3l4Ms3E",
+  "character_cost": 350.0,
+  "characters": 721,
+  "text": "Aan de President Kennedylaan bouwt Hetebrij Bouw achttien nieuwe grondgebonden woningen, centraal in Heerenveen. U kiest uit een tussenwoning of een hoekwoning en blijft gewoon wonen in uw eigen regio. De oplevering staat gepland voor het vierde kwartaal van 2026. Zo kunt u de verkoop van uw huidige woning rustig plannen. Elke woning krijgt twaalf zonnepanelen, een accupakket en een home management system. De elektrische aansluiting is tien ampère, dus u houdt rekening met hoeveel stroom u tegelijk gebruikt. De makelaar legt u precies uit wat dat in de praktijk betekent voor uw huishouden. Klik op de knop hieronder voor alle informatie en plan een afspraak met R M W Makelaars om uw verhuisplanning door te nemen.",
+  "file": "888b5b0866305830.mp3"
+ },
+ {
+  "part": "b3h1",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "ZsqlNt2wkJYzJ4pBYWGX",
+  "character_cost": 28.0,
+  "characters": 58,
+  "text": "Wilt u nieuw wonen, maar wel gewoon in Heerenveen blijven?",
+  "file": "322a5ab02a103ead.mp3"
+ },
+ {
+  "part": "b3h2",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "pmZ5FYCLx7bU4tiuCECb",
+  "character_cost": 34.0,
+  "characters": 71,
+  "text": "Overweegt u te verhuizen, maar moet u eerst uw huidige woning verkopen?",
+  "file": "c59fb0e8c824f166.mp3"
+ },
+ {
+  "part": "b3h3",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "DjLIRrvWQ2SRIaiIrLZI",
+  "character_cost": 44.0,
+  "characters": 90,
+  "text": "Tussenwoning of hoekwoning: welke nieuwbouwwoning aan de President Kennedylaan past bij u?",
+  "file": "707d4b828781fbbf.mp3"
+ },
+ {
+  "part": "b3h4",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "1oKzM5jonrazNnu6ZZtX",
+  "character_cost": 49.0,
+  "characters": 102,
+  "text": "Twijfelt u over een woning met een aansluiting van tien ampère? Dan leggen we het u graag eerlijk uit.",
+  "file": "571cf78b2afba395.mp3"
+ },
+ {
+  "part": "b3h5",
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "BLfcGoxwTJ62f4LxqiPj",
+  "character_cost": 50.0,
+  "characters": 104,
+  "text": "Van uw huidige huis naar een nieuwbouwwoning met zonnepanelen en een accupakket, centraal in Heerenveen?",
+  "file": "a555cf70f62f8fdb.mp3"
+ }
+]

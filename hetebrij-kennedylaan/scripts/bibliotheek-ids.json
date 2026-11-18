@@ -1,0 +1,114 @@
+{
+ "straat-hoekwoning:portrait_image": {
+  "asset_id": "1e71764d-d237-4108-a949-3c7781f97712",
+  "title": "Kennedylaan Heerenveen - Hoekwoning met voordeuren aan de straat - staande uitsnede (startbeeld) - daglicht - 9x16",
+  "sha256": "97ffa235cb0c484f3fa78edc8dd0f5a769cde75e834d84afb0a81e270a984db2",
+  "done": true,
+  "library_id": "1e71764d-d237-4108-a949-3c7781f97712",
+  "available": true
+ },
+ "straat-hoekwoning:motion_clip": {
+  "asset_id": "f284165d-52ba-4cdf-8850-c48946113aee",
+  "title": "Kennedylaan Heerenveen - Hoekwoning met voordeuren aan de straat - rustige push-in - daglicht - 9x16",
+  "sha256": "61531c65d837177380bd6702f44fa8c384eb6d370381cb748c796e163cecbbba",
+  "done": true,
+  "library_id": "f284165d-52ba-4cdf-8850-c48946113aee",
+  "available": true
+ },
+ "groen-avondzon:portrait_image": {
+  "asset_id": "d0c3c5d8-2890-4400-badc-3f94b438e2e7",
+  "title": "Kennedylaan Heerenveen - Woningrij aan het groen - staande uitsnede (startbeeld) - avondzon - 9x16",
+  "sha256": "a82548bcab58894a9eab72b8f09168c43615a099655a007c37de20c1b21f0206",
+  "done": true,
+  "library_id": "d0c3c5d8-2890-4400-badc-3f94b438e2e7",
+  "available": true
+ },
+ "groen-avondzon:motion_clip": {
+  "asset_id": "2f647ff0-aeec-4dc6-a7b0-f61e6a5393c3",
+  "title": "Kennedylaan Heerenveen - Woningrij aan het groen - rustige push-in - avondzon - 9x16",
+  "sha256": "72c79c11626ffe08572dbba0b691eb8f793c9c04cce4be180b5f09893f380658",
+  "done": true,
+  "library_id": "2f647ff0-aeec-4dc6-a7b0-f61e6a5393c3",
+  "available": true
+ },
+ "hoek-bewoners:portrait_image": {
+  "asset_id": "e37dc6e4-0b63-4c20-892d-437c276658e8",
+  "title": "Kennedylaan Heerenveen - Hoekwoning met grasveld en bewoners - staande uitsnede (startbeeld) - daglicht - 9x16",
+  "sha256": "f09c101506e55d60196b299e76c17b32d650041adb8e2acf69c1c5b0fa3c7fce",
+  "done": true,
+  "library_id": "e37dc6e4-0b63-4c20-892d-437c276658e8",
+  "available": true
+ },
+ "hoek-bewoners:motion_clip": {
+  "asset_id": "46b4a505-56d6-4972-b1df-f81d253f7986",
+  "title": "Kennedylaan Heerenveen - Hoekwoning met grasveld en bewoners - langzame zijwaartse camerabeweging - daglicht - 9x16",
+  "sha256": "6912307b8af15b172e29b556f40d2e1c7386d395465a3123ce4e27f59cfca438",
+  "done": true,
+  "library_id": "46b4a505-56d6-4972-b1df-f81d253f7986",
+  "available": true
+ },
+ "laan-gezinnen:portrait_image": {
+  "asset_id": "26b8bb2c-c5e3-4389-86cf-d251d9f4cdad",
+  "title": "Kennedylaan Heerenveen - Woningrij aan de laan met gezin - staande uitsnede (startbeeld) - daglicht - 9x16",
+  "sha256": "37c5c722a0f2c11a725660fc0dc5ce7acb5849413fd3e725f62980ccecc400b5",
+  "done": true,
+  "library_id": "26b8bb2c-c5e3-4389-86cf-d251d9f4cdad",
+  "available": true
+ },
+ "laan-gezinnen:motion_clip": {
+  "asset_id": "c68f0105-8bc4-4de5-8e28-6603ae5e9715",
+  "title": "Kennedylaan Heerenveen - Woningrij aan de laan met gezin - rustige push-in - daglicht - 9x16",
+  "sha256": "ae3f7bc4008efbac20aca92c847c6e33c2b55b1016d87650112c8e1f34cf11c6",
+  "done": true,
+  "library_id": "c68f0105-8bc4-4de5-8e28-6603ae5e9715",
+  "available": true
+ },
+ "woonkamer:portrait_image": {
+  "asset_id": "9064fd00-494f-4018-b9e8-1786dc971971",
+  "title": "Kennedylaan Heerenveen - Woonkamer met zithoek - staande uitsnede (startbeeld) - daglicht - 9x16",
+  "sha256": "2a7bf4bb4f6ec07b517b54d9358db0f7e2d7a15ac02c7db2aa15e534f8764326",
+  "done": true,
+  "library_id": "9064fd00-494f-4018-b9e8-1786dc971971",
+  "available": true
+ },
+ "woonkamer:motion_clip": {
+  "asset_id": "9d5d2e18-6219-4c01-96ad-2c5647d7f47b",
+  "title": "Kennedylaan Heerenveen - Woonkamer met zithoek - langzame dolly - daglicht - 9x16",
+  "sha256": "a260e6b35d22faf7592b0a1122939d0e7701386391f166b1019359cdcb74ac56",
+  "done": true,
+  "library_id": "9d5d2e18-6219-4c01-96ad-2c5647d7f47b",
+  "available": true
+ },
+ "slaapkamer:portrait_image": {
+  "asset_id": "daf4beb8-ed01-42d8-9ad2-d5768db9bfad",
+  "title": "Kennedylaan Heerenveen - Slaapkamer met groot raam - staande uitsnede (startbeeld) - daglicht - 9x16",
+  "sha256": "92c14b1683e8005b71390c1c3823c7525625386c838f70edea3748ba0a926cc1",
+  "done": true,
+  "library_id": "daf4beb8-ed01-42d8-9ad2-d5768db9bfad",
+  "available": true
+ },
+ "slaapkamer:motion_clip": {
+  "asset_id": "bed901da-3827-4571-a2fa-96b7755104f2",
+  "title": "Kennedylaan Heerenveen - Slaapkamer met groot raam - rustige push-in - daglicht - 9x16",
+  "sha256": "f660dd6da614f6d80b0135fcadc2d4798c1f330ce0e1389bcb7c6666b2a68dea",
+  "done": true,
+  "library_id": "bed901da-3827-4571-a2fa-96b7755104f2",
+  "available": true
+ },
+ "plattegrond-bg:portrait_image": {
+  "asset_id": "04b1a83a-4550-4964-b67f-25b8449c6226",
+  "title": "Kennedylaan Heerenveen - 3D-plattegrond begane grond - staande uitsnede (startbeeld) - studiolicht - 9x16",
+  "sha256": "e3d16a27c798634635bb336512559c6178a41fefcc81c0b13cc0f01cf1746e86",
+  "done": true,
+  "library_id": "04b1a83a-4550-4964-b67f-25b8449c6226",
+  "available": true
+ },
+ "plattegrond-bg:motion_clip": {
+  "asset_id": "6b582b62-6ed4-4330-9319-2dd4c7d55f0d",
+  "title": "Kennedylaan Heerenveen - 3D-plattegrond begane grond - langzame push-in - studiolicht - 9x16",
+  "sha256": "8e7effa3f75f94e09bff2c76da040a267b1db4fde55fce5c4dda4ad795101387",
+  "done": true,
+  "library_id": "6b582b62-6ed4-4330-9319-2dd4c7d55f0d",
+  "available": true
+ }
+}
