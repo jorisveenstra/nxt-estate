@@ -1,0 +1,71 @@
+{
+ "b1": {
+  "bodyDur": 43.92
+ },
+ "b2": {
+  "bodyDur": 45.44
+ },
+ "b3": {
+  "bodyDur": 43.36
+ },
+ "b1h1": {
+  "hookFrames": 132,
+  "hookDur": 4.04898
+ },
+ "b1h2": {
+  "hookFrames": 115,
+  "hookDur": 3.474286
+ },
+ "b1h3": {
+  "hookFrames": 142,
+  "hookDur": 4.362449
+ },
+ "b1h4": {
+  "hookFrames": 127,
+  "hookDur": 3.866122
+ },
+ "b1h5": {
+  "hookFrames": 144,
+  "hookDur": 4.440816
+ },
+ "b2h1": {
+  "hookFrames": 165,
+  "hookDur": 5.146122
+ },
+ "b2h2": {
+  "hookFrames": 125,
+  "hookDur": 3.787755
+ },
+ "b2h3": {
+  "hookFrames": 135,
+  "hookDur": 4.127347
+ },
+ "b2h4": {
+  "hookFrames": 147,
+  "hookDur": 4.519184
+ },
+ "b2h5": {
+  "hookFrames": 142,
+  "hookDur": 4.362449
+ },
+ "b3h1": {
+  "hookFrames": 111,
+  "hookDur": 3.317551
+ },
+ "b3h2": {
+  "hookFrames": 135,
+  "hookDur": 4.127347
+ },
+ "b3h3": {
+  "hookFrames": 176,
+  "hookDur": 5.485714
+ },
+ "b3h4": {
+  "hookFrames": 185,
+  "hookDur": 5.799184
+ },
+ "b3h5": {
+  "hookFrames": 185,
+  "hookDur": 5.799184
+ }
+}

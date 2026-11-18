@@ -1,0 +1,142 @@
+{
+ "straat-hoekwoning": {
+  "origineel_render": "bronnen/origineel/Impressie-1.jpeg",
+  "frameio_bron_bestand": "17767daa-a310-420c-a7ab-d9ff8c149c26.jpeg",
+  "staand_startbeeld": "bronnen/staand/straat-hoekwoning.png",
+  "staand_startbeeld_sha256": "97ffa235cb0c484f3fa78edc8dd0f5a769cde75e834d84afb0a81e270a984db2",
+  "crop_px_w_h_x_y": [
+   1688,
+   3000,
+   1289,
+   0
+  ],
+  "veo_generation_id": "qM9a5ghR0OQaWGFIWwa9",
+  "veo_model": "veo-3.1-generate-001",
+  "prompt": "Photorealistic architectural visualisation, keep every building, window, door, brick, paving and plant exactly as in the start image, same proportions, materials and layout. Slow gentle push-in toward the brick corner house and its front doors on a sunny day; clouds drift softly, leaves move slightly in the breeze. One continuous shot, no cuts, no transitions, no morphing. No text, no logos, no new buildings.",
+  "elevenlabs_asset_id_startbeeld": "elwVcyiExHSLUqukcxk9",
+  "originele_clip_sha256": "61531c65d837177380bd6702f44fa8c384eb6d370381cb748c796e163cecbbba",
+  "bibliotheek_portrait_image_id": "1e71764d-d237-4108-a949-3c7781f97712",
+  "bibliotheek_motion_clip_id": "f284165d-52ba-4cdf-8850-c48946113aee",
+  "bewerkkopie_in_zip": "public/clips/straat-hoekwoning.mp4 (libx264 CRF 23, 1080x1920; origineel in Frame.io-bibliotheek)"
+ },
+ "groen-avondzon": {
+  "origineel_render": "bronnen/origineel/Impressie-7.jpeg",
+  "frameio_bron_bestand": "38d95b29-a75c-4277-bc35-e4eb82453f0a.jpeg",
+  "staand_startbeeld": "bronnen/staand/groen-avondzon.png",
+  "staand_startbeeld_sha256": "a82548bcab58894a9eab72b8f09168c43615a099655a007c37de20c1b21f0206",
+  "crop_px_w_h_x_y": [
+   1730,
+   3076,
+   2882,
+   0
+  ],
+  "veo_generation_id": "ikIs1Jwvv5w52VnPv38O",
+  "veo_model": "veo-3.1-generate-001",
+  "prompt": "Photorealistic architectural visualisation, keep every building, window, door, brick, paving and plant exactly as in the start image, same proportions, materials and layout. Slow gentle push-in toward the brick terraced houses in warm evening sunlight; the couple walks calmly along the path, grass and trees sway softly. One continuous shot, no cuts, no transitions, no morphing. No text, no logos, no new buildings.",
+  "elevenlabs_asset_id_startbeeld": "wlOj417QPtfkZBl0F9Qx",
+  "originele_clip_sha256": "72c79c11626ffe08572dbba0b691eb8f793c9c04cce4be180b5f09893f380658",
+  "bibliotheek_portrait_image_id": "d0c3c5d8-2890-4400-badc-3f94b438e2e7",
+  "bibliotheek_motion_clip_id": "2f647ff0-aeec-4dc6-a7b0-f61e6a5393c3",
+  "bewerkkopie_in_zip": "public/clips/groen-avondzon.mp4 (libx264 CRF 23, 1080x1920; origineel in Frame.io-bibliotheek)"
+ },
+ "hoek-bewoners": {
+  "origineel_render": "bronnen/origineel/Impressie-2.jpeg",
+  "frameio_bron_bestand": "c9e8a5e3-eb1e-49e9-92bd-3ec8da5fd805.jpeg",
+  "staand_startbeeld": "bronnen/staand/hoek-bewoners.png",
+  "staand_startbeeld_sha256": "f09c101506e55d60196b299e76c17b32d650041adb8e2acf69c1c5b0fa3c7fce",
+  "crop_px_w_h_x_y": [
+   1688,
+   3000,
+   2142,
+   0
+  ],
+  "veo_generation_id": "1MkK4r4qVAnTgSWJo1Oo",
+  "veo_model": "veo-3.1-generate-001",
+  "prompt": "Photorealistic architectural visualisation, keep every building, window, door, brick, paving and plant exactly as in the start image, same proportions, materials and layout. Slow smooth lateral dolly along the brick corner house with the green lawn in front; the residents walk calmly, flowers sway gently, clouds drift. One continuous shot, no cuts, no transitions, no morphing. No text, no logos, no new buildings.",
+  "elevenlabs_asset_id_startbeeld": "2dv0Jwj7x7wit5XjxzXu",
+  "originele_clip_sha256": "6912307b8af15b172e29b556f40d2e1c7386d395465a3123ce4e27f59cfca438",
+  "bibliotheek_portrait_image_id": "e37dc6e4-0b63-4c20-892d-437c276658e8",
+  "bibliotheek_motion_clip_id": "46b4a505-56d6-4972-b1df-f81d253f7986",
+  "bewerkkopie_in_zip": "public/clips/hoek-bewoners.mp4 (libx264 CRF 23, 1080x1920; origineel in Frame.io-bibliotheek)"
+ },
+ "laan-gezinnen": {
+  "origineel_render": "bronnen/origineel/Impressie-6.jpeg",
+  "frameio_bron_bestand": "d1fa4836-22f4-4ac5-a434-167ceefb0950.jpeg",
+  "staand_startbeeld": "bronnen/staand/laan-gezinnen.png",
+  "staand_startbeeld_sha256": "37c5c722a0f2c11a725660fc0dc5ce7acb5849413fd3e725f62980ccecc400b5",
+  "crop_px_w_h_x_y": [
+   1688,
+   3000,
+   916,
+   0
+  ],
+  "veo_generation_id": "CAOhtCPhXnZu5h1WsOGR",
+  "veo_model": "veo-3.1-generate-001",
+  "prompt": "Photorealistic architectural visualisation, keep every building, window, door, brick, paving and plant exactly as in the start image, same proportions, materials and layout. Slow gentle push-in along the street toward the row of brick houses; the mother and children walk slowly on the pavement, tree leaves move softly in the breeze. One continuous shot, no cuts, no transitions, no morphing. No text, no logos, no new buildings.",
+  "elevenlabs_asset_id_startbeeld": "F8R4Tp47H7n9IaHmLucC",
+  "originele_clip_sha256": "ae3f7bc4008efbac20aca92c847c6e33c2b55b1016d87650112c8e1f34cf11c6",
+  "bibliotheek_portrait_image_id": "26b8bb2c-c5e3-4389-86cf-d251d9f4cdad",
+  "bibliotheek_motion_clip_id": "c68f0105-8bc4-4de5-8e28-6603ae5e9715",
+  "bewerkkopie_in_zip": "public/clips/laan-gezinnen.mp4 (libx264 CRF 23, 1080x1920; origineel in Frame.io-bibliotheek)"
+ },
+ "woonkamer": {
+  "origineel_render": "bronnen/origineel/Impressie-8.png",
+  "frameio_bron_bestand": "e37a1422-dd4d-4c3e-b767-509fae9a7e4c.png",
+  "staand_startbeeld": "bronnen/staand/woonkamer.png",
+  "staand_startbeeld_sha256": "2a7bf4bb4f6ec07b517b54d9358db0f7e2d7a15ac02c7db2aa15e534f8764326",
+  "crop_px_w_h_x_y": [
+   1688,
+   3000,
+   1824,
+   0
+  ],
+  "veo_generation_id": "JhmB4CKfWo72Wl3iL7Mu",
+  "veo_model": "veo-3.1-generate-001",
+  "prompt": "Photorealistic architectural visualisation, keep every building, window, door, brick, paving and plant exactly as in the start image, same proportions, materials and layout. Slow smooth dolly forward through the bright living room with sofa and coffee table; soft daylight, the candle flickers gently, otherwise everything stays still. One continuous shot, no cuts, no transitions, no morphing. No text, no logos, no new buildings.",
+  "elevenlabs_asset_id_startbeeld": "soW4erhI4M7vyGb3PnSm",
+  "originele_clip_sha256": "a260e6b35d22faf7592b0a1122939d0e7701386391f166b1019359cdcb74ac56",
+  "bibliotheek_portrait_image_id": "9064fd00-494f-4018-b9e8-1786dc971971",
+  "bibliotheek_motion_clip_id": "9d5d2e18-6219-4c01-96ad-2c5647d7f47b",
+  "bewerkkopie_in_zip": "public/clips/woonkamer.mp4 (libx264 CRF 23, 1080x1920; origineel in Frame.io-bibliotheek)"
+ },
+ "slaapkamer": {
+  "origineel_render": "bronnen/origineel/Impressie-9.png",
+  "frameio_bron_bestand": "0f70e582-d62e-467b-a0d7-a672a1d5bf54.png",
+  "staand_startbeeld": "bronnen/staand/slaapkamer.png",
+  "staand_startbeeld_sha256": "92c14b1683e8005b71390c1c3823c7525625386c838f70edea3748ba0a926cc1",
+  "crop_px_w_h_x_y": [
+   1688,
+   3000,
+   2142,
+   0
+  ],
+  "veo_generation_id": "1MR6GEpXpWQ00WugngPE",
+  "veo_model": "veo-3.1-generate-001",
+  "prompt": "Photorealistic architectural visualisation, keep every building, window, door, brick, paving and plant exactly as in the start image, same proportions, materials and layout. Slow gentle push-in toward the bed and the large window in the calm bedroom; soft daylight, the plant leaves move very slightly. One continuous shot, no cuts, no transitions, no morphing. No text, no logos, no new buildings.",
+  "elevenlabs_asset_id_startbeeld": "oykfwr2uVR3SV7MJdcat",
+  "originele_clip_sha256": "f660dd6da614f6d80b0135fcadc2d4798c1f330ce0e1389bcb7c6666b2a68dea",
+  "bibliotheek_portrait_image_id": "daf4beb8-ed01-42d8-9ad2-d5768db9bfad",
+  "bibliotheek_motion_clip_id": "bed901da-3827-4571-a2fa-96b7755104f2",
+  "bewerkkopie_in_zip": "public/clips/slaapkamer.mp4 (libx264 CRF 23, 1080x1920; origineel in Frame.io-bibliotheek)"
+ },
+ "plattegrond-bg": {
+  "origineel_render": "bronnen/origineel/Impressie-11-begane-grond.png",
+  "frameio_bron_bestand": "48177e87-d9a7-40e6-8e8d-c85d5f41ee06.png",
+  "staand_startbeeld": "bronnen/staand/plattegrond-bg.png",
+  "staand_startbeeld_sha256": "e3d16a27c798634635bb336512559c6178a41fefcc81c0b13cc0f01cf1746e86",
+  "crop_px_w_h_x_y": [
+   1688,
+   3000,
+   1555,
+   0
+  ],
+  "veo_generation_id": "G6ruZn7RydgUOJJeF8tw",
+  "veo_model": "veo-3.1-generate-001",
+  "prompt": "Photorealistic architectural visualisation, keep every building, window, door, brick, paving and plant exactly as in the start image, same proportions, materials and layout. Very slow smooth orbit and push-in over the 3D cutaway floor plan model of the terraced houses on a white background; the model stays exactly the same. One continuous shot, no cuts, no transitions, no morphing. No text, no logos, no new buildings.",
+  "elevenlabs_asset_id_startbeeld": "J1g49Kq8VOmU3mqWx0ed",
+  "originele_clip_sha256": "8e7effa3f75f94e09bff2c76da040a267b1db4fde55fce5c4dda4ad795101387",
+  "bibliotheek_portrait_image_id": "04b1a83a-4550-4964-b67f-25b8449c6226",
+  "bibliotheek_motion_clip_id": "6b582b62-6ed4-4330-9319-2dd4c7d55f0d",
+  "bewerkkopie_in_zip": "public/clips/plattegrond-bg.mp4 (libx264 CRF 23, 1080x1920; origineel in Frame.io-bibliotheek)"
+ }
+}

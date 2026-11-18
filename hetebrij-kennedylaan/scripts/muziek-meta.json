@@ -1,0 +1,30 @@
+{
+ "started": true,
+ "request": {
+  "model_id": "music_v1",
+  "prompt": "Uplifting, warm and positive instrumental background music for a Dutch new-build housing advert: light acoustic guitar, soft piano, gentle claps and a steady modern pop groove around 105 BPM, hopeful and homely, calm enough to sit underneath a voice-over, no vocals, no lyrics, clean ending.",
+  "music_length_ms": 56000,
+  "force_instrumental": true
+ },
+ "request_id": null,
+ "song_id": "hTAw3hQZAHSolSi93E4o",
+ "character_cost": null,
+ "response_header_names": [
+  "access-control-allow-headers",
+  "access-control-allow-methods",
+  "access-control-allow-origin",
+  "access-control-max-age",
+  "alt-svc",
+  "connection",
+  "content-length",
+  "content-type",
+  "date",
+  "server",
+  "song-id",
+  "strict-transport-security",
+  "vary",
+  "via",
+  "x-region",
+  "x-trace-id"
+ ]
+}
