@@ -1,0 +1,200 @@
+{
+ "b1-body": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "noLGfcgfGqSJRDrsKBEB",
+  "headers": {
+   "character-cost": "489",
+   "request-id": "noLGfcgfGqSJRDrsKBEB"
+  },
+  "text": "Dit is De Groote Visscherij, aan de Bik- en Arnoldkade in Oud-IJmuiden. U woont hier vlakbij de Vissershaven, het Noordzeekanaal en de grootste zeesluis ter wereld. Er komen slechts vier woningen van circa 152 tot 156 vierkante meter, inclusief serre. Op de eerste verdieping wacht uw eigen orangerie: een te openen serre op het zuidwesten, met uitzicht richting de haven. Aan de achterzijde heeft u een terras van drie meter diep. En wordt traplopen later lastiger? Dan kan er een eigen huislift worden geplaatst, zodat de woonlagen beter bereikbaar blijven. Zo past uw huis zich aan uw leven aan, in plaats van andersom. Bespreek uw wensen voor goed toegankelijk wonen vooraf met de makelaar. U parkeert op uw eigen parkeerplaats, en de oplevering staat gepland in het derde kwartaal van 2028. Wilt u weten hoe deze woning met u mee kan groeien? Klik op de knop hieronder voor alle informatie en plan een afspraak met de makelaar, ook voor uw vragen over de verkoop van uw huidige woning en de financiering.",
+  "new": true
+ },
+ "b1-1": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "jFjCJSIbCiufROnteOJn",
+  "headers": {
+   "character-cost": "32",
+   "request-id": "jFjCJSIbCiufROnteOJn"
+  },
+  "text": "Wilt u nu ruim wonen, in een huis waar u later niet meer weg hoeft?",
+  "new": true
+ },
+ "b1-2": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "Wjy3oZT2cDN9wCPvDkTK",
+  "headers": {
+   "character-cost": "42",
+   "request-id": "Wjy3oZT2cDN9wCPvDkTK"
+  },
+  "text": "Zoekt u een ruime woning, maar denkt u ook al aan de dag dat traplopen lastiger wordt?",
+  "new": true
+ },
+ "b1-3": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "uazdPNqNxPvajfGxIpux",
+  "headers": {
+   "character-cost": "41",
+   "request-id": "uazdPNqNxPvajfGxIpux"
+  },
+  "text": "Ruim wonen aan de haven van Oud-IJmuiden, met de mogelijkheid van een eigen huislift.",
+  "new": true
+ },
+ "b1-4": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "JUDLkiDLsiKgl3Xbka7c",
+  "headers": {
+   "character-cost": "45",
+   "request-id": "JUDLkiDLsiKgl3Xbka7c"
+  },
+  "text": "Waarom later opnieuw verhuizen, als uw huis aan de haven van IJmuiden met u mee kan groeien?",
+  "new": true
+ },
+ "b1-5": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "F75pEYJMEhcPc50CG0aL",
+  "headers": {
+   "character-cost": "58",
+   "request-id": "F75pEYJMEhcPc50CG0aL"
+  },
+  "text": "Heeft u al gezien welke vier bijzondere woningen er aan de Bik- en Arnoldkade komen, met ruimte voor een eigen huislift?",
+  "new": true
+ },
+ "b2-body": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "tsSbV8CRBTz6J7w0eg5c",
+  "headers": {
+   "character-cost": "435",
+   "request-id": "tsSbV8CRBTz6J7w0eg5c"
+  },
+  "text": "Dit is De Groote Visscherij, aan de Bik- en Arnoldkade in Oud-IJmuiden. U woont hier aan de haven, met het echte visserskarakter van IJmuiden om de hoek. Er komen slechts vier woningen van circa 152 tot 156 vierkante meter, inclusief serre. Op de flexibel indeelbare begane grond is een extra inpandig appartement mogelijk, voor uw ouders, een volwassen kind of een mantelzorger. Zelf woont u erboven, met een eigen orangerie op het zuidwesten en uitzicht richting de haven. Iedereen houdt zijn eigen ritme, en toch bent u er als het nodig is. Met een optionele huislift blijven de woonlagen ook later beter bereikbaar. Wat er in uw situatie mogelijk is en wat het kost, bespreekt u vooraf met de makelaar. Ziet u uw familie hier al samen wonen? Klik op de knop hieronder voor alle informatie en plan een afspraak met de makelaar, ook voor uw vragen over de indeling, de regels en de financiering.",
+  "new": true
+ },
+ "b2-1": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "uAtWf9Jfh9awRmmrIrWq",
+  "headers": {
+   "character-cost": "42",
+   "request-id": "uAtWf9Jfh9awRmmrIrWq"
+  },
+  "text": "Wilt u uw ouders dichtbij hebben, zonder dat iemand zijn eigen plek hoeft op te geven?",
+  "new": true
+ },
+ "b2-2": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "EOE4WswlIIb4EAVJF76a",
+  "headers": {
+   "character-cost": "40",
+   "request-id": "EOE4WswlIIb4EAVJF76a"
+  },
+  "text": "Woont uw volwassen kind nog thuis en zoekt u meer ruimte en privacy voor iedereen?",
+  "new": true
+ },
+ "b2-3": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "2I3sMc3Rh9u42atZVAXU",
+  "headers": {
+   "character-cost": "43",
+   "request-id": "2I3sMc3Rh9u42atZVAXU"
+  },
+  "text": "Zorgen voor elkaar en toch ieder een eigen plek, in een woning aan de haven van IJmuiden?",
+  "new": true
+ },
+ "b2-4": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "0SZTJa8MtUxfxIEAS74c",
+  "headers": {
+   "character-cost": "51",
+   "request-id": "0SZTJa8MtUxfxIEAS74c"
+  },
+  "text": "Dicht bij elkaar wonen, zonder zelfstandigheid te verliezen: aan de haven van Oud-IJmuiden kan dat straks.",
+  "new": true
+ },
+ "b2-5": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "ZDw714MKFz3tEH24e0Mp",
+  "headers": {
+   "character-cost": "46",
+   "request-id": "ZDw714MKFz3tEH24e0Mp"
+  },
+  "text": "Zoekt u een bijzondere woning aan het water, waar mantelzorg en uw eigen leven goed samengaan?",
+  "new": true
+ },
+ "b3-body": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "enu8y8MrOlKlGIi1P3Yr",
+  "headers": {
+   "character-cost": "475",
+   "request-id": "enu8y8MrOlKlGIi1P3Yr"
+  },
+  "text": "Dit is De Groote Visscherij, aan de Bik- en Arnoldkade in Oud-IJmuiden. U woont en werkt hier aan de haven, bij de Vissershaven en gunstig gelegen ten opzichte van Haarlem en Amsterdam. Er komen slechts vier woningen van circa 152 tot 156 vierkante meter, inclusief serre. De flexibel indeelbare begane grond kunt u inrichten als kantoor of praktijk aan huis. Beneden ontvangt u uw klanten of cliënten, boven speelt uw privéleven zich af. Op de eerste verdieping wacht uw eigen orangerie, een te openen serre op het zuidwesten met uitzicht richting de haven. Na uw laatste afspraak loopt u zo naar boven, zonder file en zonder reistijd. Bij de woning hoort een eigen parkeerplaats. Welke vorm van werken aan huis in uw situatie mogelijk is, bespreekt u vooraf met de makelaar. Ziet u uw praktijk hier al beneden zitten? Klik op de knop hieronder voor alle informatie en plan een afspraak met de makelaar, ook voor uw vragen over de regels voor werken aan huis en de financiering.",
+  "new": true
+ },
+ "b3-1": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "uVsOH1aS4HIcMoqfA1bw",
+  "headers": {
+   "character-cost": "38",
+   "request-id": "uVsOH1aS4HIcMoqfA1bw"
+  },
+  "text": "Werkt u zelfstandig en wilt u uw praktijk of kantoor gewoon onder uw eigen dak?",
+  "new": true
+ },
+ "b3-2": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "aO7OWWUcZIKv5RPQi1qC",
+  "headers": {
+   "character-cost": "42",
+   "request-id": "aO7OWWUcZIKv5RPQi1qC"
+  },
+  "text": "Uw praktijk beneden. Uw privéleven boven. Aan de haven van Oud-IJmuiden kan dat straks.",
+  "new": true
+ },
+ "b3-3": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "4cDatHrfmG0pMgu9Pw4j",
+  "headers": {
+   "character-cost": "42",
+   "request-id": "4cDatHrfmG0pMgu9Pw4j"
+  },
+  "text": "Zoekt u een professionele werkplek aan huis, waar werk en privé niet door elkaar lopen?",
+  "new": true
+ },
+ "b3-4": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "HCcwQMbvJi2htWFVSYwm",
+  "headers": {
+   "character-cost": "46",
+   "request-id": "HCcwQMbvJi2htWFVSYwm"
+  },
+  "text": "Wat als uw reistijd naar kantoor voortaan één trap is, in een woning aan de haven van IJmuiden?",
+  "new": true
+ },
+ "b3-5": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "request_id": "0PRc9a9R2G0Loa3rwWNi",
+  "headers": {
+   "character-cost": "51",
+   "request-id": "0PRc9a9R2G0Loa3rwWNi"
+  },
+  "text": "Bent u consultant, therapeut of accountant en zoekt u een bijzondere woning met een eigen werkverdieping?",
+  "new": true
+ }
+}

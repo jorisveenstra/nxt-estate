@@ -42,10 +42,11 @@ def duur(p): return float(subprocess.run(["ffprobe","-v","error","-show_entries"
 def main():
     sc = json.loads((ROOT / "scripts/scripts.json").read_text())
     jobs = {}
+    v1 = json.loads((ROOT / "scripts/scripts-v1.json").read_text())  # hooks: zelfde next_text als v1 -> cache, geen extra credits
     for b, d in sc.items():
         bt = sp(" ".join(d["body"] + d["cta"]))
         jobs[(b, "body")] = (bt, sp(d["hooks"][0]), "")
-        for h, hook in enumerate(d["hooks"], 1): jobs[(b, h)] = (sp(hook), "", bt[:300])
+        for h, hook in enumerate(d["hooks"], 1): jobs[(b, h)] = (sp(hook), "", sp(" ".join(v1[b]["body"] + v1[b]["cta"]))[:300])
     with ThreadPoolExecutor(3) as ex:
         res = dict(zip(jobs, ex.map(lambda a: tts(*a), jobs.values())))
     metas = {f"{k[0]}-{k[1]}": res[k][2] for k in res}

@@ -131,6 +131,7 @@ export const BodyVideo: React.FC<{ body: string }> = ({ body }) => {
         <>
           <AbsoluteFill style={{ background: "linear-gradient(180deg, rgba(20,22,18,0) 40%, rgba(20,22,18,0.75) 100%)" }} />
           <div style={{ position: "absolute", left: 70, right: 70, bottom: 250, textAlign: "center", opacity: Math.min(1, p * 1.5), transform: `translateY(${(1 - p) * 60}px)`, fontFamily: fonts.serif, color: colors.white, fontWeight: 700, fontSize: 70, lineHeight: 1.15, textShadow: "0 3px 16px rgba(0,0,0,0.6)" }}>
+            <div style={{ display: "inline-block", background: colors.olive, clipPath: chamfer(18), padding: "14px 34px", fontFamily: fonts.sans, fontSize: 46, marginBottom: 30 }}>Nog maar 2 van de 4 woningen beschikbaar</div><br />
             Ontdek De Groote Visscherij
             <div style={{ marginTop: 40, display: "inline-block", background: colors.red, color: colors.white, clipPath: chamfer(22), padding: "26px 56px", fontFamily: fonts.sans, fontSize: 56 }}>Plan een afspraak</div>
             <div style={{ marginTop: 28, fontFamily: fonts.sans, fontWeight: 500, fontSize: 40 }}>visscherij-ijmuiden.nl</div>

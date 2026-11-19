@@ -18,7 +18,7 @@ for k, h in T["hooks"].items():
     dur = (h["frames"] + T["bodies"][b]["frames"]) / 30; hd = h["frames"]/30
     hk, bd = mp3(b, n), mp3(b, "body")
     fc = (f"[0]apad=whole_dur={hd}[h];[h][1]concat=n=2:v=0:a=1,loudnorm=I=-16:TP=-1.5:LRA=9,aresample=48000,asplit=2[vo][sc];"
-          f"[2]volume=0.20,afade=t=in:d=0.8,afade=t=out:st={dur-2.0}:d=2.0,atrim=0:{dur},aresample=48000[m];"
+          f"[2]asplit=2[m1][m2];[m1][m2]acrossfade=d=4,volume=0.20,afade=t=in:d=0.8,afade=t=out:st={dur-2.0}:d=2.0,atrim=0:{dur},aresample=48000[m];"
           f"[m][sc]sidechaincompress=threshold=0.03:ratio=8:attack=20:release=400[md];[vo][md]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.95,atrim=0:{dur}[a]")
     run("ffmpeg","-v","error","-y","-i",str(hk),"-i",str(bd),"-i",str(ROOT/"public/muziek/bed.mp3"),"-i",str(vid),"-filter_complex",fc,
         "-map","3:v","-map","[a]","-c:v","copy","-c:a","aac","-b:a","192k","-movflags","+faststart","-t",f"{dur}",str(fin))
