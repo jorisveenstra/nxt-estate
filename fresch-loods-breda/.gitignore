@@ -1,0 +1,8 @@
+out/
+public/clips/
+public/vo/
+bronnen/origineel/
+bronnen/staand/
+bronnen/ai-clips/
+bronnen/generaties/*.log
+scripts/tts-cache/

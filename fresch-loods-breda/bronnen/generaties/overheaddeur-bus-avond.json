@@ -1,0 +1,34 @@
+{
+ "naam": "overheaddeur-bus-avond",
+ "startframe": "bronnen/staand/overheaddeur-bus-avond.jpg",
+ "startframe_sha256": "1ff1616ae5366ea0cad5f3a93762a1e5b82e16f469adf44db77759bb86ecf157",
+ "model_id": "veo-3.1-generate-001",
+ "asset_id": "7KQEADTSzdLqSWKVVciX",
+ "verzonden": true,
+ "prompt": "Slow gentle push-in at dusk toward an open overhead door of a modern business unit, a white delivery van with headlights on waits in front of the lit warehouse; architecture unchanged. One continuous shot, no cuts, no transitions, no morphing.",
+ "generation_id": "wEgKheSV4JKsAstLT6RU",
+ "request_id": null,
+ "character_cost": null,
+ "response_headers": {
+  "x-trace-id": "bcf4825fba74086bf515ecd6d22a55d1"
+ },
+ "status": "completed",
+ "provider_status": {
+  "id": "wEgKheSV4JKsAstLT6RU",
+  "status": "completed",
+  "content_mime_type": "video/mp4"
+ },
+ "clip_sha256": "cd89318b2948cbaf0cb1e58a680ed66668cc973a9566cd89fc3063b48d7913d8",
+ "probe": {
+  "programs": [],
+  "streams": [
+   {
+    "width": 1080,
+    "height": 1920
+   }
+  ],
+  "format": {
+   "duration": "8.000000"
+  }
+ }
+}

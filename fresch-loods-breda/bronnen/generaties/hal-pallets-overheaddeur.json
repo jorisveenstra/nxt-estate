@@ -1,0 +1,34 @@
+{
+ "naam": "hal-pallets-overheaddeur",
+ "startframe": "bronnen/staand/hal-pallets-overheaddeur.jpg",
+ "startframe_sha256": "5441f4cccdb3dacb9619ae87ee913efe057fe70d9b627345ec58f8aff46332d1",
+ "model_id": "veo-3.1-generate-001",
+ "asset_id": "CsQFq964gmHSPwjLWp5p",
+ "verzonden": true,
+ "prompt": "Slow gentle dolly forward in a newly built warehouse hall toward stacked wooden pallets; two workers in hard hats stand talking with subtle natural movement; daylight from the skylight; architecture unchanged. One continuous shot, no cuts, no transitions, no morphing.",
+ "generation_id": "j1IynGiauKAiXHgjMuRA",
+ "request_id": null,
+ "character_cost": null,
+ "response_headers": {
+  "x-trace-id": "6f3a6175c0e65f22a3a1787365878048"
+ },
+ "status": "completed",
+ "provider_status": {
+  "id": "j1IynGiauKAiXHgjMuRA",
+  "status": "completed",
+  "content_mime_type": "video/mp4"
+ },
+ "clip_sha256": "3db454b6cebdada630dec516d87c82bb7d7696ced9f185013f8556a0c97ceac2",
+ "probe": {
+  "programs": [],
+  "streams": [
+   {
+    "width": 1080,
+    "height": 1920
+   }
+  ],
+  "format": {
+   "duration": "8.000000"
+  }
+ }
+}

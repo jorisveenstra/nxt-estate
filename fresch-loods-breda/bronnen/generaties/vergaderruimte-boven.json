@@ -1,0 +1,34 @@
+{
+ "naam": "vergaderruimte-boven",
+ "startframe": "bronnen/staand/vergaderruimte-boven.jpg",
+ "startframe_sha256": "91471ea00dc81e530ca214249df3aab30a0b2415cdbed117cd0681f8a2329a88",
+ "model_id": "veo-3.1-generate-001",
+ "asset_id": "IgCSfA0EB6iav6sRBJbl",
+ "verzonden": true,
+ "prompt": "Slow gentle push-in in a bright modern meeting room above a business unit; people at the table move subtly and naturally while a presenter gestures at the screen; sunlight through the large windows; room layout unchanged. One continuous shot, no cuts, no transitions, no morphing.",
+ "generation_id": "2qFXjcPuY20jkueZX6Ys",
+ "request_id": null,
+ "character_cost": null,
+ "response_headers": {
+  "x-trace-id": "0ed6b2b25abe4c5055686b0e7198a646"
+ },
+ "status": "completed",
+ "provider_status": {
+  "id": "2qFXjcPuY20jkueZX6Ys",
+  "status": "completed",
+  "content_mime_type": "video/mp4"
+ },
+ "clip_sha256": "686e5ebd0999a8b525e739b1e6f9a1c473e9d3c3a00b6d8a398ffb00d56a9d60",
+ "probe": {
+  "programs": [],
+  "streams": [
+   {
+    "width": 1080,
+    "height": 1920
+   }
+  ],
+  "format": {
+   "duration": "8.000000"
+  }
+ }
+}

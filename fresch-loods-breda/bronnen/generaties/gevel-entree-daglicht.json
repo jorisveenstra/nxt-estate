@@ -1,0 +1,34 @@
+{
+ "naam": "gevel-entree-daglicht",
+ "startframe": "bronnen/staand/gevel-entree-daglicht.jpg",
+ "startframe_sha256": "065aaa15d1a5dfe1b011884d57b251bbde038fd6b237101473a1e2a08a2293d0",
+ "model_id": "veo-3.1-generate-001",
+ "asset_id": "ZpfPBxZ9SrsFTZqT2gqV",
+ "verzonden": true,
+ "prompt": "Slow gentle push-in toward a modern light brick business building with large office windows on a sunny afternoon; a pedestrian walks naturally along the pavement; trees sway slightly; architecture unchanged. One continuous shot, no cuts, no transitions, no morphing.",
+ "generation_id": "AZXm3OW2M9yy2GZD7M3M",
+ "request_id": null,
+ "character_cost": null,
+ "response_headers": {
+  "x-trace-id": "1db7f43a344192a4f515ecd6d22a56ae"
+ },
+ "status": "completed",
+ "provider_status": {
+  "id": "AZXm3OW2M9yy2GZD7M3M",
+  "status": "completed",
+  "content_mime_type": "video/mp4"
+ },
+ "clip_sha256": "26ac774137fa2813228b63bb7a1d8d0f0360312c8e7bb2737b1421367b7b0bfd",
+ "probe": {
+  "programs": [],
+  "streams": [
+   {
+    "width": 1080,
+    "height": 1920
+   }
+  ],
+  "format": {
+   "duration": "8.000000"
+  }
+ }
+}

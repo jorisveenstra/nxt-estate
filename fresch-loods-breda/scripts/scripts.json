@@ -1,0 +1,51 @@
+{
+  "b1": {
+    "naam": "Kledinggroothandel: seizoensvoorraad op één vaste plek in Breda",
+    "doelgroep": "Groothandels in kleding en textiel",
+    "hooks": [
+      "Puilt je magazijn uit zodra de nieuwe seizoenscollectie binnenkomt?",
+      "Heb je een groothandel in kleding of textiel en zoek je meer ruimte in de regio Breda?",
+      "Staat je voorraad verspreid over meerdere plekken en ben je het zoeken tussen de dozen zat?",
+      "Zoek je een loods te huur in Breda waar je je hele collectie onder één dak brengt?",
+      "Klaar om je kledinggroothandel te laten groeien vanuit één vaste plek in Breda?"
+    ],
+    "zinnen": [
+      ["intro", "Dit is Fresch Loods Breda."],
+      ["units", "Tien loodsunits te huur aan de Rudonk in Breda, met hallen van ruim 640 m²."],
+      ["collectie", "Voor een groothandel in kleding en textiel draait alles om ruimte voor je collectie."],
+      ["rekken", "Denk aan rekken vol winterjassen, pallets met de zomercollectie en dozen die klaarstaan voor je klanten."],
+      ["werkruimte", "Beneden heb je zo'n 482 tot ruim 530 m² werkruimte, zodat je seizoensvoorraad overzichtelijk bij elkaar staat."],
+      ["vloer", "De gevlinderde betonvloer draagt 1.000 kilo per m², en via de grote overheaddeur rijdt je lading zo naar binnen."],
+      ["kantoor", "Boven zit je kantoor, dus je team werkt direct bij de voorraad."],
+      ["parkeren", "Met 9 eigen parkeerplaatsen per unit staan je bussen gewoon voor de deur."],
+      ["turnkey", "De units zijn al turn-key opgeleverd met minimaal energielabel A, dus je kunt meteen aan de slag."],
+      ["cta", "Benieuwd of jouw collectie hier past? Klik op de knop hieronder en vraag alle informatie over de huurunits aan."]
+    ]
+  },
+  "b2": {
+    "naam": "Import en distributie: van verspreide opslag naar één adres in Breda",
+    "doelgroep": "Groeiende import- en distributiebedrijven in consumentengoederen",
+    "hooks": [
+      "Staat je voorraad verspreid over meerdere opslagplekken en verlies je daar elke week tijd mee?",
+      "Heb je een import- of distributiebedrijf dat z'n huidige pand al lang ontgroeid is?",
+      "Rijd je nog heen en weer tussen losse opslagruimtes om je orders compleet te krijgen?",
+      "Zoek je in Breda een bedrijfsunit te huur als vaste plek voor je voorraad, je planning en je team?",
+      "Klaar om je distributie te laten groeien vanuit één eigen uitvalsbasis in Breda?"
+    ],
+    "zinnen": [
+      ["intro", "Dit is Fresch Loods Breda."],
+      ["units", "Tien bedrijfsunits te huur aan de Rudonk in Breda, met hallen van ruim 640 m²."],
+      ["groei", "Groeit je import- of distributiebedrijf harder dan je huidige pand aankan?"],
+      ["verspreid", "Dan staat je voorraad vaak verspreid, met extra ritten, dubbel tellen en zoeken naar die ene pallet."],
+      ["werkruimte", "Hier breng je alles samen in zo'n 482 tot ruim 530 m² werkruimte op één adres."],
+      ["vloer", "De gevlinderde betonvloer draagt 1.000 kilo per m², dus volle pallets en hoge stellingen zijn geen probleem."],
+      ["laden", "Via de grote overheaddeur laad en los je je zendingen direct in de hal."],
+      ["kantoor", "Boven stuur je je distributie aan vanuit je eigen kantoor met pantry."],
+      ["parkeren", "Met 9 eigen parkeerplaatsen per unit is er plek voor je team en je bussen."],
+      ["twijfel", "Twijfel je over de verhuistijd of de opstartkosten?"],
+      ["turnkey", "De units zijn al turn-key opgeleverd met minimaal energielabel A, dus je kunt meteen draaien."],
+      ["voorwaarden", "Vraag de huurvoorwaarden op en reken het rustig door."],
+      ["cta", "Benieuwd of jouw voorraad hier samenkomt? Klik op de knop hieronder en vraag alle informatie over de huurunits aan."]
+    ]
+  }
+}

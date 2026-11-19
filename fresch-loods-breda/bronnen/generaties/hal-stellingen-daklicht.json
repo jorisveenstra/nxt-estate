@@ -1,0 +1,31 @@
+{
+ "naam": "hal-stellingen-daklicht",
+ "startframe": "bronnen/staand/hal-stellingen-daklicht.jpg",
+ "startframe_sha256": "f3898582ee6c211ba13449fec71a2efc3219ffc9dd27699af8e1b4f95d2956a8",
+ "model_id": "veo-3.1-generate-001",
+ "asset_id": "KVloHEBS9zFpszeC2WRb",
+ "verzonden": true,
+ "prompt": "Slow gentle push-in through an empty, newly built warehouse hall with steel trusses, a large skylight and metal shelving racks; soft daylight, perfectly static architecture. One continuous shot, no cuts, no transitions, no morphing.",
+ "generation_id": "s9JOrObHLtsOyF5ZzX4D",
+ "request_id": null,
+ "character_cost": null,
+ "status": "completed",
+ "provider_status": {
+  "id": "s9JOrObHLtsOyF5ZzX4D",
+  "status": "completed",
+  "content_mime_type": "video/mp4"
+ },
+ "clip_sha256": "94f0459b03c4aeca8376d2b7fbecc699971085363f373db4f33e4d99260cd1d2",
+ "probe": {
+  "programs": [],
+  "streams": [
+   {
+    "width": 1080,
+    "height": 1920
+   }
+  ],
+  "format": {
+   "duration": "8.000000"
+  }
+ }
+}

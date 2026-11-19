@@ -1,0 +1,34 @@
+{
+ "naam": "kantoor-werkplekken-boven",
+ "startframe": "bronnen/staand/kantoor-werkplekken-boven.jpg",
+ "startframe_sha256": "14d9c0cb5db09a11e730c49149eea4b1fae5488dff916508bc8ca1322e971d19",
+ "model_id": "veo-3.1-generate-001",
+ "asset_id": "F99K7Qqdq7DhMRZEZmRx",
+ "verzonden": true,
+ "prompt": "Slow smooth dolly through a bright modern office floor with desks, monitors and plants; employees work with subtle natural movement; daylight through large windows; room layout unchanged. One continuous shot, no cuts, no transitions, no morphing.",
+ "generation_id": "0dFZ5XbDQ8bRmfYVIWND",
+ "request_id": null,
+ "character_cost": null,
+ "response_headers": {
+  "x-trace-id": "ac28034199276707d22636375c4eab01"
+ },
+ "status": "completed",
+ "provider_status": {
+  "id": "0dFZ5XbDQ8bRmfYVIWND",
+  "status": "completed",
+  "content_mime_type": "video/mp4"
+ },
+ "clip_sha256": "05e655d9e0ae9e3b6af0176a8abd01a819b4053db9444da23a0a7834dbaaa0e4",
+ "probe": {
+  "programs": [],
+  "streams": [
+   {
+    "width": 1080,
+    "height": 1920
+   }
+  ],
+  "format": {
+   "duration": "8.000000"
+  }
+ }
+}

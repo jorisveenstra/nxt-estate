@@ -1,0 +1,34 @@
+{
+ "naam": "kantoorgevel-avond",
+ "startframe": "bronnen/staand/kantoorgevel-avond.jpg",
+ "startframe_sha256": "8143d90a10f9e3b5be3e608eefcda523ed0df1f121ce1f069a6d0b6d0e5d08f9",
+ "model_id": "veo-3.1-generate-001",
+ "asset_id": "tbu59NNGkPy0Kjgc9Oc9",
+ "verzonden": true,
+ "prompt": "Slow smooth camera glide at dusk along the warmly lit office windows on the upper and lower floor of a modern light brick business unit; a person walks to the entrance; clouds drift slowly; architecture unchanged. One continuous shot, no cuts, no transitions, no morphing.",
+ "generation_id": "5F1zTWJ20o7xlhdgCarl",
+ "request_id": null,
+ "character_cost": null,
+ "response_headers": {
+  "x-trace-id": "df17994e2aa60839d22636375c4ea4c5"
+ },
+ "status": "completed",
+ "provider_status": {
+  "id": "5F1zTWJ20o7xlhdgCarl",
+  "status": "completed",
+  "content_mime_type": "video/mp4"
+ },
+ "clip_sha256": "5a29b21b4aca92db1ac67f5f4b6cd5ad0cc41d656b1e0d4c1d00e282c590dc89",
+ "probe": {
+  "programs": [],
+  "streams": [
+   {
+    "width": 1080,
+    "height": 1920
+   }
+  ],
+  "format": {
+   "duration": "8.000000"
+  }
+ }
+}

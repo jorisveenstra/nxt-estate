@@ -1,0 +1,34 @@
+{
+ "naam": "gevel-hoek-daglicht",
+ "startframe": "bronnen/staand/gevel-hoek-daglicht.jpg",
+ "startframe_sha256": "7238e5c0730d152fdaafd9744cb3a492e07ef5b024a4a9abb9cec5eb1425be5a",
+ "model_id": "veo-3.1-generate-001",
+ "asset_id": "1RRMFUyzcWjdOXdlvpTn",
+ "verzonden": true,
+ "prompt": "Slow smooth lateral camera glide along the light brick facade of a modern two-storey business unit on a sunny day; leaves move gently in the breeze; building shape, windows and materials unchanged. One continuous shot, no cuts, no transitions, no morphing.",
+ "generation_id": "94mNUBAn8fhrMmOV6rBW",
+ "request_id": null,
+ "character_cost": null,
+ "response_headers": {
+  "x-trace-id": "9e8aafd853fdf3d0d22636375c4ead68"
+ },
+ "status": "completed",
+ "provider_status": {
+  "id": "94mNUBAn8fhrMmOV6rBW",
+  "status": "completed",
+  "content_mime_type": "video/mp4"
+ },
+ "clip_sha256": "a29a860c3f545f230977481367c2c3a5323bb29cc82df3655bc66f842bff9807",
+ "probe": {
+  "programs": [],
+  "streams": [
+   {
+    "width": 1080,
+    "height": 1920
+   }
+  ],
+  "format": {
+   "duration": "8.000000"
+  }
+ }
+}
