@@ -22,7 +22,7 @@ def render(comp):
         return uit
     tmp = SEG / f"{comp}.part.mp4"
     subprocess.run(["npx", "remotion", "render", comp, str(tmp), "--muted", "--codec=h264", "--crf=24",
-                    "--pixel-format=yuv420p", "--concurrency=2", f"--browser-executable={CHROME}", "--log=error"],
+                    "--pixel-format=yuv420p", "--concurrency=2", "--offthreadvideo-cache-size-in-bytes=800000000", f"--browser-executable={CHROME}", "--log=error"],
                    cwd=ROOT, check=True)
     tmp.replace(uit)
     print("gerenderd", comp, flush=True)
