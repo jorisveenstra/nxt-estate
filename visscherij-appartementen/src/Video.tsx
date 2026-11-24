@@ -58,6 +58,22 @@ const Callout: React.FC<{ c: Call }> = ({ c }) => {
   );
 };
 
+const Scarcity: React.FC = () => {
+  const f = useCurrentFrame();
+  const inn = spring({ frame: f - 8, fps: 30, config: { damping: 12 } });
+  const pulse = 1 + 0.025 * Math.sin(f / 30 * 4);
+  return (
+    <div style={{ position: "absolute", top: 62, right: 50, display: "flex", flexDirection: "column", alignItems: "center", opacity: inn, transform: `scale(${(0.8 + 0.2 * inn) * pulse})`, transformOrigin: "top right" }}>
+      <div style={{ background: C.red, color: C.white, fontFamily: FONT_SANS, fontWeight: 700, fontSize: 40, padding: "14px 30px", borderRadius: 40, boxShadow: "0 6px 22px rgba(0,0,0,.4)" }}>Nog maar 3 van 8 beschikbaar</div>
+      <div style={{ display: "flex", gap: 12, marginTop: 14 }}>
+        {Array.from({ length: 8 }).map((_, i) => (
+          <div key={i} style={{ width: 26, height: 26, borderRadius: 13, background: i < 3 ? C.cream : "rgba(255,255,255,.28)", border: `3px solid ${i < 3 ? C.red : "rgba(255,255,255,.5)"}`, boxShadow: "0 2px 8px rgba(0,0,0,.35)" }} />
+        ))}
+      </div>
+    </div>
+  );
+};
+
 const Cta: React.FC<{ start: number }> = ({ start }) => {
   const f = useCurrentFrame();
   const t = f / 30;
@@ -66,7 +82,7 @@ const Cta: React.FC<{ start: number }> = ({ start }) => {
   const pulse = 1 + 0.03 * Math.sin((t - start) * 7);
   return (
     <div style={{ position: "absolute", bottom: 150, left: 0, right: 0, display: "flex", justifyContent: "center", transform: `translateY(${(1 - inn) * 120}px) scale(${pulse})`, opacity: inn }}>
-      <div style={{ background: C.red, color: C.white, fontFamily: FONT_SANS, fontWeight: 700, fontSize: 62, padding: "28px 70px", borderRadius: 70, boxShadow: "0 10px 34px rgba(0,0,0,.4)" }}>Plan een afspraak</div>
+      <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 18 }}><div style={{ color: C.sand, fontFamily: FONT_SANS, fontWeight: 700, fontSize: 46, textShadow: "0 3px 14px rgba(0,0,0,.85)" }}>Nog maar 3 van 8 beschikbaar</div><div style={{ background: C.red, color: C.white, fontFamily: FONT_SANS, fontWeight: 700, fontSize: 62, padding: "28px 70px", borderRadius: 70, boxShadow: "0 10px 34px rgba(0,0,0,.4)" }}>Plan een afspraak</div></div>
     </div>
   );
 };
@@ -86,6 +102,7 @@ export const Video: React.FC<{ planKey: string }> = ({ planKey }) => {
       ))}
       <AbsoluteFill style={{ background: "linear-gradient(to bottom, rgba(0,0,0,.28) 0%, rgba(0,0,0,0) 22%, rgba(0,0,0,0) 50%, rgba(0,0,0,.6) 100%)" }} />
       <div style={{ position: "absolute", top: 0, left: 0, height: 10, width: `${(f / durationInFrames) * 100}%`, background: C.red }} />
+      <Scarcity />
       <Img src={staticFile("logo-licht.svg")} style={{ position: "absolute", top: 70, left: 60, width: 260 }} />
       {p.callouts.map((c: Call, i: number) => <Callout key={i} c={c} />)}
       <Captions caps={p.captions} hookEnd={p.hookEnd} />

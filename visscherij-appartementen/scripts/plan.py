@@ -10,7 +10,7 @@ CL = {"ext": ["Building___Forward_Appartement", "voorgevel_apparement___Right", 
       "int": ["Woonkamer_-_appartement__Push_in", "Woonkamer_appartement__Push_in", "Woonkamer_-_appartement___Forward",
               "Woonkamer_-_appartement___PAN", "Woonkamer___Left_-_Appartement"]}
 CALL = [  # (regex op woord, tekst) - eerste keer per video
- (r"^acht$", "8 appartementen"), (r"^vierhonderdduizend$", "± € 400.000"), (r"^vijfhonderdduizend", "Onder € 500.000"),
+ (r"^acht$", "Nog 3 van 8 beschikbaar"), (r"^vierhonderdduizend$", "± € 400.000"), (r"^vijfhonderdduizend", "Onder € 500.000"),
  (r"^gasloos", "Gasloos · warmtepomp"), (r"^vloerverwarming", "Vloerverwarming"), (r"^loggia$", "Loggia op het westen"),
  (r"^berging", "Eigen berging"), (r"^parkeerplaats", "Eigen parkeerplaats"), (r"^kwartaal$", "Oplevering Q3 2028"),
  (r"^negenentachtig$", "± 89 en 96 m²"), (r"^Vissershaven", "Vissershaven · Noordzeekanaal"),
