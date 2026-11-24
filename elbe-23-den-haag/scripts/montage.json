@@ -1,0 +1,42 @@
+{
+  "b1": {
+    "hooks": [13, 7, 6, 3, 5],
+    "zinnen": [
+      {"clips": [10, 3], "accent": {"label": "Eigen bedrijfspand", "tekst": "Forepark · Den Haag", "icoon": "sleutel"}},
+      {"clips": [1, 2], "accent": {"stat": "14", "label": "zelfstandige units", "tekst": "ca. 200–230 m² · 2 of 3 lagen", "icoon": "gebouw"}},
+      {"clips": [6], "accent": {"label": "Jouw indeling", "tekst": "Kantoor · werkplaats · allebei", "icoon": "indeling"}},
+      {"clips": [7, 4], "accent": {"label": "2 of 3 eigen parkeerplaatsen", "tekst": "A12 en A4 binnen enkele minuten", "icoon": "auto"}},
+      {"clips": [9], "accent": {"label": "Robuust casco", "tekst": "Prefab beton & staal · HR++ beglazing", "icoon": "blok"}},
+      {"clips": [13], "accent": {"stat": "Q4 2027", "label": "geplande oplevering", "icoon": "kalender"}},
+      {"clips": [8], "accent": {"label": "Financiering", "tekst": "De financieel adviseur denkt mee", "icoon": "euro"}},
+      {"clips": [12, 10]}
+    ],
+    "cta": {"titel": "Plan een afspraak", "sub": "met onze makelaar", "knop": "Schrijf je in"}
+  },
+  "b2": {
+    "hooks": [12, 3, 10, 13, 4],
+    "zinnen": [
+      {"clips": [2, 10], "accent": {"label": "Elbe 23 · Forepark", "tekst": "Ontwerp: Punkt Architecture", "icoon": "pen"}},
+      {"clips": [3, 9], "accent": {"label": "Eigen gebouw met karakter", "tekst": "Verticale belijning · royale verdiepingshoogten", "icoon": "gebouw"}},
+      {"clips": [6], "accent": {"label": "Jouw identiteit", "tekst": "Kantoor · studio · showroom", "icoon": "indeling"}},
+      {"clips": [11], "accent": {"stat": "ca. 18 m²", "label": "terras of loggia", "tekst": "bij de drielaagse units", "icoon": "zon"}},
+      {"clips": [7, 5], "accent": {"label": "Parkeren op eigen terrein", "tekst": "Via A12 en A4 goed bereikbaar", "icoon": "auto"}},
+      {"clips": [1], "accent": {"stat": "14", "label": "gebouwen", "tekst": "kleinschalig en exclusief", "icoon": "ster"}},
+      {"clips": [13, 12]}
+    ],
+    "cta": {"titel": "Bekijk de brochure", "sub": "en plan een afspraak met onze makelaar", "knop": "Bekijk de brochure"}
+  },
+  "b3": {
+    "hooks": [4, 9, 5, 2, 8],
+    "zinnen": [
+      {"clips": [1, 10], "accent": {"stat": "14", "label": "nieuwe bedrijfsunits", "tekst": "ca. 200–230 m² · Forepark Den Haag", "icoon": "gebouw"}},
+      {"clips": [5, 6], "accent": {"label": "Flexibele indeling", "tekst": "Kantoor · studio · werkplaats", "icoon": "indeling"}},
+      {"clips": [9], "accent": {"label": "Solide technische basis", "tekst": "Prefab beton & staal · HR++ · geïsoleerde panelen", "icoon": "blok"}},
+      {"clips": [2], "accent": {"label": "Voorbereid op verduurzaming", "tekst": "Warmtepomp & zonnepanelen", "icoon": "zon"}},
+      {"clips": [7, 4], "accent": {"label": "2 of 3 parkeerplaatsen", "tekst": "A12 en A4 op enkele minuten", "icoon": "auto"}},
+      {"clips": [13], "accent": {"stat": "Q4 2027", "label": "geplande oplevering", "icoon": "kalender"}},
+      {"clips": [12, 3]}
+    ],
+    "cta": {"titel": "Vraag de prijslijst op", "sub": "en bespreek met onze makelaar welke unit past", "knop": "Vraag de prijslijst op"}
+  }
+}
