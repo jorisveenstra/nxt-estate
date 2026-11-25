@@ -1,0 +1,4250 @@
+{
+ "fps": 30,
+ "bodies": {
+  "b1": {
+   "frames": 1671,
+   "zinnen": [
+    {
+     "tekst": "Bij Business Nomads, Elbe 23 op het Forepark in Den Haag koop je je eigen bedrijfspand, met alles voor je vak onder één dak.",
+     "woorden": [
+      [
+       0.0,
+       0.16,
+       "Bij"
+      ],
+      [
+       0.24,
+       0.56,
+       "Business"
+      ],
+      [
+       0.64,
+       1.44,
+       "Nomads,"
+      ],
+      [
+       1.52,
+       1.76,
+       "Elbe"
+      ],
+      [
+       1.8,
+       2.52,
+       "23"
+      ],
+      [
+       2.64,
+       2.72,
+       "op"
+      ],
+      [
+       2.8,
+       2.88,
+       "het"
+      ],
+      [
+       3.04,
+       3.36,
+       "Forepark"
+      ],
+      [
+       3.44,
+       3.52,
+       "in"
+      ],
+      [
+       3.6,
+       3.68,
+       "Den"
+      ],
+      [
+       3.76,
+       4.0,
+       "Haag"
+      ],
+      [
+       4.32,
+       4.56,
+       "koop"
+      ],
+      [
+       4.6,
+       4.64,
+       "je"
+      ],
+      [
+       4.72,
+       4.8,
+       "je"
+      ],
+      [
+       4.88,
+       5.12,
+       "eigen"
+      ],
+      [
+       5.2,
+       6.0,
+       "bedrijfspand,"
+      ],
+      [
+       6.12,
+       6.24,
+       "met"
+      ],
+      [
+       6.32,
+       6.56,
+       "alles"
+      ],
+      [
+       6.64,
+       6.72,
+       "voor"
+      ],
+      [
+       6.8,
+       6.88,
+       "je"
+      ],
+      [
+       7.0,
+       7.12,
+       "vak"
+      ],
+      [
+       7.28,
+       7.44,
+       "onder"
+      ],
+      [
+       7.48,
+       7.6,
+       "één"
+      ],
+      [
+       7.68,
+       8.2,
+       "dak."
+      ]
+     ],
+     "start": 0,
+     "eind": 254,
+     "accent": {
+      "label": "Eigen bedrijfspand",
+      "tekst": "Elbe 23 · Forepark Den Haag",
+      "icoon": "sleutel"
+     }
+    },
+    {
+     "tekst": "Op de begane grond heb je zo'n 74 tot 117 vierkante meter voor je materiaal, gereedschap en voorraad.",
+     "woorden": [
+      [
+       8.48,
+       8.56,
+       "Op"
+      ],
+      [
+       8.64,
+       8.68,
+       "de"
+      ],
+      [
+       8.72,
+       9.04,
+       "begane"
+      ],
+      [
+       9.12,
+       9.36,
+       "grond"
+      ],
+      [
+       9.4,
+       9.52,
+       "heb"
+      ],
+      [
+       9.56,
+       9.6,
+       "je"
+      ],
+      [
+       9.64,
+       9.84,
+       "zo'n"
+      ],
+      [
+       9.88,
+       10.64,
+       "74"
+      ],
+      [
+       10.72,
+       10.8,
+       "tot"
+      ],
+      [
+       10.88,
+       11.68,
+       "117"
+      ],
+      [
+       11.76,
+       12.16,
+       "vierkante"
+      ],
+      [
+       12.24,
+       12.48,
+       "meter"
+      ],
+      [
+       12.56,
+       12.72,
+       "voor"
+      ],
+      [
+       12.76,
+       12.8,
+       "je"
+      ],
+      [
+       12.84,
+       13.6,
+       "materiaal,"
+      ],
+      [
+       13.68,
+       14.32,
+       "gereedschap"
+      ],
+      [
+       14.4,
+       14.48,
+       "en"
+      ],
+      [
+       14.56,
+       15.04,
+       "voorraad."
+      ]
+     ],
+     "start": 254,
+     "eind": 468,
+     "accent": {
+      "stat": "74–117 m²",
+      "label": "begane grond",
+      "tekst": "Materiaal · gereedschap · voorraad",
+      "icoon": "blok"
+     }
+    },
+    {
+     "tekst": "Via de overheaddeur breng je je spullen makkelijk naar binnen.",
+     "woorden": [
+      [
+       15.6,
+       15.76,
+       "Via"
+      ],
+      [
+       15.84,
+       15.92,
+       "de"
+      ],
+      [
+       16.0,
+       16.64,
+       "overheaddeur"
+      ],
+      [
+       16.72,
+       16.88,
+       "breng"
+      ],
+      [
+       16.96,
+       17.013,
+       "je"
+      ],
+      [
+       17.067,
+       17.12,
+       "je"
+      ],
+      [
+       17.2,
+       17.44,
+       "spullen"
+      ],
+      [
+       17.52,
+       17.92,
+       "makkelijk"
+      ],
+      [
+       17.947,
+       18.0,
+       "naar"
+      ],
+      [
+       18.08,
+       18.32,
+       "binnen."
+      ]
+     ],
+     "start": 468,
+     "eind": 569,
+     "accent": {
+      "label": "Eigen overheaddeur",
+      "tekst": "Spullen makkelijk naar binnen",
+      "icoon": "deur"
+     }
+    },
+    {
+     "tekst": "Boven heb je ruimte voor een eigen kantoor, waar je rustig je offertes maakt en klanten ontvangt.",
+     "woorden": [
+      [
+       18.96,
+       19.28,
+       "Boven"
+      ],
+      [
+       19.36,
+       19.52,
+       "heb"
+      ],
+      [
+       19.56,
+       19.6,
+       "je"
+      ],
+      [
+       19.64,
+       19.92,
+       "ruimte"
+      ],
+      [
+       20.0,
+       20.08,
+       "voor"
+      ],
+      [
+       20.16,
+       20.24,
+       "een"
+      ],
+      [
+       20.28,
+       20.48,
+       "eigen"
+      ],
+      [
+       20.56,
+       21.12,
+       "kantoor,"
+      ],
+      [
+       21.16,
+       21.24,
+       "waar"
+      ],
+      [
+       21.28,
+       21.36,
+       "je"
+      ],
+      [
+       21.44,
+       21.76,
+       "rustig"
+      ],
+      [
+       21.8,
+       21.84,
+       "je"
+      ],
+      [
+       21.92,
+       22.32,
+       "offertes"
+      ],
+      [
+       22.4,
+       22.64,
+       "maakt"
+      ],
+      [
+       22.72,
+       22.8,
+       "en"
+      ],
+      [
+       22.84,
+       23.12,
+       "klanten"
+      ],
+      [
+       23.2,
+       23.68,
+       "ontvangt."
+      ]
+     ],
+     "start": 569,
+     "eind": 730,
+     "accent": {
+      "label": "Kantoor erboven",
+      "tekst": "Offertes maken · klanten ontvangen",
+      "icoon": "indeling"
+     }
+    },
+    {
+     "tekst": "Je bus staat op je eigen terrein, want elke unit heeft twee of drie eigen parkeerplaatsen.",
+     "woorden": [
+      [
+       24.32,
+       24.4,
+       "Je"
+      ],
+      [
+       24.52,
+       24.64,
+       "bus"
+      ],
+      [
+       24.72,
+       24.88,
+       "staat"
+      ],
+      [
+       24.92,
+       24.96,
+       "op"
+      ],
+      [
+       25.04,
+       25.2,
+       "je"
+      ],
+      [
+       25.24,
+       25.52,
+       "eigen"
+      ],
+      [
+       25.56,
+       26.08,
+       "terrein,"
+      ],
+      [
+       26.16,
+       26.32,
+       "want"
+      ],
+      [
+       26.4,
+       26.64,
+       "elke"
+      ],
+      [
+       26.72,
+       26.96,
+       "unit"
+      ],
+      [
+       27.0,
+       27.2,
+       "heeft"
+      ],
+      [
+       27.28,
+       27.52,
+       "twee"
+      ],
+      [
+       27.68,
+       27.84,
+       "of"
+      ],
+      [
+       27.88,
+       28.08,
+       "drie"
+      ],
+      [
+       28.24,
+       28.48,
+       "eigen"
+      ],
+      [
+       28.56,
+       29.36,
+       "parkeerplaatsen."
+      ]
+     ],
+     "start": 730,
+     "eind": 895,
+     "accent": {
+      "stat": "2 of 3",
+      "label": "eigen parkeerplaatsen",
+      "tekst": "Je bus op eigen terrein",
+      "icoon": "auto"
+     }
+    },
+    {
+     "tekst": "De A12 en de A4 liggen op een paar minuten, dus je bent snel bij je klussen in de regio.",
+     "woorden": [
+      [
+       29.84,
+       29.92,
+       "De"
+      ],
+      [
+       30.0,
+       30.48,
+       "A12"
+      ],
+      [
+       30.56,
+       30.64,
+       "en"
+      ],
+      [
+       30.68,
+       30.72,
+       "de"
+      ],
+      [
+       30.8,
+       31.2,
+       "A4"
+      ],
+      [
+       31.28,
+       31.44,
+       "liggen"
+      ],
+      [
+       31.52,
+       31.6,
+       "op"
+      ],
+      [
+       31.68,
+       31.76,
+       "een"
+      ],
+      [
+       31.8,
+       31.92,
+       "paar"
+      ],
+      [
+       32.0,
+       32.56,
+       "minuten,"
+      ],
+      [
+       32.64,
+       32.72,
+       "dus"
+      ],
+      [
+       32.76,
+       32.8,
+       "je"
+      ],
+      [
+       32.853,
+       32.96,
+       "bent"
+      ],
+      [
+       33.04,
+       33.28,
+       "snel"
+      ],
+      [
+       33.32,
+       33.36,
+       "bij"
+      ],
+      [
+       33.44,
+       33.52,
+       "je"
+      ],
+      [
+       33.56,
+       33.84,
+       "klussen"
+      ],
+      [
+       33.88,
+       33.92,
+       "in"
+      ],
+      [
+       34.0,
+       34.04,
+       "de"
+      ],
+      [
+       34.08,
+       34.56,
+       "regio."
+      ]
+     ],
+     "start": 895,
+     "eind": 1056,
+     "accent": {
+      "label": "A12 & A4",
+      "tekst": "Op een paar minuten rijden",
+      "icoon": "weg"
+     }
+    },
+    {
+     "tekst": "Met een robuust betonnen casco en HR++ glas weet je dat je pand degelijk gebouwd is.",
+     "woorden": [
+      [
+       35.2,
+       35.28,
+       "Met"
+      ],
+      [
+       35.36,
+       35.44,
+       "een"
+      ],
+      [
+       35.56,
+       35.92,
+       "robuust"
+      ],
+      [
+       36.04,
+       36.4,
+       "betonnen"
+      ],
+      [
+       36.52,
+       36.88,
+       "casco"
+      ],
+      [
+       36.96,
+       37.04,
+       "en"
+      ],
+      [
+       37.12,
+       38.08,
+       "HR++"
+      ],
+      [
+       38.16,
+       38.4,
+       "glas"
+      ],
+      [
+       38.8,
+       39.04,
+       "weet"
+      ],
+      [
+       39.08,
+       39.12,
+       "je"
+      ],
+      [
+       39.2,
+       39.28,
+       "dat"
+      ],
+      [
+       39.36,
+       39.44,
+       "je"
+      ],
+      [
+       39.48,
+       39.76,
+       "pand"
+      ],
+      [
+       39.84,
+       40.24,
+       "degelijk"
+      ],
+      [
+       40.32,
+       40.64,
+       "gebouwd"
+      ],
+      [
+       40.72,
+       40.88,
+       "is."
+      ]
+     ],
+     "start": 1056,
+     "eind": 1246,
+     "accent": {
+      "label": "Robuust betonnen casco",
+      "tekst": "Met HR++ glas",
+      "icoon": "gebouw"
+     }
+    },
+    {
+     "tekst": "De oplevering is gepland in het vierde kwartaal van 2027.",
+     "woorden": [
+      [
+       41.52,
+       41.56,
+       "De"
+      ],
+      [
+       41.6,
+       42.16,
+       "oplevering"
+      ],
+      [
+       42.2,
+       42.24,
+       "is"
+      ],
+      [
+       42.32,
+       42.72,
+       "gepland"
+      ],
+      [
+       42.76,
+       42.8,
+       "in"
+      ],
+      [
+       42.88,
+       42.96,
+       "het"
+      ],
+      [
+       43.04,
+       43.28,
+       "vierde"
+      ],
+      [
+       43.32,
+       43.68,
+       "kwartaal"
+      ],
+      [
+       43.76,
+       43.84,
+       "van"
+      ],
+      [
+       43.88,
+       45.28,
+       "2027."
+      ]
+     ],
+     "start": 1246,
+     "eind": 1370,
+     "accent": {
+      "stat": "Q4 2027",
+      "label": "geplande oplevering",
+      "icoon": "kalender"
+     }
+    },
+    {
+     "tekst": "Er komen maar veertien units en de verkoop van fase 1 is gestart.",
+     "woorden": [
+      [
+       45.68,
+       45.76,
+       "Er"
+      ],
+      [
+       45.8,
+       46.0,
+       "komen"
+      ],
+      [
+       46.08,
+       46.24,
+       "maar"
+      ],
+      [
+       46.32,
+       46.64,
+       "veertien"
+      ],
+      [
+       46.8,
+       47.12,
+       "units"
+      ],
+      [
+       47.36,
+       47.44,
+       "en"
+      ],
+      [
+       47.48,
+       47.52,
+       "de"
+      ],
+      [
+       47.6,
+       48.0,
+       "verkoop"
+      ],
+      [
+       48.08,
+       48.16,
+       "van"
+      ],
+      [
+       48.24,
+       48.48,
+       "fase"
+      ],
+      [
+       48.64,
+       48.72,
+       "1"
+      ],
+      [
+       48.88,
+       48.96,
+       "is"
+      ],
+      [
+       49.04,
+       49.52,
+       "gestart."
+      ]
+     ],
+     "start": 1370,
+     "eind": 1500,
+     "accent": {
+      "stat": "14",
+      "label": "units",
+      "tekst": "Verkoop fase 1 gestart",
+      "icoon": "ster"
+     }
+    },
+    {
+     "tekst": "Klik op de knop hieronder, schrijf je in en plan een afspraak met onze makelaar!",
+     "woorden": [
+      [
+       50.0,
+       50.16,
+       "Klik"
+      ],
+      [
+       50.2,
+       50.24,
+       "op"
+      ],
+      [
+       50.28,
+       50.32,
+       "de"
+      ],
+      [
+       50.36,
+       50.56,
+       "knop"
+      ],
+      [
+       50.613,
+       51.2,
+       "hieronder,"
+      ],
+      [
+       51.28,
+       51.6,
+       "schrijf"
+      ],
+      [
+       51.64,
+       51.68,
+       "je"
+      ],
+      [
+       51.76,
+       51.84,
+       "in"
+      ],
+      [
+       52.08,
+       52.24,
+       "en"
+      ],
+      [
+       52.32,
+       52.4,
+       "plan"
+      ],
+      [
+       52.48,
+       52.56,
+       "een"
+      ],
+      [
+       52.64,
+       52.96,
+       "afspraak"
+      ],
+      [
+       53.04,
+       53.12,
+       "met"
+      ],
+      [
+       53.16,
+       53.28,
+       "onze"
+      ],
+      [
+       53.36,
+       54.08,
+       "makelaar!"
+      ]
+     ],
+     "start": 1500,
+     "eind": 1671,
+     "accent": null
+    }
+   ],
+   "shots": [
+    {
+     "clip": 10,
+     "from": 0,
+     "frames": 130
+    },
+    {
+     "clip": 1,
+     "from": 130,
+     "frames": 124
+    },
+    {
+     "clip": 6,
+     "from": 254,
+     "frames": 113
+    },
+    {
+     "clip": 8,
+     "from": 367,
+     "frames": 101
+    },
+    {
+     "clip": 5,
+     "from": 468,
+     "frames": 101
+    },
+    {
+     "clip": 3,
+     "from": 569,
+     "frames": 85
+    },
+    {
+     "clip": 11,
+     "from": 654,
+     "frames": 76
+    },
+    {
+     "clip": 7,
+     "from": 730,
+     "frames": 80
+    },
+    {
+     "clip": 2,
+     "from": 810,
+     "frames": 85
+    },
+    {
+     "clip": 4,
+     "from": 895,
+     "frames": 84
+    },
+    {
+     "clip": 1,
+     "from": 979,
+     "frames": 77
+    },
+    {
+     "clip": 9,
+     "from": 1056,
+     "frames": 190
+    },
+    {
+     "clip": 13,
+     "from": 1246,
+     "frames": 124
+    },
+    {
+     "clip": 2,
+     "from": 1370,
+     "frames": 130
+    },
+    {
+     "clip": 12,
+     "from": 1500,
+     "frames": 91
+    },
+    {
+     "clip": 10,
+     "from": 1591,
+     "frames": 80
+    }
+   ],
+   "cta": {
+    "titel": "Plan een afspraak",
+    "sub": "met onze makelaar",
+    "knop": "Schrijf je in"
+   }
+  },
+  "b2": {
+   "frames": 1585,
+   "zinnen": [
+    {
+     "tekst": "Bij Business Nomads, Elbe 23 op het Forepark in Den Haag koop je een eigen bedrijfspand dat meegroeit met je webshop.",
+     "woorden": [
+      [
+       0.0,
+       0.16,
+       "Bij"
+      ],
+      [
+       0.24,
+       0.56,
+       "Business"
+      ],
+      [
+       0.64,
+       1.36,
+       "Nomads,"
+      ],
+      [
+       1.44,
+       1.68,
+       "Elbe"
+      ],
+      [
+       1.72,
+       2.4,
+       "23"
+      ],
+      [
+       2.48,
+       2.56,
+       "op"
+      ],
+      [
+       2.6,
+       2.64,
+       "het"
+      ],
+      [
+       2.72,
+       3.2,
+       "Forepark"
+      ],
+      [
+       3.28,
+       3.32,
+       "in"
+      ],
+      [
+       3.36,
+       3.44,
+       "Den"
+      ],
+      [
+       3.52,
+       3.84,
+       "Haag"
+      ],
+      [
+       4.16,
+       4.32,
+       "koop"
+      ],
+      [
+       4.4,
+       4.44,
+       "je"
+      ],
+      [
+       4.48,
+       4.64,
+       "een"
+      ],
+      [
+       4.68,
+       4.96,
+       "eigen"
+      ],
+      [
+       5.04,
+       5.6,
+       "bedrijfspand"
+      ],
+      [
+       5.68,
+       5.84,
+       "dat"
+      ],
+      [
+       5.92,
+       6.4,
+       "meegroeit"
+      ],
+      [
+       6.48,
+       6.56,
+       "met"
+      ],
+      [
+       6.6,
+       6.64,
+       "je"
+      ],
+      [
+       6.76,
+       7.36,
+       "webshop."
+      ]
+     ],
+     "start": 0,
+     "eind": 228,
+     "accent": {
+      "label": "Eigen bedrijfspand",
+      "tekst": "Groeit mee met je webshop",
+      "icoon": "sleutel"
+     }
+    },
+    {
+     "tekst": "Je kiest uit units van zo'n 200 tot 230 vierkante meter, verdeeld over twee of drie lagen.",
+     "woorden": [
+      [
+       7.6,
+       7.68,
+       "Je"
+      ],
+      [
+       7.76,
+       7.92,
+       "kiest"
+      ],
+      [
+       8.0,
+       8.08,
+       "uit"
+      ],
+      [
+       8.16,
+       8.48,
+       "units"
+      ],
+      [
+       8.56,
+       8.64,
+       "van"
+      ],
+      [
+       8.68,
+       8.88,
+       "zo'n"
+      ],
+      [
+       8.92,
+       9.44,
+       "200"
+      ],
+      [
+       9.52,
+       9.68,
+       "tot"
+      ],
+      [
+       9.72,
+       10.4,
+       "230"
+      ],
+      [
+       10.48,
+       10.88,
+       "vierkante"
+      ],
+      [
+       11.04,
+       11.44,
+       "meter,"
+      ],
+      [
+       11.52,
+       11.84,
+       "verdeeld"
+      ],
+      [
+       11.96,
+       12.08,
+       "over"
+      ],
+      [
+       12.16,
+       12.32,
+       "twee"
+      ],
+      [
+       12.48,
+       12.64,
+       "of"
+      ],
+      [
+       12.68,
+       12.8,
+       "drie"
+      ],
+      [
+       12.88,
+       13.56,
+       "lagen."
+      ]
+     ],
+     "start": 228,
+     "eind": 415,
+     "accent": {
+      "stat": "200–230 m²",
+      "label": "per unit",
+      "tekst": "Verdeeld over 2 of 3 lagen",
+      "icoon": "gebouw"
+     }
+    },
+    {
+     "tekst": "Beneden is ruimte voor je voorraad en een vaste plek om in te pakken en te verzenden.",
+     "woorden": [
+      [
+       13.84,
+       14.24,
+       "Beneden"
+      ],
+      [
+       14.32,
+       14.4,
+       "is"
+      ],
+      [
+       14.48,
+       14.72,
+       "ruimte"
+      ],
+      [
+       14.8,
+       14.88,
+       "voor"
+      ],
+      [
+       14.96,
+       15.04,
+       "je"
+      ],
+      [
+       15.08,
+       15.52,
+       "voorraad"
+      ],
+      [
+       15.56,
+       15.6,
+       "en"
+      ],
+      [
+       15.68,
+       15.76,
+       "een"
+      ],
+      [
+       15.8,
+       16.08,
+       "vaste"
+      ],
+      [
+       16.16,
+       16.32,
+       "plek"
+      ],
+      [
+       16.4,
+       16.48,
+       "om"
+      ],
+      [
+       16.56,
+       16.64,
+       "in"
+      ],
+      [
+       16.68,
+       16.72,
+       "te"
+      ],
+      [
+       16.8,
+       17.04,
+       "pakken"
+      ],
+      [
+       17.08,
+       17.12,
+       "en"
+      ],
+      [
+       17.2,
+       17.28,
+       "te"
+      ],
+      [
+       17.36,
+       17.84,
+       "verzenden."
+      ]
+     ],
+     "start": 415,
+     "eind": 550,
+     "accent": {
+      "label": "Voorraad & verzending",
+      "tekst": "Inpakken en verzenden beneden",
+      "icoon": "doos"
+     }
+    },
+    {
+     "tekst": "Via de overheaddeur laad en los je je zendingen zonder gesjouw.",
+     "woorden": [
+      [
+       18.32,
+       18.48,
+       "Via"
+      ],
+      [
+       18.56,
+       18.64,
+       "de"
+      ],
+      [
+       18.8,
+       19.36,
+       "overheaddeur"
+      ],
+      [
+       19.52,
+       19.76,
+       "laad"
+      ],
+      [
+       19.84,
+       19.92,
+       "en"
+      ],
+      [
+       20.0,
+       20.16,
+       "los"
+      ],
+      [
+       20.2,
+       20.24,
+       "je"
+      ],
+      [
+       20.32,
+       20.4,
+       "je"
+      ],
+      [
+       20.44,
+       20.88,
+       "zendingen"
+      ],
+      [
+       20.96,
+       21.2,
+       "zonder"
+      ],
+      [
+       21.32,
+       21.76,
+       "gesjouw."
+      ]
+     ],
+     "start": 550,
+     "eind": 667,
+     "accent": {
+      "label": "Overheaddeur",
+      "tekst": "Laden en lossen zonder gesjouw",
+      "icoon": "deur"
+     }
+    },
+    {
+     "tekst": "Boven heb je een aparte verdieping voor je kantoor of een rustige studio voor je productfoto's.",
+     "woorden": [
+      [
+       22.24,
+       22.56,
+       "Boven"
+      ],
+      [
+       22.64,
+       22.76,
+       "heb"
+      ],
+      [
+       22.8,
+       22.84,
+       "je"
+      ],
+      [
+       22.88,
+       22.96,
+       "een"
+      ],
+      [
+       23.04,
+       23.28,
+       "aparte"
+      ],
+      [
+       23.36,
+       23.68,
+       "verdieping"
+      ],
+      [
+       23.76,
+       23.84,
+       "voor"
+      ],
+      [
+       23.92,
+       24.0,
+       "je"
+      ],
+      [
+       24.08,
+       24.48,
+       "kantoor"
+      ],
+      [
+       24.72,
+       24.88,
+       "of"
+      ],
+      [
+       24.96,
+       25.04,
+       "een"
+      ],
+      [
+       25.16,
+       25.44,
+       "rustige"
+      ],
+      [
+       25.64,
+       25.84,
+       "studio"
+      ],
+      [
+       25.92,
+       26.0,
+       "voor"
+      ],
+      [
+       26.08,
+       26.16,
+       "je"
+      ],
+      [
+       26.32,
+       26.96,
+       "productfoto's."
+      ]
+     ],
+     "start": 667,
+     "eind": 823,
+     "accent": {
+      "label": "Kantoor of studio",
+      "tekst": "Op een eigen verdieping",
+      "icoon": "camera"
+     }
+    },
+    {
+     "tekst": "Met twee of drie eigen parkeerplaatsen staat je bus of auto altijd klaar.",
+     "woorden": [
+      [
+       27.44,
+       27.6,
+       "Met"
+      ],
+      [
+       27.64,
+       27.84,
+       "twee"
+      ],
+      [
+       27.92,
+       28.0,
+       "of"
+      ],
+      [
+       28.08,
+       28.24,
+       "drie"
+      ],
+      [
+       28.4,
+       28.64,
+       "eigen"
+      ],
+      [
+       28.72,
+       29.44,
+       "parkeerplaatsen"
+      ],
+      [
+       29.52,
+       29.68,
+       "staat"
+      ],
+      [
+       29.76,
+       29.84,
+       "je"
+      ],
+      [
+       29.96,
+       30.08,
+       "bus"
+      ],
+      [
+       30.16,
+       30.24,
+       "of"
+      ],
+      [
+       30.44,
+       30.64,
+       "auto"
+      ],
+      [
+       30.72,
+       31.04,
+       "altijd"
+      ],
+      [
+       31.08,
+       31.44,
+       "klaar."
+      ]
+     ],
+     "start": 823,
+     "eind": 955,
+     "accent": {
+      "stat": "2 of 3",
+      "label": "eigen parkeerplaatsen",
+      "icoon": "auto"
+     }
+    },
+    {
+     "tekst": "De A12 en de A4 liggen op een paar minuten, dus je goederen zijn snel onderweg richting Rotterdam, Leiden en Zoetermeer.",
+     "woorden": [
+      [
+       31.84,
+       31.92,
+       "De"
+      ],
+      [
+       32.0,
+       32.48,
+       "A12"
+      ],
+      [
+       32.56,
+       32.6,
+       "en"
+      ],
+      [
+       32.64,
+       32.68,
+       "de"
+      ],
+      [
+       32.72,
+       33.2,
+       "A4"
+      ],
+      [
+       33.28,
+       33.44,
+       "liggen"
+      ],
+      [
+       33.48,
+       33.52,
+       "op"
+      ],
+      [
+       33.6,
+       33.68,
+       "een"
+      ],
+      [
+       33.72,
+       33.84,
+       "paar"
+      ],
+      [
+       33.92,
+       34.56,
+       "minuten,"
+      ],
+      [
+       34.6,
+       34.8,
+       "dus"
+      ],
+      [
+       34.88,
+       34.96,
+       "je"
+      ],
+      [
+       35.0,
+       35.28,
+       "goederen"
+      ],
+      [
+       35.32,
+       35.52,
+       "zijn"
+      ],
+      [
+       35.56,
+       35.76,
+       "snel"
+      ],
+      [
+       35.84,
+       36.24,
+       "onderweg"
+      ],
+      [
+       36.36,
+       36.56,
+       "richting"
+      ],
+      [
+       36.64,
+       37.28,
+       "Rotterdam,"
+      ],
+      [
+       37.36,
+       37.68,
+       "Leiden"
+      ],
+      [
+       37.76,
+       37.84,
+       "en"
+      ],
+      [
+       37.92,
+       38.48,
+       "Zoetermeer."
+      ]
+     ],
+     "start": 955,
+     "eind": 1166,
+     "accent": {
+      "label": "A12 & A4",
+      "tekst": "Rotterdam · Leiden · Zoetermeer",
+      "icoon": "weg"
+     }
+    },
+    {
+     "tekst": "De oplevering is gepland in het vierde kwartaal van 2027.",
+     "woorden": [
+      [
+       38.88,
+       38.96,
+       "De"
+      ],
+      [
+       39.04,
+       39.52,
+       "oplevering"
+      ],
+      [
+       39.6,
+       39.68,
+       "is"
+      ],
+      [
+       39.76,
+       40.08,
+       "gepland"
+      ],
+      [
+       40.12,
+       40.16,
+       "in"
+      ],
+      [
+       40.24,
+       40.32,
+       "het"
+      ],
+      [
+       40.4,
+       40.64,
+       "vierde"
+      ],
+      [
+       40.68,
+       41.04,
+       "kwartaal"
+      ],
+      [
+       41.12,
+       41.2,
+       "van"
+      ],
+      [
+       41.24,
+       42.56,
+       "2027."
+      ]
+     ],
+     "start": 1166,
+     "eind": 1291,
+     "accent": {
+      "stat": "Q4 2027",
+      "label": "geplande oplevering",
+      "icoon": "kalender"
+     }
+    },
+    {
+     "tekst": "Benieuwd welke unit bij jouw webshop past?",
+     "woorden": [
+      [
+       43.04,
+       43.28,
+       "Benieuwd"
+      ],
+      [
+       43.36,
+       43.6,
+       "welke"
+      ],
+      [
+       43.72,
+       43.84,
+       "unit"
+      ],
+      [
+       43.92,
+       44.0,
+       "bij"
+      ],
+      [
+       44.04,
+       44.24,
+       "jouw"
+      ],
+      [
+       44.32,
+       44.56,
+       "webshop"
+      ],
+      [
+       44.64,
+       44.96,
+       "past?"
+      ]
+     ],
+     "start": 1291,
+     "eind": 1361,
+     "accent": {
+      "label": "Welke unit past bij jou?",
+      "icoon": "ster"
+     }
+    },
+    {
+     "tekst": "Klik op de knop hieronder, download de brochure en bespreek met onze makelaar wat er voor jouw bedrijf mogelijk is!",
+     "woorden": [
+      [
+       45.36,
+       45.52,
+       "Klik"
+      ],
+      [
+       45.56,
+       45.6,
+       "op"
+      ],
+      [
+       45.64,
+       45.68,
+       "de"
+      ],
+      [
+       45.72,
+       45.92,
+       "knop"
+      ],
+      [
+       46.0,
+       46.64,
+       "hieronder,"
+      ],
+      [
+       46.84,
+       47.04,
+       "download"
+      ],
+      [
+       47.08,
+       47.12,
+       "de"
+      ],
+      [
+       47.2,
+       47.6,
+       "brochure"
+      ],
+      [
+       47.92,
+       47.96,
+       "en"
+      ],
+      [
+       48.0,
+       48.32,
+       "bespreek"
+      ],
+      [
+       48.4,
+       48.48,
+       "met"
+      ],
+      [
+       48.52,
+       48.72,
+       "onze"
+      ],
+      [
+       48.84,
+       49.2,
+       "makelaar"
+      ],
+      [
+       49.28,
+       49.36,
+       "wat"
+      ],
+      [
+       49.4,
+       49.44,
+       "er"
+      ],
+      [
+       49.52,
+       49.6,
+       "voor"
+      ],
+      [
+       49.68,
+       49.84,
+       "jouw"
+      ],
+      [
+       49.92,
+       50.24,
+       "bedrijf"
+      ],
+      [
+       50.28,
+       50.64,
+       "mogelijk"
+      ],
+      [
+       50.76,
+       51.2,
+       "is!"
+      ]
+     ],
+     "start": 1361,
+     "eind": 1585,
+     "accent": null
+    }
+   ],
+   "shots": [
+    {
+     "clip": 3,
+     "from": 0,
+     "frames": 106
+    },
+    {
+     "clip": 1,
+     "from": 106,
+     "frames": 122
+    },
+    {
+     "clip": 2,
+     "from": 228,
+     "frames": 86
+    },
+    {
+     "clip": 6,
+     "from": 314,
+     "frames": 101
+    },
+    {
+     "clip": 8,
+     "from": 415,
+     "frames": 135
+    },
+    {
+     "clip": 5,
+     "from": 550,
+     "frames": 117
+    },
+    {
+     "clip": 11,
+     "from": 667,
+     "frames": 75
+    },
+    {
+     "clip": 3,
+     "from": 742,
+     "frames": 81
+    },
+    {
+     "clip": 7,
+     "from": 823,
+     "frames": 132
+    },
+    {
+     "clip": 4,
+     "from": 955,
+     "frames": 105
+    },
+    {
+     "clip": 1,
+     "from": 1060,
+     "frames": 106
+    },
+    {
+     "clip": 13,
+     "from": 1166,
+     "frames": 125
+    },
+    {
+     "clip": 9,
+     "from": 1291,
+     "frames": 70
+    },
+    {
+     "clip": 12,
+     "from": 1361,
+     "frames": 117
+    },
+    {
+     "clip": 10,
+     "from": 1478,
+     "frames": 107
+    }
+   ],
+   "cta": {
+    "titel": "Download de brochure",
+    "sub": "en bespreek de mogelijkheden met onze makelaar",
+    "knop": "Download de brochure"
+   }
+  },
+  "b3": {
+   "frames": 1680,
+   "zinnen": [
+    {
+     "tekst": "Bij Business Nomads, Elbe 23 op het Forepark in Den Haag koop je een eigen bedrijfspand voor je foodbedrijf, in plaats van een tijdelijke of gehuurde plek.",
+     "woorden": [
+      [
+       0.0,
+       0.16,
+       "Bij"
+      ],
+      [
+       0.24,
+       0.56,
+       "Business"
+      ],
+      [
+       0.64,
+       1.36,
+       "Nomads,"
+      ],
+      [
+       1.44,
+       1.68,
+       "Elbe"
+      ],
+      [
+       1.72,
+       2.4,
+       "23"
+      ],
+      [
+       2.48,
+       2.56,
+       "op"
+      ],
+      [
+       2.64,
+       2.72,
+       "het"
+      ],
+      [
+       2.8,
+       3.28,
+       "Forepark"
+      ],
+      [
+       3.32,
+       3.36,
+       "in"
+      ],
+      [
+       3.44,
+       3.52,
+       "Den"
+      ],
+      [
+       3.6,
+       3.84,
+       "Haag"
+      ],
+      [
+       4.16,
+       4.32,
+       "koop"
+      ],
+      [
+       4.4,
+       4.44,
+       "je"
+      ],
+      [
+       4.48,
+       4.64,
+       "een"
+      ],
+      [
+       4.68,
+       4.96,
+       "eigen"
+      ],
+      [
+       5.04,
+       5.6,
+       "bedrijfspand"
+      ],
+      [
+       5.68,
+       5.76,
+       "voor"
+      ],
+      [
+       5.84,
+       5.92,
+       "je"
+      ],
+      [
+       6.04,
+       6.72,
+       "foodbedrijf,"
+      ],
+      [
+       6.8,
+       6.88,
+       "in"
+      ],
+      [
+       6.92,
+       7.12,
+       "plaats"
+      ],
+      [
+       7.16,
+       7.2,
+       "van"
+      ],
+      [
+       7.28,
+       7.36,
+       "een"
+      ],
+      [
+       7.4,
+       7.92,
+       "tijdelijke"
+      ],
+      [
+       8.0,
+       8.08,
+       "of"
+      ],
+      [
+       8.16,
+       8.56,
+       "gehuurde"
+      ],
+      [
+       8.64,
+       8.96,
+       "plek."
+      ]
+     ],
+     "start": 0,
+     "eind": 283,
+     "accent": {
+      "label": "Eigen bedrijfspand",
+      "tekst": "Voor je foodbedrijf",
+      "icoon": "sleutel"
+     }
+    },
+    {
+     "tekst": "Je kiest uit units van zo'n 200 tot 230 vierkante meter, verdeeld over twee of drie lagen.",
+     "woorden": [
+      [
+       9.44,
+       9.52,
+       "Je"
+      ],
+      [
+       9.6,
+       9.76,
+       "kiest"
+      ],
+      [
+       9.84,
+       10.0,
+       "uit"
+      ],
+      [
+       10.16,
+       10.32,
+       "units"
+      ],
+      [
+       10.4,
+       10.48,
+       "van"
+      ],
+      [
+       10.52,
+       10.72,
+       "zo'n"
+      ],
+      [
+       10.76,
+       11.28,
+       "200"
+      ],
+      [
+       11.44,
+       11.52,
+       "tot"
+      ],
+      [
+       11.6,
+       12.4,
+       "230"
+      ],
+      [
+       12.48,
+       12.88,
+       "vierkante"
+      ],
+      [
+       13.04,
+       13.52,
+       "meter,"
+      ],
+      [
+       13.6,
+       13.92,
+       "verdeeld"
+      ],
+      [
+       14.0,
+       14.24,
+       "over"
+      ],
+      [
+       14.293,
+       14.48,
+       "twee"
+      ],
+      [
+       14.64,
+       14.8,
+       "of"
+      ],
+      [
+       14.84,
+       14.96,
+       "drie"
+      ],
+      [
+       15.04,
+       15.72,
+       "lagen."
+      ]
+     ],
+     "start": 283,
+     "eind": 480,
+     "accent": {
+      "stat": "200–230 m²",
+      "label": "per unit",
+      "tekst": "Verdeeld over 2 of 3 lagen",
+      "icoon": "gebouw"
+     }
+    },
+    {
+     "tekst": "Zo richt je beneden je bedrijfsruimte in en houd je boven ruimte voor kantoor, overleg of het ontvangen van klanten.",
+     "woorden": [
+      [
+       16.0,
+       16.16,
+       "Zo"
+      ],
+      [
+       16.28,
+       16.4,
+       "richt"
+      ],
+      [
+       16.44,
+       16.48,
+       "je"
+      ],
+      [
+       16.587,
+       16.88,
+       "beneden"
+      ],
+      [
+       16.92,
+       16.96,
+       "je"
+      ],
+      [
+       17.04,
+       17.68,
+       "bedrijfsruimte"
+      ],
+      [
+       17.76,
+       17.92,
+       "in"
+      ],
+      [
+       18.08,
+       18.16,
+       "en"
+      ],
+      [
+       18.2,
+       18.4,
+       "houd"
+      ],
+      [
+       18.44,
+       18.48,
+       "je"
+      ],
+      [
+       18.56,
+       18.88,
+       "boven"
+      ],
+      [
+       19.04,
+       19.28,
+       "ruimte"
+      ],
+      [
+       19.36,
+       19.44,
+       "voor"
+      ],
+      [
+       19.52,
+       20.16,
+       "kantoor,"
+      ],
+      [
+       20.28,
+       20.72,
+       "overleg"
+      ],
+      [
+       20.8,
+       20.96,
+       "of"
+      ],
+      [
+       21.0,
+       21.04,
+       "het"
+      ],
+      [
+       21.12,
+       21.44,
+       "ontvangen"
+      ],
+      [
+       21.52,
+       21.6,
+       "van"
+      ],
+      [
+       21.64,
+       22.32,
+       "klanten."
+      ]
+     ],
+     "start": 480,
+     "eind": 679,
+     "accent": {
+      "label": "Flexibele indeling",
+      "tekst": "Beneden bedrijfsruimte · boven kantoor",
+      "icoon": "indeling"
+     }
+    },
+    {
+     "tekst": "Via de overheaddeur komen je leveringen en aanvoer direct binnen.",
+     "woorden": [
+      [
+       22.64,
+       22.8,
+       "Via"
+      ],
+      [
+       22.88,
+       22.96,
+       "de"
+      ],
+      [
+       23.04,
+       23.68,
+       "overheaddeur"
+      ],
+      [
+       23.76,
+       23.92,
+       "komen"
+      ],
+      [
+       24.0,
+       24.08,
+       "je"
+      ],
+      [
+       24.24,
+       24.64,
+       "leveringen"
+      ],
+      [
+       24.68,
+       24.72,
+       "en"
+      ],
+      [
+       24.8,
+       25.28,
+       "aanvoer"
+      ],
+      [
+       25.52,
+       25.76,
+       "direct"
+      ],
+      [
+       25.8,
+       26.08,
+       "binnen."
+      ]
+     ],
+     "start": 679,
+     "eind": 797,
+     "accent": {
+      "label": "Overheaddeur",
+      "tekst": "Leveringen direct binnen",
+      "icoon": "deur"
+     }
+    },
+    {
+     "tekst": "Met twee of drie eigen parkeerplaatsen staat je bus voor bezorging op je eigen terrein.",
+     "woorden": [
+      [
+       26.56,
+       26.72,
+       "Met"
+      ],
+      [
+       26.76,
+       26.96,
+       "twee"
+      ],
+      [
+       27.04,
+       27.2,
+       "of"
+      ],
+      [
+       27.24,
+       27.36,
+       "drie"
+      ],
+      [
+       27.52,
+       27.76,
+       "eigen"
+      ],
+      [
+       27.84,
+       28.56,
+       "parkeerplaatsen"
+      ],
+      [
+       28.64,
+       28.88,
+       "staat"
+      ],
+      [
+       28.92,
+       28.96,
+       "je"
+      ],
+      [
+       29.04,
+       29.2,
+       "bus"
+      ],
+      [
+       29.28,
+       29.36,
+       "voor"
+      ],
+      [
+       29.44,
+       30.0,
+       "bezorging"
+      ],
+      [
+       30.08,
+       30.16,
+       "op"
+      ],
+      [
+       30.24,
+       30.32,
+       "je"
+      ],
+      [
+       30.36,
+       30.64,
+       "eigen"
+      ],
+      [
+       30.72,
+       31.32,
+       "terrein."
+      ]
+     ],
+     "start": 797,
+     "eind": 948,
+     "accent": {
+      "stat": "2 of 3",
+      "label": "eigen parkeerplaatsen",
+      "tekst": "Je bezorgbus op eigen terrein",
+      "icoon": "auto"
+     }
+    },
+    {
+     "tekst": "De A12 en de A4 liggen op een paar minuten, dus je bent snel bij je klanten in Haaglanden.",
+     "woorden": [
+      [
+       31.6,
+       31.68,
+       "De"
+      ],
+      [
+       31.76,
+       32.24,
+       "A12"
+      ],
+      [
+       32.32,
+       32.4,
+       "en"
+      ],
+      [
+       32.44,
+       32.48,
+       "de"
+      ],
+      [
+       32.56,
+       33.04,
+       "A4"
+      ],
+      [
+       33.12,
+       33.28,
+       "liggen"
+      ],
+      [
+       33.32,
+       33.36,
+       "op"
+      ],
+      [
+       33.44,
+       33.6,
+       "een"
+      ],
+      [
+       33.64,
+       33.76,
+       "paar"
+      ],
+      [
+       33.84,
+       34.4,
+       "minuten,"
+      ],
+      [
+       34.48,
+       34.56,
+       "dus"
+      ],
+      [
+       34.6,
+       34.64,
+       "je"
+      ],
+      [
+       34.693,
+       34.8,
+       "bent"
+      ],
+      [
+       34.88,
+       35.12,
+       "snel"
+      ],
+      [
+       35.2,
+       35.28,
+       "bij"
+      ],
+      [
+       35.32,
+       35.36,
+       "je"
+      ],
+      [
+       35.44,
+       35.76,
+       "klanten"
+      ],
+      [
+       35.8,
+       35.84,
+       "in"
+      ],
+      [
+       35.92,
+       36.48,
+       "Haaglanden."
+      ]
+     ],
+     "start": 948,
+     "eind": 1109,
+     "accent": {
+      "label": "A12 & A4",
+      "tekst": "Snel bij je klanten in Haaglanden",
+      "icoon": "weg"
+     }
+    },
+    {
+     "tekst": "De verzorgde, eigentijdse gevel geeft je zaak direct een professionele uitstraling.",
+     "woorden": [
+      [
+       36.96,
+       37.04,
+       "De"
+      ],
+      [
+       37.12,
+       37.84,
+       "verzorgde,"
+      ],
+      [
+       37.88,
+       38.48,
+       "eigentijdse"
+      ],
+      [
+       38.56,
+       38.96,
+       "gevel"
+      ],
+      [
+       39.0,
+       39.2,
+       "geeft"
+      ],
+      [
+       39.24,
+       39.28,
+       "je"
+      ],
+      [
+       39.36,
+       39.6,
+       "zaak"
+      ],
+      [
+       39.8,
+       40.0,
+       "direct"
+      ],
+      [
+       40.08,
+       40.16,
+       "een"
+      ],
+      [
+       40.44,
+       40.88,
+       "professionele"
+      ],
+      [
+       40.96,
+       41.6,
+       "uitstraling."
+      ]
+     ],
+     "start": 1109,
+     "eind": 1262,
+     "accent": {
+      "label": "Eigentijdse gevel",
+      "tekst": "Professionele uitstraling",
+      "icoon": "ster"
+     }
+    },
+    {
+     "tekst": "De oplevering is gepland in het vierde kwartaal van 2027.",
+     "woorden": [
+      [
+       42.08,
+       42.16,
+       "De"
+      ],
+      [
+       42.28,
+       42.72,
+       "oplevering"
+      ],
+      [
+       42.8,
+       42.88,
+       "is"
+      ],
+      [
+       42.96,
+       43.28,
+       "gepland"
+      ],
+      [
+       43.32,
+       43.36,
+       "in"
+      ],
+      [
+       43.44,
+       43.6,
+       "het"
+      ],
+      [
+       43.68,
+       43.84,
+       "vierde"
+      ],
+      [
+       43.92,
+       44.24,
+       "kwartaal"
+      ],
+      [
+       44.32,
+       44.4,
+       "van"
+      ],
+      [
+       44.48,
+       46.24,
+       "2027."
+      ]
+     ],
+     "start": 1262,
+     "eind": 1390,
+     "accent": {
+      "stat": "Q4 2027",
+      "label": "geplande oplevering",
+      "icoon": "kalender"
+     }
+    },
+    {
+     "tekst": "Wil je weten of jouw foodconcept hier past?",
+     "woorden": [
+      [
+       46.32,
+       46.4,
+       "Wil"
+      ],
+      [
+       46.48,
+       46.56,
+       "je"
+      ],
+      [
+       46.6,
+       46.8,
+       "weten"
+      ],
+      [
+       46.88,
+       46.96,
+       "of"
+      ],
+      [
+       47.04,
+       47.28,
+       "jouw"
+      ],
+      [
+       47.4,
+       47.84,
+       "foodconcept"
+      ],
+      [
+       47.92,
+       48.08,
+       "hier"
+      ],
+      [
+       48.16,
+       48.68,
+       "past?"
+      ]
+     ],
+     "start": 1390,
+     "eind": 1466,
+     "accent": {
+      "label": "Past jouw foodconcept hier?",
+      "icoon": "pen"
+     }
+    },
+    {
+     "tekst": "Klik op de knop hieronder, schrijf je in en bespreek met onze makelaar wat er voor jouw bedrijf mogelijk is!",
+     "woorden": [
+      [
+       48.88,
+       49.04,
+       "Klik"
+      ],
+      [
+       49.08,
+       49.12,
+       "op"
+      ],
+      [
+       49.2,
+       49.28,
+       "de"
+      ],
+      [
+       49.32,
+       49.44,
+       "knop"
+      ],
+      [
+       49.52,
+       50.16,
+       "hieronder,"
+      ],
+      [
+       50.24,
+       50.56,
+       "schrijf"
+      ],
+      [
+       50.6,
+       50.64,
+       "je"
+      ],
+      [
+       50.72,
+       50.96,
+       "in"
+      ],
+      [
+       51.0,
+       51.04,
+       "en"
+      ],
+      [
+       51.12,
+       51.52,
+       "bespreek"
+      ],
+      [
+       51.6,
+       51.68,
+       "met"
+      ],
+      [
+       51.72,
+       51.84,
+       "onze"
+      ],
+      [
+       51.92,
+       52.4,
+       "makelaar"
+      ],
+      [
+       52.48,
+       52.56,
+       "wat"
+      ],
+      [
+       52.6,
+       52.64,
+       "er"
+      ],
+      [
+       52.72,
+       52.8,
+       "voor"
+      ],
+      [
+       52.88,
+       53.04,
+       "jouw"
+      ],
+      [
+       53.12,
+       53.52,
+       "bedrijf"
+      ],
+      [
+       53.573,
+       53.92,
+       "mogelijk"
+      ],
+      [
+       54.04,
+       54.4,
+       "is!"
+      ]
+     ],
+     "start": 1466,
+     "eind": 1680,
+     "accent": null
+    }
+   ],
+   "shots": [
+    {
+     "clip": 10,
+     "from": 0,
+     "frames": 140
+    },
+    {
+     "clip": 9,
+     "from": 140,
+     "frames": 143
+    },
+    {
+     "clip": 1,
+     "from": 283,
+     "frames": 91
+    },
+    {
+     "clip": 6,
+     "from": 374,
+     "frames": 106
+    },
+    {
+     "clip": 8,
+     "from": 480,
+     "frames": 101
+    },
+    {
+     "clip": 11,
+     "from": 581,
+     "frames": 98
+    },
+    {
+     "clip": 5,
+     "from": 679,
+     "frames": 118
+    },
+    {
+     "clip": 7,
+     "from": 797,
+     "frames": 151
+    },
+    {
+     "clip": 4,
+     "from": 948,
+     "frames": 86
+    },
+    {
+     "clip": 2,
+     "from": 1034,
+     "frames": 75
+    },
+    {
+     "clip": 3,
+     "from": 1109,
+     "frames": 72
+    },
+    {
+     "clip": 12,
+     "from": 1181,
+     "frames": 81
+    },
+    {
+     "clip": 13,
+     "from": 1262,
+     "frames": 128
+    },
+    {
+     "clip": 9,
+     "from": 1390,
+     "frames": 76
+    },
+    {
+     "clip": 12,
+     "from": 1466,
+     "frames": 108
+    },
+    {
+     "clip": 10,
+     "from": 1574,
+     "frames": 106
+    }
+   ],
+   "cta": {
+    "titel": "Schrijf je in",
+    "sub": "en bespreek de mogelijkheden met onze makelaar",
+    "knop": "Schrijf je in"
+   }
+  }
+ },
+ "hooks": {
+  "b1h1": {
+   "woorden": [
+    [
+     0.0,
+     0.24,
+     "Werk"
+    ],
+    [
+     0.28,
+     0.32,
+     "je"
+    ],
+    [
+     0.4,
+     0.48,
+     "als"
+    ],
+    [
+     0.52,
+     1.28,
+     "schilder,"
+    ],
+    [
+     1.4,
+     1.84,
+     "loodgieter"
+    ],
+    [
+     1.92,
+     2.08,
+     "of"
+    ],
+    [
+     2.16,
+     2.64,
+     "aannemer"
+    ],
+    [
+     2.72,
+     2.96,
+     "vanuit"
+    ],
+    [
+     3.04,
+     3.12,
+     "een"
+    ],
+    [
+     3.24,
+     3.44,
+     "loods"
+    ],
+    [
+     3.52,
+     3.6,
+     "of"
+    ],
+    [
+     3.72,
+     4.16,
+     "garage"
+    ],
+    [
+     4.32,
+     4.48,
+     "die"
+    ],
+    [
+     4.52,
+     4.96,
+     "eigenlijk"
+    ],
+    [
+     5.04,
+     5.12,
+     "te"
+    ],
+    [
+     5.2,
+     5.36,
+     "klein"
+    ],
+    [
+     5.44,
+     5.52,
+     "is"
+    ],
+    [
+     5.6,
+     6.24,
+     "geworden?"
+    ]
+   ],
+   "frames": 200,
+   "clip": 5
+  },
+  "b1h2": {
+   "woorden": [
+    [
+     0.0,
+     0.16,
+     "Ben"
+    ],
+    [
+     0.2,
+     0.24,
+     "je"
+    ],
+    [
+     0.32,
+     0.4,
+     "het"
+    ],
+    [
+     0.48,
+     0.72,
+     "zat"
+    ],
+    [
+     0.8,
+     0.96,
+     "dat"
+    ],
+    [
+     1.0,
+     1.04,
+     "je"
+    ],
+    [
+     1.08,
+     1.52,
+     "materiaal"
+    ],
+    [
+     1.6,
+     1.68,
+     "op"
+    ],
+    [
+     1.76,
+     1.84,
+     "de"
+    ],
+    [
+     1.96,
+     2.08,
+     "ene"
+    ],
+    [
+     2.16,
+     2.32,
+     "plek"
+    ],
+    [
+     2.4,
+     2.72,
+     "ligt"
+    ],
+    [
+     2.8,
+     2.96,
+     "en"
+    ],
+    [
+     3.0,
+     3.04,
+     "je"
+    ],
+    [
+     3.12,
+     3.52,
+     "kantoor"
+    ],
+    [
+     3.56,
+     3.6,
+     "op"
+    ],
+    [
+     3.68,
+     3.76,
+     "de"
+    ],
+    [
+     3.84,
+     4.48,
+     "andere?"
+    ]
+   ],
+   "frames": 147,
+   "clip": 6
+  },
+  "b1h3": {
+   "woorden": [
+    [
+     0.0,
+     0.24,
+     "Zoek"
+    ],
+    [
+     0.28,
+     0.32,
+     "je"
+    ],
+    [
+     0.36,
+     0.4,
+     "in"
+    ],
+    [
+     0.48,
+     0.52,
+     "de"
+    ],
+    [
+     0.56,
+     0.96,
+     "regio"
+    ],
+    [
+     1.04,
+     1.12,
+     "Den"
+    ],
+    [
+     1.2,
+     1.52,
+     "Haag"
+    ],
+    [
+     1.64,
+     1.76,
+     "een"
+    ],
+    [
+     1.8,
+     2.08,
+     "eigen"
+    ],
+    [
+     2.16,
+     2.8,
+     "bedrijfspand"
+    ],
+    [
+     2.92,
+     3.04,
+     "met"
+    ],
+    [
+     3.12,
+     3.44,
+     "opslag"
+    ],
+    [
+     3.48,
+     4.0,
+     "beneden"
+    ],
+    [
+     4.08,
+     4.16,
+     "en"
+    ],
+    [
+     4.24,
+     4.32,
+     "een"
+    ],
+    [
+     4.36,
+     4.72,
+     "kantoor"
+    ],
+    [
+     4.8,
+     5.52,
+     "erboven?"
+    ]
+   ],
+   "frames": 178,
+   "clip": 9
+  },
+  "b1h4": {
+   "woorden": [
+    [
+     0.0,
+     0.24,
+     "Wil"
+    ],
+    [
+     0.28,
+     0.32,
+     "je"
+    ],
+    [
+     0.4,
+     0.48,
+     "je"
+    ],
+    [
+     0.6,
+     0.72,
+     "bus"
+    ],
+    [
+     0.8,
+     1.04,
+     "gewoon"
+    ],
+    [
+     1.12,
+     1.2,
+     "op"
+    ],
+    [
+     1.28,
+     1.36,
+     "je"
+    ],
+    [
+     1.44,
+     1.68,
+     "eigen"
+    ],
+    [
+     1.72,
+     2.0,
+     "terrein"
+    ],
+    [
+     2.133,
+     2.72,
+     "parkeren,"
+    ],
+    [
+     2.76,
+     2.96,
+     "vlak"
+    ],
+    [
+     3.0,
+     3.04,
+     "bij"
+    ],
+    [
+     3.12,
+     3.2,
+     "je"
+    ],
+    [
+     3.333,
+     4.0,
+     "materiaal?"
+    ]
+   ],
+   "frames": 132,
+   "clip": 7
+  },
+  "b1h5": {
+   "woorden": [
+    [
+     0.0,
+     0.32,
+     "Klaar"
+    ],
+    [
+     0.4,
+     0.48,
+     "om"
+    ],
+    [
+     0.52,
+     0.56,
+     "je"
+    ],
+    [
+     0.64,
+     1.2,
+     "vakbedrijf"
+    ],
+    [
+     1.32,
+     1.44,
+     "een"
+    ],
+    [
+     1.48,
+     2.027,
+     "eigen,"
+    ],
+    [
+     2.213,
+     2.56,
+     "professioneel"
+    ],
+    [
+     2.64,
+     2.8,
+     "pand"
+    ],
+    [
+     2.88,
+     2.96,
+     "te"
+    ],
+    [
+     3.04,
+     3.28,
+     "geven"
+    ],
+    [
+     3.36,
+     3.48,
+     "waar"
+    ],
+    [
+     3.52,
+     3.6,
+     "je"
+    ],
+    [
+     3.68,
+     4.0,
+     "klanten"
+    ],
+    [
+     4.12,
+     4.24,
+     "met"
+    ],
+    [
+     4.32,
+     4.56,
+     "trots"
+    ],
+    [
+     4.64,
+     5.28,
+     "ontvangt?"
+    ]
+   ],
+   "frames": 171,
+   "clip": 12
+  },
+  "b2h1": {
+   "woorden": [
+    [
+     0.0,
+     0.32,
+     "Staat"
+    ],
+    [
+     0.36,
+     0.4,
+     "je"
+    ],
+    [
+     0.48,
+     1.04,
+     "woonkamer"
+    ],
+    [
+     1.12,
+     1.2,
+     "of"
+    ],
+    [
+     1.28,
+     1.76,
+     "garage"
+    ],
+    [
+     1.84,
+     2.08,
+     "vol"
+    ],
+    [
+     2.2,
+     2.56,
+     "dozen"
+    ],
+    [
+     2.64,
+     2.8,
+     "sinds"
+    ],
+    [
+     2.88,
+     2.96,
+     "je"
+    ],
+    [
+     3.04,
+     3.36,
+     "webshop"
+    ],
+    [
+     3.44,
+     3.6,
+     "zo"
+    ],
+    [
+     3.68,
+     3.84,
+     "hard"
+    ],
+    [
+     3.92,
+     4.56,
+     "groeit?"
+    ]
+   ],
+   "frames": 149,
+   "clip": 10
+  },
+  "b2h2": {
+   "woorden": [
+    [
+     0.0,
+     0.187,
+     "Heb"
+    ],
+    [
+     0.213,
+     0.24,
+     "je"
+    ],
+    [
+     0.32,
+     0.4,
+     "een"
+    ],
+    [
+     0.52,
+     0.96,
+     "webshop"
+    ],
+    [
+     1.04,
+     1.2,
+     "en"
+    ],
+    [
+     1.28,
+     1.44,
+     "zoek"
+    ],
+    [
+     1.48,
+     1.52,
+     "je"
+    ],
+    [
+     1.56,
+     1.6,
+     "in"
+    ],
+    [
+     1.68,
+     1.76,
+     "de"
+    ],
+    [
+     1.88,
+     2.16,
+     "regio"
+    ],
+    [
+     2.24,
+     2.32,
+     "Den"
+    ],
+    [
+     2.4,
+     2.72,
+     "Haag"
+    ],
+    [
+     2.8,
+     2.96,
+     "één"
+    ],
+    [
+     3.04,
+     3.28,
+     "plek"
+    ],
+    [
+     3.36,
+     3.44,
+     "voor"
+    ],
+    [
+     3.52,
+     3.6,
+     "je"
+    ],
+    [
+     3.64,
+     4.32,
+     "voorraad,"
+    ],
+    [
+     4.4,
+     4.48,
+     "je"
+    ],
+    [
+     4.6,
+     5.28,
+     "inpakplek"
+    ],
+    [
+     5.36,
+     5.44,
+     "en"
+    ],
+    [
+     5.48,
+     5.52,
+     "je"
+    ],
+    [
+     5.56,
+     6.32,
+     "kantoor?"
+    ]
+   ],
+   "frames": 202,
+   "clip": 4
+  },
+  "b2h3": {
+   "woorden": [
+    [
+     0.0,
+     0.16,
+     "Is"
+    ],
+    [
+     0.24,
+     0.32,
+     "je"
+    ],
+    [
+     0.4,
+     0.96,
+     "opslagbox"
+    ],
+    [
+     1.04,
+     1.12,
+     "te"
+    ],
+    [
+     1.2,
+     1.36,
+     "klein"
+    ],
+    [
+     1.44,
+     1.84,
+     "geworden"
+    ],
+    [
+     1.92,
+     2.0,
+     "voor"
+    ],
+    [
+     2.08,
+     2.16,
+     "de"
+    ],
+    [
+     2.2,
+     2.56,
+     "voorraad"
+    ],
+    [
+     2.64,
+     2.72,
+     "van"
+    ],
+    [
+     2.76,
+     2.8,
+     "je"
+    ],
+    [
+     2.92,
+     3.52,
+     "webshop?"
+    ]
+   ],
+   "frames": 118,
+   "clip": 8
+  },
+  "b2h4": {
+   "woorden": [
+    [
+     0.0,
+     0.24,
+     "Wil"
+    ],
+    [
+     0.28,
+     0.32,
+     "je"
+    ],
+    [
+     0.4,
+     0.48,
+     "je"
+    ],
+    [
+     0.68,
+     1.28,
+     "productfoto's"
+    ],
+    [
+     1.36,
+     1.44,
+     "en"
+    ],
+    [
+     1.52,
+     1.92,
+     "content"
+    ],
+    [
+     1.96,
+     2.24,
+     "maken"
+    ],
+    [
+     2.32,
+     2.4,
+     "op"
+    ],
+    [
+     2.48,
+     2.56,
+     "een"
+    ],
+    [
+     2.6,
+     2.88,
+     "eigen"
+    ],
+    [
+     2.96,
+     3.6,
+     "verdieping,"
+    ],
+    [
+     3.68,
+     3.76,
+     "met"
+    ],
+    [
+     3.84,
+     3.92,
+     "je"
+    ],
+    [
+     3.96,
+     4.32,
+     "voorraad"
+    ],
+    [
+     4.4,
+     4.64,
+     "gewoon"
+    ],
+    [
+     4.68,
+     5.44,
+     "beneden?"
+    ]
+   ],
+   "frames": 176,
+   "clip": 11
+  },
+  "b2h5": {
+   "woorden": [
+    [
+     0.0,
+     0.32,
+     "Klaar"
+    ],
+    [
+     0.4,
+     0.48,
+     "om"
+    ],
+    [
+     0.52,
+     0.56,
+     "je"
+    ],
+    [
+     0.68,
+     0.96,
+     "webshop"
+    ],
+    [
+     1.08,
+     1.2,
+     "een"
+    ],
+    [
+     1.24,
+     1.52,
+     "eigen"
+    ],
+    [
+     1.6,
+     2.16,
+     "bedrijfspand"
+    ],
+    [
+     2.24,
+     2.32,
+     "te"
+    ],
+    [
+     2.4,
+     2.72,
+     "geven"
+    ],
+    [
+     2.8,
+     2.88,
+     "in"
+    ],
+    [
+     2.92,
+     3.12,
+     "plaats"
+    ],
+    [
+     3.16,
+     3.2,
+     "van"
+    ],
+    [
+     3.28,
+     3.36,
+     "een"
+    ],
+    [
+     3.44,
+     3.76,
+     "gehuurde"
+    ],
+    [
+     3.84,
+     4.56,
+     "opslag?"
+    ]
+   ],
+   "frames": 149,
+   "clip": 9
+  },
+  "b3h1": {
+   "woorden": [
+    [
+     0.0,
+     0.24,
+     "Run"
+    ],
+    [
+     0.28,
+     0.32,
+     "je"
+    ],
+    [
+     0.4,
+     0.48,
+     "een"
+    ],
+    [
+     0.52,
+     1.36,
+     "cateringbedrijf"
+    ],
+    [
+     1.44,
+     1.6,
+     "of"
+    ],
+    [
+     1.68,
+     2.4,
+     "foodconcept"
+    ],
+    [
+     2.56,
+     2.72,
+     "en"
+    ],
+    [
+     2.8,
+     2.88,
+     "ben"
+    ],
+    [
+     2.96,
+     3.04,
+     "je"
+    ],
+    [
+     3.08,
+     3.28,
+     "klaar"
+    ],
+    [
+     3.4,
+     3.52,
+     "met"
+    ],
+    [
+     3.56,
+     4.08,
+     "tijdelijke"
+    ],
+    [
+     4.16,
+     4.24,
+     "of"
+    ],
+    [
+     4.32,
+     4.72,
+     "gehuurde"
+    ],
+    [
+     4.8,
+     5.52,
+     "ruimtes?"
+    ]
+   ],
+   "frames": 178,
+   "clip": 13
+  },
+  "b3h2": {
+   "woorden": [
+    [
+     0.0,
+     0.24,
+     "Zoek"
+    ],
+    [
+     0.28,
+     0.32,
+     "je"
+    ],
+    [
+     0.36,
+     0.4,
+     "in"
+    ],
+    [
+     0.44,
+     0.48,
+     "de"
+    ],
+    [
+     0.56,
+     0.88,
+     "regio"
+    ],
+    [
+     0.96,
+     1.12,
+     "Den"
+    ],
+    [
+     1.2,
+     1.44,
+     "Haag"
+    ],
+    [
+     1.52,
+     1.68,
+     "een"
+    ],
+    [
+     1.72,
+     2.0,
+     "eigen"
+    ],
+    [
+     2.08,
+     2.72,
+     "bedrijfspand"
+    ],
+    [
+     2.76,
+     2.8,
+     "voor"
+    ],
+    [
+     2.88,
+     2.96,
+     "je"
+    ],
+    [
+     3.04,
+     3.92,
+     "foodbedrijf,"
+    ],
+    [
+     4.0,
+     4.08,
+     "met"
+    ],
+    [
+     4.16,
+     4.24,
+     "een"
+    ],
+    [
+     4.32,
+     4.64,
+     "kantoor"
+    ],
+    [
+     4.72,
+     5.28,
+     "erbij?"
+    ]
+   ],
+   "frames": 171,
+   "clip": 3
+  },
+  "b3h3": {
+   "woorden": [
+    [
+     0.0,
+     0.32,
+     "Groeit"
+    ],
+    [
+     0.4,
+     0.48,
+     "je"
+    ],
+    [
+     0.6,
+     1.2,
+     "foodbedrijf"
+    ],
+    [
+     1.28,
+     1.44,
+     "en"
+    ],
+    [
+     1.52,
+     1.68,
+     "wordt"
+    ],
+    [
+     1.76,
+     1.84,
+     "het"
+    ],
+    [
+     1.92,
+     2.08,
+     "tijd"
+    ],
+    [
+     2.16,
+     2.24,
+     "voor"
+    ],
+    [
+     2.32,
+     2.4,
+     "een"
+    ],
+    [
+     2.44,
+     2.96,
+     "vaste,"
+    ],
+    [
+     3.0,
+     3.28,
+     "eigen"
+    ],
+    [
+     3.36,
+     4.16,
+     "basis?"
+    ]
+   ],
+   "frames": 137,
+   "clip": 1
+  },
+  "b3h4": {
+   "woorden": [
+    [
+     0.0,
+     0.16,
+     "Ben"
+    ],
+    [
+     0.2,
+     0.24,
+     "je"
+    ],
+    [
+     0.32,
+     0.4,
+     "het"
+    ],
+    [
+     0.48,
+     0.72,
+     "zat"
+    ],
+    [
+     0.8,
+     0.88,
+     "om"
+    ],
+    [
+     0.96,
+     1.04,
+     "je"
+    ],
+    [
+     1.24,
+     1.84,
+     "leveringen,"
+    ],
+    [
+     1.92,
+     2.0,
+     "je"
+    ],
+    [
+     2.08,
+     2.4,
+     "bus"
+    ],
+    [
+     2.48,
+     2.56,
+     "en"
+    ],
+    [
+     2.6,
+     2.64,
+     "je"
+    ],
+    [
+     2.92,
+     3.52,
+     "administratie"
+    ],
+    [
+     3.6,
+     3.68,
+     "op"
+    ],
+    [
+     3.8,
+     4.24,
+     "verschillende"
+    ],
+    [
+     4.32,
+     4.56,
+     "plekken"
+    ],
+    [
+     4.6,
+     4.64,
+     "te"
+    ],
+    [
+     4.72,
+     5.44,
+     "regelen?"
+    ]
+   ],
+   "frames": 176,
+   "clip": 5
+  },
+  "b3h5": {
+   "woorden": [
+    [
+     0.0,
+     0.24,
+     "Wil"
+    ],
+    [
+     0.32,
+     0.4,
+     "je"
+    ],
+    [
+     0.44,
+     0.8,
+     "klanten"
+    ],
+    [
+     0.84,
+     0.88,
+     "en"
+    ],
+    [
+     0.96,
+     1.6,
+     "leveranciers"
+    ],
+    [
+     1.68,
+     2.08,
+     "ontvangen"
+    ],
+    [
+     2.16,
+     2.24,
+     "in"
+    ],
+    [
+     2.32,
+     2.4,
+     "een"
+    ],
+    [
+     2.52,
+     2.96,
+     "verzorgd"
+    ],
+    [
+     3.04,
+     3.28,
+     "pand"
+    ],
+    [
+     3.36,
+     3.6,
+     "dat"
+    ],
+    [
+     3.68,
+     3.92,
+     "echt"
+    ],
+    [
+     4.0,
+     4.08,
+     "van"
+    ],
+    [
+     4.16,
+     4.32,
+     "jou"
+    ],
+    [
+     4.44,
+     4.88,
+     "is?"
+    ]
+   ],
+   "frames": 159,
+   "clip": 12
+  }
+ }
+}
