@@ -12,13 +12,14 @@ python3 scripts/bouw_audio.py >/dev/null
 render() { # id
   [ -s "out/seg/$1.mp4" ] && return 0
   npx remotion render src/index.ts "$1" "out/seg/$1.tmp.mp4" --browser-executable="$B" \
-    --codec=h264 --crf=24 --pixel-format=yuv420p --muted --concurrency=2 --log=error
+    --codec=h264 --crf=24 --pixel-format=yuv420p --muted --concurrency=2 --offthreadvideo-cache-size-in-bytes=536870912 --log=error
   mv "out/seg/$1.tmp.mp4" "out/seg/$1.mp4"
 }
 export -f render; export B
 ids=$(node -e 'const t=require("./src/timing.json");console.log([...Object.keys(t.bodies).map(b=>"Body-"+b),...Object.keys(t.hooks).map(h=>"Hook-"+h)].join("\n"))')
-# Twee renders tegelijk (4 cores)
-echo "$ids" | xargs -P 2 -I{} bash -c 'render {} && echo "segment {}"'
+# Bodies na elkaar (geheugen: twee lange OffthreadVideo-renders tegelijk -> OOM), hooks twee tegelijk (4 cores)
+for id in $(echo "$ids" | grep '^Body-'); do render "$id" && echo "segment $id"; done
+echo "$ids" | grep '^Hook-' | xargs -P 2 -I{} bash -c 'render {} && echo "segment {}"'
 
 for key in $(node -e 'console.log(Object.keys(require("./src/timing.json").hooks).join(" "))'); do
   b=${key%h*}; h=${key#*h}

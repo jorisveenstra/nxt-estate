@@ -92,7 +92,7 @@ const AccentKaart: React.FC<{ a: NonNullable<Accent>; frames: number }> = ({ a, 
         <div style={{ display: "flex", alignItems: "center", gap: 18, color: C.olijfLicht }}>
           {a.icoon ? <Icoon naam={a.icoon} size={a.stat ? 54 : 46} color={C.olijfLicht} /> : null}
           {a.stat ? (
-            <span style={{ fontFamily: FONT, fontWeight: 800, fontSize: 84, lineHeight: 1, color: C.wit }}>{a.stat}</span>
+            <span style={{ fontFamily: FONT, fontWeight: 800, fontSize: 84, lineHeight: 1, color: C.wit, whiteSpace: "nowrap" }}>{a.stat}</span>
           ) : null}
           <span style={{ fontFamily: FONT, fontWeight: 700, fontSize: a.stat ? 38 : 44, color: a.stat ? C.creme : C.wit, lineHeight: 1.15 }}>{a.label}</span>
         </div>
