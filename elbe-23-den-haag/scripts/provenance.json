@@ -1,0 +1,192 @@
+{
+ "jobId": "de4f6c64-91fe-4abb-ba7f-4a13d2e605b6",
+ "scriptVersion": 3,
+ "voiceover": {
+  "b1body": {
+   "model_id": "eleven_v4",
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "request_id": "QegTbKCheGZKw1SLyWzC",
+   "history_item_id": "ap61rQ9W7LXd2Bkra4t9",
+   "character_cost": "489",
+   "mp3": "scripts/tts-cache/d37755471b1deed6.mp3",
+   "sha256": "95a0d3c46b0d97708ea8dd1b60bceeec91813eb26c3648bd93e201bcf94891b3"
+  },
+  "b1h1": {
+   "model_id": "eleven_v4",
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "request_id": "qH8XdFlBISOn4AHGHgEU",
+   "history_item_id": "Sn4RTRogJoAF0uLB7unw",
+   "character_cost": "52",
+   "mp3": "scripts/tts-cache/83897851f3aff6f6.mp3",
+   "sha256": "6c07f9f09f3dba9bb1cb4158210f2806e97744c9d79031859b57d84635406cd7"
+  },
+  "b1h2": {
+   "model_id": "eleven_v4",
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "request_id": "kOLIwnY9tMncAOnalrFb",
+   "history_item_id": "khdAXVl9WaBsoluQtfc2",
+   "character_cost": "38",
+   "mp3": "scripts/tts-cache/3c92b21a5798616e.mp3",
+   "sha256": "c357eaa6a43a7cb52a8cdf61a409ce653107b147e2b0b15010d133812017234d"
+  },
+  "b1h3": {
+   "model_id": "eleven_v4",
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "request_id": "ZdMvPmY07qMIl893a2gm",
+   "history_item_id": "groZVvTF1I0DMv9qdKGr",
+   "character_cost": "46",
+   "mp3": "scripts/tts-cache/379d46029bdfdfce.mp3",
+   "sha256": "e3956c0279b257447f0ec391f9ceb70b162a1ec246a898f8b93fa92542d6e174"
+  },
+  "b1h4": {
+   "model_id": "eleven_v4",
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "request_id": "XONdfFCGwrVgZYUaKfPv",
+   "history_item_id": "kWGyaoo5InKcG5KFOQSV",
+   "character_cost": "35",
+   "mp3": "scripts/tts-cache/81cbac8547ab5e78.mp3",
+   "sha256": "9b7289394331a413cd9a815df214d3ac15841c273d00e7468eea6cbfc98dc4e7"
+  },
+  "b1h5": {
+   "model_id": "eleven_v4",
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "request_id": "KVE3yWxOAc6fGnesFZjM",
+   "history_item_id": "t5m8cx6HpDclu6B2j8bb",
+   "character_cost": "47",
+   "mp3": "scripts/tts-cache/aeb68193dca3b313.mp3",
+   "sha256": "73d2e866783be4cc4e003e660c3039a8a328511c1bac668de536355d3b110863"
+  },
+  "b2body": {
+   "model_id": "eleven_v4",
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "request_id": "89TOJJsx2YuaCy3h6Zma",
+   "history_item_id": "wtjzojdjRctmYUjZEnaG",
+   "character_cost": "496",
+   "mp3": "scripts/tts-cache/6c406e52579882e8.mp3",
+   "sha256": "b885060b8ec3c16f7768fff29f7be29386e38ec2eb3e9f53a27c370ce3ee50fd"
+  },
+  "b2h1": {
+   "model_id": "eleven_v4",
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "request_id": "GBiOjF96zJne9eT0sSmp",
+   "history_item_id": "Kw3m8CMTSGFwVES0gwNI",
+   "character_cost": "38",
+   "mp3": "scripts/tts-cache/f25c7a2fa17ffd29.mp3",
+   "sha256": "cb3cd5ac79e1c5f808cb3b7e405283701c141e238b6a53b85e82bab44f7a7c0f"
+  },
+  "b2h2": {
+   "model_id": "eleven_v4",
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "request_id": "VQuL5Zdbbf7OQAiNmhaq",
+   "history_item_id": "gvTF2YrW2t6n94RgV6jB",
+   "character_cost": "50",
+   "mp3": "scripts/tts-cache/dab0daff0dd9b56b.mp3",
+   "sha256": "fee3998a6a156e35265fbdc9c2899c3de727030e80f2418e5a5ad19532fae08c"
+  },
+  "b2h3": {
+   "model_id": "eleven_v4",
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "request_id": "OOrbN3CUMdt8BPSk9Wla",
+   "history_item_id": "HZDeZcUDhX8MuLVBtpY5",
+   "character_cost": "37",
+   "mp3": "scripts/tts-cache/839eb82fbddb6151.mp3",
+   "sha256": "d871cbc93fa22c990c8e273c7fb0854ce59349f38baa14c7616ad5533c4e22cc"
+  },
+  "b2h4": {
+   "model_id": "eleven_v4",
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "request_id": "VODrJB4LsKudPIjXWze2",
+   "history_item_id": "NNaxlqVOgVUSe5Ctb73S",
+   "character_cost": "47",
+   "mp3": "scripts/tts-cache/4127257d4bc1bde5.mp3",
+   "sha256": "d386cef1b71020d280b19bda17319385d004947a71db8624ce895ed7713776a3"
+  },
+  "b2h5": {
+   "model_id": "eleven_v4",
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "request_id": "e912SprK8aYAbAfHQEQB",
+   "history_item_id": "rBKyIDcl3bo35PuJKcZc",
+   "character_cost": "47",
+   "mp3": "scripts/tts-cache/01021e805d3e61e8.mp3",
+   "sha256": "4b5b5e5d6ac8cf61292b96eccced443a425e78f8c397f28893e7334d8c937d07"
+  },
+  "b3body": {
+   "model_id": "eleven_v4",
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "request_id": "yZn6PAPE2wJSBdKwKIK7",
+   "history_item_id": "8zAg1OIM0c7jqMe8GGVO",
+   "character_cost": "505",
+   "mp3": "scripts/tts-cache/2869354270a1f55a.mp3",
+   "sha256": "9be86f72385205b42511344ae9b75f597ff9783caf35e79cd050d9b4101a16ad"
+  },
+  "b3h1": {
+   "model_id": "eleven_v4",
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "request_id": "m11Wk5cRkmd8bBbBDTqB",
+   "history_item_id": "KEpCfqIBGdMtxnyqh7y4",
+   "character_cost": "45",
+   "mp3": "scripts/tts-cache/9f97f0129161809b.mp3",
+   "sha256": "6ce71838b2f05ebdcd0a014d629a06c3fbe2de4d9ef432210b33aff16c2d6ccf"
+  },
+  "b3h2": {
+   "model_id": "eleven_v4",
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "request_id": "a9bBvlRULnCuGLTflVsi",
+   "history_item_id": "TaWjLNIr9bqqwLbaxUoV",
+   "character_cost": "46",
+   "mp3": "scripts/tts-cache/118ab5a8861b8222.mp3",
+   "sha256": "97575cd3a0c406c25db036927f3740b3cf14b3cec7beacbc4aef9ceb1b5a2ebf"
+  },
+  "b3h3": {
+   "model_id": "eleven_v4",
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "request_id": "O1dRsWo0PIODGqJ9hAle",
+   "history_item_id": "8Q5DHrzn5USlJKR9kNwt",
+   "character_cost": "33",
+   "mp3": "scripts/tts-cache/03f004407387d41b.mp3",
+   "sha256": "cfac4a7621da185e5c158049d067582ae374a3f0f6fd58be6b11a12da6f24dfc"
+  },
+  "b3h4": {
+   "model_id": "eleven_v4",
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "request_id": "OZ770d5YWG025Ot8wkZZ",
+   "history_item_id": "OUQRO2zT3c3SINV1Rkc7",
+   "character_cost": "47",
+   "mp3": "scripts/tts-cache/59866b3cdffccb14.mp3",
+   "sha256": "8ee291acfc6d313eb3881e157496d68ba7940d5fb4b0252b45a409c3fb60d3c3"
+  },
+  "b3h5": {
+   "model_id": "eleven_v4",
+   "voice_id": "YgjXqgzBJa9op0K278OW",
+   "request_id": "6MlbR0b1l8vkbzq6aAs9",
+   "history_item_id": "YQYfVmQfVXMZpCxX76UI",
+   "character_cost": "40",
+   "mp3": "scripts/tts-cache/8a0889e012981f6a.mp3",
+   "sha256": "4c287f66de88bbce266f581841603634fbd726aa287beffbb768cf3bf0bcfa4e"
+  }
+ },
+ "music": {
+  "model_id": "music_v1",
+  "song_id": "CoNbxrUJb56sRU4bXqaQ",
+  "prompt": "Uplifting, positive and confident instrumental background music for a modern Dutch commercial real estate advert: warm soft piano, light plucked guitar, airy synth pads and a gentle steady pulse, optimistic and professional, building slightly, no vocals, no lyrics, clean ending.",
+  "music_length_ms": 66000,
+  "force_instrumental": true,
+  "sha256": "f70d93551db0bc9aa8fd1c4602d15c629572d8d11f00a2a189eec1ca71392fb9"
+ },
+ "soundEffects": "uitgeschakeld (geen SFX)",
+ "clips": "hergebruikt uit de Frame.io Bronnenbibliotheek, zie scripts/bibliotheek-clips.json (geen nieuwe Veo-generaties)",
+ "branding": "https://elbe-23-den-haag.afspraakbij.info gecontroleerd: Poppins, #898464 olijf, #F4F2E9 crème",
+ "revisie": {
+  "jobId": "2882a1e7-4639-4d3a-90d4-b429e5181553",
+  "datum": "2026-11-26",
+  "feedback_verwerkt": [
+   "Openingszin alle bodies: 'Bij Business Nomads aan de Elbe 23 in het Haagse Forepark'",
+   "Bereikbaarheid: A12, A13 en A4 richting Amsterdam",
+   "Extra parkeerplaatsen te koop toegevoegd",
+   "E-commerce: 'webshop' vervangen door online verkoop/e-commercebedrijf",
+   "Clips met glazen pui op de begane grond (foto 5, 12, 13) niet meer gebruikt: alle units krijgen overheaddeuren"
+  ],
+  "muziek": "bestaande music_v1-stem hergebruikt, lokaal verlengd (muziek-verlengd.flac)",
+  "sfx": "uitgeschakeld"
+ }
+}
