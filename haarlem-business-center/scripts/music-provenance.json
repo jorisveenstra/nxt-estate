@@ -1,0 +1,12 @@
+{
+ "model_id": "music_v1",
+ "request-id": null,
+ "character-cost": null,
+ "song-id": "tTXiY9y1nUJHGXMbrNNv",
+ "settings": {
+  "prompt": "Uplifting, warm and positive instrumental background music for a modern business-center hospitality advert in Haarlem: light acoustic guitar, soft piano, gentle percussion, airy and optimistic, steady mid-tempo groove, subtle build, no vocals, no lyrics.",
+  "model_id": "music_v1",
+  "force_instrumental": true,
+  "music_length_ms": 52000
+ }
+}

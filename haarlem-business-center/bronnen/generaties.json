@@ -1,0 +1,126 @@
+{
+ "asset:d3184614f06fb8faa71e70f51fbcfa4fa190728acdd2fd71a0b4830f9503f7c3": {
+  "asset_id": "aOvVzus7RCDf44EBHT8g",
+  "response_keys": [
+   "asset_id",
+   "name",
+   "mime_type",
+   "created_at_unix",
+   "content_url"
+  ]
+ },
+ "video:kantoorunit-vergadertafel:d3184614f06fb8faa71e70f51fbcfa4fa190728acdd2fd71a0b4830f9503f7c3": {
+  "status": "failed",
+  "started": 1795707769.1321619,
+  "model": "veo-3.1-generate-001",
+  "source_sha256": "d3184614f06fb8faa71e70f51fbcfa4fa190728acdd2fd71a0b4830f9503f7c3",
+  "prompt": "Modern office unit with a meeting table, glass partition and large windows with a city view. Very slow, smooth push-in towards the windows; a person in the background moves naturally. Keep the architecture, walls, windows, furniture, materials, layout and proportions exactly as in the image; do not add or change any building elements. Realistic, natural light. One continuous shot, no cuts, no transitions, no morphing.",
+  "settings": {
+   "model_id": "veo-3.1-generate-001",
+   "start_frame": {
+    "type": "asset",
+    "asset_id": "aOvVzus7RCDf44EBHT8g"
+   },
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "generate_audio": false,
+   "aspect_ratio": "9:16"
+  },
+  "http": 401,
+  "detail": "{\"detail\":{\"type\":\"invalid_request\",\"code\":\"quota_exceeded\",\"message\":\"This request exceeds your quota of 2080759. You have 26 credits remaining, while 9696 credits are required for this request.\",\"status\":\"quota_exceeded\",\"request_id\":\"3465a367f9652e82d2ff0b64bceb5264\"}}",
+  "request_id": null
+ },
+ "asset:2c652b4da2e46965333fe84156e6e900a3d5a37bb844523aef101af443d609a8": {
+  "asset_id": "I7ldXtz9EvHnr8riRMKD",
+  "response_keys": [
+   "asset_id",
+   "name",
+   "mime_type",
+   "created_at_unix",
+   "content_url"
+  ]
+ },
+ "video:design-studio-overleg:2c652b4da2e46965333fe84156e6e900a3d5a37bb844523aef101af443d609a8": {
+  "status": "failed",
+  "started": 1795707769.3492045,
+  "model": "veo-3.1-generate-001",
+  "source_sha256": "2c652b4da2e46965333fe84156e6e900a3d5a37bb844523aef101af443d609a8",
+  "prompt": "Bright design studio where three people talk at a round table. Very slow, gentle push-in; the people talk and gesture naturally. Keep the architecture, walls, windows, furniture, materials, layout and proportions exactly as in the image; do not add or change any building elements. Realistic, natural light. One continuous shot, no cuts, no transitions, no morphing.",
+  "settings": {
+   "model_id": "veo-3.1-generate-001",
+   "start_frame": {
+    "type": "asset",
+    "asset_id": "I7ldXtz9EvHnr8riRMKD"
+   },
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "generate_audio": false,
+   "aspect_ratio": "9:16"
+  },
+  "http": 401,
+  "detail": "{\"detail\":{\"type\":\"invalid_request\",\"code\":\"quota_exceeded\",\"message\":\"This request exceeds your quota of 2080759. You have 26 credits remaining, while 9696 credits are required for this request.\",\"status\":\"quota_exceeded\",\"request_id\":\"c151457a7051a6a7fdfa9252add21f76\"}}",
+  "request_id": null
+ },
+ "asset:5a958fbcbddab5be928a63224eef5d255ee76dcef7bf9ba182624e2ecc8ea4f8": {
+  "asset_id": "gi5V8M9fwM5nEhgxIljo",
+  "response_keys": [
+   "asset_id",
+   "name",
+   "mime_type",
+   "created_at_unix",
+   "content_url"
+  ]
+ },
+ "video:gebouw-aan-het-spaarne:5a958fbcbddab5be928a63224eef5d255ee76dcef7bf9ba182624e2ecc8ea4f8": {
+  "status": "failed",
+  "started": 1795707769.9358532,
+  "model": "veo-3.1-generate-001",
+  "source_sha256": "5a958fbcbddab5be928a63224eef5d255ee76dcef7bf9ba182624e2ecc8ea4f8",
+  "prompt": "Large brick business building on the bank of the Spaarne river under a sunny sky. Very slow, smooth upward tilt; clouds drift slowly and the water ripples gently. Keep the architecture, walls, windows, furniture, materials, layout and proportions exactly as in the image; do not add or change any building elements. Realistic, natural light. One continuous shot, no cuts, no transitions, no morphing.",
+  "settings": {
+   "model_id": "veo-3.1-generate-001",
+   "start_frame": {
+    "type": "asset",
+    "asset_id": "gi5V8M9fwM5nEhgxIljo"
+   },
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "generate_audio": false,
+   "aspect_ratio": "9:16"
+  },
+  "http": 401,
+  "detail": "{\"detail\":{\"type\":\"invalid_request\",\"code\":\"quota_exceeded\",\"message\":\"This request exceeds your quota of 2080759. You have 26 credits remaining, while 9696 credits are required for this request.\",\"status\":\"quota_exceeded\",\"request_id\":\"0e8acf8efb774af9ba9ee2612e52c960\"}}",
+  "request_id": null
+ },
+ "asset:f1006eee474aea5a494f9dd275cd56213abc99e409487284606c5c2abf3f75ba": {
+  "asset_id": "VxzBNA1hWyIee1ZP5YaB",
+  "response_keys": [
+   "asset_id",
+   "name",
+   "mime_type",
+   "created_at_unix",
+   "content_url"
+  ]
+ },
+ "video:kantoor-entresol-werkplek:f1006eee474aea5a494f9dd275cd56213abc99e409487284606c5c2abf3f75ba": {
+  "status": "failed",
+  "started": 1795707772.502742,
+  "model": "veo-3.1-generate-001",
+  "source_sha256": "f1006eee474aea5a494f9dd275cd56213abc99e409487284606c5c2abf3f75ba",
+  "prompt": "Warm office with a desk and a woman working at a computer in late sunlight. Very slow, subtle lateral camera slide; the woman moves naturally while working. Keep the architecture, walls, windows, furniture, materials, layout and proportions exactly as in the image; do not add or change any building elements. Realistic, natural light. One continuous shot, no cuts, no transitions, no morphing.",
+  "settings": {
+   "model_id": "veo-3.1-generate-001",
+   "start_frame": {
+    "type": "asset",
+    "asset_id": "VxzBNA1hWyIee1ZP5YaB"
+   },
+   "resolution": "1080p",
+   "duration_secs": 8,
+   "generate_audio": false,
+   "aspect_ratio": "9:16"
+  },
+  "http": 401,
+  "detail": "{\"detail\":{\"type\":\"invalid_request\",\"code\":\"quota_exceeded\",\"message\":\"This request exceeds your quota of 2080759. You have 26 credits remaining, while 9696 credits are required for this request.\",\"status\":\"quota_exceeded\",\"request_id\":\"17d97a9b9f7859c16e3ca58c2f78c345\"}}",
+  "request_id": null
+ }
+}

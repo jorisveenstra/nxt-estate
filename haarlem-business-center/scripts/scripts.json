@@ -1,0 +1,21 @@
+{
+  "b1": {
+    "naam": "Horecaruimte Haarlem Business Center aan Het Spaarne",
+    "hooks": [
+      "Heb je al een goedlopende lunchroom en zoek je een tweede vestiging met een zakelijke klantenkring in hetzelfde gebouw?",
+      "Wil je met je café groeien naar een plek waar je gasten elke werkdag al in hetzelfde gebouw zitten?",
+      "Klaar voor je volgende zaak, dit keer met uitzicht over Het Spaarne?",
+      "Dit is dé horecaruimte in Haarlem, op de mooiste plek van het nieuwe Haarlem Business Center.",
+      "Zoek je in Haarlem een horecaruimte met uitzicht over het water en een dakterras?"
+    ],
+    "zinnen": [
+      ["plek", "Bij Haarlem Business Center huur je de horecaruimte op de mooiste plek van het gebouw, aan Het Spaarne."],
+      ["terras", "Het wordt de centrale ontmoetingsplek voor koffie, lunch en een borrel, met een dakterras en uitzicht over het water."],
+      ["gasten", "Om je heen werken ondernemers in kantoren, ateliers, werkplaatsen en showrooms, allemaal onder één dak."],
+      ["ontmoeten", "Hier kunnen ze elkaar ontmoeten, relaties ontvangen en zakelijke bijeenkomsten organiseren, klein of groot."],
+      ["klanten", "Zo bouw je een zaak op met een kring van potentiële vaste gasten direct om je heen."],
+      ["verhuur", "De verhuur van de bedrijfsunits loopt al en de eerste units zijn al opgeleverd."],
+      ["cta", "Benieuwd of jouw tweede vestiging hier komt? Klik op de knop hieronder en plan een afspraak met onze makelaar op de bouw in!"]
+    ]
+  }
+}
