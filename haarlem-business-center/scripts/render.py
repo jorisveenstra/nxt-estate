@@ -31,8 +31,13 @@ def render(comp, out):
     if out.exists():
         return out
     tmp = out.with_suffix(".part.mp4")
-    run(["npx", "remotion", "render", comp, str(tmp), "--muted", "--codec=h264", "--crf=24", "--concurrency=2",
-         "--pixel-format=yuv420p", "--x264-preset=medium", *browser])
+    cmd = ["npx", "remotion", "render", comp, str(tmp), "--muted", "--codec=h264", "--crf=24", "--concurrency=2",
+           "--pixel-format=yuv420p", "--x264-preset=medium", *browser]
+    try:
+        run(cmd)
+    except RuntimeError:  # een enkele browser-/geheugenhik: één keer opnieuw (lokaal, geen betaalde aanvraag)
+        print("opnieuw", comp, flush=True)
+        run(cmd)
     tmp.rename(out)
     print("gerenderd", comp, flush=True)
     return out
