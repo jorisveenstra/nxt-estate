@@ -32,7 +32,7 @@ def render(comp, uit, browser):
         return
     tmp = uit.with_suffix(".tmp.mp4")
     cmd = ["npx", "remotion", "render", "src/index.ts", comp, str(tmp), "--muted", "--concurrency=2", "--crf=24",
-           "--log=error", "--x264-preset=medium"]
+           "--log=error", "--x264-preset=medium", "--offthreadvideo-cache-size-in-bytes=1500000000"]
     if browser:
         cmd.append(f"--browser-executable={browser}")
     subprocess.run(cmd, cwd=ROOT, check=True)
