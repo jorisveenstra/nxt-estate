@@ -23,10 +23,13 @@ export -f render_part; export R CRF
   for b in 1 2 3; do for h in 1 2 3 4 5; do echo "Hook$b-$h out/parts/hook$b-$h.mp4"; done; done
 } | xargs -P 2 -L1 bash -c 'render_part "$0" "$1"'
 
-for b in 1 2 3; do for h in 1 2 3 4 5; do
-  a=out/audio/b${b}h${h}.wav
-  [ -s "$a" ] || { $R "Body$b-Hook$h" "$a.tmp.wav" --codec=wav && mv "$a.tmp.wav" "$a"; }
-done; done
+render_audio() { # b h  (audiomix uit de volledige compositie zonder beeld (audioOnly); 3 tegelijk)
+  a=out/audio/b$1h$2.wav
+  [ -s "$a" ] || { $R "Body$1-Hook$2" "$a.tmp.wav" --codec=wav --concurrency=2 --props="{\"body\":$1,\"hook\":$2,\"audioOnly\":true}" && mv "$a.tmp.wav" "$a"; }
+}
+export -f render_audio
+for b in 1 2 3; do for h in 1 2 3 4 5; do echo "$b $h"; done; done | xargs -P 3 -L1 bash -c 'render_audio "$0" "$1"'
+
 
 for b in 1 2 3; do for h in 1 2 3 4 5; do
   uit="out/final/Body $b Hook $h.mp4"

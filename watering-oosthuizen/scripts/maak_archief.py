@@ -1,7 +1,7 @@
 """
 Maakt per video een bewerkbaar bronarchief (ZIP, max 200 MB): Remotion-bron, scripts, package.json + lockfile,
 lettertypen/logo, voice-overs van die video (+ TTS-provenance), muziekstem + instellingen, de gebruikte clips
-(compacte 30 fps-kopieën uit out/archief-clips), de staande startbeelden en het generatie-/bibliotheekregister.
+(compacte 30 fps-kopieën, CRF 28, uit out/archief-clips), de staande startbeelden en het generatie-/bibliotheekregister.
 De originele Veo-clips (± 32 MB per stuk) staan in de Frame.io-bronnenbibliotheek; zie bronnen/bibliotheek-ids.json.
 Geen node_modules, .git, .env, sleutels, portal-tokens of gerenderde eind-MP4's.
 
