@@ -13,6 +13,7 @@ per woord en renderbeelden/AI-renders als achtergrond.
 | `tampah-beach-villas/` | Tampah Beach Villas (Lombok) | 2 bodies × 5 hooks |
 | `huisunie/` | Huisunie | 3 bodies, 12 video's |
 | `nxt-estate/` | nxt.estate (eigen ads, kantoorunits) | V2–V4 × 3 hooks |
+| `de-twee-gezusters/` | De Twee Gezusters (Roosendaal) | 3 bodies × 5 hooks |
 
 ## Opzet
 
@@ -51,6 +52,11 @@ npm install          # in de root; elke projectmap verwijst met een symlink naar
 ```
 
 Python 3 en ffmpeg/ffprobe moeten in het PATH staan.
+
+## Portal-bridge
+
+`portal/portal_bridge.py` is de actuele helper van portal.nxt-estate.com (claim, voortgang, gebruik, Frame.io-uploads).
+Job-tokens en ondertekende URL's komen nooit in deze repo.
 
 ## Sleutels
 

@@ -1,0 +1,12 @@
+{
+  "name": "de-twee-gezusters-videos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Advertentievideo's De Twee Gezusters, Roosendaal (3 bodies x 5 hooks, 9:16)",
+  "scripts": {
+    "dev": "remotion studio",
+    "vo": "python3 scripts/maak_vo.py",
+    "timing": "python3 scripts/timing.py",
+    "render": "python3 scripts/render_alles.py"
+  }
+}

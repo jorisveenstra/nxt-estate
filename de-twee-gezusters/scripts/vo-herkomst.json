@@ -1,0 +1,146 @@
+{
+ "b1-body": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "tekens": 639,
+  "character-cost": "310",
+  "history-item-id": "W10K71SaZLzCMnU8nUsZ",
+  "request-id": "sxXdVzoLeGoxWPtkiWXu"
+ },
+ "b1-h1": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "tekens": 68,
+  "character-cost": "33",
+  "history-item-id": "ZyMe57aN9uuFP2WXPWUs",
+  "request-id": "0X8ya27inKcWHRsyeVT4"
+ },
+ "b1-h2": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "tekens": 60,
+  "character-cost": "29",
+  "history-item-id": "C6FjyCTYpCnxuscZT5fn",
+  "request-id": "SJyXsmGeBqepTVDjrQP0"
+ },
+ "b1-h3": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "tekens": 85,
+  "character-cost": "41",
+  "history-item-id": "M81Va1CUtdBfWfmN0qLd",
+  "request-id": "vfP3FPCqIf2Xff74sDeM"
+ },
+ "b1-h4": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "tekens": 107,
+  "character-cost": "52",
+  "history-item-id": "lI56G3XGZsRlg19VaBiV",
+  "request-id": "6KrSuwQbUJ9xf07g3VR0"
+ },
+ "b1-h5": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "tekens": 76,
+  "character-cost": "37",
+  "history-item-id": "DcWkvLliWrrLY0fsHY0c",
+  "request-id": "LvCMyqMuBJUArVIm0Mm3"
+ },
+ "b2-body": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "tekens": 652,
+  "character-cost": "316",
+  "history-item-id": "jiMroWjO8ZTmrgRS9gRP",
+  "request-id": "FF3ihmKGo20AN3nLDhfu"
+ },
+ "b2-h1": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "tekens": 76,
+  "character-cost": "37",
+  "history-item-id": "wjmKYNFDwYyl67nc4T9L",
+  "request-id": "pTQZSBuccRKaou66ohMJ"
+ },
+ "b2-h2": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "tekens": 58,
+  "character-cost": "28",
+  "history-item-id": "tCNSSg1kdKcCxxwn4DGC",
+  "request-id": "3A8tsqePrJQ7oWQTwNGT"
+ },
+ "b2-h3": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "tekens": 68,
+  "character-cost": "33",
+  "history-item-id": "BL90PlIi8DInNn1bki2X",
+  "request-id": "pOZPY5SmHUJsUhen8KTJ"
+ },
+ "b2-h4": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "tekens": 97,
+  "character-cost": "47",
+  "history-item-id": "tax4EaQUVWji2iB1qvGw",
+  "request-id": "vMx8N2qykk1aYGgtsr7B"
+ },
+ "b2-h5": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "tekens": 64,
+  "character-cost": "31",
+  "history-item-id": "P8KszeEQRAgXPZSGXLhp",
+  "request-id": "8hDThX1DUlPLtiUqr8Lc"
+ },
+ "b3-body": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "tekens": 740,
+  "character-cost": "359",
+  "history-item-id": "tzd2WvGKuQmR53E8jRn9",
+  "request-id": "odnhP9sGoI7X9drsf3Y5"
+ },
+ "b3-h1": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "tekens": 97,
+  "character-cost": "47",
+  "history-item-id": "xbtZGZOtsfgPsKqm2P3A",
+  "request-id": "QJtvX3yFJRThaQKxCLvG"
+ },
+ "b3-h2": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "tekens": 85,
+  "character-cost": "41",
+  "history-item-id": "ZTj1QEBkG0xtUxUFLEwM",
+  "request-id": "2MzahUB6LLZ0yw84zqvG"
+ },
+ "b3-h3": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "tekens": 80,
+  "character-cost": "39",
+  "history-item-id": "XgnUtwZr5YzQG3pXT2ec",
+  "request-id": "isUXIihgZFAUL4sjPHnB"
+ },
+ "b3-h4": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "tekens": 78,
+  "character-cost": "38",
+  "history-item-id": "DEAkn049HIVPhv2MpWua",
+  "request-id": "QsbFY1tcPpizWAYs9Xa9"
+ },
+ "b3-h5": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "tekens": 42,
+  "character-cost": "20",
+  "history-item-id": "Brq3g7WcwsKZCQpjM9b7",
+  "request-id": "S9dHnGUyLUYXUMGw7PGs"
+ }
+}

@@ -1,0 +1,68 @@
+{
+  "b1": {
+    "doelgroep": "Senioren en empty nesters (doorstromers)",
+    "hooks": [
+      "Zijn de kinderen het huis uit en voelt uw woning eigenlijk te groot?",
+      "Wilt u comfortabel wonen in Roosendaal, met groen om u heen?",
+      "Zoekt u een appartement in uw eigen omgeving, maar vindt u niets dat echt bij u past?",
+      "Uw eengezinswoning verkopen en verder wonen in een appartement met groen eromheen: denkt u daar al over na?",
+      "Rustig wonen met groen om u heen, en toch strategisch gelegen in Roosendaal?"
+    ],
+    "zinnen": [
+      ["intro", "Dit is De Twee Gezusters in Roosendaal."],
+      ["groen", "Hier woont u in een appartement met groen om u heen."],
+      ["situatie", "Voelt uw huis te groot, nu de kinderen de deur uit zijn?"],
+      ["kwaliteit", "Dan wilt u vooral prettig wonen, zonder in te leveren op kwaliteit."],
+      ["comfort", "Bij De Twee Gezusters staat het wooncomfort in het appartement zelf centraal."],
+      ["ligging", "En u zit er strategisch goed, op een plek die logistiek goed bereikbaar is."],
+      ["onderweg", "Zo gaat u makkelijk op pad, naar familie, vrienden of uw favoriete plekken."],
+      ["vragen", "Wilt u precies weten hoe het zit met de indeling, de prijzen en het parkeren?"],
+      ["persoonlijk", "Dat bespreken we graag persoonlijk met u."],
+      ["cta", "Klik op de knop hieronder voor alle informatie en plan een afspraak in."]
+    ]
+  },
+  "b2": {
+    "doelgroep": "Kapitaalkrachtige penthousezoekers",
+    "hooks": [
+      "Zoekt u al langer een penthouse, maar vindt u het in uw eigen omgeving niet?",
+      "Wonen in een penthouse met groen om u heen, in Roosendaal?",
+      "Wilt u bovenin wonen, met groen rondom, en toch strategisch gelegen?",
+      "Een penthouse vinden dat echt bij u past, is niet eenvoudig. Heeft u De Twee Gezusters al gezien?",
+      "Wat als uw volgende woning een penthouse is, met groen eromheen?"
+    ],
+    "zinnen": [
+      ["intro", "Dit is De Twee Gezusters in Roosendaal."],
+      ["groen", "Hier kunt u wonen in een penthouse, met groen om u heen."],
+      ["schaars", "Een woning als deze vinden veel mensen niet in hun eigen omgeving."],
+      ["comfort", "Bij De Twee Gezusters draait alles om het wooncomfort in het appartement zelf."],
+      ["ligging", "En u zit er strategisch goed, op een plek die logistiek goed bereikbaar is."],
+      ["combinatie", "Zo combineert u het groen om uw woning met het gemak van een goede ligging."],
+      ["indeling", "Wilt u weten hoe de penthouses zijn ingedeeld en afgewerkt?"],
+      ["prijzen", "En welke prijzen erbij horen?"],
+      ["persoonlijk", "Dat bespreken we graag persoonlijk met u, in alle rust."],
+      ["cta", "Ziet u zich hier al wonen? Klik op de knop hieronder voor alle informatie en plan een persoonlijke afspraak in."]
+    ]
+  },
+  "b3": {
+    "doelgroep": "Woonzoekers uit de regio (Roosendaal en West-Brabant)",
+    "hooks": [
+      "Wil je graag in de regio Roosendaal blijven wonen, maar vind je geen appartement dat bij je past?",
+      "Zoek je al een tijd naar een fijn appartement in je eigen omgeving, zonder resultaat?",
+      "Moet je echt de regio uit voor een comfortabel appartement met groen om je heen?",
+      "Woon je in West-Brabant en wil je dicht bij familie en vrienden blijven wonen?",
+      "Ken je De Twee Gezusters in Roosendaal al?"
+    ],
+    "zinnen": [
+      ["intro", "Dit is De Twee Gezusters in Roosendaal."],
+      ["groen", "Hier woon je in een appartement met groen om je heen, gewoon in je eigen regio."],
+      ["schaars", "Veel mensen zoeken zo'n woning dichtbij, maar vinden die in hun eigen omgeving niet."],
+      ["blijven", "Bij De Twee Gezusters hoef je daarvoor niet naar een andere regio te verhuizen."],
+      ["dichtbij", "Zo blijf je dicht bij je familie, je vrienden en de plekken die je kent."],
+      ["comfort", "Binnen staat het wooncomfort van het appartement zelf centraal."],
+      ["ligging", "En je zit strategisch goed, op een plek die logistiek goed bereikbaar is."],
+      ["moment", "Twijfel je nog over het juiste moment om te verhuizen?"],
+      ["planning", "Vraag dan naar de planning en de beschikbaarheid, zodat je rustig kunt bepalen wat bij jou past."],
+      ["cta", "Klik op de knop hieronder voor alle informatie en plan een afspraak om je vragen te stellen."]
+    ]
+  }
+}
