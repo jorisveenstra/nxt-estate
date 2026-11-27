@@ -31,8 +31,8 @@ def render(comp, uit, browser):
     if uit.exists():
         return
     tmp = uit.with_suffix(".tmp.mp4")
-    cmd = ["npx", "remotion", "render", "src/index.ts", comp, str(tmp), "--muted", "--concurrency=2", "--crf=24",
-           "--log=error", "--x264-preset=medium", "--offthreadvideo-cache-size-in-bytes=1500000000"]
+    cmd = ["npx", "remotion", "render", "src/index.ts", comp, str(tmp), "--muted", "--concurrency=3", "--crf=24",
+           "--log=error", "--x264-preset=medium", "--offthreadvideo-cache-size-in-bytes=1000000000"]
     if browser:
         cmd.append(f"--browser-executable={browser}")
     subprocess.run(cmd, cwd=ROOT, check=True)
@@ -94,7 +94,7 @@ def main():
     (OUT / "delen").mkdir(parents=True, exist_ok=True)
     taken = [(f"Body{b}", OUT / f"delen/body-b{b}.mp4") for b in sorted({b for b, _ in paren})]
     taken += [(f"Hook-B{b}-H{h}", OUT / f"delen/hook-b{b}-h{h}.mp4") for b, h in paren]
-    with cf.ThreadPoolExecutor(2) as ex:  # 4 kernen: twee renders tegelijk, elk met concurrency 2
+    with cf.ThreadPoolExecutor(1) as ex:  # één render tegelijk (geheugen: 60 fps-bronnen), concurrency 3
         list(ex.map(lambda t: render(t[0], t[1], a.browser), taken))
     for b, h in paren:
         assembleer(b, h)
