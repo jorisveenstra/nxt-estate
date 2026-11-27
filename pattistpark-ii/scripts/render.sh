@@ -5,8 +5,6 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 CHROME="${REMOTION_CHROME:-$(ls -d /opt/pw-browsers/chromium-*/chrome-linux64/chrome 2>/dev/null | head -1)}"
-BROWSER=()
-[ -n "$CHROME" ] && BROWSER=(--browser-executable="$CHROME")
 mkdir -p out/parts out/final
 FPS=30
 
@@ -14,17 +12,18 @@ npx remotion bundle src/index.ts --out-dir build --log=error >/dev/null
 
 render() { # compositie -> out/parts/<id>.mp4
   [ -s "out/parts/$1.mp4" ] && return 0
-  npx remotion render build "$1" "out/parts/$1.mp4" "${BROWSER[@]}" --concurrency=2 --muted --log=error
+  npx remotion render build "$1" "out/parts/$1.tmp.mp4" ${CHROME:+--browser-executable="$CHROME"} --concurrency=3 \
+    --offthreadvideo-cache-size-in-bytes=1500000000 --muted --log=error && mv "out/parts/$1.tmp.mp4" "out/parts/$1.mp4"
 }
 export -f render
 export CHROME
 ids=(Body1 Body2 Body3)
 for b in 1 2 3; do for h in 1 2 3 4 5; do ids+=("Body$b-Hook$h"); done; done
-# Begrensd parallel: twee renders tegelijk
-printf '%s\n' "${ids[@]}" | xargs -P 2 -I{} bash -c 'render "$@"' _ {}
+# Eén render tegelijk met 3 threads (geheugen: 1080x1920-bronclips)
+printf '%s\n' "${ids[@]}" | xargs -P 1 -I{} bash -c 'render "$@"' _ {}
 
-dur() { ffprobe -v error -show_entries format=duration -of csv=p=0 "$1"; }
-frames() { ffprobe -v error -count_packets -select_streams v:0 -show_entries stream=nb_read_packets -of csv=p=0 "$1"; }
+dur() { ffprobe -v error -show_entries format=duration -of csv=p=0 "$1" | tr -d ",\n "; }
+frames() { ffprobe -v error -count_packets -select_streams v:0 -show_entries stream=nb_read_packets -of csv=p=0 "$1" | tr -d ",\n "; }
 
 for b in 1 2 3; do for h in 1 2 3 4 5; do
   id="Body$b-Hook$h"
