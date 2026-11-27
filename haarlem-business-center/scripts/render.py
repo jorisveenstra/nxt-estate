@@ -32,7 +32,8 @@ def render(comp, out):
         return out
     tmp = out.with_suffix(".part.mp4")
     cmd = ["npx", "remotion", "render", comp, str(tmp), "--muted", "--codec=h264", "--crf=24", "--concurrency=2",
-           "--pixel-format=yuv420p", "--x264-preset=medium", *browser]
+           "--pixel-format=yuv420p", "--x264-preset=medium",
+           "--offthreadvideo-cache-size-in-bytes=700000000", *browser]  # begrensd geheugen (cgroup-OOM bij 2 parallelle renders)
     try:
         run(cmd)
     except RuntimeError:  # een enkele browser-/geheugenhik: één keer opnieuw (lokaal, geen betaalde aanvraag)
