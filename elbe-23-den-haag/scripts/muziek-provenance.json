@@ -1,0 +1,12 @@
+{
+ "request": {
+  "prompt": "Uplifting, positive, modern instrumental corporate background track for a real estate ad about new business units with workshops for garages: confident driving pulse, warm electric piano, light plucked guitar, soft synth pads, tight modern drums at a steady 110 BPM, optimistic and professional, consistent energy throughout, clean ending. No vocals, no lyrics, no singing.",
+  "music_length_ms": 65000,
+  "model_id": "music_v1",
+  "force_instrumental": true
+ },
+ "done": true,
+ "headers": {
+  "song-id": "pd0Kxq4mmxlDnaN0QLef"
+ }
+}

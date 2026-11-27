@@ -1,0 +1,22 @@
+{
+  "b1": {
+    "doelgroep": "Autobedrijven en garages",
+    "hooks": [
+      "Heb je een garage of autobedrijf in de regio Den Haag en wil je eindelijk een eigen pand met overheaddeur?",
+      "Is je werkplaats te krap geworden en weet je soms niet waar je de auto's van je klanten kwijt moet?",
+      "Ben je het zat om huur te betalen voor je werkplaats en wil je investeren in een eigen bedrijfspand?",
+      "Klaar om met je detailing- of bandenbedrijf de volgende stap te zetten in een eigen bedrijfsunit?",
+      "Zoek je een werkplaats met overheaddeur, eigen parkeerplaatsen en een nette plek om klanten te ontvangen?"
+    ],
+    "zinnen": [
+      ["intro", "Bij Business Nomads aan de Elbe 23 in het Haagse Forepark koop je een eigen bedrijfsunit van zo'n 200 tot 230 m²."],
+      ["werkplaats", "Beneden heb je tot zo'n 117 m² vloer en een overheaddeur van ruim drie meter hoog, bij de tussenunits 2 tot en met 6 zelfs ruim vier meter breed."],
+      ["kantoor", "Boven is ruimte voor je kantoor en een verzorgde plek om klanten te ontvangen."],
+      ["parkeren", "Je hebt twee of drie parkeerplaatsen op eigen terrein, dus auto's van klanten staan gewoon bij je eigen pand."],
+      ["ligging", "De A12 en de A4 liggen op enkele minuten, zodat klanten uit de hele regio je makkelijk vinden."],
+      ["bouw", "Het casco is gebouwd van beton en staal, met een strakke, moderne gevel waarmee je je klanten professioneel ontvangt."],
+      ["schaarste", "Er komen slechts veertien units, met de oplevering gepland in het vierde kwartaal van 2027."],
+      ["cta", "Klik op de knop hieronder, schrijf je in en bespreek met onze makelaar of jouw autobedrijf hier past!"]
+    ]
+  }
+}

@@ -13,7 +13,7 @@ set -euo pipefail
 cd "$(dirname "$0")"
 
 REMOTE="${MEDIA_REMOTE:-gdrive:video-ads-media}"
-PROJECTEN=(pepperminds groote-visscherij dok-zoetermeer-3 maartens-business tampah-beach-villas huisunie nxt-estate)
+PROJECTEN=(pepperminds groote-visscherij dok-zoetermeer-3 maartens-business tampah-beach-villas huisunie nxt-estate elbe-23-den-haag)
 
 # Wat als media telt: dezelfde mappen/bestanden die .gitignore buiten git houdt
 FILTER=$(mktemp)
