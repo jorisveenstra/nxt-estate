@@ -1,0 +1,11 @@
+{
+  "name": "tampah-baraca-videos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tampah Beach Villas | Baraca Capital: 3 bodies x 5 hooks, staand 1080x1920, alleen Baraca Village-beelden",
+  "scripts": {
+    "dev": "remotion studio",
+    "timing": "python3 scripts/timing.py",
+    "render": "python3 scripts/render.py"
+  }
+}

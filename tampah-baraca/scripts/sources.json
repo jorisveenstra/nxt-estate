@@ -1,0 +1,119 @@
+{
+ "badkamer": {
+  "file": "public/clips/badkamer.mp4",
+  "sha256": "fec5bc9a6e6c37217433dbc6f94b57fdef559723bae8089591c152d6649dae76",
+  "type": "hergebruikte native 9:16 motion_clip uit de bronnenbibliotheek (Veo 3.1), ongewijzigd",
+  "libraryAssetId": "a443c43a-88c2-4fe2-9847-bc9d4adb67ac",
+  "title": "Baraca Village - Badkamer met dubbele wastafel - subtiele push-in - warm interieurlicht - 9x16",
+  "libraryStartFrameSha256": "a67a8cf153e8bed375a1543928f037d2703afd01284781e3f3670d094815c581",
+  "generationId": "epW468NgcRCf9FPTikte"
+ },
+ "drone-naar-zee": {
+  "file": "public/clips/drone-naar-zee.mp4",
+  "sha256": "6bde1536e268815b7a0b3a753dc86a6ef4586feadfb1ad5a3de17259fbf919bd",
+  "type": "staande uitsnede (scripts/prep_clips.sh) van Frame.io-bronvideo",
+  "frameioAsset": "frame:90624759-58f0-4cd4-a1c8-1295c266f3f9",
+  "sourceTitle": "baraca_village Baraca Village - video 04 drone flyover to the sea.mov",
+  "sourceSha256": "b94246ecced80b7449493ad69070fe5fdb7b87ed12f8319d73ed0ea069a33b1b",
+  "generationId": null
+ },
+ "drone-orbit": {
+  "file": "public/clips/drone-orbit.mp4",
+  "sha256": "1d6a588493b871d215d19fbe87aa33d9ff00df3e830a1919a5c3b62a38c25f80",
+  "type": "staande uitsnede (scripts/prep_clips.sh) van Frame.io-bronvideo",
+  "frameioAsset": "frame:f97318db-01de-48fc-95cc-7988052e04bf",
+  "sourceTitle": "baraca_village Baraca Village - video 05 drone orbit kids on the village road.mov",
+  "sourceSha256": "bcc210901dfc71828804ab001ceaa0a57e5bfddca3bd8d3496780babc2ad1066",
+  "generationId": null
+ },
+ "gemeenschappelijk-zwembad": {
+  "file": "public/clips/gemeenschappelijk-zwembad.mp4",
+  "sha256": "ad7f8e07bc75003604323391719916922237b5369b89f1168adb1a8b08361eb8",
+  "type": "staande uitsnede (scripts/prep_clips.sh) van Frame.io-bronvideo",
+  "frameioAsset": "frame:0a086e97-f25b-4180-ae29-bc6bc68e3f6d",
+  "sourceTitle": "baraca_village Baraca Village - video 13 common pool.mov",
+  "sourceSha256": "d5ee191cb222c10a95ef0670f20d605454310ed4557c61158f5826b835e774e2",
+  "generationId": null
+ },
+ "keuken": {
+  "file": "public/clips/keuken.mp4",
+  "sha256": "1620e87cd8a75c325f940970b87588fd4be5f2e03865f2233fa0be9a07d4721a",
+  "type": "staande uitsnede (scripts/prep_clips.sh) van Frame.io-bronvideo",
+  "frameioAsset": "frame:eb31a7d7-d5a3-4543-8822-a5e34852f29c",
+  "sourceTitle": "baraca_village Baraca Village - video 11 kitchen dining morning v2.mov",
+  "sourceSha256": "528dbe8aa77c2956cd767091661e9cb3a5df39b01224cda2465fa271cb03ac9f",
+  "generationId": null
+ },
+ "poort-kinderen": {
+  "file": "public/clips/poort-kinderen.mp4",
+  "sha256": "58061c70be57e17b113457b393db93df52deb7918c0d0b88b57cef59f2024c84",
+  "type": "staande uitsnede (scripts/prep_clips.sh) van Frame.io-bronvideo",
+  "frameioAsset": "frame:ded050aa-6e40-4b7f-9636-1a60476264d2",
+  "sourceTitle": "baraca_village 12 Kids at the gate v2.mov",
+  "sourceSha256": "42b50f97093ce5e750c6d8a384792916f2ca9f69c8bccd84d713a81030944e45",
+  "generationId": null
+ },
+ "slaapkamer": {
+  "file": "public/clips/slaapkamer.mp4",
+  "sha256": "6ead313bb6a986264c2174f23ecc2d8ebdf6665229b508c603559e3b00da3cea",
+  "type": "staande uitsnede (scripts/prep_clips.sh) van Frame.io-bronvideo",
+  "frameioAsset": "frame:35941302-086e-402e-ba2f-d4e74d5fd5dc",
+  "sourceTitle": "baraca_village Baraca Village - video 10 bedroom garden breeze.mov",
+  "sourceSha256": "f36273577dc8eb7eb19238fb4324350705d5ca8207493cc13e55121333c4636d",
+  "generationId": null
+ },
+ "speeltuin": {
+  "file": "public/clips/speeltuin.mp4",
+  "sha256": "5a4c24fe82474c6565aab84b199ba790f0257432c7abfa1dbc2841d78b46ada1",
+  "type": "hergebruikte native 9:16 motion_clip uit de bronnenbibliotheek (Veo 3.1), ongewijzigd",
+  "libraryAssetId": "5ae01776-8b99-48e5-b55f-1e7174b86a00",
+  "title": "Baraca Village - Speeltuin en waterspeelplek - langzame tilt omhoog - gouden uur - 9x16",
+  "libraryStartFrameSha256": "eff6f0b6e8d08d7b4bef79171f271f269f5c0700c7e31c20176b35e62573ce59",
+  "generationId": "C4yDLS3pwlc3cqX8di50"
+ },
+ "villa-gordijnen": {
+  "file": "public/clips/villa-gordijnen.mp4",
+  "sha256": "e9dea37749f64f7548d13cf65941c1b5673f37bde7cea5a852b34ae7737f2fae",
+  "type": "staande uitsnede (scripts/prep_clips.sh) van Frame.io-bronvideo",
+  "frameioAsset": "frame:9e93681e-32a4-4b22-950c-cab61e8333b2",
+  "sourceTitle": "baraca_village Baraca Village - video 01 curtains in the breeze.mov",
+  "sourceSha256": "9fd6162023834fde5e172461739ee4f69f7f5ed86703b69e00ff55c1156d7b9d",
+  "generationId": null
+ },
+ "villa-twee-lagen": {
+  "file": "public/clips/villa-twee-lagen.mp4",
+  "sha256": "4da944e15f3115491f2ddb29de305b894063136ef5e1e42b7f5179e40dd1fe2e",
+  "type": "staande uitsnede (scripts/prep_clips.sh) van Frame.io-bronvideo",
+  "frameioAsset": "frame:cbf5918b-3e92-4260-b80c-7b616dcede78",
+  "sourceTitle": "baraca_village Baraca Village - video 03 morning light push-in.mov",
+  "sourceSha256": "69c2ef3e17172e6c0fa5b25e555fe82546fc8a6f78fcdfe1557f18bdca0fef5c",
+  "generationId": null
+ },
+ "villa-zwembad": {
+  "file": "public/clips/villa-zwembad.mp4",
+  "sha256": "02f61e944e12a566db53337c769442012df9fe3a3b565b1734afb31a2117eebb",
+  "type": "staande uitsnede (scripts/prep_clips.sh) van Frame.io-bronvideo",
+  "frameioAsset": "frame:ea4b7af4-639c-48e1-8d22-42ee6864237e",
+  "sourceTitle": "baraca_village Baraca Village - video 02 pool ripples and palms.mov",
+  "sourceSha256": "407e780858f2c58131fbff0ae4f066dcbfdac735296d6a855d56b59beba93e49",
+  "generationId": null
+ },
+ "villastraat": {
+  "file": "public/clips/villastraat.mp4",
+  "sha256": "ff77b3a86d7de329af0d357bf961c1ee6e3bce927ef22ef67e76c64493bf97d1",
+  "type": "hergebruikte native 9:16 motion_clip uit de bronnenbibliotheek (Veo 3.1), ongewijzigd",
+  "libraryAssetId": "c6549a46-be4c-412b-837b-c11f9ffd4106",
+  "title": "Baraca Village - Villastraat - rustige push-in langs de villa's - gouden uur - 9x16",
+  "libraryStartFrameSha256": "7f1cd36aec74bdf40f56551292968507aaac608515bd5101bc229d3352d38c7b",
+  "generationId": "Bz2ssz4rXhDCgfud8Bu5"
+ },
+ "woonkamer": {
+  "file": "public/clips/woonkamer.mp4",
+  "sha256": "3b3b92749d9ea9f8d75bae1a3e49455ae7391c40f48a32e1bd76f1d7a143076c",
+  "type": "staande uitsnede (scripts/prep_clips.sh) van Frame.io-bronvideo",
+  "frameioAsset": "frame:a199168f-1784-4415-adf2-1896265141c4",
+  "sourceTitle": "baraca_village Baraca Village - video 09 living room curtains.mov",
+  "sourceSha256": "97b884b8150c039bc1782c3313c0aa1ca0e8c7d8555ac96ee0bbb7c5d1a1592c",
+  "generationId": null
+ }
+}

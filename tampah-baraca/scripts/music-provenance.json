@@ -1,0 +1,10 @@
+{
+ "status": "done",
+ "prompt": "Uplifting, warm and positive instrumental background music for a tropical villa investment ad: light acoustic guitar, soft marimba and gentle percussion, airy pads, steady medium tempo around 100 BPM, optimistic and calm, sunny island feel, unobtrusive under a spoken voice-over, no vocals, no lyrics, consistent energy with a soft natural ending.",
+ "music_length_ms": 70000,
+ "model_id": "music_v1",
+ "force_instrumental": true,
+ "request_id": null,
+ "song_id": "BfoF0dhU7BFCHHWwrYV7",
+ "character_cost": null
+}
