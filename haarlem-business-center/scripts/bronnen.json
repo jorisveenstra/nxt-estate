@@ -1,0 +1,619 @@
+{
+ "project": "Haarlem Business Center (portal project 39)",
+ "scriptVersion": 3,
+ "format": "9:16 portret, 1080x1920, 30 fps, harde knippen, geen overgangen, footage full-bleed",
+ "graphics": "a_lot (kleine feitenlabels, ondertitels, logo, CTA; < 35% van het beeld)",
+ "branding": {
+  "bron": "https://haarlem-business-center-versie1.afspraakbij.info/ (alleen als referentie gelezen)",
+  "logo": "public/logo/hbc-logo.png (van de site); hbc-logo-dark.png = zelfde logo met donkere tekst voor lichte ondergrond",
+  "kleuren": {
+   "baksteenbruin": "#845c3c",
+   "goud": "#bfa349",
+   "saliegroen": "#b8c4ad",
+   "creme": "#f6f4ef",
+   "inkt": "#1a1a1a"
+  },
+  "font": "Poppins (lokaal, SIL OFL)",
+  "adres_cta": "Kuipersweg 4, Haarlem (van de site)"
+ },
+ "voiceover": {
+  "model_id": "eleven_v4",
+  "voice_id": "YgjXqgzBJa9op0K278OW",
+  "requests": [
+   {
+    "file": "1df3a78f2d2c674c",
+    "model_id": "eleven_v4",
+    "voice_id": "YgjXqgzBJa9op0K278OW",
+    "request_id": "DZ2Q3Jt97oo3RP3jfr8r",
+    "character_cost": "43",
+    "text": "Past je huidige kantoor eigenlijk nog wel bij het werk dat je bureau voor klanten maakt?"
+   },
+   {
+    "file": "1fdf68dae4719048",
+    "model_id": "eleven_v4",
+    "voice_id": "YgjXqgzBJa9op0K278OW",
+    "request_id": "N27uIKlO3IQB7jdOh9fS",
+    "character_cost": "42",
+    "text": "Dit is dé kantoorplek in Haarlem voor marketingbureaus, met uitzicht over Het Spaarne."
+   },
+   {
+    "file": "370a560bb33c71af",
+    "model_id": "eleven_v4",
+    "voice_id": "YgjXqgzBJa9op0K278OW",
+    "request_id": "2FHmbnnGWkEJxZWNEW5p",
+    "character_cost": "43",
+    "text": "Dit is dé showroomruimte in Haarlem, met een glazen gevel en een industriële uitstraling."
+   },
+   {
+    "file": "39656026f14fba3b",
+    "model_id": "eleven_v4",
+    "voice_id": "YgjXqgzBJa9op0K278OW",
+    "request_id": "qn0nyyawIpKrkcK5LrWy",
+    "character_cost": "40",
+    "text": "Wil je een kantoor waar je klanten ontvangt en tegelijk andere ondernemers ontmoet?"
+   },
+   {
+    "file": "400c3a8aabc0186f",
+    "model_id": "eleven_v4",
+    "voice_id": "YgjXqgzBJa9op0K278OW",
+    "request_id": "H4SaJWvnhJm1Rzh4RAIf",
+    "character_cost": "48",
+    "text": "Ben je binnenhuisarchitect en wil je klanten ontvangen in een ruimte die je vakmanschap laat zien?"
+   },
+   {
+    "file": "58d171c8220b1bc3",
+    "model_id": "eleven_v4",
+    "voice_id": "YgjXqgzBJa9op0K278OW",
+    "request_id": "Cw7ZIqOFdfvmshF0HUFZ",
+    "character_cost": "32",
+    "text": "Zoek je in de regio Haarlem een kantoor dat meegroeit met je team?"
+   },
+   {
+    "file": "63f29e72c025def2",
+    "model_id": "eleven_v4",
+    "voice_id": "YgjXqgzBJa9op0K278OW",
+    "request_id": "M7lmuaViam8tAf8NFI6t",
+    "character_cost": "46",
+    "text": "Werk je als adviseur nog vanuit huis, terwijl je klanten eigenlijk een echt kantoor verwachten?"
+   },
+   {
+    "file": "71bfbb1843d449a6",
+    "model_id": "eleven_v4",
+    "voice_id": "YgjXqgzBJa9op0K278OW",
+    "request_id": "eKu0SVQwB858UtpPYZQo",
+    "character_cost": "448",
+    "text": "Bij Haarlem Business Center huur je een kantoorunit op de vierde verdieping van een nieuw bedrijfsverzamelgebouw aan Het Spaarne. De kantoorunits zijn in verschillende metrages samen te stellen, zodat de ruimte past bij de omvang van je team. Het gebouw is gasloos en heeft onder meer warmtepompen en HR-plus-plus-glas. Schiphol ligt op zo'n vijftien kilometer en Amsterdam Centrum op ongeveer twintig, met de A9, de A5 en de A10 dichtbij. Op locatie zijn honderdachtenveertig parkeerplaatsen, waarvan zestien met een laadpunt voor je elektrische auto. In de lunchroom spreek je klanten en ontmoet je andere ondernemers uit het gebouw. De oplevering staat gepland voor november tweeduizend zesentwintig, dus je kunt je volgende groeistap nu al rustig voorbereiden. Benieuwd welke indeling bij jouw team past? Klik op de knop hieronder en plan een afspraak met de makelaar. Dan bespreek je meteen de huur en de mogelijkheden."
+   },
+   {
+    "file": "80db0e70b6388a1f",
+    "model_id": "eleven_v4",
+    "voice_id": "YgjXqgzBJa9op0K278OW",
+    "request_id": "OxqWYCtPKZFkupgeybao",
+    "character_cost": "36",
+    "text": "Komen je ontwerpen in je huidige showroom eigenlijk wel goed tot hun recht?"
+   },
+   {
+    "file": "9ee56ca79059f065",
+    "model_id": "eleven_v4",
+    "voice_id": "YgjXqgzBJa9op0K278OW",
+    "request_id": "lZDdZsau3XoOkn1aHMWR",
+    "character_cost": "48",
+    "text": "Heb je een media- of recruitmentbureau en wil je kandidaten ontvangen op een plek die ze onthouden?"
+   },
+   {
+    "file": "aa617d2a9b108f02",
+    "model_id": "eleven_v4",
+    "voice_id": "YgjXqgzBJa9op0K278OW",
+    "request_id": "DHYUEGodpflnBuRX4eDh",
+    "character_cost": "48",
+    "text": "Dit is dé kantoorlocatie tussen Haarlem, Schiphol en Amsterdam, in een gasloos en duurzaam gebouw."
+   },
+   {
+    "file": "c70c8e22e6ecd025",
+    "model_id": "eleven_v4",
+    "voice_id": "YgjXqgzBJa9op0K278OW",
+    "request_id": "bJqYX5gfayIidxpNKiI7",
+    "character_cost": "42",
+    "text": "Zoek je een plek waar je showroom, ontwerpstudio en opslag gewoon onder één dak zitten?"
+   },
+   {
+    "file": "ca86b12c0a3eece2",
+    "model_id": "eleven_v4",
+    "voice_id": "YgjXqgzBJa9op0K278OW",
+    "request_id": "aVpuSRlp9SmtA53T544e",
+    "character_cost": "395",
+    "text": "Bij Haarlem Business Center huur je een kantoorunit op de vierde verdieping, direct aan Het Spaarne. Met plafonds van zo'n drie meter en uitzicht over het water werkt je team in een lichte, ruimtelijke omgeving. Klanten en kandidaten ontvang je in de lunchroom of op het dakterras, zodat elk gesprek begint met een sterke eerste indruk. Het centrum van Haarlem ligt op ongeveer een kilometer, en vanuit Amsterdam ben je er via de A9 en de A10. Parkeren is gratis, dus ook je bezoekers hoeven niet te zoeken. Je huurt hier al vanaf achttienhonderdvijfennegentig euro. De oplevering staat gepland voor november tweeduizend zesentwintig, zodat je je verhuizing en de afbouw rustig kunt voorbereiden. Benieuwd hoe jouw bureau hier straks werkt? Klik op de knop hieronder en plan een afspraak met de makelaar op locatie."
+   },
+   {
+    "file": "d6a8c38751357f08",
+    "model_id": "eleven_v4",
+    "voice_id": "YgjXqgzBJa9op0K278OW",
+    "request_id": "rYxDZ4AiBvhgX2xifLON",
+    "character_cost": "46",
+    "text": "Heb je een keukenzaak of interieurbedrijf en zoek je in Haarlem een showroom met veel daglicht?"
+   },
+   {
+    "file": "dbda8cd704616d72",
+    "model_id": "eleven_v4",
+    "voice_id": "YgjXqgzBJa9op0K278OW",
+    "request_id": "CzBXkoUJEwA0eKNunFPq",
+    "character_cost": "41",
+    "text": "Zit je IT- of databedrijf op een anonieme verdieping die niet meer past bij je groei?"
+   },
+   {
+    "file": "e79bc394db0b19ee",
+    "model_id": "eleven_v4",
+    "voice_id": "YgjXqgzBJa9op0K278OW",
+    "request_id": "FRZlL0bc4tgmWB0aHSxa",
+    "character_cost": "48",
+    "text": "Zoek je voor je creatieve bureau een kantoor in Haarlem waar klanten en talent graag binnenstappen?"
+   },
+   {
+    "file": "f2a22ecf9d7d07d1",
+    "model_id": "eleven_v4",
+    "voice_id": "YgjXqgzBJa9op0K278OW",
+    "request_id": "DIVdoIlXutz2IYSXdiLY",
+    "character_cost": "462",
+    "text": "Bij Haarlem Business Center huur je een unit met glazen gevel van zo'n honderdtwintig vierkante meter, verdeeld over twee verdiepingen. Achter de hoge ramen valt veel daglicht op je keukens, meubels of materialen, zodat klanten je werk zien zoals het bedoeld is. Zo kun je bijvoorbeeld beneden je showroom inrichten en boven je ontwerpstudio of opslag. De industriële en representatieve uitstraling van het gebouw past bij ondernemers die op details letten. Met de goederenlift naar het dekniveau krijg je ook grotere stukken eenvoudig binnen. Je klanten parkeren op locatie, met in totaal honderdachtenveertig parkeerplaatsen. De oplevering staat gepland voor november tweeduizend zesentwintig, zodat je de inrichting van je showroom ruim op tijd kunt voorbereiden. Benieuwd of jouw showroom hier tot zijn recht komt? Klik op de knop hieronder en plan een afspraak met de makelaar op locatie, dan bespreek je meteen de mogelijkheden voor je inrichting."
+   },
+   {
+    "file": "f3bd980b546e86b9",
+    "model_id": "eleven_v4",
+    "voice_id": "YgjXqgzBJa9op0K278OW",
+    "request_id": "i91oVvMXs0adMiYfLWU4",
+    "character_cost": "39",
+    "text": "Klaar om met je team te werken vanaf de vierde verdieping, direct aan het water?"
+   },
+   {
+    "file": "54ac7353a96d6053",
+    "model_id": "eleven_v4",
+    "voice_id": "YgjXqgzBJa9op0K278OW",
+    "request_id": "zQHBpWpEDNWJZNs2oC2s",
+    "character_cost": "363",
+    "text": "Bij Haarlem Business Center huur je een kantoorunit op de vierde verdieping, direct aan Het Spaarne. Met plafonds van zo…",
+    "revisie": "nov 2026: oplevering geweest, direct intrekken"
+   },
+   {
+    "file": "5d878e6556041197",
+    "model_id": "eleven_v4",
+    "voice_id": "YgjXqgzBJa9op0K278OW",
+    "request_id": "iIbV1Bg3wanMvxHsBO2w",
+    "character_cost": "433",
+    "text": "Bij Haarlem Business Center huur je een kantoorunit op de vierde verdieping van een nieuw bedrijfsverzamelgebouw aan Het…",
+    "revisie": "nov 2026: oplevering geweest, direct intrekken"
+   },
+   {
+    "file": "d71b52ff0ca47d0e",
+    "model_id": "eleven_v4",
+    "voice_id": "YgjXqgzBJa9op0K278OW",
+    "request_id": "7D9NZtqW34q04AIRt6qZ",
+    "character_cost": "439",
+    "text": "Bij Haarlem Business Center huur je een unit met glazen gevel van zo'n honderdtwintig vierkante meter, verdeeld over twe…",
+    "revisie": "nov 2026: oplevering geweest, direct intrekken"
+   }
+  ]
+ },
+ "music": {
+  "b1": {
+   "model_id": "music_v1",
+   "song_id": "Pk6fU5fDfZktbWAgBG2i",
+   "request": {
+    "prompt": "Uplifting, positive and modern instrumental background music for a premium real-estate advert about bright new office units on the river in Haarlem. Warm piano, soft plucked guitar, light airy synth pads, gentle claps and a steady mid-tempo groove around 105 BPM. Optimistic, confident and professional, understated so a voice-over stays clearly on top. No vocals, no lyrics, no sudden drops.",
+    "music_length_ms": 56904,
+    "model_id": "music_v1",
+    "force_instrumental": true
+   },
+   "sha256": "0fa586d2c452cb4948695efdc2ff4f9be0e9b7e8e419da924797ccc37977e9cb"
+  },
+  "b2": {
+   "model_id": "music_v1",
+   "song_id": "ade9iOQgYfUva30vjoGN",
+   "request": {
+    "prompt": "Uplifting, positive and modern instrumental background music for a premium real-estate advert about bright new office units on the river in Haarlem. Warm piano, soft plucked guitar, light airy synth pads, gentle claps and a steady mid-tempo groove around 105 BPM. Optimistic, confident and professional, understated so a voice-over stays clearly on top. No vocals, no lyrics, no sudden drops.",
+    "music_length_ms": 62340,
+    "model_id": "music_v1",
+    "force_instrumental": true
+   },
+   "sha256": "4197eddb91e64c0eeca22a8d611a6f742972fe84946429522045a311b3feb8d5"
+  },
+  "b3": {
+   "model_id": "music_v1",
+   "song_id": "Pb2VelclYYTzIYO86aYs",
+   "request": {
+    "prompt": "Uplifting, positive and modern instrumental background music for a premium real-estate advert about bright new office units on the river in Haarlem. Warm piano, soft plucked guitar, light airy synth pads, gentle claps and a steady mid-tempo groove around 105 BPM. Optimistic, confident and professional, understated so a voice-over stays clearly on top. No vocals, no lyrics, no sudden drops.",
+    "music_length_ms": 63631,
+    "model_id": "music_v1",
+    "force_instrumental": true
+   },
+   "sha256": "51dfd7f07a1b2b142f901cc4c3a46d1f6a36e3319e7cbfa859a7a2801f12fce3"
+  }
+ },
+ "soundEffects": "uitgeschakeld (geen SFX)",
+ "clips": {
+  "j38": {
+   "bron": "Frame.io-bronnenbibliotheek (hergebruikt, geen nieuwe generatie)",
+   "libraryAssetId": "80e7a15b-a935-498f-a3ec-77e8cfb19dc5",
+   "title": "Haarlem Business Center - j38 - vaste camera, omgevingsbeweging - daglicht - 9x16",
+   "filename": "Haarlem Business Center - j38 - vaste camera omgevingsbeweging - daglicht - 9x16--80e7a15b.mp4",
+   "sha256": "42a22f28ddd0b929fe70fff17c124528d4d6ec0567c0fde00a1c3d736852fbc8",
+   "sourceSha256": "d9183f7091e83dc36bd39b81c7a0139bf18213474474e1d65825c84d52b1651a",
+   "generationId": "a6OvSsA5Vrsb25Kw3xDZ",
+   "width": 1080,
+   "height": 1920,
+   "durationSeconds": 8
+  },
+  "j38-3": {
+   "bron": "Frame.io-bronnenbibliotheek (hergebruikt, geen nieuwe generatie)",
+   "libraryAssetId": "2daf6a83-45e1-4f16-ba8a-0bbdd0d80f7e",
+   "title": "Haarlem Business Center - j38.3 - vaste camera, omgevingsbeweging - daglicht - 9x16",
+   "filename": "Haarlem Business Center - j38.3 - vaste camera omgevingsbeweging - daglicht - 9x16--2daf6a83.mp4",
+   "sha256": "f3716189173c4a923207bf4c61453ae027c4b6916791acd9401bae158bb5c0bd",
+   "sourceSha256": "963da905d867583546e2a96f691ac3dcd77182ae955242944a4a1f9464ed422e",
+   "generationId": "QBfKijmszCuBMW22bCJV",
+   "width": 1080,
+   "height": 1920,
+   "durationSeconds": 8
+  },
+  "j19": {
+   "bron": "Frame.io-bronnenbibliotheek (hergebruikt, geen nieuwe generatie)",
+   "libraryAssetId": "32d4e5ae-0677-4dff-866b-adf3bf2c43cf",
+   "title": "Haarlem Business Center - j19 - vaste camera, omgevingsbeweging - daglicht - 9x16",
+   "filename": "Haarlem Business Center - j19 - vaste camera omgevingsbeweging - daglicht - 9x16--32d4e5ae.mp4",
+   "sha256": "0361dacf8d534cdb3182d8a30b293e9f6b0fc9dc8b9bd72a16b17c6108d7d2c6",
+   "sourceSha256": "16d8eef83a3771d2dcf05f230e93be951fcab9cddf4d83783fd17cd3e490f88d",
+   "generationId": "5kuZzsPUp6r8PCwO8t0p",
+   "width": 1080,
+   "height": 1920,
+   "durationSeconds": 8
+  },
+  "h7": {
+   "bron": "Frame.io-bronnenbibliotheek (hergebruikt, geen nieuwe generatie)",
+   "libraryAssetId": "4d9e7d9a-7760-4bd4-9a57-171b3eb8984d",
+   "title": "Haarlem Business Center - h7 - vaste camera, omgevingsbeweging - daglicht - 9x16",
+   "filename": "Haarlem Business Center - h7 - vaste camera omgevingsbeweging - daglicht - 9x16--4d9e7d9a.mp4",
+   "sha256": "84ff93bee77b48d0f4cf2033fd3aea18ee99b42625ce996428ee197a93a1abbf",
+   "sourceSha256": "d05ade85172d071c9c8bab303bf5e0073f2f1581e75d16d86d41dea06a1cd8af",
+   "generationId": "vGYctzJUMwIsRB1KuMfo",
+   "width": 1080,
+   "height": 1920,
+   "durationSeconds": 8
+  },
+  "h26-2": {
+   "bron": "Frame.io-bronnenbibliotheek (hergebruikt, geen nieuwe generatie)",
+   "libraryAssetId": "d7a344f9-fc4b-452a-8ab7-b9a380b6625a",
+   "title": "Haarlem Business Center - h26.2 - vaste camera, omgevingsbeweging - daglicht - 9x16",
+   "filename": "Haarlem Business Center - h26.2 - vaste camera omgevingsbeweging - daglicht - 9x16--d7a344f9.mp4",
+   "sha256": "b1c1e75f46d1c638967dc78193df6394b09ba6cf678c9a07f51d2266720d1cdc",
+   "sourceSha256": "60b61810b4cfdd61d4703de8c3e899e5875bcff6c7abeb0bed2416cbb81e7ef9",
+   "generationId": "iP1H3G9HQXpWPRNFp56E",
+   "width": 1080,
+   "height": 1920,
+   "durationSeconds": 8
+  },
+  "h26-10": {
+   "bron": "Frame.io-bronnenbibliotheek (hergebruikt, geen nieuwe generatie)",
+   "libraryAssetId": "81beb7da-4190-4ca5-a7d6-ada01c037fcb",
+   "title": "Haarlem Business Center - h26.10 - vaste camera, omgevingsbeweging - daglicht - 9x16",
+   "filename": "Haarlem Business Center - h26.10 - vaste camera omgevingsbeweging - daglicht - 9x16--81beb7da.mp4",
+   "sha256": "c1f72b5228db31050a1a4aa6c568cd363edf962878723ef3029c2b0363b17cba",
+   "sourceSha256": "ebc60c4d93341062cb35201ceb7531f32625d06caa39801d0348c5ec6ac37f1c",
+   "generationId": "Q4NGQJr72VWbJ3yatwTC",
+   "width": 1080,
+   "height": 1920,
+   "durationSeconds": 8
+  },
+  "h26-1": {
+   "bron": "Frame.io-bronnenbibliotheek (hergebruikt, geen nieuwe generatie)",
+   "libraryAssetId": "956585d8-79f3-4603-8aa8-2e8738b5cc97",
+   "title": "Haarlem Business Center - h26.1 - vaste camera, omgevingsbeweging - daglicht - 9x16",
+   "filename": "Haarlem Business Center - h26.1 - vaste camera omgevingsbeweging - daglicht - 9x16--956585d8.mp4",
+   "sha256": "3e51304fbfad5965ee2ba6dba71b7ecf6b2e2c9eacb4a66cdc4e63f30e6a343b",
+   "sourceSha256": "3cda7fcea0538441888ef03d8863d7349bb495e259716781c39f89036a0cfa7a",
+   "generationId": "pJRF8xQA1mLb3EUeb5rp",
+   "width": 1080,
+   "height": 1920,
+   "durationSeconds": 8
+  },
+  "g33": {
+   "bron": "Frame.io-bronnenbibliotheek (hergebruikt, geen nieuwe generatie)",
+   "libraryAssetId": "6761515a-3295-467a-ae4c-61af7c9ab9df",
+   "title": "Haarlem Business Center - g33 - vaste camera, omgevingsbeweging - daglicht - 9x16",
+   "filename": "Haarlem Business Center - g33 - vaste camera omgevingsbeweging - daglicht - 9x16--6761515a.mp4",
+   "sha256": "fe1b4a0f11af859fc8edeb56288d7b1448eebdd67b23034598d3bce03deda66e",
+   "sourceSha256": "ffd24188255707fa91384825460be92fc6186f89217ac529fc04fa9bbc9b7bc0",
+   "generationId": "GFqb0qqEmPtiKj5aaBtv",
+   "width": 1080,
+   "height": 1920,
+   "durationSeconds": 8
+  },
+  "units-overhead": {
+   "bron": "Frame.io-bronnenbibliotheek (hergebruikt, geen nieuwe generatie)",
+   "libraryAssetId": "723fe650-0a4a-47a8-9a41-d624a2462c56",
+   "title": "Haarlem Business Center - Units standaard met glazen overhead deur - vaste camera, omgevingsbeweging - daglicht - 9x16",
+   "filename": "Haarlem Business Center - Units standaard met glazen overhead deur - vaste camera omgevingsbeweging - daglicht - 9x16--723fe650.mp4",
+   "sha256": "725e552e68a0e84ed31190e9340b1e69f1665c08b7121b315fd07dca841d8570",
+   "sourceSha256": "fdc4148c6142fc577ad40cdf53dc4da942efd9ad81a1f4b488c2c3c6324771f1",
+   "generationId": "7pQeDF8qyvW4VQGCtXO0",
+   "width": 1080,
+   "height": 1920,
+   "durationSeconds": 8
+  },
+  "units-glasgevel": {
+   "bron": "Frame.io-bronnenbibliotheek (hergebruikt, geen nieuwe generatie)",
+   "libraryAssetId": "23104ff5-8eac-463a-ae8d-75ba85b0521c",
+   "title": "Haarlem Business Center - Units met glazen gevel gecombineerd - vaste camera, omgevingsbeweging - daglicht - 9x16",
+   "filename": "Haarlem Business Center - Units met glazen gevel gecombineerd - vaste camera omgevingsbeweging - daglicht - 9x16--23104ff5.mp4",
+   "sha256": "97648254799f29b6b1e2af057c9489be117e0c904b5a8c169da3c27efba2a99d",
+   "sourceSha256": "7598dbae71da61dc3225ff535d2c878414251ff48f7f359d2450f9eeab7f0bb2",
+   "generationId": "NOECcH9No7vgxwzDz4mD",
+   "width": 1080,
+   "height": 1920,
+   "durationSeconds": 8
+  },
+  "punt-closeup": {
+   "bron": "Frame.io-bronnenbibliotheek (hergebruikt, geen nieuwe generatie)",
+   "libraryAssetId": "f3a0f939-8e05-453d-a048-23833a92a550",
+   "title": "Haarlem Business Center - Punt closeup - vaste camera, omgevingsbeweging - daglicht - 9x16",
+   "filename": "Haarlem Business Center - Punt closeup - vaste camera omgevingsbeweging - daglicht - 9x16--f3a0f939.mp4",
+   "sha256": "faf5e235b123c37291446b0d0712fc14ec97b85c36441ded7962956188436325",
+   "sourceSha256": "fae2f98dcecf13ab8ab268d2a0a16bfcb1cb3dd5c3952dafc767a612a3d7e6a7",
+   "generationId": "pUefF4D0Ly3a2pp0m541",
+   "width": 1080,
+   "height": 1920,
+   "durationSeconds": 8
+  },
+  "onder-dek": {
+   "bron": "Frame.io-bronnenbibliotheek (hergebruikt, geen nieuwe generatie)",
+   "libraryAssetId": "3be2d2e0-92e0-40c4-8ed9-db0ae27c6564",
+   "title": "Haarlem Business Center - Onder het dek - vaste camera, omgevingsbeweging - daglicht - 9x16",
+   "filename": "Haarlem Business Center - Onder het dek - vaste camera omgevingsbeweging - daglicht - 9x16--3be2d2e0.mp4",
+   "sha256": "b8ad160c08f1004a94ba2017dc9e31a39374a9ca67a21e39d8dfec391248b3ea",
+   "sourceSha256": "2d910869a68c6443194c360d9da63b3a5b5ec0c804d1d4cb29a1d132a56fe4f5",
+   "generationId": "oBwBd5DeM0mRNraN7Zo5",
+   "width": 1080,
+   "height": 1920,
+   "durationSeconds": 8
+  },
+  "punt-origineel": {
+   "bron": "Frame.io-bronnenbibliotheek (hergebruikt, geen nieuwe generatie)",
+   "libraryAssetId": "ea874d6a-83d9-4b1d-a5aa-400352482729",
+   "title": "Haarlem Business Center - HBC punt orgineel - vaste camera, omgevingsbeweging - daglicht - 9x16",
+   "filename": "Haarlem Business Center - HBC punt orgineel - vaste camera omgevingsbeweging - daglicht - 9x16--ea874d6a.mp4",
+   "sha256": "6672e0a716d47b142078dd8b584ea407eec6a3bc00fcdf6dce96a2f2c5fe2096",
+   "sourceSha256": "27c1689150c57ae868980f845dfe56e85eac6484b228c2eab2b0b70027b8e27b",
+   "generationId": "NO39aSAr0VrgcKzAiKpF",
+   "width": 1080,
+   "height": 1920,
+   "durationSeconds": 8
+  },
+  "entree": {
+   "bron": "Frame.io-bronnenbibliotheek (hergebruikt, geen nieuwe generatie)",
+   "libraryAssetId": "0b60a0d6-d780-434d-86c4-99c8233ca1a6",
+   "title": "Haarlem Business Center - HBC entree close up - vaste camera, omgevingsbeweging - daglicht - 9x16",
+   "filename": "Haarlem Business Center - HBC entree close up - vaste camera omgevingsbeweging - daglicht - 9x16--0b60a0d6.mp4",
+   "sha256": "d9c2b599a7b42a7d5c546e8fa888c8cd5a7afd7dd3ffb6a4e35e17ce2c9042a9",
+   "sourceSha256": "3586df0f444fc09ca9c2272e7dd8ac3be73955ce160b4eddd7bd320d08f3f75c",
+   "generationId": "7LWch2M6drW6dKKfFLvZ",
+   "width": 1080,
+   "height": 1920,
+   "durationSeconds": 8
+  },
+  "waarderweg": {
+   "bron": "Frame.io-bronnenbibliotheek (hergebruikt, geen nieuwe generatie)",
+   "libraryAssetId": "7f60106a-e531-4993-96c2-1a294bcd514f",
+   "title": "Haarlem Business Center - HBC Waarderweg - vaste camera, omgevingsbeweging - daglicht - 9x16",
+   "filename": "Haarlem Business Center - HBC Waarderweg - vaste camera omgevingsbeweging - daglicht - 9x16--7f60106a.mp4",
+   "sha256": "0468340c674dbe7e80d5dd81c95326f00d7c6e727b6bd08caae24bd65749cdc3",
+   "sourceSha256": "cc01427dd990bb0a51ba2a379094744b364d10b1f284108e28eae5d6dd283800",
+   "generationId": "ILE8wFx2s6sE1zvnrVSj",
+   "width": 1080,
+   "height": 1920,
+   "durationSeconds": 8
+  },
+  "spaarne-kant": {
+   "bron": "Frame.io-bronnenbibliotheek (hergebruikt, geen nieuwe generatie)",
+   "libraryAssetId": "dd8af481-2d50-44b6-a454-8deabe42e2b6",
+   "title": "Haarlem Business Center - HBC Spaarne kant.4 - vaste camera, omgevingsbeweging - daglicht - 9x16",
+   "filename": "Haarlem Business Center - HBC Spaarne kant.4 - vaste camera omgevingsbeweging - daglicht - 9x16--dd8af481.mp4",
+   "sha256": "82fc140aabc57634f5c6160dad4892c727aa9699354891cb3730f6f5a1c96b32",
+   "sourceSha256": "6bba89a61ae4053e51f87f8373b5b555865c2b91e798d8fb8bee1a1c7826485a",
+   "generationId": "YmNoC30OO2u0cukKBKf7",
+   "width": 1080,
+   "height": 1920,
+   "durationSeconds": 8
+  },
+  "wa1": {
+   "bron": "Nieuw in deze batch: WhatsApp-impressie -> portretuitsnede -> ElevenLabs Veo 3.1 image-to-video",
+   "originalLibraryAssetId": "frame:30643e1d-455b-4ef5-961e-758a2dfe3f74",
+   "originalTitle": "WhatsApp Image 2026-11-19 at 17.21.21.jpeg",
+   "originalSha256": "fdc98eb7be5b005e04cd990bb0eaae67e87c3c3a495c17e97bdc088a07cfdef0",
+   "portraitImage": {
+    "libraryAssetId": "40b2cba5-9d53-4e9b-8793-704762560ebc",
+    "sha256": "be6787ea2bfb37e719a41cf598d2f8f6e473785607e24a5569b0beefc0be97f2",
+    "method": "architectuurbehoudende crop 9:16 + lanczos-schaal naar 1080x1920, geen outpainting"
+   },
+   "motionClip": {
+    "libraryAssetId": "5719be97-9717-4d9a-9497-bc7b1b6578db",
+    "sha256": "c3eb506f92a10068fa6c5fde26de131e1346cc3785ea05d0f06c66b8d35405f5",
+    "generationId": "5Tk9QCtZwcSPsTIIbhTs",
+    "model": "veo-3.1-generate-001",
+    "request": {
+     "model_id": "veo-3.1-generate-001",
+     "prompt": "Subtle slow forward dolly through this bright meeting room with window view over the water; a person by the window moves slightly, soft daylight. Keep the architecture, furniture and layout exactly as in the image. One continuous shot, no cuts, no transitions, no morphing.",
+     "resolution": "1080p",
+     "duration_secs": 8,
+     "generate_audio": false,
+     "aspect_ratio": "9:16"
+    },
+    "elevenlabsStartFrameAssetId": "Flaw4q5547LAmtWz0Eb3"
+   }
+  },
+  "wa2": {
+   "bron": "Nieuw in deze batch: WhatsApp-impressie -> portretuitsnede -> ElevenLabs Veo 3.1 image-to-video",
+   "originalLibraryAssetId": "frame:312e6210-20d2-4e22-b0af-5ff47eeba644",
+   "originalTitle": "WhatsApp Image 2026-11-19 at 17.25.02.jpeg",
+   "originalSha256": "4f5fd36af6d31517db880619d3007c4765ee241d3e08d419ef8876784a9aa7f4",
+   "portraitImage": {
+    "libraryAssetId": "4ad9a1d5-5861-4828-b188-ffb28cd6f274",
+    "sha256": "1d38eeffa63da538f88aa9bef5fa8fbde2f93245749c87eee2637a3956024ca5",
+    "method": "architectuurbehoudende crop 9:16 + lanczos-schaal naar 1080x1920, geen outpainting"
+   },
+   "motionClip": {
+    "libraryAssetId": "c59b20eb-bdf4-4bcf-b7af-a9c2eae43844",
+    "sha256": "101e760e4e49b545d5080aab8440e7c6483b934d2ca1fbf71518ea4cad936dd3",
+    "generationId": "m6qpHuDbtXcGrEvxuE1a",
+    "model": "veo-3.1-generate-001",
+    "request": {
+     "model_id": "veo-3.1-generate-001",
+     "prompt": "Gentle slow push-in towards the three people talking at the round table in this design studio; they gesture naturally, plants sway slightly. Keep the room, walls, signage and furniture exactly as in the image. One continuous shot, no cuts, no transitions, no morphing.",
+     "resolution": "1080p",
+     "duration_secs": 8,
+     "generate_audio": false,
+     "aspect_ratio": "9:16"
+    },
+    "elevenlabsStartFrameAssetId": "0Zj7WZJHmeX0ukIyVrq0"
+   }
+  },
+  "wa3": {
+   "bron": "Nieuw in deze batch: WhatsApp-impressie -> portretuitsnede -> ElevenLabs Veo 3.1 image-to-video",
+   "originalLibraryAssetId": "frame:49727df6-8d07-4f6f-9ba5-0a2796d5dd5f",
+   "originalTitle": "WhatsApp Image 2026-11-19 at 17.29.31.jpeg",
+   "originalSha256": "384a7b4d1d7c2f420166db590f3823ddfbce4546150e545bcf70f7cacb2435ea",
+   "portraitImage": {
+    "libraryAssetId": "16602150-8128-4795-97bc-746ab406a00e",
+    "sha256": "57bd45d860dd9283dd14dcff73ada3f5ce729d9108ed8abe3f2623319248d0ed",
+    "method": "architectuurbehoudende crop 9:16 + lanczos-schaal naar 1080x1920, geen outpainting"
+   },
+   "motionClip": {
+    "libraryAssetId": "2a126b5d-8471-4877-80ca-83a7b8b17974",
+    "sha256": "9f60c66d47b9caa67121ff0ed4c8681a1edfd0bd759c0e98047ace0e4102aeca",
+    "generationId": "9YrtjPecPJDvYzUWtgs9",
+    "model": "veo-3.1-generate-001",
+    "request": {
+     "model_id": "veo-3.1-generate-001",
+     "prompt": "Very slow, steady drone-like push towards the red-brick office building beside the river; clouds drift, water ripples softly, grass moves in the breeze. Keep the building, its windows, proportions and materials exactly unchanged. One continuous shot, no cuts, no transitions, no morphing.",
+     "resolution": "1080p",
+     "duration_secs": 8,
+     "generate_audio": false,
+     "aspect_ratio": "9:16"
+    },
+    "elevenlabsStartFrameAssetId": "P0Vev1fPSPMUsaTwyb9y"
+   }
+  },
+  "wa5": {
+   "bron": "Nieuw in deze batch: WhatsApp-impressie -> portretuitsnede -> ElevenLabs Veo 3.1 image-to-video",
+   "originalLibraryAssetId": "frame:6e914ae2-e40a-427a-8f77-10e8a3ecf826",
+   "originalTitle": "WhatsApp Image 2026-11-19 at 17.24.56.jpeg",
+   "originalSha256": "0c0ac2712e899a96a089ba868a9719a02dd25e695a623bb867ff0186c649565b",
+   "portraitImage": {
+    "libraryAssetId": "9c78038f-daf5-45e7-bd75-aefcdc383c1c",
+    "sha256": "439c3730dd84a2b6d16064ffed9edefa2ec48c9dbed813c1b471df2eabe9e5d6",
+    "method": "architectuurbehoudende crop 9:16 + lanczos-schaal naar 1080x1920, geen outpainting"
+   },
+   "motionClip": {
+    "libraryAssetId": "873c446d-bc2d-4a45-b9c3-077c7bbbbc1c",
+    "sha256": "2a0594d36322d17782ef83d5160d6c1ebd4effbe0d6f6ffdd1fdde90fbeee966",
+    "generationId": "BpbgSP2Ktws9MJSn4m0N",
+    "model": "veo-3.1-generate-001",
+    "request": {
+     "model_id": "veo-3.1-generate-001",
+     "prompt": "Static camera with a very subtle slow push-in; the woman works at her desk and moves naturally, sunlight on the floor. Keep the office architecture, railing, doors and furniture exactly as in the image. One continuous shot, no cuts, no transitions, no morphing.",
+     "resolution": "1080p",
+     "duration_secs": 8,
+     "generate_audio": false,
+     "aspect_ratio": "9:16"
+    },
+    "elevenlabsStartFrameAssetId": "KBURhBlOdyMO4LrOBNru"
+   }
+  },
+  "wa7": {
+   "bron": "Nieuw in deze batch: WhatsApp-impressie -> portretuitsnede -> ElevenLabs Veo 3.1 image-to-video",
+   "originalLibraryAssetId": "frame:95a5e991-b53c-4ee6-94e4-f7bba398ae86",
+   "originalTitle": "WhatsApp Image 2026-11-19 at 17.26.05.jpeg",
+   "originalSha256": "d6bfd35399f26a5f2dbc65a3520af387e340919bbfa649ad10729487759c7954",
+   "portraitImage": {
+    "libraryAssetId": "3dc40206-61b4-4343-8d03-bdc2097d9bee",
+    "sha256": "3902a05f20633570ec63353aba7d5a3d04d36de4478260ef9bc3efda28f4f4d4",
+    "method": "architectuurbehoudende crop 9:16 + lanczos-schaal naar 1080x1920, geen outpainting"
+   },
+   "motionClip": {
+    "libraryAssetId": "c8d3359f-799d-44c8-a85e-45a3b0d01815",
+    "sha256": "bd7707f432b3b7915b1f60d0404948b9a2bd8fc82ecb41d8e5fe64e585cc95ad",
+    "generationId": "hfIKXiMAa7bLZOhCoZVE",
+    "model": "veo-3.1-generate-001",
+    "request": {
+     "model_id": "veo-3.1-generate-001",
+     "prompt": "Slow smooth lateral camera glide through the open-plan office toward the large windows; people at desks move slightly, plants sway, warm daylight. Keep the architecture, glass walls and furniture exactly as in the image. One continuous shot, no cuts, no transitions, no morphing.",
+     "resolution": "1080p",
+     "duration_secs": 8,
+     "generate_audio": false,
+     "aspect_ratio": "9:16"
+    },
+    "elevenlabsStartFrameAssetId": "IjrZl3nA4211XQR7k9fv"
+   }
+  },
+  "wa8": {
+   "bron": "Nieuw in deze batch: WhatsApp-impressie -> portretuitsnede -> ElevenLabs Veo 3.1 image-to-video",
+   "originalLibraryAssetId": "frame:d2f95d32-3ec2-404f-a5a4-1105e74acf9b",
+   "originalTitle": "WhatsApp Image 2026-11-19 at 17.26.16.jpeg",
+   "originalSha256": "c13621d7cb473a4fb39bf38d3f2b3d2a41ad4e3c028c015f6adace3f632c02cd",
+   "portraitImage": {
+    "libraryAssetId": "23ac6753-82d0-47d2-89c6-c681cb89d7c5",
+    "sha256": "1d7171e95647a1d2dc4dedf41961bee149ca8582f2bf1ebfaad11803f186aa11",
+    "method": "architectuurbehoudende crop 9:16 + lanczos-schaal naar 1080x1920, geen outpainting"
+   },
+   "motionClip": {
+    "libraryAssetId": "9caeb65c-b076-4214-918a-d872b668c9de",
+    "sha256": "140ef9f3a3d3b5bd163e45848f5137dfa7be2a27eca2fec6e994fb953be67a5f",
+    "generationId": "VuCG2HoGnSbOr8ZYAobi",
+    "model": "veo-3.1-generate-001",
+    "request": {
+     "model_id": "veo-3.1-generate-001",
+     "prompt": "Slow forward dolly through the bright open office with ceiling panels and large windows; people work naturally, sunlight patterns on the floor. Keep the architecture, ceiling and furniture exactly as in the image. One continuous shot, no cuts, no transitions, no morphing.",
+     "resolution": "1080p",
+     "duration_secs": 8,
+     "generate_audio": false,
+     "aspect_ratio": "9:16"
+    },
+    "elevenlabsStartFrameAssetId": "GPhn8WA3nD7HmqVFf7EB"
+   }
+  },
+  "wa10": {
+   "bron": "Nieuw in deze batch: WhatsApp-impressie -> portretuitsnede -> ElevenLabs Veo 3.1 image-to-video",
+   "originalLibraryAssetId": "frame:f52f58b9-d6fe-4d32-b7d3-9ee0ad0fcb4e",
+   "originalTitle": "WhatsApp Image 2026-11-19 at 17.25.06.jpeg",
+   "originalSha256": "fc6ba1bb735c41a0ee3d50925d6f8ebf7e629b2199af4555fb5c3bba0fb00e60",
+   "portraitImage": {
+    "libraryAssetId": "7c7f02d0-66ad-4f9c-8c4b-0aeced2ea0a3",
+    "sha256": "f6fbd04b8c8e7c7826326cdbb3b11930bdbfed29bef21109889d03b0ea909c8a",
+    "method": "architectuurbehoudende crop 9:16 + lanczos-schaal naar 1080x1920, geen outpainting"
+   },
+   "motionClip": {
+    "libraryAssetId": "60be9c19-c78d-4747-a08b-ace129ae976b",
+    "sha256": "69f3cd5c47e072ab3baf4ccc74857283f2d2d800312de1aaa38207dfe08564fa",
+    "generationId": "sSQPR8tgIsDIxFWuAiX7",
+    "model": "veo-3.1-generate-001",
+    "request": {
+     "model_id": "veo-3.1-generate-001",
+     "prompt": "Slow forward push-in through this design studio corridor towards the meeting area and windows; plants move gently, a person at the back moves naturally. Keep the walls, signage, doors and furniture exactly as in the image. One continuous shot, no cuts, no transitions, no morphing.",
+     "resolution": "1080p",
+     "duration_secs": 8,
+     "generate_audio": false,
+     "aspect_ratio": "9:16"
+    },
+    "elevenlabsStartFrameAssetId": "KBTRLcrz8okuHeu2lnUb"
+   }
+  }
+ },
+ "revisies": [
+  {
+   "feedback": "Oplevering is al geweest, dus je kan gelijk intrekken",
+   "wijzigingen": [
+    "zin 'oplevering' in body 1-3 herschreven (al opgeleverd, direct intrekken)",
+    "accentlabel 'Oplevering gepland / November 2026' -> 'Al opgeleverd / Direct intrekken'",
+    "CTA body 1: 'straks' geschrapt",
+    "body-voice-overs opnieuw met eleven_v4 (zelfde stem); hooks, clips en muziek hergebruikt"
+   ]
+  }
+ ]
+}
