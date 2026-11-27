@@ -1,0 +1,150 @@
+[
+ {
+  "n": 1,
+  "file": "foto01.mp4",
+  "id": "9cbb25f6-68cf-45b9-ad82-6c4945922d07",
+  "sha256": "9166508bb7506a39658fafde46934e4b7bc67dd3ef7f081d752e508d2c4f952b",
+  "sourceSha256": "e6cbfc6de0b03be4c47c13ee8fca865c8b03f85543b231d14f67534ebacb03bc",
+  "generationId": "dYINmAmkNMx7YgcX1xpK",
+  "title": "Elbe 23 Den Haag - Luchtopname overzicht units met dakterrassen en zonnepanelen (foto 1) - rustige camerabeweging - 9x16 - daglicht - 9x16",
+  "description": "Luchtopname overzicht units met dakterrassen en zonnepanelen, schuin van boven. buiten, daglicht. Geschikt voor: overzicht, ligging, dak. Beperking: Veo 3.1 image-to-video, 8 s, native 1080x1920; werkkopie (h264 CRF 25) van de originele clip.",
+  "ok": true
+ },
+ {
+  "n": 2,
+  "file": "foto02.mp4",
+  "id": "5af1ee8a-b0b8-46a3-ab35-b34854a4f6d7",
+  "sha256": "9167a484c71f9c0edb8dec59ee9678c689ee006a5eb48a4d542a0edae8103b52",
+  "sourceSha256": "ca8fed4f0de58ddd02887be19b15d51c6bd3a2ae3c2f151872c6620dd9060871",
+  "generationId": "ZIheFQaNXoUkxLQg9RwY",
+  "title": "Elbe 23 Den Haag - Luchtopname units met dakterrassen (foto 2) - rustige push-in zonder pan - daglicht - 9x16",
+  "description": "Nieuwe Veo 3.1-clip (8 s, 24 fps, native 1080x1920, origineel ongewijzigd) vanaf dezelfde staande startfoto; langzame push-in zonder pan. Vervangt clip ffe2bdf7 (generatie NRUtob5aMORemorDkr8V), die bij de pan naar rechts een niet-bestaande glazen pui en boom verzon.",
+  "ok": true,
+  "vervangt": {
+   "id": "ffe2bdf7-4437-499b-a256-d302b88bb68e",
+   "generationId": "NRUtob5aMORemorDkr8V",
+   "reden": "verzonnen glazen pui + boom rechts (klantfeedback)"
+  }
+ },
+ {
+  "n": 3,
+  "file": "foto03.mp4",
+  "id": "ccf2b355-53cc-484d-87e1-3011433fe288",
+  "sha256": "705df41a278fb3e4c68546410fb9f86950a51580ce42f87c8e73341e86a185c1",
+  "sourceSha256": "584780287c454c2a6cb07a08dc87030c43ae6ae6616aa98e4a3f6c29a5edbd15",
+  "generationId": "uIK2gX9jUgmN5sOLHO8P",
+  "title": "Elbe 23 Den Haag - Voorgevel units met BN-zuil (foto 3) - rustige camerabeweging - 9x16 - daglicht - 9x16",
+  "description": "Voorgevel units met BN-zuil, aluminium kozijnen en verticale belijning. buiten, daglicht. Geschikt voor: gevel, opening hook. Beperking: Veo 3.1 image-to-video, 8 s, native 1080x1920; werkkopie (h264 CRF 25) van de originele clip.",
+  "ok": true
+ },
+ {
+  "n": 4,
+  "file": "foto04.mp4",
+  "id": "6d0efc9d-7989-4a72-a903-5d3b4a9b941e",
+  "sha256": "390892fcf555d667ad1c402d32607c55607345381c0d9efc50dc37d19b205a6f",
+  "sourceSha256": "f1e4918024fe74a9870280111133981a9732754febd561f6516c0c50e9dcf2f7",
+  "generationId": "EyAZarEMZ1MW0xANchUW",
+  "title": "Elbe 23 Den Haag - Brede voorgevel meerdere units met overheaddeuren en parkeerplaatsen (foto 4) - rustige camerabeweging - 9x16 - daglicht - 9x16",
+  "description": "Brede voorgevel meerdere units met overheaddeuren en parkeerplaatsen. buiten, daglicht. Geschikt voor: gevel, parkeren. Beperking: Veo 3.1 image-to-video, 8 s, native 1080x1920; werkkopie (h264 CRF 25) van de originele clip.",
+  "ok": true
+ },
+ {
+  "n": 5,
+  "file": "foto05.mp4",
+  "id": "a1b9370b-3810-4773-a1a7-913f0fe90e67",
+  "sha256": "4e7c85fa074a1de6644903b401a6af5fd76b85a7adf244519e3732808527473e",
+  "sourceSha256": "7ba978832670f60dd3116a1c6e7e836b1eb90118e873d418d1189c777324d0e2",
+  "generationId": "3l7DygjyeIYKqGGwXWrD",
+  "title": "Elbe 23 Den Haag - Hoekgevel unit met overheaddeur en bestelbus voor de deur (foto 5) - rustige camerabeweging - 9x16 - daglicht - 9x16",
+  "description": "Hoekgevel unit met overheaddeur en bestelbus voor de deur. buiten, daglicht. Geschikt voor: gevel, laden en lossen. Beperking: Veo 3.1 image-to-video, 8 s, native 1080x1920; werkkopie (h264 CRF 25) van de originele clip.",
+  "ok": true
+ },
+ {
+  "n": 6,
+  "file": "foto06.mp4",
+  "id": "3ee8f747-b3bf-4a23-86ca-6c24ab85d97f",
+  "sha256": "734d831fbc0ec635293f424e4606f8595abf0ab8d53a530e4d1d941798789c9b",
+  "sourceSha256": "af8b083aa122a725fad0ece58cfae15c30bf3e3faed99f56f04c719c52d5bc30",
+  "generationId": "9Kg8NctNcsasF5zgC54G",
+  "title": "Elbe 23 Den Haag - Zijgevel met overheaddeur en groenstrook (foto 6) - rustige camerabeweging - 9x16 - daglicht - 9x16",
+  "description": "Zijgevel met overheaddeur en groenstrook, twee bouwlagen. buiten, daglicht. Geschikt voor: gevel, overheaddeur. Beperking: Veo 3.1 image-to-video, 8 s, native 1080x1920; werkkopie (h264 CRF 25) van de originele clip.",
+  "ok": true
+ },
+ {
+  "n": 7,
+  "file": "foto07.mp4",
+  "id": "9e51a58c-235d-4434-becc-f2ef9e5475c4",
+  "sha256": "7a8653256c5f4306a93b043eb4fdc47c1bcbe0dcb9cc6aad8120b6c2d5fd22fc",
+  "sourceSha256": "5cda21b0537daf192bcee32d3aac9f6ca1aa1a64b665f3010f1cc00c5050efb8",
+  "generationId": "amu7Cp9iaRHXpU9RX930",
+  "title": "Elbe 23 Den Haag - Voorgevel units met overheaddeur en auto op de parkeerplaats (foto 7) - rustige camerabeweging - 9x16 - daglicht - 9x16",
+  "description": "Voorgevel units met overheaddeur en auto op de parkeerplaats. buiten, daglicht. Geschikt voor: gevel, parkeren. Beperking: Veo 3.1 image-to-video, 8 s, native 1080x1920; werkkopie (h264 CRF 25) van de originele clip.",
+  "ok": true
+ },
+ {
+  "n": 8,
+  "file": "foto08.mp4",
+  "id": "b06f464b-6432-45a1-9d55-a9d9380c3390",
+  "sha256": "c189115576bb66bda593c5ea3bef717d0940477e999ad03339aea98bf563dd4a",
+  "sourceSha256": "1e95138e00af51268d3558e1fbb29c00e961cf9a328acf2f3ae003fd1b52d169",
+  "generationId": "iObIt26pa3SIf8UkkaeA",
+  "title": "Elbe 23 Den Haag - Voorgevel units met overheaddeuren en groenstrook langs de parkeerplaatsen (foto 8) - rustige camerabeweging - 9x16 - daglicht - 9x16",
+  "description": "Voorgevel units met overheaddeuren en groenstrook langs de parkeerplaatsen. buiten, daglicht. Geschikt voor: gevel, overheaddeur. Beperking: Veo 3.1 image-to-video, 8 s, native 1080x1920; werkkopie (h264 CRF 25) van de originele clip.",
+  "ok": true
+ },
+ {
+  "n": 9,
+  "file": "foto09.mp4",
+  "id": "b5e51c01-2ab4-472f-813e-b4735a9d3139",
+  "sha256": "c5a9c248781a35d935e3eae237a3841b26b94fee4b365e9225cfc3856e3b7072",
+  "sourceSha256": "e3a489ba67ea6860bdcb8f768e4cccae8ea2aa1413661c911460d173b8ab5ee7",
+  "generationId": "OFLpcVETGSe81jsl7spN",
+  "title": "Elbe 23 Den Haag - Schuin perspectief langs de gevel van de unitenrij met inkomen en overheaddeuren (foto 9) - rustige camerabeweging - 9x16 - daglicht - 9x16",
+  "description": "Schuin perspectief langs de gevel van de unitenrij met inkomen en overheaddeuren. buiten, daglicht. Geschikt voor: gevel, perspectief. Beperking: Veo 3.1 image-to-video, 8 s, native 1080x1920; werkkopie (h264 CRF 25) van de originele clip.",
+  "ok": true
+ },
+ {
+  "n": 10,
+  "file": "foto10.mp4",
+  "id": "61b8d014-566f-4eb7-b8be-4c3044412b1a",
+  "sha256": "c5f3dc287e524d60bbe20278d4e0527ebd243d01386f29dad023c6394335cac8",
+  "sourceSha256": "925378e0b29eb3944f890f67065703f28df935efda97fe515dd2d0a1a56aa333",
+  "generationId": "lBAfv6Je57KZtIcJPeBk",
+  "title": "Elbe 23 Den Haag - Eenheidsgevel met BN-zuil Business Nomads en overheaddeur (foto 10) - rustige camerabeweging - 9x16 - daglicht - 9x16",
+  "description": "Eenheidsgevel met BN-zuil Business Nomads en overheaddeur, laag camerastandpunt. buiten, daglicht. Geschikt voor: gevel, branding. Beperking: Veo 3.1 image-to-video, 8 s, native 1080x1920; werkkopie (h264 CRF 25) van de originele clip.",
+  "ok": true
+ },
+ {
+  "n": 11,
+  "file": "foto11.mp4",
+  "id": "0b057426-d2c7-4c76-a73a-6b95a81131b1",
+  "sha256": "aeb9e240a26acb6136942b3df85516dde5fad61ad0a7fb8553c19181c3075856",
+  "sourceSha256": "1fa1fd893fd8958f8d1f8847d05d7eac9b565cff9120ef74b6a14fe5f25f020a",
+  "generationId": "48zFNMrtTggIXJrfSDwC",
+  "title": "Elbe 23 Den Haag - Dakterras met mensen en groen (foto 11) - rustige camerabeweging - 9x16 - daglicht - 9x16",
+  "description": "Dakterras met mensen en groen, schuin van boven langs de gevel. buiten, daglicht. Geschikt voor: dakterras, werkplek. Beperking: Veo 3.1 image-to-video, 8 s, native 1080x1920; werkkopie (h264 CRF 25) van de originele clip.",
+  "ok": true
+ },
+ {
+  "n": 12,
+  "file": "foto12.mp4",
+  "id": "ddaaca34-8be7-439b-aab6-3084d03d99a5",
+  "sha256": "35aae8b6c043ed5bc25360923f5124508e23ac3d0a79998d4c5cd36b7cd4f9a2",
+  "sourceSha256": "c782cc85ad975104b5469d700046e00bc09e577544a0e01aa59c04bfa2c420b8",
+  "generationId": "DiZN9AiYhYFa0uI4657C",
+  "title": "Elbe 23 Den Haag - Avondopname hoekgevel met verlichte units (foto 12) - rustige camerabeweging - 9x16 - schemering - 9x16",
+  "description": "Avondopname hoekgevel met verlichte units, bestelbus en mensen. buiten, schemering. Geschikt voor: gevel, sfeer. Beperking: Veo 3.1 image-to-video, 8 s, native 1080x1920; werkkopie (h264 CRF 25) van de originele clip.",
+  "ok": true
+ },
+ {
+  "n": 13,
+  "file": "foto13.mp4",
+  "id": "e3b9a37f-9b15-449f-b8fb-d1be0fb7e158",
+  "sha256": "36d6313039ee8f95a3e5ae60a09366cf5534ee11a372d452dc84c18c7bbc45c2",
+  "sourceSha256": "4327024a7dfa60b22556543173c7e2e7820a73aca2a89da639b6a1fe1505c4ea",
+  "generationId": "ecYtOnC7YhJ22gv7XrMM",
+  "title": "Elbe 23 Den Haag - Avondopname gevel units met warme verlichting en lage wolken (foto 13) - rustige camerabeweging - 9x16 - schemering - 9x16",
+  "description": "Avondopname gevel units met warme verlichting en lage wolken. buiten, schemering. Geschikt voor: gevel, sfeer, oplevering. Beperking: Veo 3.1 image-to-video, 8 s, native 1080x1920; werkkopie (h264 CRF 25) van de originele clip.",
+  "ok": true
+ }
+]

@@ -1,0 +1,359 @@
+{
+  "b1": {
+    "hooks": [
+      4,
+      6,
+      9,
+      7,
+      3
+    ],
+    "zinnen": [
+      {
+        "clips": [
+          10,
+          1
+        ],
+        "accent": {
+          "label": "Eigen bedrijfspand",
+          "tekst": "Elbe 23 · Haagse Forepark",
+          "icoon": "sleutel"
+        }
+      },
+      {
+        "clips": [
+          6,
+          8
+        ],
+        "accent": {
+          "stat": "74–117 m²",
+          "label": "begane grond",
+          "tekst": "Materiaal · gereedschap · voorraad",
+          "icoon": "blok"
+        }
+      },
+      {
+        "clips": [
+          10
+        ],
+        "accent": {
+          "label": "Eigen overheaddeur",
+          "tekst": "Spullen makkelijk naar binnen",
+          "icoon": "deur"
+        }
+      },
+      {
+        "clips": [
+          3,
+          11
+        ],
+        "accent": {
+          "label": "Kantoor erboven",
+          "tekst": "Offertes maken · klanten ontvangen",
+          "icoon": "indeling"
+        }
+      },
+      {
+        "clips": [
+          7,
+          2
+        ],
+        "accent": {
+          "stat": "2 of 3",
+          "label": "eigen parkeerplaatsen",
+          "tekst": "+ extra parkeerplaatsen te koop",
+          "icoon": "auto"
+        }
+      },
+      {
+        "clips": [
+          4,
+          1
+        ],
+        "accent": {
+          "label": "A12 · A13 · A4",
+          "tekst": "A4 richting Amsterdam",
+          "icoon": "weg"
+        }
+      },
+      {
+        "clips": [
+          9
+        ],
+        "accent": {
+          "label": "Robuust betonnen casco",
+          "tekst": "Met HR++ glas",
+          "icoon": "gebouw"
+        }
+      },
+      {
+        "clips": [
+          8
+        ],
+        "accent": {
+          "stat": "Q4 2027",
+          "label": "geplande oplevering",
+          "icoon": "kalender"
+        }
+      },
+      {
+        "clips": [
+          2
+        ],
+        "accent": {
+          "stat": "14",
+          "label": "units",
+          "tekst": "Verkoop fase 1 gestart",
+          "icoon": "ster"
+        }
+      },
+      {
+        "clips": [
+          3,
+          10
+        ]
+      }
+    ],
+    "cta": {
+      "titel": "Plan een afspraak",
+      "sub": "met onze makelaar",
+      "knop": "Schrijf je in"
+    }
+  },
+  "b2": {
+    "hooks": [
+      10,
+      4,
+      8,
+      11,
+      9
+    ],
+    "zinnen": [
+      {
+        "clips": [
+          3,
+          1
+        ],
+        "accent": {
+          "label": "Eigen bedrijfspand",
+          "tekst": "Elbe 23 · Haagse Forepark",
+          "icoon": "sleutel"
+        }
+      },
+      {
+        "clips": [
+          2,
+          6
+        ],
+        "accent": {
+          "stat": "200–230 m²",
+          "label": "per unit",
+          "tekst": "Verdeeld over 2 of 3 lagen",
+          "icoon": "gebouw"
+        }
+      },
+      {
+        "clips": [
+          8
+        ],
+        "accent": {
+          "label": "Voorraad & verzending",
+          "tekst": "Inpakken en verzenden beneden",
+          "icoon": "doos"
+        }
+      },
+      {
+        "clips": [
+          10
+        ],
+        "accent": {
+          "label": "Overheaddeur",
+          "tekst": "Laden en lossen zonder gesjouw",
+          "icoon": "deur"
+        }
+      },
+      {
+        "clips": [
+          11,
+          3
+        ],
+        "accent": {
+          "label": "Kantoor of studio",
+          "tekst": "Op een eigen verdieping",
+          "icoon": "camera"
+        }
+      },
+      {
+        "clips": [
+          7,
+          2
+        ],
+        "accent": {
+          "stat": "2 of 3",
+          "label": "eigen parkeerplaatsen",
+          "icoon": "auto",
+          "tekst": "+ extra parkeerplaatsen te koop"
+        }
+      },
+      {
+        "clips": [
+          4,
+          1
+        ],
+        "accent": {
+          "label": "A12 · A13 · A4",
+          "tekst": "A4 richting Amsterdam",
+          "icoon": "weg"
+        }
+      },
+      {
+        "clips": [
+          6
+        ],
+        "accent": {
+          "stat": "Q4 2027",
+          "label": "geplande oplevering",
+          "icoon": "kalender"
+        }
+      },
+      {
+        "clips": [
+          9
+        ],
+        "accent": {
+          "label": "Welke unit past bij jou?",
+          "icoon": "ster"
+        }
+      },
+      {
+        "clips": [
+          3,
+          10
+        ]
+      }
+    ],
+    "cta": {
+      "titel": "Download de brochure",
+      "sub": "en bespreek de mogelijkheden met onze makelaar",
+      "knop": "Download de brochure"
+    }
+  },
+  "b3": {
+    "hooks": [
+      8,
+      3,
+      1,
+      4,
+      6
+    ],
+    "zinnen": [
+      {
+        "clips": [
+          10,
+          9
+        ],
+        "accent": {
+          "label": "Eigen bedrijfspand",
+          "tekst": "Elbe 23 · Haagse Forepark",
+          "icoon": "sleutel"
+        }
+      },
+      {
+        "clips": [
+          1,
+          6
+        ],
+        "accent": {
+          "stat": "200–230 m²",
+          "label": "per unit",
+          "tekst": "Verdeeld over 2 of 3 lagen",
+          "icoon": "gebouw"
+        }
+      },
+      {
+        "clips": [
+          8,
+          11
+        ],
+        "accent": {
+          "label": "Flexibele indeling",
+          "tekst": "Beneden bedrijfsruimte · boven kantoor",
+          "icoon": "indeling"
+        }
+      },
+      {
+        "clips": [
+          6
+        ],
+        "accent": {
+          "label": "Overheaddeur",
+          "tekst": "Leveringen direct binnen",
+          "icoon": "deur"
+        }
+      },
+      {
+        "clips": [
+          7,
+          2
+        ],
+        "accent": {
+          "stat": "2 of 3",
+          "label": "eigen parkeerplaatsen",
+          "tekst": "+ extra parkeerplaatsen te koop",
+          "icoon": "auto"
+        }
+      },
+      {
+        "clips": [
+          4,
+          1
+        ],
+        "accent": {
+          "label": "A12 · A13 · A4",
+          "tekst": "A4 richting Amsterdam",
+          "icoon": "weg"
+        }
+      },
+      {
+        "clips": [
+          3,
+          10
+        ],
+        "accent": {
+          "label": "Eigentijdse gevel",
+          "tekst": "Professionele uitstraling",
+          "icoon": "ster"
+        }
+      },
+      {
+        "clips": [
+          8
+        ],
+        "accent": {
+          "stat": "Q4 2027",
+          "label": "geplande oplevering",
+          "icoon": "kalender"
+        }
+      },
+      {
+        "clips": [
+          9
+        ],
+        "accent": {
+          "label": "Past jouw foodconcept hier?",
+          "icoon": "pen"
+        }
+      },
+      {
+        "clips": [
+          1,
+          10
+        ]
+      }
+    ],
+    "cta": {
+      "titel": "Schrijf je in",
+      "sub": "en bespreek de mogelijkheden met onze makelaar",
+      "knop": "Schrijf je in"
+    }
+  }
+}
