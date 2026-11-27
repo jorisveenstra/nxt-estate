@@ -1,0 +1,6 @@
+out
+node_modules
+# klantbronnen en afgeleiden staan in de Frame.io-bronnenbibliotheek, niet in git
+bronnen/origineel/
+bronnen/portret/
+public/music/*.mp3

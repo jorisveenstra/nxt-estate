@@ -1,0 +1,12 @@
+{
+  "name": "watering-oosthuizen-videos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Advertentievideo's voor Watering Oosthuizen (DJZN): 3 bodies x 5 hooks, staand 1080x1920",
+  "scripts": {
+    "dev": "remotion studio",
+    "vo": "python3 scripts/maak_vo.py",
+    "clips": "python3 scripts/genereer_clips.py && python3 scripts/prep_clips.py",
+    "render": "bash scripts/render_alles.sh"
+  }
+}

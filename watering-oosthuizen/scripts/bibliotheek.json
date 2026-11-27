@@ -1,0 +1,21 @@
+{
+ "src01": ["Woonkamer met tuinraam en man in fauteuil", "binnen", "daglicht", "woonkamer met groot tuinraam, man leest in fauteuil; geschikt voor wooncomfort, rust, 'het mooiste' en hooks over comfortabel wonen", ["interieur","woonkamer","mens","tuinzicht"]],
+ "src02": ["Eethoek met vrouw die tafel dekt", "binnen", "daglicht", "eethoek en keuken met tuinramen, vrouw dekt de tafel; geschikt voor dagelijks leven, makelaar/financiering-zin, uitnodigende sfeer", ["interieur","eethoek","keuken","mens"]],
+ "src03": ["Woonkamer met tv-wand en tuinzicht", "binnen", "middagzon", "warme woonkamer met grote ramen naar tuin en water; geschikt voor duurzaam/energiezuinig wonen en wooncomfort", ["interieur","woonkamer","tuinzicht"]],
+ "src05": ["Bijkeuken en berging met wasmachine en fietsen", "binnen", "daglicht", "bijkeuken/berging met wasmachine en fietsen bij de buitendeur; geschikt voor 'bijkeuken met berging en deur aan de straat'", ["interieur","bijkeuken","berging","fiets"]],
+ "src06": ["Woonkamer met groene bank en hond", "binnen", "warm daglicht", "woonkamer met ronde groene bank en hond, tuin zichtbaar; geschikt voor wooncomfort en sfeer", ["interieur","woonkamer","huisdier"]],
+ "src07": ["Eettafel en keuken", "binnen", "warm daglicht", "lange houten eettafel richting keuken; geschikt voor dagelijks leven, hobby/ruimte", ["interieur","eethoek","keuken"]],
+ "src08": ["Slaapkamer met tuindeuren", "binnen", "daglicht", "slaapkamer op de begane grond met openslaande deuren naar de tuin; geschikt voor 'slaapkamer beneden'", ["interieur","slaapkamer","begane grond","tuinzicht"]],
+ "src09": ["Woonkamer met vrouw en kat op bank", "binnen", "zacht daglicht", "vrouw ontspant op de bank met kat; geschikt voor ontspanning, eigen keuze, hooks over later wonen", ["interieur","woonkamer","mens","huisdier"]],
+ "src10": ["Badkamer met inloopdouche en terrazzovloer", "binnen", "zacht warm licht", "badkamer met dubbele wastafel en inloopdouche; geschikt voor 'badkamer op de begane grond'", ["interieur","badkamer","begane grond"]],
+ "src11": ["Slaapkamer met tuindeuren en oranje sprei", "binnen", "ochtendlicht", "slaapkamer met tuindeuren; geschikt voor 'slaapkamer beneden', wonen op één laag", ["interieur","slaapkamer","tuinzicht"]],
+ "src12": ["Woonkamer met bank en witte salontafel", "binnen", "daglicht", "woonkamer met bank en salontafel; geschikt voor comfort, energiezuinig wonen, hooks over eengezinswoning", ["interieur","woonkamer"]],
+ "src13": ["Woonkamer met terrasdeuren en mensen buiten", "binnen", "daglicht", "woonkamer met zicht op terras waar mensen zitten; geschikt voor CTA-achtergrond en tuin/gemeenschap", ["interieur","woonkamer","terras","mens"]],
+ "src14": ["Bungalows aan het water met gazon", "buiten", "gouden avondlicht", "rij bakstenen bungalows aan het water, mensen op het gazon, eenden; geschikt voor openingsshot, projectoverzicht en hooks", ["exterieur","water","overzicht","mens"]],
+ "src15": ["Bungalows met tuinen aan het water", "buiten", "avondlicht", "bungalows met tuinen langs het water met bootje; geschikt voor 'hart van Oosthuizen', regio, oplevering", ["exterieur","water","tuin"]],
+ "src16": ["Hoekbungalow aan groene straat met buren", "buiten", "daglicht blauwe lucht", "bakstenen hoekbungalow met klimplanten, twee buren in gesprek; geschikt voor straatbeeld, voorzieningen/dorp, hooks", ["exterieur","straat","mens"]],
+ "src17": ["Hofje met bungalows en spelend kind", "buiten", "daglicht blauwe lucht", "hofje met bakstenen bungalows, kind speelt met bal, auto op erf deels zichtbaar; geschikt voor parkeren op eigen erf, gemeenschap", ["exterieur","hofje","parkeren","mens"]],
+ "src18": ["Tuinterras met stel bij bungalow", "buiten", "zonnig daglicht", "privé tuinterras van een bungalow met ontspannend stel en bloesem; geschikt voor 'eigen onderhoudsarme tuin', actief blijven", ["exterieur","tuin","terras","mens"]],
+ "src19": ["Tuin met pergola en klimrozen", "buiten", "zonnig daglicht", "tuin met pergola en klimrozen bij bungalow; geschikt voor tuin, oplevering, hooks over tuin behouden", ["exterieur","tuin","pergola","mens"]],
+ "src20": ["Slaapkamer met gouden hanglamp", "binnen", "warm lamplicht", "rustige slaapkamer met bed en gouden hanglamp; geschikt voor 'slaapkamer beneden'", ["interieur","slaapkamer"]]
+}
